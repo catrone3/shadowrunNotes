@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "3cea7d7c3230f7c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0158975fadd7901",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbd5b474f29e3310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Info/games/22-11-06.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "920254670cab9fdf"
+          },
+          {
+            "id": "3453ace44bc5eb69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Use Foundry.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5670e24a97223446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Info/games/22-10-23.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abf6ba7b8854646f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/floor plans and buildings/451bef93-9c1d-4bed-9290-9e8e6182ae42874824869.jpg"
+              }
+            }
+          },
+          {
+            "id": "c21551d7e9659877",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/floor plans and buildings/office building 2.jpg"
+              }
+            }
+          },
+          {
+            "id": "7c8da8ca250b51f7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/attachments/Stirrup Interface.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a142d5665189053",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4257aa4bfc416ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a143fa0784ea9505",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83fe7f36a7d51964",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Evangelia Kaufmann",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f272726064d725ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1d3c5b13813192b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1997ddfff4547b33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GM Info/games/22-11-06.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "920254670cab9fdf"
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "3453ace44bc5eb69",
+  "lastOpenFiles": [
+    "Working with Github.md",
+    "Homepage.md",
+    "GM Info/games/22-11-06.md",
+    "Images/attachments/Stirrup Interface.png",
+    "Images/shadowrun characters/Ushi Bido (2).jpg",
+    "Images/shadowrun characters/Valerian_Quinn.png",
+    "Images/shadowrun characters/ulli.jpg",
+    "Images/shadowrun characters/Troy.jpg",
+    "Images/shadowrun characters/Tia_Micheals_1.jpg",
+    "Images/shadowrun characters/Thirteen.jpg"
+  ]
+}

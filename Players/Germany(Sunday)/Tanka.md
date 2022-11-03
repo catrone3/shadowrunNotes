@@ -1,0 +1,14 @@
+### Corporate Ties
+None
+
+### Status
+Awakened 
+
+### Contacts
+[[../../NPCs/Friendly/Germany/Marko Wirth|Marko Wirth]]
+- Parabiologist
+- Loyalty: 2
+
+[[../../NPCs/Friendly/Germany/Reinhold Wulf|Reinhold Wulf]]
+- Talismonger
+- Loyalty: 2

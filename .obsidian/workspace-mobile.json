@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "3cea7d7c3230f7c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "030d5ef68f872be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e50fecba407b6951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Friendly/Germany/Walter Hogersmans.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9cc21a6cd4e7395",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8d1c85d70bb6ca82",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6283309c2f9a0349",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6a341a361387a3e5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "18b190459bcf2ecd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "NPCs/Friendly/Germany/Walter Hogersmans.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "e50fecba407b6951",
+  "lastOpenFiles": [
+    "Shadowrun/Sunday Game notes/22-7-3.md",
+    "Shadowrun/GM Info/Germany/NPC Skill ranges.md",
+    "Shadowrun/GM Info/Germany/Ideas.md",
+    "Shadowrun/NPCs/Neutral/Evangelia Kaufmann.md",
+    "Shadowrun/Sunday Game notes/22-6-19.md",
+    "Shadowrun/Saturday Game notes/22-3-26.md",
+    "Shadowrun/Sunday Game notes/22-5-22.md",
+    "Shadowrun/Sunday Game notes/22-5-8.md",
+    "Shadowrun/Saturday Game notes/22-6-4.md",
+    "Shadowrun/Saturday Game notes/22-5-21.md"
+  ]
+}

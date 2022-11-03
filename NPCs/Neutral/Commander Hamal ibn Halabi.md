@@ -1,0 +1,1 @@
+commander of the northern section of the western sahara for the [[../../Country Entities/Djinn|djinn]].
