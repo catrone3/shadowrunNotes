@@ -1,7 +1,7 @@
 ##### Fixers
 - [[../../../NPCs/Friendly/Denver/Jess|Jess]]
 - [[../../../NPCs/Friendly/Denver/Steve|Steve]]
-- [[../../../NPCs/Friendly/Denver/Helix|Helix]]
+- [[../../../NPCs/Friendly/Morocco/Helix|Helix]]
 - [[../../../NPCs/Friendly/Denver/Salena Boisvert|Salena Boisvert]]
 - [[../../../NPCs/Friendly/Denver/Telenov|Telenov]]
 

@@ -7,4 +7,4 @@
 - [[../../Players/Saturday/Cat|Cat]]
 
 ##### Family
-- Cho
+- [[../Friendly/Seattle/Hitsuki Cho|Cho]]

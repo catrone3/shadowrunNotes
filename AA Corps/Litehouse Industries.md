@@ -10,8 +10,8 @@
 - [[../Players/Saturday/Cat|Cat]] - 3 Votes
 - Merlin - 2 Votes
 - Kalt - 2 Votes
-- Jess - 1 Vote
-- Steve - 1 Vote
+- [[../NPCs/Friendly/Denver/Jess|Jess]] - 1 Vote
+- [[../NPCs/Friendly/Denver/Steve|Steve]] - 1 Vote
 
 #### Litehouse Industries Current Board
 1 vote each

@@ -1,5 +1,5 @@
 ##### Fixer
-[[../../../../NPCs/Friendly/Denver/Helix|Helix]]
+[[../../../../NPCs/Friendly/Morocco/Helix|Helix]]
 
 ##### Team
 - [[../../../../Players/Morocco/Triage Black|Triage Black]]

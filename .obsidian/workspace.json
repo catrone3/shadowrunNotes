@@ -8,39 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbd5b474f29e3310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Info/games/22-11-06.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "group": "920254670cab9fdf"
-          },
-          {
-            "id": "3453ace44bc5eb69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to Use Foundry.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5670e24a97223446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/games/22-10-23.md",
+                "file": "Players/Saturday/Spyder.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -48,32 +21,28 @@
             }
           },
           {
-            "id": "abf6ba7b8854646f",
+            "id": "6a2d4a48e5973415",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/floor plans and buildings/451bef93-9c1d-4bed-9290-9e8e6182ae42874824869.jpg"
+                "file": "Players/Saturday/Cat.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
           {
-            "id": "c21551d7e9659877",
+            "id": "062aa421f118e115",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/floor plans and buildings/office building 2.jpg"
-              }
-            }
-          },
-          {
-            "id": "7c8da8ca250b51f7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/attachments/Stirrup Interface.png"
+                "file": "NPCs/Friendly/Denver/Ghostwalker.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -107,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Evangelia Kaufmann",
+                "query": "Valarian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,35 +105,43 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Info/games/22-11-06.md",
+                "file": "Players/Saturday/Cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
-            },
-            "group": "920254670cab9fdf"
+            }
+          },
+          {
+            "id": "3e8b21065dd8de9a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3453ace44bc5eb69",
+  "active": "3e8b21065dd8de9a",
   "lastOpenFiles": [
-    "Working with Github.md",
+    "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md",
+    "Players/Saturday/Cat.md",
+    "NPCs/Friendly/Denver/Ghostwalker.md",
     "Homepage.md",
-    "GM Info/games/22-11-06.md",
-    "Images/attachments/Stirrup Interface.png",
-    "Images/shadowrun characters/Ushi Bido (2).jpg",
-    "Images/shadowrun characters/Valerian_Quinn.png",
-    "Images/shadowrun characters/ulli.jpg",
-    "Images/shadowrun characters/Troy.jpg",
-    "Images/shadowrun characters/Tia_Micheals_1.jpg",
-    "Images/shadowrun characters/Thirteen.jpg"
+    "Players/Saturday/Spyder.md",
+    "NPCs/Friendly/Denver/Nicholas Whitebird.md",
+    "NPCs/Friendly/Matrix/Whistler.md",
+    "NPCs/Friendly/Las Vegas/Lucky.md",
+    "NPCs/Friendly/Matrix/Next-Net.md",
+    "NPCs/Friendly/Matrix/DexTER.md"
   ]
 }

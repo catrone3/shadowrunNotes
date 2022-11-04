@@ -22,20 +22,23 @@
 - [[../../Lighthouse Industries/Cheyenne Mountain/Lear-Cessna Platinum|Lear-Cessna Platinum]]
 
 ##### Pets
-
+- Greater Thunderbird
+- Hobson (tea-cup technomancer Cat)
+- Woog
 #### Relationships
 ##### Dating
 - [[Swiss]] - Boyfriend and Team mage
 - [[../../NPCs/Friendly/Denver/Valerian Quinn|Valerian Quinn]]
 - other one
 
-##### exs
+##### Exs
 - [[../../NPCs/Neutral/Ushi Bido|Ushi Bido]]
+	- Father: [[../../NPCs/Friendly/Seattle/Hitsuki Cho|Cho]]
 
 ### Kids
 5 babies with Ushi (3 Orks 2 elves)
 1 Teenager in [[../../Locations/London|London]]
-1 Baby Dragon with Ghostwalker
+1 Baby Dragon staying Ghostwalker
 6 Teenagers
 - to (mage) ork M5
 - socket (Rigger)
@@ -51,11 +54,11 @@
 
 
 ##### [[../../Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department|Fixers]]
-- Jess
-- Steve
-- HelixB
-- Salena Boisvert
-- Telenov
+- [[../../NPCs/Friendly/Denver/Jess|Jess]]
+- [[../../NPCs/Friendly/Denver/Steve|Steve]]
+- [[../../NPCs/Friendly/Morocco/Helix|Helix]]
+- [[../../NPCs/Friendly/Denver/Salena Boisvert|Salena Boisvert]]
+- [[../../NPCs/Friendly/Denver/Telenov|Telenov]]
 
 ##### Knows the following runners
 - [[../../NPCs/Friendly/Seattle/Canis|Canis]]
@@ -66,13 +69,15 @@
 - [[../../NPCs/Neutral/Deimos|Deimos]]
 
 ##### Business Contacts
-- [[../../NPCs/Neutral/Nadia Davier|Nadia Davier]]
+- [[../../NPCs/Neutral/Nadja Davier|Nadja Davier]]
 - [[../../NPCs/Friendly/Denver/Kalt|Kalt]]
 - [[../../NPCs/Neutral/Perri|Perri]]
 - [[../../NPCs/Neutral/Puck|Puck]]
+- [[../../NPCs/Friendly/Denver/Nicholas Whitebird|Nicholas Whitebird]]
+- [[../../NPCs/Friendly/Seattle/Hitsuki Cho|Cho]]
 
 ##### Shadowrun Teams
-Cat's Team 1
+[[../../Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team|Denver Team]]
 Players
 
 

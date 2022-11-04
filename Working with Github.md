@@ -25,11 +25,12 @@ If this doesn't appear, refer to [fixing path](Fixing%20PATH.md).
 Afterwards, install [github desktop](https://desktop.github.com/). We'll be using github desktop to set up the repository as well as manage credentials.
 
 ### Cloning the repository and setting up your credentials
+Repo URL: https://github.com/catrone3/shadowrunNotes
 Once in github desktop, select File > Options > Account, and log in to your github account.
 
 ![[Images/attachments/Pasted image 20221103130021.png]]
 
-Now, press File > Clone Repository, and select the empty repository you just created. Where you clone this repository doesn't matter, as long as you remember its location.
+Now, press File > Clone Repository, Select URL and then enter the URL mentioned above. Where you clone this repository doesn't matter, as long as you remember its location.
 
 In the top toolbar once again, select Repository > Open in Command Prompt. Paste `git config --global credential.helper wincred` and press enter. That should set up your credentials.
 

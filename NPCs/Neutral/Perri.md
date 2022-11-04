@@ -1,1 +1,1 @@
-[[../../Locations/Denver Nexus|Denver Nexus]] Admin
+[[../../Locations/FRFZ/Denver Nexus|Denver Nexus]] Admin
