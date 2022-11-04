@@ -1,9 +1,17 @@
 [
   {
+    "tag": "caribbean_league",
+    "tagCount": 2,
+    "relativePaths": [
+      "Players/Port Au Prince/Pirate Group.md",
+      "Locations/Saint George Parish.md"
+    ]
+  },
+  {
     "tag": "denver",
     "tagCount": 6,
     "relativePaths": [
-      "NPCs/Neutral/David Johnson.md",
+      "NPCs/Neutral/Morocco/David Johnson.md",
       "Locations/FRFZ/Denver Nexus.md",
       "Lighthouse Industries/Litehouse Brand.md",
       "Lighthouse Industries/Incubus Club.md",
@@ -15,15 +23,7 @@
     "tag": "fixer",
     "tagCount": 1,
     "relativePaths": [
-      "NPCs/Neutral/David Johnson.md"
-    ]
-  },
-  {
-    "tag": "caribbean_league",
-    "tagCount": 2,
-    "relativePaths": [
-      "Players/Port Au Prince/Pirate Group.md",
-      "Locations/Saint George Parish.md"
+      "NPCs/Neutral/Morocco/David Johnson.md"
     ]
   },
   {
@@ -46,9 +46,9 @@
     "tagCount": 6,
     "relativePaths": [
       "Lighthouse Industries/Rainbow Corp.md",
+      "AA Corps/Spinrad Global.md",
       "AA Corps/Yoyo Dine.md",
       "AA Corps/Litehouse Industries.md",
-      "AA Corps/Spinrad Global.md",
       "AA Corps/Draco Foundation.md",
       "AA Corps/Blue Steel Industries.md"
     ]
@@ -77,8 +77,8 @@
       "AAA Corps/Renraku.md",
       "AAA Corps/MCT.md",
       "AAA Corps/Horizon/Horizon.md",
-      "AAA Corps/Aztechnology.md",
       "AAA Corps/Evo.md",
+      "AAA Corps/Aztechnology.md",
       "AAA Corps/Ares.md"
     ]
   }

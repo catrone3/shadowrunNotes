@@ -10,7 +10,7 @@ There is a [[../Locations/Morocco/rabat black site|black site]] not far from the
 - [[../Locations/Morocco/Marrakesh|Marrakesh]]
 
 ##### Known Djinn
-- [[../NPCs/Neutral/Ruby|Ruby]]
-- [[../NPCs/Neutral/Blake|Blake]]
-- [[../NPCs/Neutral/Weiss|Weiss]]
-- [[../NPCs/Neutral/Commander Hamal ibn Halabi|Commander Hamal ibn Halabi]]
+- [[../NPCs/Neutral/Morocco/Ruby|Ruby]]
+- [[../NPCs/Neutral/Morocco/Blake|Blake]]
+- [[../NPCs/Neutral/Morocco/Weiss|Weiss]]
+- [[../NPCs/Neutral/Morocco/Commander Hamal ibn Halabi|Commander Hamal ibn Halabi]]

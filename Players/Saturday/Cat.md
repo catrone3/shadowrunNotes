@@ -32,7 +32,7 @@
 - other one
 
 ##### Exs
-- [[../../NPCs/Neutral/Ushi Bido|Ushi Bido]]
+- [[../../NPCs/Neutral/Seattle/Ushi Bido|Ushi Bido]]
 	- Father: [[../../NPCs/Friendly/Seattle/Hitsuki Cho|Cho]]
 
 ### Kids
@@ -66,19 +66,20 @@
 
 ##### Known AI
 - [[../../NPCs/Friendly/Denver/Merlin|Merlin]]
-- [[../../NPCs/Neutral/Deimos|Deimos]]
+- [[../../NPCs/Neutral/Ares/Deimos|Deimos]]
 
 ##### Business Contacts
 - [[../../NPCs/Neutral/Nadja Davier|Nadja Davier]]
 - [[../../NPCs/Friendly/Denver/Kalt|Kalt]]
-- [[../../NPCs/Neutral/Perri|Perri]]
-- [[../../NPCs/Neutral/Puck|Puck]]
+- [[../../NPCs/Neutral/Denver/Perri|Perri]]
+- [[../../NPCs/Neutral/Denver/Puck|Puck]]
 - [[../../NPCs/Friendly/Denver/Nicholas Whitebird|Nicholas Whitebird]]
 - [[../../NPCs/Friendly/Seattle/Hitsuki Cho|Cho]]
+- [[../../NPCs/Friendly/Denver/Ghostwalker|Ghostwalker]]
 
 ##### Shadowrun Teams
 [[../../Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team|Denver Team]]
-Players
+Cat's Team
 
 
 ##### Alchera 

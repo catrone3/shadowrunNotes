@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Saturday/Cat.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Saturday/Cat.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "3e8b21065dd8de9a",
   "lastOpenFiles": [
-    "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md",
-    "Players/Saturday/Cat.md",
-    "NPCs/Friendly/Denver/Ghostwalker.md",
+    "NPCs/Neutral/Horizon/Livia Davis.md",
+    "AAA Corps/Horizon/Horizon.md",
     "Homepage.md",
-    "Players/Saturday/Spyder.md",
-    "NPCs/Friendly/Denver/Nicholas Whitebird.md",
-    "NPCs/Friendly/Matrix/Whistler.md",
-    "NPCs/Friendly/Las Vegas/Lucky.md",
-    "NPCs/Friendly/Matrix/Next-Net.md",
-    "NPCs/Friendly/Matrix/DexTER.md"
+    "NPCs/Neutral/Denver/Rada (Dead).md",
+    "NPCs/Neutral/Morocco/Ruby.md",
+    "NPCs/Neutral/Noemi Lombardo.md",
+    "NPCs/Neutral/Horizon/puddin.md",
+    "NPCs/Neutral/Denver/Puck.md",
+    "NPCs/Neutral/Denver/Perri.md",
+    "NPCs/Neutral/Denver/Old man.md"
   ]
 }

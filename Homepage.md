@@ -5,7 +5,7 @@
 ## Games
 ### [Denver Map](https://www.google.com/maps/d/u/0/viewer?mid=1BrcfAzyifwU4Gk8I2KPeP9VoH8wz9w-K&ll=28.49634055143031%2C-83.41172544999999&z=5)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BrcfAzyifwU4Gk8I2KPeP9VoH8wz9w-K&ehbc=2E312F" width="640" height="480"></iframe>
-### Saturday
+#### Saturday
 ##### [[Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team|Cat's Team]]
 
 [[Players/Saturday/Spyder|Spyder]]
@@ -24,10 +24,10 @@
 [[NPCs/Friendly/Seattle/Canis|Canis]]
 [[NPCs/Friendly/Seattle/Hitsuki Cho|Cho]]
 Clyde
-[[NPCs/Neutral/Colonel Bennet|Colonel Bennet]]
+[[NPCs/Neutral/Denver/Colonel Bennet|Colonel Bennet]]
 [[../../NPCs/Friendly/Matrix/Data-Stream|Data-Stream]]
 [[../../NPCs/Friendly/Matrix/DexTER|DexTER]]
-Dragon Council
+[[NPCs/Neutral/Dragon Council|Dragon Council]]
 Evelyn Prescott
 [[NPCs/Friendly/Denver/Ghostwalker|Ghostwalker]]
 Hippocrates
@@ -45,8 +45,8 @@ Krea
 [[NPCs/Friendly/Denver/Nicholas Whitebird|Nicholas Whitebird]]
 [[../../NPCs/Friendly/Matrix/Next-Net|Next-Net]]
 Parker James
-[[NPCs/Neutral/Perri|Perri]]
-[[NPCs/Neutral/Puck|Puck]]
+[[NPCs/Neutral/Denver/Perri|Perri]]
+[[NPCs/Neutral/Denver/Puck|Puck]]
 [[../../NPCs/Friendly/Denver/Sage Quinn|Sage Quinn]]
 [[NPCs/Friendly/Denver/Slip|Slip]]
 [[NPCs/Friendly/Denver/Telenov|Telenov]]
@@ -98,6 +98,9 @@ Tom Jones
 [[../../NPCs/Friendly/Germany/Reinald Neudorf|Reinald Neudorf]]
 
 
+
+## [Morocco](https://www.google.com/maps/d/u/0/edit?mid=1hLRIdVFrhMDA6TWswTy2vL6BZeSvotPM&usp=sharing)
+<iframe src="https://www.google.com/maps/d/embed?mid=1hLRIdVFrhMDA6TWswTy2vL6BZeSvotPM&ehbc=2E312F" width="640" height="480"></iframe>
 #### [[Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team|Morocco Team]]
 
 [[Players/Morocco/Corvus|Corvus]]
@@ -106,6 +109,9 @@ Tom Jones
 [[Players/Morocco/Titania|Titania]]
 [[Players/Morocco/Triage Black|Triage Black]]
 [[Players/Saturday/Spyder|Spyder]]
+[[Players/Old Characters/Vice|Vice]] - Retired
+[[Players/Old Characters/Myrr|Myrr]] - Retired
+[[Players/Old Characters/Alley Cat|Alley Cat]] - Dead
 
 ##### Contacts
 [[NPCs/Friendly/Morocco/Helix|Helix]]
@@ -114,3 +120,24 @@ Tom Jones
 [[../../NPCs/Friendly/Las Vegas/Lucky|Lucky]]
 [[../../NPCs/Friendly/Matrix/Next-Net|Next-Net]]
 [[../../NPCs/Friendly/Matrix/Whistler|Whistler]]
+
+
+
+###  [London](https://www.google.com/maps/d/u/0/edit?mid=1T-XvWV-CvoD--SYnhAvub1hFnB7kDINF&usp=sharing)
+<iframe src="https://www.google.com/maps/d/embed?mid=1T-XvWV-CvoD--SYnhAvub1hFnB7kDINF&ehbc=2E312F" width="640" height="480"></iframe>
+#### London Team
+
+[[Players/Old Characters/Alley Cat|Alley Cat]] - Dead
+[[Players/Morocco/Titania|Titania]] - Retired
+[[Players/Saturday/Spyder|Spyder]] - Unknown
+[[Players/London/Zer0|Zer0]] - Retired
+[[Players/London/Nightowl|Nightowl]] - Retired
+[[Players/Morocco/Corvus|Corvus]] - Unknown
+[[Players/Old Characters/Myrr]] - Unknown
+[[Players/Old Characters/Elfo|Elfo]] - Retired
+[[Players/Morocco/Kisouma|KiKi]] - Unkown
+[[Players/Morocco/Triage Black|Triage Black]] - Unknown
+[[Players/Old Characters/Vice|Vice]] - Unknown
+
+##### Contacts
+[[NPCs/Neutral/Horizon/Livia Davis|Livia Davis]]

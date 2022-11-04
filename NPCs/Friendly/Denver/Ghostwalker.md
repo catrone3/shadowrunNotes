@@ -1,7 +1,7 @@
 Voice of Ghostwalker is Nicholas Whitebeard
 
 ##### Head of ZDF
-- [[../../Neutral/Colonel Bennet|Colonel Bennet]]
+- [[../../Neutral/Denver/Colonel Bennet|Colonel Bennet]]
 
 ##### Friendly Dragons
 - [[Kalt]]
