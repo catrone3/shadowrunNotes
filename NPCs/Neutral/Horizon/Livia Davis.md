@@ -1,7 +1,7 @@
 ##### Runners
 These are all the runners that have worked with Livia Davis and their current status
 
-Name | Active
+Name | Status
 -------- | -------
 [[../../../Players/Old Characters/Alley Cat\|Alley Cat]] | Dead
 [[../../../Players/Morocco/Titania\|Titania]]  | Retired

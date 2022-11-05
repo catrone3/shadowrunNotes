@@ -1,4 +1,9 @@
 # Welcome
+
+## Useful Sites
+- [Calendar](https://www.timeanddate.com/calendar/?year=2080) (2080 link)
+- [Random Name Generator](https://rpgenerator.net/shadowrun)
+## Guides and Rules
 ### [[House Rules]]
 ### [[How to Use Foundry]]
 ### [[Working with Github]]
@@ -28,13 +33,13 @@ Clyde
 [[../../NPCs/Friendly/Matrix/Data-Stream|Data-Stream]]
 [[../../NPCs/Friendly/Matrix/DexTER|DexTER]]
 [[NPCs/Neutral/Dragon Council|Dragon Council]]
-Evelyn Prescott
+[[NPCs/Neutral/Evelyn Prescott|Evelyn Prescott]]
 [[NPCs/Friendly/Denver/Ghostwalker|Ghostwalker]]
 Hippocrates
 [[NPCs/Friendly/Howard Dumbacher|Howard Dumbacher]]
 [[NPCs/Friendly/Denver/Ivy|Ivy]]
 [[NPCs/Friendly/Denver/Jess|Jess]]
-Joe Little Bear
+[[NPCs/Neutral/Joe Little Bear|Joe Little Bear]]
 [[NPCs/Neutral/Kaleidoscope|Kaleidoscope]]
 [[NPCs/Friendly/Denver/Kalt|Kalt]]
 Krea
@@ -51,7 +56,7 @@ Parker James
 [[NPCs/Friendly/Denver/Slip|Slip]]
 [[NPCs/Friendly/Denver/Telenov|Telenov]]
 Thanatos
-Tom Jones
+[[NPCs/Neutral/Tom Jones|Tom Jones]]
 [[NPCs/Friendly/Denver/Valerian Quinn|Valerian Quinn]]
 [[../../NPCs/Friendly/Denver/Valentina Kwan|Valentina Kwan]]
 [[NPCs/Friendly/Seattle/Vixen|Vixen]]

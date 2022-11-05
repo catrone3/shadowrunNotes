@@ -76,6 +76,7 @@
 - [[../../NPCs/Friendly/Denver/Nicholas Whitebird|Nicholas Whitebird]]
 - [[../../NPCs/Friendly/Seattle/Hitsuki Cho|Cho]]
 - [[../../NPCs/Friendly/Denver/Ghostwalker|Ghostwalker]]
+- [[../../NPCs/Neutral/Dragon Council|Dragon Council]]
 
 ##### Shadowrun Teams
 [[../../Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team|Denver Team]]

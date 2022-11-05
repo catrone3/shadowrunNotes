@@ -1,0 +1,1 @@
+Starting a project to design and build a spinlaunch platform that can launch into LOE so that the rocket can be smaller. Designed for smaller loads, perfect for short notice resupplies, small satelites, or throwing things into the sun
