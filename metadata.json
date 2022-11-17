@@ -1,5 +1,9 @@
 [
   {
+    "fileName": "Untitled",
+    "relativePath": "Untitled.md"
+  },
+  {
     "fileName": "Working with Github",
     "relativePath": "Working with Github.md",
     "headings": [
@@ -43,6 +47,27 @@
         "fileName": "Homepage",
         "link": "Working with Github",
         "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-8-14",
+    "relativePath": "Sunday Game notes/22-8-14.md",
+    "headings": [
+      {
+        "heading": "Diederich's secret",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Berlin Team",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Team.md"
+      },
+      {
+        "link": "Immo Mauer",
+        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
       }
     ]
   },
@@ -106,27 +131,6 @@
         "link": "Ardat-Lili Cyberware",
         "displayText": "ARDAT-LILI CYBERWARE",
         "relativePath": "A Corps/Ardat-Lili Cyberware.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-8-14",
-    "relativePath": "Sunday Game notes/22-8-14.md",
-    "headings": [
-      {
-        "heading": "Diederich's secret",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Berlin Team",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Team.md"
-      },
-      {
-        "link": "Immo Mauer",
-        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
       }
     ]
   },
@@ -200,17 +204,6 @@
         "level": 1
       }
     ],
-    "links": [
-      {
-        "link": "Morocco Team",
-        "displayText": "North African Crew",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-5-22",
-    "relativePath": "Sunday Game notes/22-5-22.md",
     "links": [
       {
         "link": "Morocco Team",
@@ -300,6 +293,17 @@
     ]
   },
   {
+    "fileName": "22-5-22",
+    "relativePath": "Sunday Game notes/22-5-22.md",
+    "links": [
+      {
+        "link": "Morocco Team",
+        "displayText": "North African Crew",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
+      }
+    ]
+  },
+  {
     "fileName": "22-4-10",
     "relativePath": "Sunday Game notes/22-4-10.md",
     "headings": [
@@ -329,6 +333,34 @@
     ]
   },
   {
+    "fileName": "22-3-27",
+    "relativePath": "Sunday Game notes/22-3-27.md",
+    "headings": [
+      {
+        "heading": "Toxic Mage Track Down",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco Team",
+        "displayText": "North African Crew",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-11-06",
+    "relativePath": "Sunday Game notes/22-11-06.md",
+    "links": [
+      {
+        "link": "22-10-23",
+        "displayText": "Angel needs rehab",
+        "relativePath": "Sunday Game notes/22-10-23.md"
+      }
+    ]
+  },
+  {
     "fileName": "22-2-27",
     "relativePath": "Sunday Game notes/22-2-27.md",
     "headings": [
@@ -346,23 +378,6 @@
       {
         "link": "Helix",
         "relativePath": "NPCs/Friendly/Morocco/Helix.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-3-27",
-    "relativePath": "Sunday Game notes/22-3-27.md",
-    "headings": [
-      {
-        "heading": "Toxic Mage Track Down",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco Team",
-        "displayText": "North African Crew",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
       }
     ]
   },
@@ -429,8 +444,54 @@
     ]
   },
   {
-    "fileName": "22-1-2",
-    "relativePath": "Sunday Game notes/22-1-2.md",
+    "fileName": "22-10-23",
+    "relativePath": "Sunday Game notes/22-10-23.md",
+    "headings": [
+      {
+        "heading": "Angel needs rehab",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Berlin Team",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Team.md"
+      },
+      {
+        "link": "Evangelia Kaufmann",
+        "relativePath": "NPCs/Friendly/Germany/Evangelia Kaufmann.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "22-11-06",
+        "link": "22-10-23",
+        "relativePath": "Sunday Game notes/22-11-06.md",
+        "displayText": "Angel needs rehab"
+      }
+    ]
+  },
+  {
+    "fileName": "21-12-19",
+    "relativePath": "Sunday Game notes/21-12-19.md",
+    "headings": [
+      {
+        "heading": "Spice must flow Pt.1",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco Team",
+        "displayText": "North African Crew",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-1-16",
+    "relativePath": "Sunday Game notes/22-1-16.md",
     "headings": [
       {
         "heading": "Spice must flow Pt.2",
@@ -446,8 +507,8 @@
     ]
   },
   {
-    "fileName": "22-1-16",
-    "relativePath": "Sunday Game notes/22-1-16.md",
+    "fileName": "22-1-2",
+    "relativePath": "Sunday Game notes/22-1-2.md",
     "headings": [
       {
         "heading": "Spice must flow Pt.2",
@@ -480,23 +541,6 @@
       {
         "link": "Rabat",
         "relativePath": "Locations/Morocco/Rabat.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-12-19",
-    "relativePath": "Sunday Game notes/21-12-19.md",
-    "headings": [
-      {
-        "heading": "Spice must flow Pt.1",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco Team",
-        "displayText": "North African Crew",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
       }
     ]
   },
@@ -548,6 +592,12 @@
   {
     "fileName": "22-9-10",
     "relativePath": "Saturday Game notes/22-9-10.md",
+    "headings": [
+      {
+        "heading": "Sacrifices Pt2",
+        "level": 2
+      }
+    ],
     "links": [
       {
         "link": "Denver Team",
@@ -559,6 +609,12 @@
   {
     "fileName": "22-8-13",
     "relativePath": "Saturday Game notes/22-8-13.md",
+    "headings": [
+      {
+        "heading": "Sacrifices",
+        "level": 2
+      }
+    ],
     "links": [
       {
         "link": "Denver Team",
@@ -576,6 +632,17 @@
       {
         "link": "Cat",
         "relativePath": "Players/Saturday/Cat.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-7-16",
+    "relativePath": "Saturday Game notes/22-7-16.md",
+    "links": [
+      {
+        "link": "Denver Team",
+        "displayText": "Denver Specials",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
       }
     ]
   },
@@ -606,8 +673,8 @@
     ]
   },
   {
-    "fileName": "22-7-16",
-    "relativePath": "Saturday Game notes/22-7-16.md",
+    "fileName": "22-6-18",
+    "relativePath": "Saturday Game notes/22-6-18.md",
     "links": [
       {
         "link": "Denver Team",
@@ -670,17 +737,6 @@
     ]
   },
   {
-    "fileName": "22-6-18",
-    "relativePath": "Saturday Game notes/22-6-18.md",
-    "links": [
-      {
-        "link": "Denver Team",
-        "displayText": "Denver Specials",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
-      }
-    ]
-  },
-  {
     "fileName": "22-5-21",
     "relativePath": "Saturday Game notes/22-5-21.md",
     "headings": [
@@ -694,6 +750,31 @@
         "link": "Denver Team",
         "displayText": "Denver Specials",
         "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-2-26",
+    "relativePath": "Saturday Game notes/22-2-26.md",
+    "headings": [
+      {
+        "heading": "Ghostwalker Issues",
+        "level": 5
+      },
+      {
+        "heading": "[[../NPCs/Neutral/Dragon Council|Dragon Council]]",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Team",
+        "displayText": "Denver Specials",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
+      },
+      {
+        "link": "Dragon Council",
+        "relativePath": "NPCs/Neutral/Dragon Council.md"
       }
     ]
   },
@@ -744,31 +825,6 @@
     ]
   },
   {
-    "fileName": "22-2-26",
-    "relativePath": "Saturday Game notes/22-2-26.md",
-    "headings": [
-      {
-        "heading": "Ghostwalker Issues",
-        "level": 5
-      },
-      {
-        "heading": "[[../NPCs/Neutral/Dragon Council|Dragon Council]]",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Team",
-        "displayText": "Denver Specials",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
-      },
-      {
-        "link": "Dragon Council",
-        "relativePath": "NPCs/Neutral/Dragon Council.md"
-      }
-    ]
-  },
-  {
     "fileName": "22-2-12",
     "relativePath": "Saturday Game notes/22-2-12.md",
     "headings": [
@@ -790,12 +846,12 @@
     ]
   },
   {
-    "fileName": "22-1-2",
-    "relativePath": "Saturday Game notes/22-1-2.md",
+    "fileName": "22-11-5",
+    "relativePath": "Saturday Game notes/22-11-5.md",
     "headings": [
       {
-        "heading": "Diet Horror",
-        "level": 1
+        "heading": "DataMax",
+        "level": 2
       }
     ],
     "links": [
@@ -805,13 +861,17 @@
         "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
       },
       {
-        "link": "Old man",
-        "displayText": "Old Man",
-        "relativePath": "NPCs/Neutral/Denver/Old man.md"
+        "link": "Toby Walker",
+        "relativePath": "NPCs/Neutral/Toby Walker.md"
       },
       {
-        "link": "Allen Helmut",
-        "relativePath": "NPCs/Neutral/Allen Helmut.md"
+        "link": "DataMax",
+        "displayText": "Datamax",
+        "relativePath": "NPCs/Neutral/Denver/DataMax.md"
+      },
+      {
+        "link": "DataMax",
+        "relativePath": "NPCs/Neutral/Denver/DataMax.md"
       }
     ]
   },
@@ -845,6 +905,23 @@
       {
         "link": "Leonardo Costa",
         "relativePath": "NPCs/Unfriendly/Leonardo Costa.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-8-14",
+    "relativePath": "Saturday Game notes/21-8-14.md",
+    "headings": [
+      {
+        "heading": "Khlopnut pistolet",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Team",
+        "displayText": "Denver Specials",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
       }
     ]
   },
@@ -883,11 +960,11 @@
     ]
   },
   {
-    "fileName": "21-8-14",
-    "relativePath": "Saturday Game notes/21-8-14.md",
+    "fileName": "22-1-2",
+    "relativePath": "Saturday Game notes/22-1-2.md",
     "headings": [
       {
-        "heading": "Khlopnut pistolet",
+        "heading": "Diet Horror",
         "level": 1
       }
     ],
@@ -896,6 +973,15 @@
         "link": "Denver Team",
         "displayText": "Denver Specials",
         "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
+      },
+      {
+        "link": "Old man",
+        "displayText": "Old Man",
+        "relativePath": "NPCs/Neutral/Denver/Old man.md"
+      },
+      {
+        "link": "Allen Helmut",
+        "relativePath": "NPCs/Neutral/Allen Helmut.md"
       }
     ]
   },
@@ -913,6 +999,27 @@
         "link": "Denver Team",
         "displayText": "Denver Specials",
         "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-7-17",
+    "relativePath": "Saturday Game notes/21-7-17.md",
+    "headings": [
+      {
+        "heading": "Rescue Ivy",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Team",
+        "displayText": "Denver Specials",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
+      },
+      {
+        "link": "Ivy",
+        "relativePath": "NPCs/Friendly/Denver/Ivy.md"
       }
     ]
   },
@@ -952,11 +1059,11 @@
     ]
   },
   {
-    "fileName": "21-7-17",
-    "relativePath": "Saturday Game notes/21-7-17.md",
+    "fileName": "21-6-19",
+    "relativePath": "Saturday Game notes/21-6-19.md",
     "headings": [
       {
-        "heading": "Rescue Ivy",
+        "heading": "Train Heist",
         "level": 1
       }
     ],
@@ -965,19 +1072,15 @@
         "link": "Denver Team",
         "displayText": "Denver Specials",
         "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
-      },
-      {
-        "link": "Ivy",
-        "relativePath": "NPCs/Friendly/Denver/Ivy.md"
       }
     ]
   },
   {
-    "fileName": "21-6-19",
-    "relativePath": "Saturday Game notes/21-6-19.md",
+    "fileName": "21-11-6",
+    "relativePath": "Saturday Game notes/21-11-6.md",
     "headings": [
       {
-        "heading": "Train Heist",
+        "heading": "Trepca",
         "level": 1
       }
     ],
@@ -1036,23 +1139,6 @@
       {
         "link": "Kai",
         "relativePath": "NPCs/Neutral/Kai.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-11-6",
-    "relativePath": "Saturday Game notes/21-11-6.md",
-    "headings": [
-      {
-        "heading": "Trepca",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Team",
-        "displayText": "Denver Specials",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
       }
     ]
   },
@@ -1139,6 +1225,100 @@
     ]
   },
   {
+    "fileName": "Roland",
+    "relativePath": "Players/Port Au Prince/Roland.md",
+    "backlinks": [
+      {
+        "fileName": "Pirate Group",
+        "link": "Roland",
+        "relativePath": "Players/Port Au Prince/Pirate Group.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Pirate Group",
+    "relativePath": "Players/Port Au Prince/Pirate Group.md",
+    "tags": [
+      "caribbean_league"
+    ],
+    "headings": [
+      {
+        "heading": "Capitan",
+        "level": 5
+      },
+      {
+        "heading": "Crew",
+        "level": 6
+      }
+    ],
+    "links": [
+      {
+        "link": "Roland",
+        "relativePath": "Players/Port Au Prince/Roland.md"
+      },
+      {
+        "link": "Bam",
+        "relativePath": "Players/Port Au Prince/Bam.md"
+      },
+      {
+        "link": "Boom",
+        "relativePath": "Players/Port Au Prince/Boom.md"
+      },
+      {
+        "link": "Doxx",
+        "relativePath": "Players/Port Au Prince/Doxx.md"
+      },
+      {
+        "link": "Arcanoarchaelogist",
+        "relativePath": "Players/Port Au Prince/Arcanoarchaelogist.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Doxx",
+    "relativePath": "Players/Port Au Prince/Doxx.md",
+    "backlinks": [
+      {
+        "fileName": "Pirate Group",
+        "link": "Doxx",
+        "relativePath": "Players/Port Au Prince/Pirate Group.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Boom",
+    "relativePath": "Players/Port Au Prince/Boom.md",
+    "backlinks": [
+      {
+        "fileName": "Pirate Group",
+        "link": "Boom",
+        "relativePath": "Players/Port Au Prince/Pirate Group.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Bam",
+    "relativePath": "Players/Port Au Prince/Bam.md",
+    "backlinks": [
+      {
+        "fileName": "Pirate Group",
+        "link": "Bam",
+        "relativePath": "Players/Port Au Prince/Pirate Group.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Arcanoarchaelogist",
+    "relativePath": "Players/Port Au Prince/Arcanoarchaelogist.md",
+    "backlinks": [
+      {
+        "fileName": "Pirate Group",
+        "link": "Arcanoarchaelogist",
+        "relativePath": "Players/Port Au Prince/Pirate Group.md"
+      }
+    ]
+  },
+  {
     "fileName": "Swiss",
     "relativePath": "Players/Saturday/Swiss.md",
     "headings": [
@@ -1217,14 +1397,14 @@
         "relativePath": "NPCs/Friendly/Denver/Selena.md"
       },
       {
-        "fileName": "Meia",
-        "link": "Swiss",
-        "relativePath": "NPCs/Friendly/Denver/Meia.md"
-      },
-      {
         "fileName": "Leah",
         "link": "Swiss",
         "relativePath": "NPCs/Friendly/Denver/Leah.md"
+      },
+      {
+        "fileName": "Meia",
+        "link": "Swiss",
+        "relativePath": "NPCs/Friendly/Denver/Meia.md"
       },
       {
         "fileName": "Denver Team",
@@ -1240,6 +1420,63 @@
         "fileName": "Ares",
         "link": "Swiss",
         "relativePath": "AAA Corps/Ares.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Spectre",
+    "relativePath": "Players/Saturday/Spectre.md",
+    "headings": [
+      {
+        "heading": "Relationships",
+        "level": 4
+      },
+      {
+        "heading": "Dating",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Angelica Quinn",
+        "relativePath": "NPCs/Friendly/Denver/Angelica Quinn.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "22-8-13",
+        "link": "Spectre",
+        "relativePath": "Saturday Game notes/22-8-13.md"
+      },
+      {
+        "fileName": "Cat",
+        "link": "Spectre",
+        "relativePath": "Players/Saturday/Cat.md"
+      },
+      {
+        "fileName": "Ghostwalker",
+        "link": "Spectre",
+        "relativePath": "NPCs/Friendly/Denver/Ghostwalker.md"
+      },
+      {
+        "fileName": "Angelica Quinn",
+        "link": "Spectre",
+        "relativePath": "NPCs/Friendly/Denver/Angelica Quinn.md"
+      },
+      {
+        "fileName": "Front Range Consulting",
+        "link": "Spectre",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
+      },
+      {
+        "fileName": "Denver Team",
+        "link": "Spectre",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Spectre",
+        "relativePath": "Homepage.md"
       }
     ]
   },
@@ -1304,63 +1541,6 @@
     ]
   },
   {
-    "fileName": "Spectre",
-    "relativePath": "Players/Saturday/Spectre.md",
-    "headings": [
-      {
-        "heading": "Relationships",
-        "level": 4
-      },
-      {
-        "heading": "Dating",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Angelica Quinn",
-        "relativePath": "NPCs/Friendly/Denver/Angelica Quinn.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "22-8-13",
-        "link": "Spectre",
-        "relativePath": "Saturday Game notes/22-8-13.md"
-      },
-      {
-        "fileName": "Cat",
-        "link": "Spectre",
-        "relativePath": "Players/Saturday/Cat.md"
-      },
-      {
-        "fileName": "Ghostwalker",
-        "link": "Spectre",
-        "relativePath": "NPCs/Friendly/Denver/Ghostwalker.md"
-      },
-      {
-        "fileName": "Angelica Quinn",
-        "link": "Spectre",
-        "relativePath": "NPCs/Friendly/Denver/Angelica Quinn.md"
-      },
-      {
-        "fileName": "Front Range Consulting",
-        "link": "Spectre",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
-      },
-      {
-        "fileName": "Denver Team",
-        "link": "Spectre",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Spectre",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
     "fileName": "Sentinel",
     "relativePath": "Players/Saturday/Sentinel.md",
     "backlinks": [
@@ -1368,115 +1548,6 @@
         "fileName": "Denver Team",
         "link": "Sentinel",
         "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Incubus",
-    "relativePath": "Players/Saturday/Incubus.md",
-    "headings": [
-      {
-        "heading": "Relationships",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Blood Butterfly",
-        "relativePath": "NPCs/Friendly/France/Blood Butterfly.md"
-      },
-      {
-        "link": "Valentina Kwan",
-        "relativePath": "NPCs/Friendly/Denver/Valentina Kwan.md"
-      },
-      {
-        "link": "Mi Kwan",
-        "relativePath": "NPCs/Friendly/Denver/Mi Kwan.md"
-      },
-      {
-        "link": "Ivy",
-        "relativePath": "NPCs/Friendly/Denver/Ivy.md"
-      },
-      {
-        "link": "Sage Quinn",
-        "relativePath": "NPCs/Friendly/Denver/Sage Quinn.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "22-8-13",
-        "link": "Incubus",
-        "relativePath": "Saturday Game notes/22-8-13.md"
-      },
-      {
-        "fileName": "Kai",
-        "link": "Incubus",
-        "relativePath": "NPCs/Neutral/Kai.md"
-      },
-      {
-        "fileName": "Blood Butterfly",
-        "link": "Incubus",
-        "relativePath": "NPCs/Friendly/France/Blood Butterfly.md"
-      },
-      {
-        "fileName": "Valentina Kwan",
-        "link": "Incubus",
-        "relativePath": "NPCs/Friendly/Denver/Valentina Kwan.md"
-      },
-      {
-        "fileName": "Sage Quinn",
-        "link": "Incubus",
-        "relativePath": "NPCs/Friendly/Denver/Sage Quinn.md"
-      },
-      {
-        "fileName": "Mi Kwan",
-        "link": "Incubus",
-        "relativePath": "NPCs/Friendly/Denver/Mi Kwan.md"
-      },
-      {
-        "fileName": "Ivy",
-        "link": "Incubus",
-        "relativePath": "NPCs/Friendly/Denver/Ivy.md"
-      },
-      {
-        "fileName": "Denver Team",
-        "link": "Incubus",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
-      },
-      {
-        "fileName": "Incubus Club",
-        "link": "Incubus",
-        "relativePath": "Lighthouse Industries/Incubus Club.md"
-      },
-      {
-        "fileName": "Denver School for Advanced Learning",
-        "link": "Incubus",
-        "relativePath": "Lighthouse Industries/Denver School for Advanced Learning.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Incubus",
-        "relativePath": "Homepage.md"
-      },
-      {
-        "fileName": "Yoyo Dine",
-        "link": "Incubus",
-        "relativePath": "AA Corps/Yoyo Dine.md"
-      },
-      {
-        "fileName": "Litehouse Industries",
-        "link": "Incubus",
-        "relativePath": "AA Corps/Litehouse Industries.md"
-      },
-      {
-        "fileName": "Litehouse Industries",
-        "link": "Incubus",
-        "relativePath": "AA Corps/Litehouse Industries.md"
-      },
-      {
-        "fileName": "Litehouse Industries",
-        "link": "Incubus",
-        "relativePath": "AA Corps/Litehouse Industries.md"
       }
     ]
   },
@@ -1541,6 +1612,10 @@
         "level": 5
       },
       {
+        "heading": "Unvoluntary Employment",
+        "level": 5
+      },
+      {
         "heading": "Shadowrun Teams",
         "level": 5
       },
@@ -1577,6 +1652,10 @@
       {
         "link": "Valerian Quinn",
         "relativePath": "NPCs/Friendly/Denver/Valerian Quinn.md"
+      },
+      {
+        "link": "Coco",
+        "relativePath": "NPCs/Friendly/Denver/Coco.md"
       },
       {
         "link": "Ushi Bido",
@@ -1670,6 +1749,14 @@
         "relativePath": "NPCs/Neutral/Dragon Council.md"
       },
       {
+        "link": "Hippocrates",
+        "relativePath": "NPCs/Friendly/Denver/Hippocrates.md"
+      },
+      {
+        "link": "DataMax",
+        "relativePath": "NPCs/Neutral/Denver/DataMax.md"
+      },
+      {
         "link": "Denver Team",
         "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
       }
@@ -1686,11 +1773,6 @@
         "relativePath": "Players/Saturday/Swiss.md"
       },
       {
-        "fileName": "Ushi Bido",
-        "link": "Cat",
-        "relativePath": "NPCs/Neutral/Seattle/Ushi Bido.md"
-      },
-      {
         "fileName": "Valerian Quinn",
         "link": "Cat",
         "relativePath": "NPCs/Friendly/Denver/Valerian Quinn.md"
@@ -1704,6 +1786,11 @@
         "fileName": "Ghostwalker",
         "link": "Cat",
         "relativePath": "NPCs/Friendly/Denver/Ghostwalker.md"
+      },
+      {
+        "fileName": "Ushi Bido",
+        "link": "Cat",
+        "relativePath": "NPCs/Neutral/Seattle/Ushi Bido.md"
       },
       {
         "fileName": "Cheyenne Mountain",
@@ -1726,6 +1813,11 @@
         "relativePath": "Lighthouse Industries/Denver School for Advanced Learning.md"
       },
       {
+        "fileName": "SKA-008",
+        "link": "Cat",
+        "relativePath": "Lighthouse Industries/Cheyenne Mountain/SKA-008.md"
+      },
+      {
         "fileName": "Toyota Gopher",
         "link": "Cat",
         "relativePath": "Lighthouse Industries/Cheyenne Mountain/Toyota Gopher.md"
@@ -1736,19 +1828,14 @@
         "relativePath": "Lighthouse Industries/Cheyenne Mountain/SU-41 'Fixer'.md"
       },
       {
-        "fileName": "SKA-008",
+        "fileName": "Lear-Cessna Platinum",
         "link": "Cat",
-        "relativePath": "Lighthouse Industries/Cheyenne Mountain/SKA-008.md"
+        "relativePath": "Lighthouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md"
       },
       {
         "fileName": "C-260",
         "link": "Cat",
         "relativePath": "Lighthouse Industries/Cheyenne Mountain/C-260.md"
-      },
-      {
-        "fileName": "Lear-Cessna Platinum",
-        "link": "Cat",
-        "relativePath": "Lighthouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md"
       },
       {
         "fileName": "1UP!",
@@ -1783,49 +1870,129 @@
     ]
   },
   {
-    "fileName": "Elfo",
-    "relativePath": "Players/Old Characters/Elfo.md",
+    "fileName": "Incubus",
+    "relativePath": "Players/Saturday/Incubus.md",
+    "headings": [
+      {
+        "heading": "Relationships",
+        "level": 5
+      },
+      {
+        "heading": "Past Relationships",
+        "level": 5
+      },
+      {
+        "heading": "Buisness Contacts",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Blood Butterfly",
+        "relativePath": "NPCs/Friendly/France/Blood Butterfly.md"
+      },
+      {
+        "link": "Valentina Kwan",
+        "relativePath": "NPCs/Friendly/Denver/Valentina Kwan.md"
+      },
+      {
+        "link": "Ivy",
+        "relativePath": "NPCs/Friendly/Denver/Ivy.md"
+      },
+      {
+        "link": "Sage Quinn",
+        "relativePath": "NPCs/Friendly/Denver/Sage Quinn.md"
+      },
+      {
+        "link": "Mi Kwan",
+        "relativePath": "NPCs/Friendly/Denver/Mi Kwan.md"
+      },
+      {
+        "link": "Mi Kwan",
+        "relativePath": "NPCs/Friendly/Denver/Mi Kwan.md"
+      }
+    ],
     "backlinks": [
       {
-        "fileName": "Livia Davis",
-        "link": "Elfo",
-        "relativePath": "NPCs/Neutral/Horizon/Livia Davis.md"
+        "fileName": "22-8-13",
+        "link": "Incubus",
+        "relativePath": "Saturday Game notes/22-8-13.md"
       },
       {
-        "fileName": "Mercea Conglomerate",
-        "link": "Elfo",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate.md"
+        "fileName": "Blood Butterfly",
+        "link": "Incubus",
+        "relativePath": "NPCs/Friendly/France/Blood Butterfly.md"
       },
       {
-        "fileName": "Mercea Conglomerate",
-        "link": "Elfo",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate.md"
+        "fileName": "Valentina Kwan",
+        "link": "Incubus",
+        "relativePath": "NPCs/Friendly/Denver/Valentina Kwan.md"
       },
       {
-        "fileName": "Mercea Conglomerate",
-        "link": "Elfo",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate.md"
+        "fileName": "Sage Quinn",
+        "link": "Incubus",
+        "relativePath": "NPCs/Friendly/Denver/Sage Quinn.md"
       },
       {
-        "fileName": "M.H. Institue of Neuroscience",
-        "link": "Elfo",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+        "fileName": "Mi Kwan",
+        "link": "Incubus",
+        "relativePath": "NPCs/Friendly/Denver/Mi Kwan.md"
+      },
+      {
+        "fileName": "Ivy",
+        "link": "Incubus",
+        "relativePath": "NPCs/Friendly/Denver/Ivy.md"
+      },
+      {
+        "fileName": "Kai",
+        "link": "Incubus",
+        "relativePath": "NPCs/Neutral/Kai.md"
+      },
+      {
+        "fileName": "Denver Team",
+        "link": "Incubus",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
+      },
+      {
+        "fileName": "Incubus Club",
+        "link": "Incubus",
+        "relativePath": "Lighthouse Industries/Incubus Club.md"
+      },
+      {
+        "fileName": "Denver School for Advanced Learning",
+        "link": "Incubus",
+        "relativePath": "Lighthouse Industries/Denver School for Advanced Learning.md"
       },
       {
         "fileName": "Homepage",
-        "link": "Elfo",
+        "link": "Incubus",
         "relativePath": "Homepage.md"
       },
       {
+        "fileName": "Yoyo Dine",
+        "link": "Incubus",
+        "relativePath": "AA Corps/Yoyo Dine.md"
+      },
+      {
         "fileName": "Litehouse Industries",
-        "link": "Elfo",
+        "link": "Incubus",
+        "relativePath": "AA Corps/Litehouse Industries.md"
+      },
+      {
+        "fileName": "Litehouse Industries",
+        "link": "Incubus",
+        "relativePath": "AA Corps/Litehouse Industries.md"
+      },
+      {
+        "fileName": "Litehouse Industries",
+        "link": "Incubus",
         "relativePath": "AA Corps/Litehouse Industries.md"
       }
     ]
   },
   {
     "fileName": "Vice",
-    "relativePath": "Players/Old Characters/Vice.md",
+    "relativePath": "Players/Morocco/Vice.md",
     "backlinks": [
       {
         "fileName": "Livia Davis",
@@ -1845,8 +2012,145 @@
     ]
   },
   {
+    "fileName": "Titania",
+    "relativePath": "Players/Morocco/Titania.md",
+    "backlinks": [
+      {
+        "fileName": "22-4-24",
+        "link": "Titania",
+        "relativePath": "Sunday Game notes/22-4-24.md"
+      },
+      {
+        "fileName": "22-4-24",
+        "link": "Titania",
+        "relativePath": "Sunday Game notes/22-4-24.md",
+        "displayText": "titania"
+      },
+      {
+        "fileName": "Corvus",
+        "link": "Titania",
+        "relativePath": "Players/Morocco/Corvus.md"
+      },
+      {
+        "fileName": "Corvus",
+        "link": "Titania",
+        "relativePath": "Players/Morocco/Corvus.md"
+      },
+      {
+        "fileName": "Livia Davis",
+        "link": "Titania",
+        "relativePath": "NPCs/Neutral/Horizon/Livia Davis.md"
+      },
+      {
+        "fileName": "Morocco Team",
+        "link": "Titania",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Titania",
+        "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Titania",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Triage Black",
+    "relativePath": "Players/Morocco/Triage Black.md",
+    "backlinks": [
+      {
+        "fileName": "Kisouma",
+        "link": "triage black",
+        "relativePath": "Players/Morocco/Kisouma.md"
+      },
+      {
+        "fileName": "Livia Davis",
+        "link": "Triage Black",
+        "relativePath": "NPCs/Neutral/Horizon/Livia Davis.md"
+      },
+      {
+        "fileName": "Morocco Team",
+        "link": "Triage Black",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Triage Black",
+        "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Triage Black",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Thirteen",
+    "relativePath": "Players/Morocco/Thirteen.md",
+    "backlinks": [
+      {
+        "fileName": "Morocco Team",
+        "link": "Thirteen",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Thirteen",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Kisouma",
+    "relativePath": "Players/Morocco/Kisouma.md",
+    "links": [
+      {
+        "link": "corvus",
+        "relativePath": "Players/Morocco/Corvus.md"
+      },
+      {
+        "link": "triage black",
+        "relativePath": "Players/Morocco/Triage Black.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Corvus",
+        "link": "Kisouma",
+        "relativePath": "Players/Morocco/Corvus.md"
+      },
+      {
+        "fileName": "Livia Davis",
+        "link": "Kisouma",
+        "relativePath": "NPCs/Neutral/Horizon/Livia Davis.md",
+        "displayText": "KiKi"
+      },
+      {
+        "fileName": "Morocco Team",
+        "link": "Kisouma",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Kisouma",
+        "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Kisouma",
+        "relativePath": "Homepage.md",
+        "displayText": "KiKi"
+      }
+    ]
+  },
+  {
     "fileName": "Myrr",
-    "relativePath": "Players/Old Characters/Myrr.md",
+    "relativePath": "Players/Morocco/Myrr.md",
     "headings": [
       {
         "heading": "Force 12 spells",
@@ -1878,122 +2182,57 @@
         "fileName": "Homepage",
         "link": "Myrr",
         "relativePath": "Homepage.md",
-        "displayText": "Players/Old Characters/Myrr"
+        "displayText": "Players/Morocco/Myrr"
       }
     ]
   },
   {
-    "fileName": "Alley Cat",
-    "relativePath": "Players/Old Characters/Alley Cat.md",
+    "fileName": "Corvus",
+    "relativePath": "Players/Morocco/Corvus.md",
+    "links": [
+      {
+        "link": "Titania",
+        "relativePath": "Players/Morocco/Titania.md"
+      },
+      {
+        "link": "Titania",
+        "relativePath": "Players/Morocco/Titania.md"
+      },
+      {
+        "link": "Kisouma",
+        "relativePath": "Players/Morocco/Kisouma.md"
+      }
+    ],
     "backlinks": [
       {
+        "fileName": "Kisouma",
+        "link": "corvus",
+        "relativePath": "Players/Morocco/Kisouma.md"
+      },
+      {
+        "fileName": "Sammy",
+        "link": "Corvus",
+        "relativePath": "NPCs/Friendly/London/Sammy.md"
+      },
+      {
         "fileName": "Livia Davis",
-        "link": "Alley Cat",
+        "link": "Corvus",
         "relativePath": "NPCs/Neutral/Horizon/Livia Davis.md"
       },
       {
+        "fileName": "Morocco Team",
+        "link": "Corvus",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
+      },
+      {
         "fileName": "Homepage",
-        "link": "Alley Cat",
+        "link": "Corvus",
         "relativePath": "Homepage.md"
       },
       {
         "fileName": "Homepage",
-        "link": "Alley Cat",
+        "link": "Corvus",
         "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Roland",
-    "relativePath": "Players/Port Au Prince/Roland.md",
-    "backlinks": [
-      {
-        "fileName": "Pirate Group",
-        "link": "Roland",
-        "relativePath": "Players/Port Au Prince/Pirate Group.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Doxx",
-    "relativePath": "Players/Port Au Prince/Doxx.md",
-    "backlinks": [
-      {
-        "fileName": "Pirate Group",
-        "link": "Doxx",
-        "relativePath": "Players/Port Au Prince/Pirate Group.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Pirate Group",
-    "relativePath": "Players/Port Au Prince/Pirate Group.md",
-    "tags": [
-      "caribbean_league"
-    ],
-    "headings": [
-      {
-        "heading": "Capitan",
-        "level": 5
-      },
-      {
-        "heading": "Crew",
-        "level": 6
-      }
-    ],
-    "links": [
-      {
-        "link": "Roland",
-        "relativePath": "Players/Port Au Prince/Roland.md"
-      },
-      {
-        "link": "Bam",
-        "relativePath": "Players/Port Au Prince/Bam.md"
-      },
-      {
-        "link": "Boom",
-        "relativePath": "Players/Port Au Prince/Boom.md"
-      },
-      {
-        "link": "Doxx",
-        "relativePath": "Players/Port Au Prince/Doxx.md"
-      },
-      {
-        "link": "Arcanoarchaelogist",
-        "relativePath": "Players/Port Au Prince/Arcanoarchaelogist.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Boom",
-    "relativePath": "Players/Port Au Prince/Boom.md",
-    "backlinks": [
-      {
-        "fileName": "Pirate Group",
-        "link": "Boom",
-        "relativePath": "Players/Port Au Prince/Pirate Group.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Bam",
-    "relativePath": "Players/Port Au Prince/Bam.md",
-    "backlinks": [
-      {
-        "fileName": "Pirate Group",
-        "link": "Bam",
-        "relativePath": "Players/Port Au Prince/Pirate Group.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Arcanoarchaelogist",
-    "relativePath": "Players/Port Au Prince/Arcanoarchaelogist.md",
-    "backlinks": [
-      {
-        "fileName": "Pirate Group",
-        "link": "Arcanoarchaelogist",
-        "relativePath": "Players/Port Au Prince/Pirate Group.md"
       }
     ]
   },
@@ -2061,6 +2300,57 @@
         "fileName": "Litehouse Industries",
         "link": "Nightowl",
         "relativePath": "AA Corps/Litehouse Industries.md"
+      },
+      {
+        "fileName": "Litehouse Industries",
+        "link": "Nightowl",
+        "relativePath": "AA Corps/Litehouse Industries.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Elfo",
+    "relativePath": "Players/London/Elfo.md",
+    "backlinks": [
+      {
+        "fileName": "Livia Davis",
+        "link": "Elfo",
+        "relativePath": "NPCs/Neutral/Horizon/Livia Davis.md"
+      },
+      {
+        "fileName": "M.H. Institue of Neuroscience",
+        "link": "Elfo",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+      },
+      {
+        "fileName": "Mercea Conglomerate",
+        "link": "Elfo",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate.md"
+      },
+      {
+        "fileName": "Mercea Conglomerate",
+        "link": "Elfo",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate.md"
+      },
+      {
+        "fileName": "Mercea Conglomerate",
+        "link": "Elfo",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Elfo",
+        "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "Litehouse Industries",
+        "link": "Elfo",
+        "relativePath": "AA Corps/Litehouse Industries.md"
+      },
+      {
+        "fileName": "Litehouse Industries",
+        "link": "Elfo",
+        "relativePath": "AA Corps/Litehouse Industries.md"
       }
     ]
   },
@@ -2091,193 +2381,6 @@
     ]
   },
   {
-    "fileName": "Triage Black",
-    "relativePath": "Players/Morocco/Triage Black.md",
-    "backlinks": [
-      {
-        "fileName": "Kisouma",
-        "link": "triage black",
-        "relativePath": "Players/Morocco/Kisouma.md"
-      },
-      {
-        "fileName": "Livia Davis",
-        "link": "Triage Black",
-        "relativePath": "NPCs/Neutral/Horizon/Livia Davis.md"
-      },
-      {
-        "fileName": "Morocco Team",
-        "link": "Triage Black",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Triage Black",
-        "relativePath": "Homepage.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Triage Black",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Titania",
-    "relativePath": "Players/Morocco/Titania.md",
-    "backlinks": [
-      {
-        "fileName": "22-4-24",
-        "link": "Titania",
-        "relativePath": "Sunday Game notes/22-4-24.md"
-      },
-      {
-        "fileName": "22-4-24",
-        "link": "Titania",
-        "relativePath": "Sunday Game notes/22-4-24.md",
-        "displayText": "titania"
-      },
-      {
-        "fileName": "Corvus",
-        "link": "Titania",
-        "relativePath": "Players/Morocco/Corvus.md"
-      },
-      {
-        "fileName": "Corvus",
-        "link": "Titania",
-        "relativePath": "Players/Morocco/Corvus.md"
-      },
-      {
-        "fileName": "Livia Davis",
-        "link": "Titania",
-        "relativePath": "NPCs/Neutral/Horizon/Livia Davis.md"
-      },
-      {
-        "fileName": "Morocco Team",
-        "link": "Titania",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Titania",
-        "relativePath": "Homepage.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Titania",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Kisouma",
-    "relativePath": "Players/Morocco/Kisouma.md",
-    "links": [
-      {
-        "link": "corvus",
-        "relativePath": "Players/Morocco/Corvus.md"
-      },
-      {
-        "link": "triage black",
-        "relativePath": "Players/Morocco/Triage Black.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Corvus",
-        "link": "Kisouma",
-        "relativePath": "Players/Morocco/Corvus.md"
-      },
-      {
-        "fileName": "Livia Davis",
-        "link": "Kisouma",
-        "relativePath": "NPCs/Neutral/Horizon/Livia Davis.md",
-        "displayText": "KiKi"
-      },
-      {
-        "fileName": "Morocco Team",
-        "link": "Kisouma",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Kisouma",
-        "relativePath": "Homepage.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Kisouma",
-        "relativePath": "Homepage.md",
-        "displayText": "KiKi"
-      }
-    ]
-  },
-  {
-    "fileName": "Thirteen",
-    "relativePath": "Players/Morocco/Thirteen.md",
-    "backlinks": [
-      {
-        "fileName": "Morocco Team",
-        "link": "Thirteen",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Thirteen",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Corvus",
-    "relativePath": "Players/Morocco/Corvus.md",
-    "links": [
-      {
-        "link": "Titania",
-        "relativePath": "Players/Morocco/Titania.md"
-      },
-      {
-        "link": "Titania",
-        "relativePath": "Players/Morocco/Titania.md"
-      },
-      {
-        "link": "Kisouma",
-        "relativePath": "Players/Morocco/Kisouma.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Kisouma",
-        "link": "corvus",
-        "relativePath": "Players/Morocco/Kisouma.md"
-      },
-      {
-        "fileName": "Livia Davis",
-        "link": "Corvus",
-        "relativePath": "NPCs/Neutral/Horizon/Livia Davis.md"
-      },
-      {
-        "fileName": "Sammy",
-        "link": "Corvus",
-        "relativePath": "NPCs/Friendly/London/Sammy.md"
-      },
-      {
-        "fileName": "Morocco Team",
-        "link": "Corvus",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Corvus",
-        "relativePath": "Homepage.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Corvus",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
     "fileName": "Walker",
     "relativePath": "Players/Front Range Consulting/Walker.md",
     "backlinks": [
@@ -2289,23 +2392,23 @@
     ]
   },
   {
-    "fileName": "Marshal",
-    "relativePath": "Players/Front Range Consulting/Marshal.md",
-    "backlinks": [
-      {
-        "fileName": "Front Range Consulting",
-        "link": "Marshal",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
-      }
-    ]
-  },
-  {
     "fileName": "Security",
     "relativePath": "Players/Front Range Consulting/Security.md",
     "backlinks": [
       {
         "fileName": "Front Range Consulting",
         "link": "Security",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Marshal",
+    "relativePath": "Players/Front Range Consulting/Marshal.md",
+    "backlinks": [
+      {
+        "fileName": "Front Range Consulting",
+        "link": "Marshal",
         "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
       }
     ]
@@ -2334,46 +2437,6 @@
         "fileName": "Denver Team",
         "link": "Arcane",
         "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Tanka",
-    "relativePath": "Players/Germany(Sunday)/Tanka.md",
-    "headings": [
-      {
-        "heading": "Corporate Ties",
-        "level": 3
-      },
-      {
-        "heading": "Status",
-        "level": 3
-      },
-      {
-        "heading": "Contacts",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Marko Wirth",
-        "relativePath": "NPCs/Friendly/Germany/Marko Wirth.md"
-      },
-      {
-        "link": "Reinhold Wulf",
-        "relativePath": "NPCs/Friendly/Germany/Reinhold Wulf.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Berlin Team",
-        "link": "Tanka",
-        "relativePath": "Players/Berlin Team.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Tanka",
-        "relativePath": "Homepage.md"
       }
     ]
   },
@@ -2432,6 +2495,46 @@
     ]
   },
   {
+    "fileName": "Tanka",
+    "relativePath": "Players/Germany(Sunday)/Tanka.md",
+    "headings": [
+      {
+        "heading": "Corporate Ties",
+        "level": 3
+      },
+      {
+        "heading": "Status",
+        "level": 3
+      },
+      {
+        "heading": "Contacts",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Marko Wirth",
+        "relativePath": "NPCs/Friendly/Germany/Marko Wirth.md"
+      },
+      {
+        "link": "Reinhold Wulf",
+        "relativePath": "NPCs/Friendly/Germany/Reinhold Wulf.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Berlin Team",
+        "link": "Tanka",
+        "relativePath": "Players/Berlin Team.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Tanka",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
     "fileName": "Jericho",
     "relativePath": "Players/Germany(Sunday)/Jericho.md",
     "headings": [
@@ -2476,6 +2579,46 @@
       {
         "fileName": "Homepage",
         "link": "Jericho",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Dok",
+    "relativePath": "Players/Germany(Sunday)/Dok.md",
+    "headings": [
+      {
+        "heading": "Corporate Ties",
+        "level": 3
+      },
+      {
+        "heading": "Status",
+        "level": 3
+      },
+      {
+        "heading": "Contacts",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Salih Meier",
+        "relativePath": "NPCs/Friendly/Germany/Salih Meier.md"
+      },
+      {
+        "link": "Reinald Neudorf",
+        "relativePath": "NPCs/Friendly/Germany/Reinald Neudorf.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Berlin Team",
+        "link": "Dok",
+        "relativePath": "Players/Berlin Team.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Dok",
         "relativePath": "Homepage.md"
       }
     ]
@@ -2588,46 +2731,6 @@
     ]
   },
   {
-    "fileName": "Dok",
-    "relativePath": "Players/Germany(Sunday)/Dok.md",
-    "headings": [
-      {
-        "heading": "Corporate Ties",
-        "level": 3
-      },
-      {
-        "heading": "Status",
-        "level": 3
-      },
-      {
-        "heading": "Contacts",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Salih Meier",
-        "relativePath": "NPCs/Friendly/Germany/Salih Meier.md"
-      },
-      {
-        "link": "Reinald Neudorf",
-        "relativePath": "NPCs/Friendly/Germany/Reinald Neudorf.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Berlin Team",
-        "link": "Dok",
-        "relativePath": "Players/Berlin Team.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Dok",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
     "fileName": "Angel",
     "relativePath": "Players/Germany(Sunday)/Angel.md",
     "headings": [
@@ -2715,6 +2818,12 @@
     ],
     "backlinks": [
       {
+        "fileName": "22-8-14",
+        "link": "Berlin Team",
+        "relativePath": "Sunday Game notes/22-8-14.md",
+        "displayText": "Berlin Crew"
+      },
+      {
         "fileName": "22-9-25",
         "link": "Berlin Team",
         "relativePath": "Sunday Game notes/22-9-25.md",
@@ -2724,12 +2833,6 @@
         "fileName": "22-9-11",
         "link": "Berlin Team",
         "relativePath": "Sunday Game notes/22-9-11.md",
-        "displayText": "Berlin Crew"
-      },
-      {
-        "fileName": "22-8-14",
-        "link": "Berlin Team",
-        "relativePath": "Sunday Game notes/22-8-14.md",
         "displayText": "Berlin Crew"
       },
       {
@@ -2759,8 +2862,29 @@
       {
         "fileName": "22-10-23",
         "link": "Berlin Team",
-        "relativePath": "GM Info/games/22-10-23.md",
+        "relativePath": "Sunday Game notes/22-10-23.md",
         "displayText": "Berlin Crew"
+      }
+    ]
+  },
+  {
+    "fileName": "Alley Cat",
+    "relativePath": "Players/Dead Characters/Alley Cat.md",
+    "backlinks": [
+      {
+        "fileName": "Livia Davis",
+        "link": "Alley Cat",
+        "relativePath": "NPCs/Neutral/Horizon/Livia Davis.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Alley Cat",
+        "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Alley Cat",
+        "relativePath": "Homepage.md"
       }
     ]
   },
@@ -2816,6 +2940,16 @@
     ]
   },
   {
+    "fileName": "Sam",
+    "relativePath": "NPCs/Unfriendly/Sam.md",
+    "links": [
+      {
+        "link": "Rainbow Corp",
+        "relativePath": "Lighthouse Industries/Rainbow Corp.md"
+      }
+    ]
+  },
+  {
     "fileName": "Sand Worm",
     "relativePath": "NPCs/Unfriendly/Sand Worm.md",
     "links": [
@@ -2833,27 +2967,6 @@
         "fileName": "Black Monkey Syndicate",
         "link": "Sand Worm",
         "relativePath": "Crime Orgs/Black Monkey Syndicate.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Sam",
-    "relativePath": "NPCs/Unfriendly/Sam.md",
-    "links": [
-      {
-        "link": "Rainbow Corp",
-        "relativePath": "Lighthouse Industries/Rainbow Corp.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Neopolitan",
-    "relativePath": "NPCs/Unfriendly/Neopolitan.md",
-    "backlinks": [
-      {
-        "fileName": "Roman Torchwick",
-        "link": "Neopolitan",
-        "relativePath": "NPCs/Unfriendly/Roman Torchwick.md"
       }
     ]
   },
@@ -2897,7 +3010,7 @@
       },
       {
         "link": "Myrr",
-        "relativePath": "Players/Old Characters/Myrr.md"
+        "relativePath": "Players/Morocco/Myrr.md"
       },
       {
         "link": "Helix",
@@ -2905,7 +3018,18 @@
       },
       {
         "link": "Myrr",
-        "relativePath": "Players/Old Characters/Myrr.md"
+        "relativePath": "Players/Morocco/Myrr.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Neopolitan",
+    "relativePath": "NPCs/Unfriendly/Neopolitan.md",
+    "backlinks": [
+      {
+        "fileName": "Roman Torchwick",
+        "link": "Neopolitan",
+        "relativePath": "NPCs/Unfriendly/Roman Torchwick.md"
       }
     ]
   },
@@ -2980,6 +3104,20 @@
     ]
   },
   {
+    "fileName": "Inhabaited non-neutonian cube",
+    "relativePath": "NPCs/Unfriendly/Inhabaited non-neutonian cube.md",
+    "links": [
+      {
+        "link": "Black Monkey Syndicate",
+        "relativePath": "Crime Orgs/Black Monkey Syndicate.md"
+      },
+      {
+        "link": "Djinn",
+        "relativePath": "Country Entities/Djinn.md"
+      }
+    ]
+  },
+  {
     "fileName": "Dice",
     "relativePath": "NPCs/Unfriendly/Dice.md",
     "links": [
@@ -2998,20 +3136,6 @@
         "fileName": "Aleadar",
         "link": "Dice",
         "relativePath": "NPCs/Unfriendly/Aleadar.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Inhabaited non-neutonian cube",
-    "relativePath": "NPCs/Unfriendly/Inhabaited non-neutonian cube.md",
-    "links": [
-      {
-        "link": "Black Monkey Syndicate",
-        "relativePath": "Crime Orgs/Black Monkey Syndicate.md"
-      },
-      {
-        "link": "Djinn",
-        "relativePath": "Country Entities/Djinn.md"
       }
     ]
   },
@@ -3052,747 +3176,6 @@
     ]
   },
   {
-    "fileName": "Tom Jones",
-    "relativePath": "NPCs/Neutral/Tom Jones.md",
-    "backlinks": [
-      {
-        "fileName": "Homepage",
-        "link": "Tom Jones",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Joe Little Bear",
-    "relativePath": "NPCs/Neutral/Joe Little Bear.md",
-    "backlinks": [
-      {
-        "fileName": "Homepage",
-        "link": "Joe Little Bear",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Evelyn Prescott",
-    "relativePath": "NPCs/Neutral/Evelyn Prescott.md",
-    "backlinks": [
-      {
-        "fileName": "Homepage",
-        "link": "Evelyn Prescott",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Ushi Bido",
-    "relativePath": "NPCs/Neutral/Seattle/Ushi Bido.md",
-    "headings": [
-      {
-        "heading": "Relationships",
-        "level": 4
-      },
-      {
-        "heading": "ex-wife",
-        "level": 5
-      },
-      {
-        "heading": "Family",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Cat",
-        "relativePath": "Players/Saturday/Cat.md"
-      },
-      {
-        "link": "Hitsuki Cho",
-        "displayText": "Cho",
-        "relativePath": "NPCs/Friendly/Seattle/Hitsuki Cho.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Cat",
-        "link": "Ushi Bido",
-        "relativePath": "Players/Saturday/Cat.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Weiss",
-    "relativePath": "NPCs/Neutral/Morocco/Weiss.md",
-    "links": [
-      {
-        "link": "Djinn",
-        "relativePath": "Country Entities/Djinn.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Djinn",
-        "link": "Weiss",
-        "relativePath": "Country Entities/Djinn.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Ruby",
-    "relativePath": "NPCs/Neutral/Morocco/Ruby.md",
-    "links": [
-      {
-        "link": "Djinn",
-        "relativePath": "Country Entities/Djinn.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Djinn",
-        "link": "Ruby",
-        "relativePath": "Country Entities/Djinn.md"
-      }
-    ]
-  },
-  {
-    "fileName": "David Johnson",
-    "relativePath": "NPCs/Neutral/Morocco/David Johnson.md",
-    "tags": [
-      "denver",
-      "fixer"
-    ],
-    "links": [
-      {
-        "link": "Ares",
-        "relativePath": "AAA Corps/Ares.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Commander Hamal ibn Halabi",
-    "relativePath": "NPCs/Neutral/Morocco/Commander Hamal ibn Halabi.md",
-    "links": [
-      {
-        "link": "Djinn",
-        "displayText": "djinn",
-        "relativePath": "Country Entities/Djinn.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Djinn",
-        "link": "Commander Hamal ibn Halabi",
-        "relativePath": "Country Entities/Djinn.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Blake",
-    "relativePath": "NPCs/Neutral/Morocco/Blake.md",
-    "links": [
-      {
-        "link": "Djinn",
-        "relativePath": "Country Entities/Djinn.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Djinn",
-        "link": "Blake",
-        "relativePath": "Country Entities/Djinn.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Rada (Dead)",
-    "relativePath": "NPCs/Neutral/Denver/Rada (Dead).md",
-    "links": [
-      {
-        "link": "Drag",
-        "displayText": "Denver/Drag",
-        "relativePath": "NPCs/Neutral/Denver/Drag.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Puck",
-    "relativePath": "NPCs/Neutral/Denver/Puck.md",
-    "backlinks": [
-      {
-        "fileName": "Cat",
-        "link": "Puck",
-        "relativePath": "Players/Saturday/Cat.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Puck",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Perri",
-    "relativePath": "NPCs/Neutral/Denver/Perri.md",
-    "links": [
-      {
-        "link": "Denver Nexus",
-        "relativePath": "Locations/FRFZ/Denver Nexus.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Cat",
-        "link": "Perri",
-        "relativePath": "Players/Saturday/Cat.md"
-      },
-      {
-        "fileName": "Denver Nexus",
-        "link": "Perri",
-        "relativePath": "Locations/FRFZ/Denver Nexus.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Perri",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Old man",
-    "relativePath": "NPCs/Neutral/Denver/Old man.md",
-    "links": [
-      {
-        "link": "puddin",
-        "displayText": "../Horizon/puddin",
-        "relativePath": "NPCs/Neutral/Horizon/puddin.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "22-1-2",
-        "link": "Old man",
-        "relativePath": "Saturday Game notes/22-1-2.md",
-        "displayText": "Old Man"
-      },
-      {
-        "fileName": "puddin",
-        "link": "Old man",
-        "relativePath": "NPCs/Neutral/Horizon/puddin.md",
-        "displayText": "Denver/Old man"
-      }
-    ]
-  },
-  {
-    "fileName": "Green",
-    "relativePath": "NPCs/Neutral/Denver/Green.md",
-    "links": [
-      {
-        "link": "Rainbow Corp",
-        "relativePath": "Lighthouse Industries/Rainbow Corp.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Drag",
-    "relativePath": "NPCs/Neutral/Denver/Drag.md",
-    "links": [
-      {
-        "link": "Ghostwalker",
-        "relativePath": "NPCs/Friendly/Denver/Ghostwalker.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Rada (Dead)",
-        "link": "Drag",
-        "relativePath": "NPCs/Neutral/Denver/Rada (Dead).md",
-        "displayText": "Denver/Drag"
-      }
-    ]
-  },
-  {
-    "fileName": "Colonel Bennet",
-    "relativePath": "NPCs/Neutral/Denver/Colonel Bennet.md",
-    "backlinks": [
-      {
-        "fileName": "Ghostwalker",
-        "link": "Colonel Bennet",
-        "relativePath": "NPCs/Friendly/Denver/Ghostwalker.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Colonel Bennet",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Dragon Council",
-    "relativePath": "NPCs/Neutral/Dragon Council.md",
-    "backlinks": [
-      {
-        "fileName": "22-3-26",
-        "link": "Dragon Council",
-        "relativePath": "Saturday Game notes/22-3-26.md"
-      },
-      {
-        "fileName": "22-2-26",
-        "link": "Dragon Council",
-        "relativePath": "Saturday Game notes/22-2-26.md"
-      },
-      {
-        "fileName": "Cat",
-        "link": "Dragon Council",
-        "relativePath": "Players/Saturday/Cat.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Dragon Council",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Sunny",
-    "relativePath": "NPCs/Neutral/Slip's runners/Sunny.md",
-    "backlinks": [
-      {
-        "fileName": "22-6-4",
-        "link": "Sunny",
-        "relativePath": "Saturday Game notes/22-6-4.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Slag",
-    "relativePath": "NPCs/Neutral/Slip's runners/Slag.md",
-    "backlinks": [
-      {
-        "fileName": "22-6-4",
-        "link": "Slag",
-        "relativePath": "Saturday Game notes/22-6-4.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Princess",
-    "relativePath": "NPCs/Neutral/Slip's runners/Princess.md",
-    "backlinks": [
-      {
-        "fileName": "22-6-4",
-        "link": "Princess",
-        "relativePath": "Saturday Game notes/22-6-4.md"
-      }
-    ]
-  },
-  {
-    "fileName": "good father",
-    "relativePath": "NPCs/Neutral/Slip's runners/good father.md",
-    "backlinks": [
-      {
-        "fileName": "22-6-4",
-        "link": "good father",
-        "relativePath": "Saturday Game notes/22-6-4.md",
-        "displayText": "Good Father"
-      }
-    ]
-  },
-  {
-    "fileName": "Gip",
-    "relativePath": "NPCs/Neutral/Slip's runners/Gip.md",
-    "backlinks": [
-      {
-        "fileName": "22-6-4",
-        "link": "Gip",
-        "relativePath": "Saturday Game notes/22-6-4.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Creed",
-    "relativePath": "NPCs/Neutral/Slip's runners/Creed.md",
-    "backlinks": [
-      {
-        "fileName": "22-6-4",
-        "link": "Creed",
-        "relativePath": "Saturday Game notes/22-6-4.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Big Sky",
-    "relativePath": "NPCs/Neutral/Slip's runners/Big Sky.md",
-    "backlinks": [
-      {
-        "fileName": "22-6-4",
-        "link": "Big Sky",
-        "relativePath": "Saturday Game notes/22-6-4.md"
-      }
-    ]
-  },
-  {
-    "fileName": "blade",
-    "relativePath": "NPCs/Neutral/Slip's runners/blade.md",
-    "backlinks": [
-      {
-        "fileName": "22-6-4",
-        "link": "blade",
-        "relativePath": "Saturday Game notes/22-6-4.md",
-        "displayText": "Blade"
-      }
-    ]
-  },
-  {
-    "fileName": "Big Mac",
-    "relativePath": "NPCs/Neutral/Slip's runners/Big Mac.md",
-    "backlinks": [
-      {
-        "fileName": "22-6-4",
-        "link": "Big Mac",
-        "relativePath": "Saturday Game notes/22-6-4.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Big Mac",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Begger",
-    "relativePath": "NPCs/Neutral/Slip's runners/Begger.md",
-    "backlinks": [
-      {
-        "fileName": "22-6-4",
-        "link": "Begger",
-        "relativePath": "Saturday Game notes/22-6-4.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Noemi Lombardo",
-    "relativePath": "NPCs/Neutral/Noemi Lombardo.md",
-    "backlinks": [
-      {
-        "fileName": "22-9-24",
-        "link": "Noemi Lombardo",
-        "relativePath": "Saturday Game notes/22-9-24.md"
-      },
-      {
-        "fileName": "22-10-8",
-        "link": "Noemi Lombardo",
-        "relativePath": "Saturday Game notes/22-10-8.md"
-      },
-      {
-        "fileName": "Simone Roussel",
-        "link": "Noemi Lombardo",
-        "relativePath": "NPCs/Unfriendly/Simone Roussel.md",
-        "displayText": "../Neutral/Noemi Lombardo"
-      }
-    ]
-  },
-  {
-    "fileName": "Nadja Davier",
-    "relativePath": "NPCs/Neutral/Nadja Davier.md",
-    "backlinks": [
-      {
-        "fileName": "Cat",
-        "link": "Nadja Davier",
-        "relativePath": "Players/Saturday/Cat.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Nadja Davier",
-        "relativePath": "Homepage.md"
-      },
-      {
-        "fileName": "Draco Foundation",
-        "link": "Nadja Davier",
-        "relativePath": "AA Corps/Draco Foundation.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Ma-u",
-    "relativePath": "NPCs/Neutral/Ma-u.md",
-    "links": [
-      {
-        "link": "Slip",
-        "relativePath": "NPCs/Friendly/Denver/Slip.md"
-      },
-      {
-        "link": "Palau",
-        "relativePath": "Locations/Palau.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Kaleidoscope",
-    "relativePath": "NPCs/Neutral/Kaleidoscope.md",
-    "backlinks": [
-      {
-        "fileName": "Homepage",
-        "link": "Kaleidoscope",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Kai",
-    "relativePath": "NPCs/Neutral/Kai.md",
-    "links": [
-      {
-        "link": "Incubus",
-        "relativePath": "Players/Saturday/Incubus.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "21-12-18",
-        "link": "Kai",
-        "relativePath": "Saturday Game notes/21-12-18.md"
-      }
-    ]
-  },
-  {
-    "fileName": "puddin",
-    "relativePath": "NPCs/Neutral/Horizon/puddin.md",
-    "links": [
-      {
-        "link": "Old man",
-        "displayText": "Denver/Old man",
-        "relativePath": "NPCs/Neutral/Denver/Old man.md"
-      },
-      {
-        "link": "Allen Helmut",
-        "relativePath": "NPCs/Neutral/Allen Helmut.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Old man",
-        "link": "puddin",
-        "relativePath": "NPCs/Neutral/Denver/Old man.md",
-        "displayText": "../Horizon/puddin"
-      },
-      {
-        "fileName": "Allen Helmut",
-        "link": "puddin",
-        "relativePath": "NPCs/Neutral/Allen Helmut.md",
-        "displayText": "Horizon/puddin"
-      }
-    ]
-  },
-  {
-    "fileName": "Livia Davis",
-    "relativePath": "NPCs/Neutral/Horizon/Livia Davis.md",
-    "headings": [
-      {
-        "heading": "Runners",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Alley Cat",
-        "relativePath": "Players/Old Characters/Alley Cat.md"
-      },
-      {
-        "link": "Titania",
-        "relativePath": "Players/Morocco/Titania.md"
-      },
-      {
-        "link": "Spyder",
-        "relativePath": "Players/Saturday/Spyder.md"
-      },
-      {
-        "link": "Zer0",
-        "relativePath": "Players/London/Zer0.md"
-      },
-      {
-        "link": "Nightowl",
-        "relativePath": "Players/London/Nightowl.md"
-      },
-      {
-        "link": "Corvus",
-        "relativePath": "Players/Morocco/Corvus.md"
-      },
-      {
-        "link": "Myrr",
-        "relativePath": "Players/Old Characters/Myrr.md"
-      },
-      {
-        "link": "Elfo",
-        "relativePath": "Players/Old Characters/Elfo.md"
-      },
-      {
-        "link": "Kisouma",
-        "displayText": "KiKi",
-        "relativePath": "Players/Morocco/Kisouma.md"
-      },
-      {
-        "link": "Triage Black",
-        "relativePath": "Players/Morocco/Triage Black.md"
-      },
-      {
-        "link": "Vice",
-        "relativePath": "Players/Old Characters/Vice.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Homepage",
-        "link": "Livia Davis",
-        "relativePath": "Homepage.md"
-      },
-      {
-        "fileName": "Horizon",
-        "link": "Livia Davis",
-        "relativePath": "AAA Corps/Horizon/Horizon.md",
-        "displayText": "LIvia Davis"
-      }
-    ]
-  },
-  {
-    "fileName": "Beau Monet",
-    "relativePath": "NPCs/Neutral/Beau Monet.md",
-    "links": [
-      {
-        "link": "Montreal",
-        "relativePath": "Locations/Montreal.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "22-3-26",
-        "link": "Beau Monet",
-        "relativePath": "Saturday Game notes/22-3-26.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Galahad",
-    "relativePath": "NPCs/Neutral/Avalon/Galahad.md",
-    "backlinks": [
-      {
-        "fileName": "22-4-24",
-        "link": "Galahad",
-        "relativePath": "Sunday Game notes/22-4-24.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Deimos",
-    "relativePath": "NPCs/Neutral/Ares/Deimos.md",
-    "links": [
-      {
-        "link": "Ares",
-        "relativePath": "AAA Corps/Ares.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Cat",
-        "link": "Deimos",
-        "relativePath": "Players/Saturday/Cat.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Tia Micheals",
-    "relativePath": "NPCs/Neutral/Ares/Tia Micheals.md",
-    "links": [
-      {
-        "link": "Ares",
-        "relativePath": "AAA Corps/Ares.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Prue Kress",
-    "relativePath": "NPCs/Neutral/Ares/Prue Kress.md",
-    "links": [
-      {
-        "link": "Ares",
-        "relativePath": "AAA Corps/Ares.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Nash Brand",
-    "relativePath": "NPCs/Neutral/Ares/Nash Brand.md",
-    "links": [
-      {
-        "link": "Ares",
-        "relativePath": "AAA Corps/Ares.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Jonathon Michaels",
-    "relativePath": "NPCs/Neutral/Ares/Jonathon Michaels.md",
-    "links": [
-      {
-        "link": "Ares",
-        "relativePath": "AAA Corps/Ares.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Lance Barrymore",
-    "relativePath": "NPCs/Neutral/Ares/Lance Barrymore.md",
-    "links": [
-      {
-        "link": "Ares",
-        "relativePath": "AAA Corps/Ares.md"
-      },
-      {
-        "link": "Ares",
-        "relativePath": "AAA Corps/Ares.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Amera",
-    "relativePath": "NPCs/Neutral/Ares/Amera.md",
-    "links": [
-      {
-        "link": "Ares",
-        "relativePath": "AAA Corps/Ares.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Homepage",
-        "link": "Amera",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Allen Helmut",
-    "relativePath": "NPCs/Neutral/Allen Helmut.md",
-    "links": [
-      {
-        "link": "puddin",
-        "displayText": "Horizon/puddin",
-        "relativePath": "NPCs/Neutral/Horizon/puddin.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "22-1-2",
-        "link": "Allen Helmut",
-        "relativePath": "Saturday Game notes/22-1-2.md"
-      },
-      {
-        "fileName": "puddin",
-        "link": "Allen Helmut",
-        "relativePath": "NPCs/Neutral/Horizon/puddin.md"
-      }
-    ]
-  },
-  {
     "fileName": "Olivia",
     "relativePath": "NPCs/Friendly/Olivia.md",
     "backlinks": [
@@ -3800,6 +3183,89 @@
         "fileName": "M.H. Institue of Neuroscience",
         "link": "Olivia",
         "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Helix",
+    "relativePath": "NPCs/Friendly/Morocco/Helix.md",
+    "links": [
+      {
+        "link": "Helix",
+        "relativePath": "NPCs/Friendly/Morocco/Helix.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "22-2-27",
+        "link": "Helix",
+        "relativePath": "Sunday Game notes/22-2-27.md"
+      },
+      {
+        "fileName": "Cat",
+        "link": "Helix",
+        "relativePath": "Players/Saturday/Cat.md"
+      },
+      {
+        "fileName": "Roman Torchwick",
+        "link": "Helix",
+        "relativePath": "NPCs/Unfriendly/Roman Torchwick.md"
+      },
+      {
+        "fileName": "Roman Torchwick",
+        "link": "Helix",
+        "relativePath": "NPCs/Unfriendly/Roman Torchwick.md"
+      },
+      {
+        "fileName": "Roman Torchwick",
+        "link": "Helix",
+        "relativePath": "NPCs/Unfriendly/Roman Torchwick.md"
+      },
+      {
+        "fileName": "Roman Torchwick",
+        "link": "Helix",
+        "relativePath": "NPCs/Unfriendly/Roman Torchwick.md"
+      },
+      {
+        "fileName": "Casablanca",
+        "link": "Helix",
+        "relativePath": "Locations/Morocco/Casablanca.md"
+      },
+      {
+        "fileName": "Special Interests Department",
+        "link": "Helix",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
+      },
+      {
+        "fileName": "Morocco Team",
+        "link": "Helix",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Helix",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Lucky",
+    "relativePath": "NPCs/Friendly/Las Vegas/Lucky.md",
+    "backlinks": [
+      {
+        "fileName": "Spyder",
+        "link": "Lucky",
+        "relativePath": "Players/Saturday/Spyder.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Lucky",
+        "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Lucky",
+        "relativePath": "Homepage.md"
       }
     ]
   },
@@ -3897,68 +3363,6 @@
       {
         "fileName": "Homepage",
         "link": "Canis",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Helix",
-    "relativePath": "NPCs/Friendly/Morocco/Helix.md",
-    "links": [
-      {
-        "link": "Helix",
-        "relativePath": "NPCs/Friendly/Morocco/Helix.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "22-2-27",
-        "link": "Helix",
-        "relativePath": "Sunday Game notes/22-2-27.md"
-      },
-      {
-        "fileName": "Cat",
-        "link": "Helix",
-        "relativePath": "Players/Saturday/Cat.md"
-      },
-      {
-        "fileName": "Roman Torchwick",
-        "link": "Helix",
-        "relativePath": "NPCs/Unfriendly/Roman Torchwick.md"
-      },
-      {
-        "fileName": "Roman Torchwick",
-        "link": "Helix",
-        "relativePath": "NPCs/Unfriendly/Roman Torchwick.md"
-      },
-      {
-        "fileName": "Roman Torchwick",
-        "link": "Helix",
-        "relativePath": "NPCs/Unfriendly/Roman Torchwick.md"
-      },
-      {
-        "fileName": "Roman Torchwick",
-        "link": "Helix",
-        "relativePath": "NPCs/Unfriendly/Roman Torchwick.md"
-      },
-      {
-        "fileName": "Casablanca",
-        "link": "Helix",
-        "relativePath": "Locations/Morocco/Casablanca.md"
-      },
-      {
-        "fileName": "Special Interests Department",
-        "link": "Helix",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
-      },
-      {
-        "fileName": "Morocco Team",
-        "link": "Helix",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Helix",
         "relativePath": "Homepage.md"
       }
     ]
@@ -4110,22 +3514,37 @@
     ]
   },
   {
-    "fileName": "Lucky",
-    "relativePath": "NPCs/Friendly/Las Vegas/Lucky.md",
+    "fileName": "Blood Butterfly",
+    "relativePath": "NPCs/Friendly/France/Blood Butterfly.md",
+    "headings": [
+      {
+        "heading": "Stats",
+        "level": 4
+      },
+      {
+        "heading": "Relationships",
+        "level": 4
+      },
+      {
+        "heading": "Dating",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Incubus",
+        "relativePath": "Players/Saturday/Incubus.md"
+      }
+    ],
     "backlinks": [
       {
-        "fileName": "Spyder",
-        "link": "Lucky",
-        "relativePath": "Players/Saturday/Spyder.md"
+        "fileName": "Incubus",
+        "link": "Blood Butterfly",
+        "relativePath": "Players/Saturday/Incubus.md"
       },
       {
         "fileName": "Homepage",
-        "link": "Lucky",
-        "relativePath": "Homepage.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Lucky",
+        "link": "Blood Butterfly",
         "relativePath": "Homepage.md"
       }
     ]
@@ -4231,28 +3650,6 @@
     ]
   },
   {
-    "fileName": "Salih Meier",
-    "relativePath": "NPCs/Friendly/Germany/Salih Meier.md",
-    "headings": [
-      {
-        "heading": "Salih Meier",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Dok",
-        "link": "Salih Meier",
-        "relativePath": "Players/Germany(Sunday)/Dok.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Salih Meier",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
     "fileName": "Sascha Apfelbaum",
     "relativePath": "NPCs/Friendly/Germany/Sascha Apfelbaum.md",
     "headings": [
@@ -4302,26 +3699,24 @@
     ]
   },
   {
-    "fileName": "Reinhart (Templar) Gärtner",
-    "relativePath": "NPCs/Friendly/Germany/Reinhart (Templar) Gärtner.md",
+    "fileName": "Salih Meier",
+    "relativePath": "NPCs/Friendly/Germany/Salih Meier.md",
     "headings": [
       {
-        "heading": "Reinhart \"Templar\" Gärtner",
+        "heading": "Salih Meier",
         "level": 3
       }
     ],
     "backlinks": [
       {
-        "fileName": "Homepage",
-        "link": "Reinhart (Templar) Gärtner",
-        "relativePath": "Homepage.md",
-        "displayText": "Reinhart \"Templar\" Gärtner"
+        "fileName": "Dok",
+        "link": "Salih Meier",
+        "relativePath": "Players/Germany(Sunday)/Dok.md"
       },
       {
-        "fileName": "information",
-        "link": "Reinhart (Templar) Gärtner",
-        "relativePath": "GM Info/Germany/information.md",
-        "displayText": "Reinhart \"Templar\" Gärtner"
+        "fileName": "Homepage",
+        "link": "Salih Meier",
+        "relativePath": "Homepage.md"
       }
     ]
   },
@@ -4366,6 +3761,30 @@
         "fileName": "Homepage",
         "link": "Reinald Neudorf",
         "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Reinhart (Templar) Gärtner",
+    "relativePath": "NPCs/Friendly/Germany/Reinhart (Templar) Gärtner.md",
+    "headings": [
+      {
+        "heading": "Reinhart \"Templar\" Gärtner",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Homepage",
+        "link": "Reinhart (Templar) Gärtner",
+        "relativePath": "Homepage.md",
+        "displayText": "Reinhart \"Templar\" Gärtner"
+      },
+      {
+        "fileName": "information",
+        "link": "Reinhart (Templar) Gärtner",
+        "relativePath": "GM Info/Germany/information.md",
+        "displayText": "Reinhart \"Templar\" Gärtner"
       }
     ]
   },
@@ -4549,14 +3968,14 @@
     ],
     "backlinks": [
       {
-        "fileName": "22-9-11",
-        "link": "Immo Mauer",
-        "relativePath": "Sunday Game notes/22-9-11.md"
-      },
-      {
         "fileName": "22-8-14",
         "link": "Immo Mauer",
         "relativePath": "Sunday Game notes/22-8-14.md"
+      },
+      {
+        "fileName": "22-9-11",
+        "link": "Immo Mauer",
+        "relativePath": "Sunday Game notes/22-9-11.md"
       },
       {
         "fileName": "22-7-17",
@@ -4620,38 +4039,6 @@
     ]
   },
   {
-    "fileName": "Evangelia Kaufmann",
-    "relativePath": "NPCs/Friendly/Germany/Evangelia Kaufmann.md",
-    "headings": [
-      {
-        "heading": "Evangelia Kaufmann",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "22-7-17",
-        "link": "Evangelia Kaufmann",
-        "relativePath": "Sunday Game notes/22-7-17.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Evangelia Kaufmann",
-        "relativePath": "Homepage.md"
-      },
-      {
-        "fileName": "information",
-        "link": "Evangelia Kaufmann",
-        "relativePath": "GM Info/Germany/information.md"
-      },
-      {
-        "fileName": "22-10-23",
-        "link": "Evangelia Kaufmann",
-        "relativePath": "GM Info/games/22-10-23.md"
-      }
-    ]
-  },
-  {
     "fileName": "Giselle Von Ulbrecht",
     "relativePath": "NPCs/Friendly/Germany/Giselle Von Ulbrecht.md",
     "headings": [
@@ -4670,6 +4057,38 @@
         "fileName": "Homepage",
         "link": "Giselle Von Ulbrecht",
         "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Evangelia Kaufmann",
+    "relativePath": "NPCs/Friendly/Germany/Evangelia Kaufmann.md",
+    "headings": [
+      {
+        "heading": "Evangelia Kaufmann",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "22-7-17",
+        "link": "Evangelia Kaufmann",
+        "relativePath": "Sunday Game notes/22-7-17.md"
+      },
+      {
+        "fileName": "22-10-23",
+        "link": "Evangelia Kaufmann",
+        "relativePath": "Sunday Game notes/22-10-23.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Evangelia Kaufmann",
+        "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "information",
+        "link": "Evangelia Kaufmann",
+        "relativePath": "GM Info/Germany/information.md"
       }
     ]
   },
@@ -4789,13 +4208,9 @@
     ]
   },
   {
-    "fileName": "Blood Butterfly",
-    "relativePath": "NPCs/Friendly/France/Blood Butterfly.md",
+    "fileName": "Valentina Kwan",
+    "relativePath": "NPCs/Friendly/Denver/Valentina Kwan.md",
     "headings": [
-      {
-        "heading": "Stats",
-        "level": 4
-      },
       {
         "heading": "Relationships",
         "level": 4
@@ -4807,6 +4222,10 @@
     ],
     "links": [
       {
+        "link": "Incubus Club",
+        "relativePath": "Lighthouse Industries/Incubus Club.md"
+      },
+      {
         "link": "Incubus",
         "relativePath": "Players/Saturday/Incubus.md"
       }
@@ -4814,12 +4233,12 @@
     "backlinks": [
       {
         "fileName": "Incubus",
-        "link": "Blood Butterfly",
+        "link": "Valentina Kwan",
         "relativePath": "Players/Saturday/Incubus.md"
       },
       {
         "fileName": "Homepage",
-        "link": "Blood Butterfly",
+        "link": "Valentina Kwan",
         "relativePath": "Homepage.md"
       }
     ]
@@ -4897,63 +4316,6 @@
     ]
   },
   {
-    "fileName": "Valentina Kwan",
-    "relativePath": "NPCs/Friendly/Denver/Valentina Kwan.md",
-    "headings": [
-      {
-        "heading": "Relationships",
-        "level": 4
-      },
-      {
-        "heading": "Dating",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Incubus Club",
-        "relativePath": "Lighthouse Industries/Incubus Club.md"
-      },
-      {
-        "link": "Incubus",
-        "relativePath": "Players/Saturday/Incubus.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Incubus",
-        "link": "Valentina Kwan",
-        "relativePath": "Players/Saturday/Incubus.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Valentina Kwan",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Telenov",
-    "relativePath": "NPCs/Friendly/Denver/Telenov.md",
-    "backlinks": [
-      {
-        "fileName": "Cat",
-        "link": "Telenov",
-        "relativePath": "Players/Saturday/Cat.md"
-      },
-      {
-        "fileName": "Special Interests Department",
-        "link": "Telenov",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "Telenov",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
     "fileName": "Ulli",
     "relativePath": "NPCs/Friendly/Denver/Ulli.md",
     "links": [
@@ -5016,6 +4378,27 @@
     ]
   },
   {
+    "fileName": "Telenov",
+    "relativePath": "NPCs/Friendly/Denver/Telenov.md",
+    "backlinks": [
+      {
+        "fileName": "Cat",
+        "link": "Telenov",
+        "relativePath": "Players/Saturday/Cat.md"
+      },
+      {
+        "fileName": "Special Interests Department",
+        "link": "Telenov",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Telenov",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
     "fileName": "Steve",
     "relativePath": "NPCs/Friendly/Denver/Steve.md",
     "links": [
@@ -5048,18 +4431,24 @@
     ]
   },
   {
-    "fileName": "Slip",
-    "relativePath": "NPCs/Friendly/Denver/Slip.md",
+    "fileName": "Salena Boisvert",
+    "relativePath": "NPCs/Friendly/Denver/Salena Boisvert.md",
+    "links": [
+      {
+        "link": "1UP! Colfax",
+        "relativePath": "Lighthouse Industries/1UP!/1UP! Colfax.md"
+      }
+    ],
     "backlinks": [
       {
-        "fileName": "Ma-u",
-        "link": "Slip",
-        "relativePath": "NPCs/Neutral/Ma-u.md"
+        "fileName": "Cat",
+        "link": "Salena Boisvert",
+        "relativePath": "Players/Saturday/Cat.md"
       },
       {
-        "fileName": "Homepage",
-        "link": "Slip",
-        "relativePath": "Homepage.md"
+        "fileName": "Special Interests Department",
+        "link": "Salena Boisvert",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
       }
     ]
   },
@@ -5085,24 +4474,18 @@
     ]
   },
   {
-    "fileName": "Salena Boisvert",
-    "relativePath": "NPCs/Friendly/Denver/Salena Boisvert.md",
-    "links": [
-      {
-        "link": "1UP! Colfax",
-        "relativePath": "Lighthouse Industries/1UP!/1UP! Colfax.md"
-      }
-    ],
+    "fileName": "Slip",
+    "relativePath": "NPCs/Friendly/Denver/Slip.md",
     "backlinks": [
       {
-        "fileName": "Cat",
-        "link": "Salena Boisvert",
-        "relativePath": "Players/Saturday/Cat.md"
+        "fileName": "Ma-u",
+        "link": "Slip",
+        "relativePath": "NPCs/Neutral/Ma-u.md"
       },
       {
-        "fileName": "Special Interests Department",
-        "link": "Salena Boisvert",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
+        "fileName": "Homepage",
+        "link": "Slip",
+        "relativePath": "Homepage.md"
       }
     ]
   },
@@ -5241,18 +4624,43 @@
     ]
   },
   {
-    "fileName": "Nicholas Whitebird",
-    "relativePath": "NPCs/Friendly/Denver/Nicholas Whitebird.md",
+    "fileName": "Merlin",
+    "relativePath": "NPCs/Friendly/Denver/Merlin.md",
+    "links": [
+      {
+        "link": "1UP!",
+        "relativePath": "Lighthouse Industries/1UP!.md"
+      },
+      {
+        "link": "Cat",
+        "relativePath": "Players/Saturday/Cat.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "Cat",
-        "link": "Nicholas Whitebird",
+        "link": "Merlin",
         "relativePath": "Players/Saturday/Cat.md"
       },
       {
         "fileName": "Homepage",
-        "link": "Nicholas Whitebird",
+        "link": "Merlin",
         "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "Litehouse Industries",
+        "link": "Merlin",
+        "relativePath": "AA Corps/Litehouse Industries.md"
+      },
+      {
+        "fileName": "Litehouse Industries",
+        "link": "Merlin",
+        "relativePath": "AA Corps/Litehouse Industries.md"
+      },
+      {
+        "fileName": "Litehouse Industries",
+        "link": "Merlin",
+        "relativePath": "AA Corps/Litehouse Industries.md"
       }
     ]
   },
@@ -5286,6 +4694,11 @@
         "relativePath": "Players/Saturday/Incubus.md"
       },
       {
+        "fileName": "Incubus",
+        "link": "Mi Kwan",
+        "relativePath": "Players/Saturday/Incubus.md"
+      },
+      {
         "fileName": "Homepage",
         "link": "Mi Kwan",
         "relativePath": "Homepage.md"
@@ -5293,50 +4706,18 @@
     ]
   },
   {
-    "fileName": "Merlin",
-    "relativePath": "NPCs/Friendly/Denver/Merlin.md",
-    "links": [
-      {
-        "link": "1UP!",
-        "relativePath": "Lighthouse Industries/1UP!.md"
-      },
-      {
-        "link": "Cat",
-        "relativePath": "Players/Saturday/Cat.md"
-      }
-    ],
+    "fileName": "Nicholas Whitebird",
+    "relativePath": "NPCs/Friendly/Denver/Nicholas Whitebird.md",
     "backlinks": [
       {
         "fileName": "Cat",
-        "link": "Merlin",
+        "link": "Nicholas Whitebird",
         "relativePath": "Players/Saturday/Cat.md"
       },
       {
         "fileName": "Homepage",
-        "link": "Merlin",
+        "link": "Nicholas Whitebird",
         "relativePath": "Homepage.md"
-      },
-      {
-        "fileName": "Litehouse Industries",
-        "link": "Merlin",
-        "relativePath": "AA Corps/Litehouse Industries.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Meia",
-    "relativePath": "NPCs/Friendly/Denver/Meia.md",
-    "links": [
-      {
-        "link": "Swiss",
-        "relativePath": "Players/Saturday/Swiss.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Swiss",
-        "link": "Meia",
-        "relativePath": "Players/Saturday/Swiss.md"
       }
     ]
   },
@@ -5353,6 +4734,23 @@
       {
         "fileName": "Swiss",
         "link": "Leah",
+        "relativePath": "Players/Saturday/Swiss.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Meia",
+    "relativePath": "NPCs/Friendly/Denver/Meia.md",
+    "links": [
+      {
+        "link": "Swiss",
+        "relativePath": "Players/Saturday/Swiss.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Swiss",
+        "link": "Meia",
         "relativePath": "Players/Saturday/Swiss.md"
       }
     ]
@@ -5395,6 +4793,11 @@
         "fileName": "Homepage",
         "link": "Kalt",
         "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "Litehouse Industries",
+        "link": "Kalt",
+        "relativePath": "AA Corps/Litehouse Industries.md"
       }
     ]
   },
@@ -5539,11 +4942,6 @@
         "relativePath": "Players/Saturday/Cat.md"
       },
       {
-        "fileName": "Drag",
-        "link": "Ghostwalker",
-        "relativePath": "NPCs/Neutral/Denver/Drag.md"
-      },
-      {
         "fileName": "Ivy",
         "link": "Ghostwalker",
         "relativePath": "NPCs/Friendly/Denver/Ivy.md"
@@ -5559,9 +4957,41 @@
         "relativePath": "NPCs/Friendly/Denver/Blitz.md"
       },
       {
+        "fileName": "Drag",
+        "link": "Ghostwalker",
+        "relativePath": "NPCs/Neutral/Denver/Drag.md"
+      },
+      {
         "fileName": "Homepage",
         "link": "Ghostwalker",
         "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Hippocrates",
+    "relativePath": "NPCs/Friendly/Denver/Hippocrates.md",
+    "backlinks": [
+      {
+        "fileName": "Cat",
+        "link": "Hippocrates",
+        "relativePath": "Players/Saturday/Cat.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Hippocrates",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Coco",
+    "relativePath": "NPCs/Friendly/Denver/Coco.md",
+    "backlinks": [
+      {
+        "fileName": "Cat",
+        "link": "Coco",
+        "relativePath": "Players/Saturday/Cat.md"
       }
     ]
   },
@@ -5709,6 +5139,841 @@
     ]
   },
   {
+    "fileName": "Tom Jones",
+    "relativePath": "NPCs/Neutral/Tom Jones.md",
+    "backlinks": [
+      {
+        "fileName": "Homepage",
+        "link": "Tom Jones",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Toby Walker",
+    "relativePath": "NPCs/Neutral/Toby Walker.md",
+    "backlinks": [
+      {
+        "fileName": "22-11-5",
+        "link": "Toby Walker",
+        "relativePath": "Saturday Game notes/22-11-5.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Slag",
+    "relativePath": "NPCs/Neutral/Slip's runners/Slag.md",
+    "backlinks": [
+      {
+        "fileName": "22-6-4",
+        "link": "Slag",
+        "relativePath": "Saturday Game notes/22-6-4.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sunny",
+    "relativePath": "NPCs/Neutral/Slip's runners/Sunny.md",
+    "backlinks": [
+      {
+        "fileName": "22-6-4",
+        "link": "Sunny",
+        "relativePath": "Saturday Game notes/22-6-4.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Princess",
+    "relativePath": "NPCs/Neutral/Slip's runners/Princess.md",
+    "backlinks": [
+      {
+        "fileName": "22-6-4",
+        "link": "Princess",
+        "relativePath": "Saturday Game notes/22-6-4.md"
+      }
+    ]
+  },
+  {
+    "fileName": "good father",
+    "relativePath": "NPCs/Neutral/Slip's runners/good father.md",
+    "backlinks": [
+      {
+        "fileName": "22-6-4",
+        "link": "good father",
+        "relativePath": "Saturday Game notes/22-6-4.md",
+        "displayText": "Good Father"
+      }
+    ]
+  },
+  {
+    "fileName": "Gip",
+    "relativePath": "NPCs/Neutral/Slip's runners/Gip.md",
+    "backlinks": [
+      {
+        "fileName": "22-6-4",
+        "link": "Gip",
+        "relativePath": "Saturday Game notes/22-6-4.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Creed",
+    "relativePath": "NPCs/Neutral/Slip's runners/Creed.md",
+    "backlinks": [
+      {
+        "fileName": "22-6-4",
+        "link": "Creed",
+        "relativePath": "Saturday Game notes/22-6-4.md"
+      }
+    ]
+  },
+  {
+    "fileName": "blade",
+    "relativePath": "NPCs/Neutral/Slip's runners/blade.md",
+    "backlinks": [
+      {
+        "fileName": "22-6-4",
+        "link": "blade",
+        "relativePath": "Saturday Game notes/22-6-4.md",
+        "displayText": "Blade"
+      }
+    ]
+  },
+  {
+    "fileName": "Big Mac",
+    "relativePath": "NPCs/Neutral/Slip's runners/Big Mac.md",
+    "backlinks": [
+      {
+        "fileName": "22-6-4",
+        "link": "Big Mac",
+        "relativePath": "Saturday Game notes/22-6-4.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Big Mac",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Big Sky",
+    "relativePath": "NPCs/Neutral/Slip's runners/Big Sky.md",
+    "backlinks": [
+      {
+        "fileName": "22-6-4",
+        "link": "Big Sky",
+        "relativePath": "Saturday Game notes/22-6-4.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Begger",
+    "relativePath": "NPCs/Neutral/Slip's runners/Begger.md",
+    "backlinks": [
+      {
+        "fileName": "22-6-4",
+        "link": "Begger",
+        "relativePath": "Saturday Game notes/22-6-4.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Noemi Lombardo",
+    "relativePath": "NPCs/Neutral/Noemi Lombardo.md",
+    "backlinks": [
+      {
+        "fileName": "22-9-24",
+        "link": "Noemi Lombardo",
+        "relativePath": "Saturday Game notes/22-9-24.md"
+      },
+      {
+        "fileName": "22-10-8",
+        "link": "Noemi Lombardo",
+        "relativePath": "Saturday Game notes/22-10-8.md"
+      },
+      {
+        "fileName": "Simone Roussel",
+        "link": "Noemi Lombardo",
+        "relativePath": "NPCs/Unfriendly/Simone Roussel.md",
+        "displayText": "../Neutral/Noemi Lombardo"
+      }
+    ]
+  },
+  {
+    "fileName": "Ushi Bido",
+    "relativePath": "NPCs/Neutral/Seattle/Ushi Bido.md",
+    "headings": [
+      {
+        "heading": "Relationships",
+        "level": 4
+      },
+      {
+        "heading": "ex-wife",
+        "level": 5
+      },
+      {
+        "heading": "Family",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Cat",
+        "relativePath": "Players/Saturday/Cat.md"
+      },
+      {
+        "link": "Hitsuki Cho",
+        "displayText": "Cho",
+        "relativePath": "NPCs/Friendly/Seattle/Hitsuki Cho.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cat",
+        "link": "Ushi Bido",
+        "relativePath": "Players/Saturday/Cat.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Nadja Davier",
+    "relativePath": "NPCs/Neutral/Nadja Davier.md",
+    "backlinks": [
+      {
+        "fileName": "Cat",
+        "link": "Nadja Davier",
+        "relativePath": "Players/Saturday/Cat.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Nadja Davier",
+        "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "Draco Foundation",
+        "link": "Nadja Davier",
+        "relativePath": "AA Corps/Draco Foundation.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Ruby",
+    "relativePath": "NPCs/Neutral/Morocco/Ruby.md",
+    "links": [
+      {
+        "link": "Djinn",
+        "relativePath": "Country Entities/Djinn.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Djinn",
+        "link": "Ruby",
+        "relativePath": "Country Entities/Djinn.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Weiss",
+    "relativePath": "NPCs/Neutral/Morocco/Weiss.md",
+    "links": [
+      {
+        "link": "Djinn",
+        "relativePath": "Country Entities/Djinn.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Djinn",
+        "link": "Weiss",
+        "relativePath": "Country Entities/Djinn.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Commander Hamal ibn Halabi",
+    "relativePath": "NPCs/Neutral/Morocco/Commander Hamal ibn Halabi.md",
+    "links": [
+      {
+        "link": "Djinn",
+        "displayText": "djinn",
+        "relativePath": "Country Entities/Djinn.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Djinn",
+        "link": "Commander Hamal ibn Halabi",
+        "relativePath": "Country Entities/Djinn.md"
+      }
+    ]
+  },
+  {
+    "fileName": "David Johnson",
+    "relativePath": "NPCs/Neutral/Morocco/David Johnson.md",
+    "tags": [
+      "denver",
+      "fixer"
+    ],
+    "links": [
+      {
+        "link": "Ares",
+        "relativePath": "AAA Corps/Ares.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Blake",
+    "relativePath": "NPCs/Neutral/Morocco/Blake.md",
+    "links": [
+      {
+        "link": "Djinn",
+        "relativePath": "Country Entities/Djinn.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Djinn",
+        "link": "Blake",
+        "relativePath": "Country Entities/Djinn.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Ma-u",
+    "relativePath": "NPCs/Neutral/Ma-u.md",
+    "links": [
+      {
+        "link": "Slip",
+        "relativePath": "NPCs/Friendly/Denver/Slip.md"
+      },
+      {
+        "link": "Palau",
+        "relativePath": "Locations/Palau.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Kaleidoscope",
+    "relativePath": "NPCs/Neutral/Kaleidoscope.md",
+    "backlinks": [
+      {
+        "fileName": "Homepage",
+        "link": "Kaleidoscope",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Kai",
+    "relativePath": "NPCs/Neutral/Kai.md",
+    "links": [
+      {
+        "link": "Incubus",
+        "relativePath": "Players/Saturday/Incubus.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "21-12-18",
+        "link": "Kai",
+        "relativePath": "Saturday Game notes/21-12-18.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Joe Little Bear",
+    "relativePath": "NPCs/Neutral/Joe Little Bear.md",
+    "backlinks": [
+      {
+        "fileName": "Homepage",
+        "link": "Joe Little Bear",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "puddin",
+    "relativePath": "NPCs/Neutral/Horizon/puddin.md",
+    "links": [
+      {
+        "link": "Old man",
+        "displayText": "Denver/Old man",
+        "relativePath": "NPCs/Neutral/Denver/Old man.md"
+      },
+      {
+        "link": "Allen Helmut",
+        "relativePath": "NPCs/Neutral/Allen Helmut.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Old man",
+        "link": "puddin",
+        "relativePath": "NPCs/Neutral/Denver/Old man.md",
+        "displayText": "../Horizon/puddin"
+      },
+      {
+        "fileName": "Allen Helmut",
+        "link": "puddin",
+        "relativePath": "NPCs/Neutral/Allen Helmut.md",
+        "displayText": "Horizon/puddin"
+      }
+    ]
+  },
+  {
+    "fileName": "Livia Davis",
+    "relativePath": "NPCs/Neutral/Horizon/Livia Davis.md",
+    "headings": [
+      {
+        "heading": "Runners",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Alley Cat",
+        "relativePath": "Players/Dead Characters/Alley Cat.md"
+      },
+      {
+        "link": "Titania",
+        "relativePath": "Players/Morocco/Titania.md"
+      },
+      {
+        "link": "Spyder",
+        "relativePath": "Players/Saturday/Spyder.md"
+      },
+      {
+        "link": "Zer0",
+        "relativePath": "Players/London/Zer0.md"
+      },
+      {
+        "link": "Nightowl",
+        "relativePath": "Players/London/Nightowl.md"
+      },
+      {
+        "link": "Corvus",
+        "relativePath": "Players/Morocco/Corvus.md"
+      },
+      {
+        "link": "Myrr",
+        "relativePath": "Players/Morocco/Myrr.md"
+      },
+      {
+        "link": "Elfo",
+        "relativePath": "Players/London/Elfo.md"
+      },
+      {
+        "link": "Kisouma",
+        "displayText": "KiKi",
+        "relativePath": "Players/Morocco/Kisouma.md"
+      },
+      {
+        "link": "Triage Black",
+        "relativePath": "Players/Morocco/Triage Black.md"
+      },
+      {
+        "link": "Vice",
+        "relativePath": "Players/Morocco/Vice.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Homepage",
+        "link": "Livia Davis",
+        "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "Horizon",
+        "link": "Livia Davis",
+        "relativePath": "AAA Corps/Horizon/Horizon.md",
+        "displayText": "LIvia Davis"
+      }
+    ]
+  },
+  {
+    "fileName": "Evelyn Prescott",
+    "relativePath": "NPCs/Neutral/Evelyn Prescott.md",
+    "backlinks": [
+      {
+        "fileName": "Homepage",
+        "link": "Evelyn Prescott",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Dragon Council",
+    "relativePath": "NPCs/Neutral/Dragon Council.md",
+    "backlinks": [
+      {
+        "fileName": "22-2-26",
+        "link": "Dragon Council",
+        "relativePath": "Saturday Game notes/22-2-26.md"
+      },
+      {
+        "fileName": "22-3-26",
+        "link": "Dragon Council",
+        "relativePath": "Saturday Game notes/22-3-26.md"
+      },
+      {
+        "fileName": "Cat",
+        "link": "Dragon Council",
+        "relativePath": "Players/Saturday/Cat.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Dragon Council",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Rada (Dead)",
+    "relativePath": "NPCs/Neutral/Denver/Rada (Dead).md",
+    "links": [
+      {
+        "link": "Drag",
+        "displayText": "Denver/Drag",
+        "relativePath": "NPCs/Neutral/Denver/Drag.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Puck",
+    "relativePath": "NPCs/Neutral/Denver/Puck.md",
+    "backlinks": [
+      {
+        "fileName": "Cat",
+        "link": "Puck",
+        "relativePath": "Players/Saturday/Cat.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Puck",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Green",
+    "relativePath": "NPCs/Neutral/Denver/Green.md",
+    "links": [
+      {
+        "link": "Rainbow Corp",
+        "relativePath": "Lighthouse Industries/Rainbow Corp.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Perri",
+    "relativePath": "NPCs/Neutral/Denver/Perri.md",
+    "links": [
+      {
+        "link": "Denver Nexus",
+        "relativePath": "Locations/FRFZ/Denver Nexus.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cat",
+        "link": "Perri",
+        "relativePath": "Players/Saturday/Cat.md"
+      },
+      {
+        "fileName": "Denver Nexus",
+        "link": "Perri",
+        "relativePath": "Locations/FRFZ/Denver Nexus.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Perri",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Old man",
+    "relativePath": "NPCs/Neutral/Denver/Old man.md",
+    "links": [
+      {
+        "link": "puddin",
+        "displayText": "../Horizon/puddin",
+        "relativePath": "NPCs/Neutral/Horizon/puddin.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "22-1-2",
+        "link": "Old man",
+        "relativePath": "Saturday Game notes/22-1-2.md",
+        "displayText": "Old Man"
+      },
+      {
+        "fileName": "puddin",
+        "link": "Old man",
+        "relativePath": "NPCs/Neutral/Horizon/puddin.md",
+        "displayText": "Denver/Old man"
+      }
+    ]
+  },
+  {
+    "fileName": "Drag",
+    "relativePath": "NPCs/Neutral/Denver/Drag.md",
+    "links": [
+      {
+        "link": "Ghostwalker",
+        "relativePath": "NPCs/Friendly/Denver/Ghostwalker.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Rada (Dead)",
+        "link": "Drag",
+        "relativePath": "NPCs/Neutral/Denver/Rada (Dead).md",
+        "displayText": "Denver/Drag"
+      }
+    ]
+  },
+  {
+    "fileName": "DataMax",
+    "relativePath": "NPCs/Neutral/Denver/DataMax.md",
+    "backlinks": [
+      {
+        "fileName": "22-11-5",
+        "link": "DataMax",
+        "relativePath": "Saturday Game notes/22-11-5.md",
+        "displayText": "Datamax"
+      },
+      {
+        "fileName": "22-11-5",
+        "link": "DataMax",
+        "relativePath": "Saturday Game notes/22-11-5.md"
+      },
+      {
+        "fileName": "Cat",
+        "link": "DataMax",
+        "relativePath": "Players/Saturday/Cat.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Colonel Bennet",
+    "relativePath": "NPCs/Neutral/Denver/Colonel Bennet.md",
+    "backlinks": [
+      {
+        "fileName": "Ghostwalker",
+        "link": "Colonel Bennet",
+        "relativePath": "NPCs/Friendly/Denver/Ghostwalker.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Colonel Bennet",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Clyde",
+    "relativePath": "NPCs/Neutral/Denver/Clyde.md",
+    "backlinks": [
+      {
+        "fileName": "Homepage",
+        "link": "Clyde",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Beau Monet",
+    "relativePath": "NPCs/Neutral/Beau Monet.md",
+    "links": [
+      {
+        "link": "Montreal",
+        "relativePath": "Locations/Montreal.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "22-3-26",
+        "link": "Beau Monet",
+        "relativePath": "Saturday Game notes/22-3-26.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Galahad",
+    "relativePath": "NPCs/Neutral/Avalon/Galahad.md",
+    "backlinks": [
+      {
+        "fileName": "22-4-24",
+        "link": "Galahad",
+        "relativePath": "Sunday Game notes/22-4-24.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Tia Micheals",
+    "relativePath": "NPCs/Neutral/Ares/Tia Micheals.md",
+    "links": [
+      {
+        "link": "Ares",
+        "relativePath": "AAA Corps/Ares.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Prue Kress",
+    "relativePath": "NPCs/Neutral/Ares/Prue Kress.md",
+    "links": [
+      {
+        "link": "Ares",
+        "relativePath": "AAA Corps/Ares.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Nash Brand",
+    "relativePath": "NPCs/Neutral/Ares/Nash Brand.md",
+    "links": [
+      {
+        "link": "Ares",
+        "relativePath": "AAA Corps/Ares.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Jonathon Michaels",
+    "relativePath": "NPCs/Neutral/Ares/Jonathon Michaels.md",
+    "links": [
+      {
+        "link": "Ares",
+        "relativePath": "AAA Corps/Ares.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Lance Barrymore",
+    "relativePath": "NPCs/Neutral/Ares/Lance Barrymore.md",
+    "links": [
+      {
+        "link": "Ares",
+        "relativePath": "AAA Corps/Ares.md"
+      },
+      {
+        "link": "Ares",
+        "relativePath": "AAA Corps/Ares.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Deimos",
+    "relativePath": "NPCs/Neutral/Ares/Deimos.md",
+    "links": [
+      {
+        "link": "Ares",
+        "relativePath": "AAA Corps/Ares.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cat",
+        "link": "Deimos",
+        "relativePath": "Players/Saturday/Cat.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Amera",
+    "relativePath": "NPCs/Neutral/Ares/Amera.md",
+    "links": [
+      {
+        "link": "Ares",
+        "relativePath": "AAA Corps/Ares.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Homepage",
+        "link": "Amera",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Allen Helmut",
+    "relativePath": "NPCs/Neutral/Allen Helmut.md",
+    "links": [
+      {
+        "link": "puddin",
+        "displayText": "Horizon/puddin",
+        "relativePath": "NPCs/Neutral/Horizon/puddin.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "22-1-2",
+        "link": "Allen Helmut",
+        "relativePath": "Saturday Game notes/22-1-2.md"
+      },
+      {
+        "fileName": "puddin",
+        "link": "Allen Helmut",
+        "relativePath": "NPCs/Neutral/Horizon/puddin.md"
+      }
+    ]
+  },
+  {
+    "fileName": "How to Use Foundry",
+    "relativePath": "How to Use Foundry.md",
+    "tags": [
+      "foundry"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 21
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "How to Use Foundry",
+        "level": 1
+      },
+      {
+        "heading": "Logging In",
+        "level": 2
+      },
+      {
+        "heading": "Selecting a Character",
+        "level": 2
+      },
+      {
+        "heading": "Character Sheets",
+        "level": 2
+      },
+      {
+        "heading": "Rolling Dice",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Homepage",
+        "link": "How to Use Foundry",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
     "fileName": "Saint George Parish",
     "relativePath": "Locations/Saint George Parish.md",
     "tags": [
@@ -5729,82 +5994,6 @@
         "fileName": "Ma-u",
         "link": "Palau",
         "relativePath": "NPCs/Neutral/Ma-u.md"
-      }
-    ]
-  },
-  {
-    "fileName": "London",
-    "relativePath": "Locations/London.md",
-    "backlinks": [
-      {
-        "fileName": "Cat",
-        "link": "London",
-        "relativePath": "Players/Saturday/Cat.md"
-      },
-      {
-        "fileName": "Sammy",
-        "link": "London",
-        "relativePath": "NPCs/Friendly/London/Sammy.md"
-      },
-      {
-        "fileName": "Twilight Medical Services",
-        "link": "London",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Twilight Medical Services.md"
-      },
-      {
-        "fileName": "The Vabel",
-        "link": "London",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md"
-      },
-      {
-        "fileName": "The Vabel",
-        "link": "London",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md"
-      },
-      {
-        "fileName": "The Vabel",
-        "link": "London",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md"
-      },
-      {
-        "fileName": "Manufacturing",
-        "link": "London",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing.md"
-      },
-      {
-        "fileName": "Unnamed Manufacturing Site",
-        "link": "London",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md"
-      },
-      {
-        "fileName": "Unnamed Manufacturing Site",
-        "link": "London",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md"
-      },
-      {
-        "fileName": "M.H. Institue of Neuroscience",
-        "link": "London",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
-      },
-      {
-        "fileName": "The Elegance Tower",
-        "link": "London",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
-      },
-      {
-        "fileName": "The Elegance Tower",
-        "link": "London",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
-      },
-      {
-        "fileName": "The Elegance Tower",
-        "link": "London",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
-      },
-      {
-        "fileName": "The Elegance Tower",
-        "link": "London",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
       }
     ]
   },
@@ -5856,6 +6045,16 @@
         "relativePath": "Sunday Game notes/21-12-5.md"
       },
       {
+        "fileName": "Djinn",
+        "link": "Rabat",
+        "relativePath": "Country Entities/Djinn.md"
+      },
+      {
+        "fileName": "Djinn",
+        "link": "Rabat",
+        "relativePath": "Country Entities/Djinn.md"
+      },
+      {
         "fileName": "Black Monkey Syndicate",
         "link": "Rabat",
         "relativePath": "Crime Orgs/Black Monkey Syndicate.md",
@@ -5866,16 +6065,6 @@
         "link": "Rabat",
         "relativePath": "Crime Orgs/Black Monkey Syndicate.md",
         "displayText": "../Locations/Morocco/Rabat"
-      },
-      {
-        "fileName": "Djinn",
-        "link": "Rabat",
-        "relativePath": "Country Entities/Djinn.md"
-      },
-      {
-        "fileName": "Djinn",
-        "link": "Rabat",
-        "relativePath": "Country Entities/Djinn.md"
       }
     ]
   },
@@ -5894,17 +6083,6 @@
         "link": "rabat black site",
         "relativePath": "Country Entities/Djinn.md",
         "displayText": "black site"
-      }
-    ]
-  },
-  {
-    "fileName": "Marrakesh",
-    "relativePath": "Locations/Morocco/Marrakesh.md",
-    "backlinks": [
-      {
-        "fileName": "Djinn",
-        "link": "Marrakesh",
-        "relativePath": "Country Entities/Djinn.md"
       }
     ]
   },
@@ -5932,53 +6110,95 @@
     ]
   },
   {
-    "fileName": "Hong Kong",
-    "relativePath": "Locations/Hong Kong.md"
-  },
-  {
-    "fileName": "Himalayas",
-    "relativePath": "Locations/Black Monkey Syndicate/Himalayas.md",
+    "fileName": "Marrakesh",
+    "relativePath": "Locations/Morocco/Marrakesh.md",
     "backlinks": [
       {
-        "fileName": "Black Monkey Syndicate",
-        "link": "Himalayas",
-        "relativePath": "Crime Orgs/Black Monkey Syndicate.md",
-        "displayText": "Himalaian"
+        "fileName": "Djinn",
+        "link": "Marrakesh",
+        "relativePath": "Country Entities/Djinn.md"
       }
     ]
   },
   {
-    "fileName": "Somalia",
-    "relativePath": "Locations/Black Monkey Syndicate/Somalia.md",
+    "fileName": "London",
+    "relativePath": "Locations/London.md",
     "backlinks": [
       {
-        "fileName": "Black Monkey Syndicate",
-        "link": "Somalia",
-        "relativePath": "Crime Orgs/Black Monkey Syndicate.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Golden Triangle",
-    "relativePath": "Locations/Black Monkey Syndicate/Golden Triangle.md",
-    "headings": [
-      {
-        "heading": "Base Camp 1",
-        "level": 4
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Black Monkey Syndicate",
-        "link": "Golden Triangle",
-        "relativePath": "Crime Orgs/Black Monkey Syndicate.md"
+        "fileName": "Cat",
+        "link": "London",
+        "relativePath": "Players/Saturday/Cat.md"
       },
       {
-        "fileName": "Black Monkey Syndicate",
-        "link": "Golden Triangle",
-        "relativePath": "Crime Orgs/Black Monkey Syndicate.md"
+        "fileName": "Sammy",
+        "link": "London",
+        "relativePath": "NPCs/Friendly/London/Sammy.md"
+      },
+      {
+        "fileName": "Twilight Medical Services",
+        "link": "London",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Twilight Medical Services.md"
+      },
+      {
+        "fileName": "The Vabel",
+        "link": "London",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md"
+      },
+      {
+        "fileName": "The Vabel",
+        "link": "London",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md"
+      },
+      {
+        "fileName": "The Vabel",
+        "link": "London",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md"
+      },
+      {
+        "fileName": "Manufacturing",
+        "link": "London",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing.md"
+      },
+      {
+        "fileName": "M.H. Institue of Neuroscience",
+        "link": "London",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+      },
+      {
+        "fileName": "Unnamed Manufacturing Site",
+        "link": "London",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md"
+      },
+      {
+        "fileName": "Unnamed Manufacturing Site",
+        "link": "London",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md"
+      },
+      {
+        "fileName": "The Elegance Tower",
+        "link": "London",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
+      },
+      {
+        "fileName": "The Elegance Tower",
+        "link": "London",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
+      },
+      {
+        "fileName": "The Elegance Tower",
+        "link": "London",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
+      },
+      {
+        "fileName": "The Elegance Tower",
+        "link": "London",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
       }
     ]
+  },
+  {
+    "fileName": "Hong Kong",
+    "relativePath": "Locations/Hong Kong.md"
   },
   {
     "fileName": "Denver Nexus",
@@ -6055,6 +6275,115 @@
     ]
   },
   {
+    "fileName": "Somalia",
+    "relativePath": "Locations/Black Monkey Syndicate/Somalia.md",
+    "backlinks": [
+      {
+        "fileName": "Black Monkey Syndicate",
+        "link": "Somalia",
+        "relativePath": "Crime Orgs/Black Monkey Syndicate.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Golden Triangle",
+    "relativePath": "Locations/Black Monkey Syndicate/Golden Triangle.md",
+    "headings": [
+      {
+        "heading": "Base Camp 1",
+        "level": 4
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Black Monkey Syndicate",
+        "link": "Golden Triangle",
+        "relativePath": "Crime Orgs/Black Monkey Syndicate.md"
+      },
+      {
+        "fileName": "Black Monkey Syndicate",
+        "link": "Golden Triangle",
+        "relativePath": "Crime Orgs/Black Monkey Syndicate.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Himalayas",
+    "relativePath": "Locations/Black Monkey Syndicate/Himalayas.md",
+    "backlinks": [
+      {
+        "fileName": "Black Monkey Syndicate",
+        "link": "Himalayas",
+        "relativePath": "Crime Orgs/Black Monkey Syndicate.md",
+        "displayText": "Himalaian"
+      }
+    ]
+  },
+  {
+    "fileName": "House Rules",
+    "relativePath": "House Rules.md",
+    "headings": [
+      {
+        "heading": "Qualities",
+        "level": 3
+      },
+      {
+        "heading": "Magic",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Combat",
+        "relativePath": "House Rules/Combat.md"
+      },
+      {
+        "link": "Contacts",
+        "relativePath": "House Rules/Contacts.md"
+      },
+      {
+        "link": "Matrix Actions",
+        "relativePath": "House Rules/Matrix Actions.md"
+      },
+      {
+        "link": "Ramming",
+        "relativePath": "House Rules/Ramming.md"
+      },
+      {
+        "link": "True Name Calling",
+        "relativePath": "House Rules/Qualities/True Name Calling.md"
+      },
+      {
+        "link": "Magic",
+        "displayText": "Base Magic",
+        "relativePath": "House Rules/Magic/Magic.md"
+      },
+      {
+        "link": "Quickend Spells",
+        "relativePath": "House Rules/Magic/Quickend Spells.md"
+      },
+      {
+        "link": "Reagents",
+        "relativePath": "House Rules/Magic/Reagents.md"
+      },
+      {
+        "link": "Ritual Magic",
+        "relativePath": "House Rules/Magic/Ritual Magic.md"
+      },
+      {
+        "link": "4th World Magic",
+        "relativePath": "House Rules/Magic/4th World Magic.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Homepage",
+        "link": "House Rules",
+        "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
     "fileName": "The Apollo Group",
     "relativePath": "Lighthouse Industries/The Apollo Group.md",
     "tags": [
@@ -6109,84 +6438,6 @@
     ]
   },
   {
-    "fileName": "Security Programs",
-    "relativePath": "Lighthouse Industries/The Apollo Group/Security Programs.md",
-    "backlinks": [
-      {
-        "fileName": "The Apollo Group",
-        "link": "Security Programs",
-        "relativePath": "Lighthouse Industries/The Apollo Group.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Original Office",
-    "relativePath": "Lighthouse Industries/The Apollo Group/Original Office.md",
-    "backlinks": [
-      {
-        "fileName": "The Apollo Group",
-        "link": "Original Office",
-        "relativePath": "Lighthouse Industries/The Apollo Group.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Office 2",
-    "relativePath": "Lighthouse Industries/The Apollo Group/Office 2.md",
-    "headings": [
-      {
-        "heading": "Building",
-        "level": 5
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "The Apollo Group",
-        "link": "Office 2",
-        "relativePath": "Lighthouse Industries/The Apollo Group.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Office 1",
-    "relativePath": "Lighthouse Industries/The Apollo Group/Office 1.md",
-    "headings": [
-      {
-        "heading": "Building",
-        "level": 5
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "The Apollo Group",
-        "link": "Office 1",
-        "relativePath": "Lighthouse Industries/The Apollo Group.md"
-      }
-    ]
-  },
-  {
-    "fileName": "IC Designs",
-    "relativePath": "Lighthouse Industries/The Apollo Group/IC Designs.md",
-    "backlinks": [
-      {
-        "fileName": "The Apollo Group",
-        "link": "IC Designs",
-        "relativePath": "Lighthouse Industries/The Apollo Group.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Host Upgrades",
-    "relativePath": "Lighthouse Industries/The Apollo Group/Host Upgrades.md",
-    "backlinks": [
-      {
-        "fileName": "The Apollo Group",
-        "link": "Host Upgrades",
-        "relativePath": "Lighthouse Industries/The Apollo Group.md"
-      }
-    ]
-  },
-  {
     "fileName": "Rainbow Corp",
     "relativePath": "Lighthouse Industries/Rainbow Corp.md",
     "tags": [
@@ -6211,79 +6462,80 @@
     ]
   },
   {
-    "fileName": "Mercea Conglomerate",
-    "relativePath": "Lighthouse Industries/Mercea Conglomerate.md",
-    "links": [
+    "fileName": "Office 2",
+    "relativePath": "Lighthouse Industries/The Apollo Group/Office 2.md",
+    "headings": [
       {
-        "link": "Nightowl",
-        "relativePath": "Players/London/Nightowl.md"
-      },
-      {
-        "link": "Elfo",
-        "relativePath": "Players/Old Characters/Elfo.md"
-      },
-      {
-        "link": "Casper",
-        "relativePath": "Players/London/Casper.md"
-      },
-      {
-        "link": "Zer0",
-        "relativePath": "Players/London/Zer0.md"
-      },
-      {
-        "link": "Manufacturing",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing.md"
-      },
-      {
-        "link": "M.H. Institue of Neuroscience",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
-      },
-      {
-        "link": "Twilight Medical Services",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Twilight Medical Services.md"
-      },
-      {
-        "link": "Siri",
-        "relativePath": "NPCs/Friendly/London/Siri.md"
-      },
-      {
-        "link": "Nightowl",
-        "relativePath": "Players/London/Nightowl.md"
-      },
-      {
-        "link": "Nightowl",
-        "relativePath": "Players/London/Nightowl.md"
-      },
-      {
-        "link": "Elfo",
-        "relativePath": "Players/Old Characters/Elfo.md"
-      },
-      {
-        "link": "Casper",
-        "relativePath": "Players/London/Casper.md"
-      },
-      {
-        "link": "Zer0",
-        "relativePath": "Players/London/Zer0.md"
-      },
-      {
-        "link": "Casper",
-        "relativePath": "Players/London/Casper.md"
-      },
-      {
-        "link": "Casper",
-        "relativePath": "Players/London/Casper.md"
-      },
-      {
-        "link": "Elfo",
-        "relativePath": "Players/Old Characters/Elfo.md"
+        "heading": "Building",
+        "level": 5
       }
     ],
     "backlinks": [
       {
-        "fileName": "Litehouse Industries",
-        "link": "Mercea Conglomerate",
-        "relativePath": "AA Corps/Litehouse Industries.md"
+        "fileName": "The Apollo Group",
+        "link": "Office 2",
+        "relativePath": "Lighthouse Industries/The Apollo Group.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Security Programs",
+    "relativePath": "Lighthouse Industries/The Apollo Group/Security Programs.md",
+    "backlinks": [
+      {
+        "fileName": "The Apollo Group",
+        "link": "Security Programs",
+        "relativePath": "Lighthouse Industries/The Apollo Group.md"
+      }
+    ]
+  },
+  {
+    "fileName": "IC Designs",
+    "relativePath": "Lighthouse Industries/The Apollo Group/IC Designs.md",
+    "backlinks": [
+      {
+        "fileName": "The Apollo Group",
+        "link": "IC Designs",
+        "relativePath": "Lighthouse Industries/The Apollo Group.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Original Office",
+    "relativePath": "Lighthouse Industries/The Apollo Group/Original Office.md",
+    "backlinks": [
+      {
+        "fileName": "The Apollo Group",
+        "link": "Original Office",
+        "relativePath": "Lighthouse Industries/The Apollo Group.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Office 1",
+    "relativePath": "Lighthouse Industries/The Apollo Group/Office 1.md",
+    "headings": [
+      {
+        "heading": "Building",
+        "level": 5
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "The Apollo Group",
+        "link": "Office 1",
+        "relativePath": "Lighthouse Industries/The Apollo Group.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Host Upgrades",
+    "relativePath": "Lighthouse Industries/The Apollo Group/Host Upgrades.md",
+    "backlinks": [
+      {
+        "fileName": "The Apollo Group",
+        "link": "Host Upgrades",
+        "relativePath": "Lighthouse Industries/The Apollo Group.md"
       }
     ]
   },
@@ -6364,38 +6616,6 @@
     ]
   },
   {
-    "fileName": "Unnamed Manufacturing Site",
-    "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md",
-    "links": [
-      {
-        "link": "London",
-        "relativePath": "Locations/London.md"
-      },
-      {
-        "link": "London",
-        "relativePath": "Locations/London.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Manufacturing",
-        "link": "Unnamed Manufacturing Site",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Project Ideas",
-    "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing/Project Ideas.md",
-    "backlinks": [
-      {
-        "fileName": "Manufacturing",
-        "link": "Project Ideas",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing.md"
-      }
-    ]
-  },
-  {
     "fileName": "M.H. Institue of Neuroscience",
     "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md",
     "tags": [
@@ -6409,7 +6629,7 @@
       },
       {
         "link": "Elfo",
-        "relativePath": "Players/Old Characters/Elfo.md"
+        "relativePath": "Players/London/Elfo.md"
       },
       {
         "link": "Olivia",
@@ -6441,13 +6661,34 @@
     ]
   },
   {
-    "fileName": "Atlanta Factory",
-    "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Atlanta Factory.md",
+    "fileName": "Unnamed Manufacturing Site",
+    "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md",
+    "links": [
+      {
+        "link": "London",
+        "relativePath": "Locations/London.md"
+      },
+      {
+        "link": "London",
+        "relativePath": "Locations/London.md"
+      }
+    ],
     "backlinks": [
       {
-        "fileName": "M.H. Institue of Neuroscience",
-        "link": "Atlanta Factory",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+        "fileName": "Manufacturing",
+        "link": "Unnamed Manufacturing Site",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Project Ideas",
+    "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing/Project Ideas.md",
+    "backlinks": [
+      {
+        "fileName": "Manufacturing",
+        "link": "Project Ideas",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing.md"
       }
     ]
   },
@@ -6497,6 +6738,94 @@
     ]
   },
   {
+    "fileName": "Atlanta Factory",
+    "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Atlanta Factory.md",
+    "backlinks": [
+      {
+        "fileName": "M.H. Institue of Neuroscience",
+        "link": "Atlanta Factory",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Mercea Conglomerate",
+    "relativePath": "Lighthouse Industries/Mercea Conglomerate.md",
+    "links": [
+      {
+        "link": "Nightowl",
+        "relativePath": "Players/London/Nightowl.md"
+      },
+      {
+        "link": "Elfo",
+        "relativePath": "Players/London/Elfo.md"
+      },
+      {
+        "link": "Casper",
+        "relativePath": "Players/London/Casper.md"
+      },
+      {
+        "link": "Zer0",
+        "relativePath": "Players/London/Zer0.md"
+      },
+      {
+        "link": "Manufacturing",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing.md"
+      },
+      {
+        "link": "M.H. Institue of Neuroscience",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+      },
+      {
+        "link": "Twilight Medical Services",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Twilight Medical Services.md"
+      },
+      {
+        "link": "Siri",
+        "relativePath": "NPCs/Friendly/London/Siri.md"
+      },
+      {
+        "link": "Nightowl",
+        "relativePath": "Players/London/Nightowl.md"
+      },
+      {
+        "link": "Nightowl",
+        "relativePath": "Players/London/Nightowl.md"
+      },
+      {
+        "link": "Elfo",
+        "relativePath": "Players/London/Elfo.md"
+      },
+      {
+        "link": "Casper",
+        "relativePath": "Players/London/Casper.md"
+      },
+      {
+        "link": "Zer0",
+        "relativePath": "Players/London/Zer0.md"
+      },
+      {
+        "link": "Casper",
+        "relativePath": "Players/London/Casper.md"
+      },
+      {
+        "link": "Casper",
+        "relativePath": "Players/London/Casper.md"
+      },
+      {
+        "link": "Elfo",
+        "relativePath": "Players/London/Elfo.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Litehouse Industries",
+        "link": "Mercea Conglomerate",
+        "relativePath": "AA Corps/Litehouse Industries.md"
+      }
+    ]
+  },
+  {
     "fileName": "Litehouse Brand",
     "relativePath": "Lighthouse Industries/Litehouse Brand.md",
     "tags": [
@@ -6535,12 +6864,29 @@
     ]
   },
   {
-    "fileName": "Litehouse Aerospace",
-    "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Aerospace.md",
+    "fileName": "Litehouse Manufacturing",
+    "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Manufacturing.md",
+    "headings": [
+      {
+        "heading": "Arms Manufacturing",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Manufacturing",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing.md"
+      }
+    ],
     "backlinks": [
       {
+        "fileName": "Troy",
+        "link": "Litehouse Manufacturing",
+        "relativePath": "NPCs/Friendly/Denver/Troy.md"
+      },
+      {
         "fileName": "Litehouse Brand",
-        "link": "Litehouse Aerospace",
+        "link": "Litehouse Manufacturing",
         "relativePath": "Lighthouse Industries/Litehouse Brand.md"
       }
     ]
@@ -6655,17 +7001,6 @@
     ]
   },
   {
-    "fileName": "Litehouse news",
-    "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Litehouse news.md",
-    "backlinks": [
-      {
-        "fileName": "Litehouse Production",
-        "link": "Litehouse news",
-        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production.md"
-      }
-    ]
-  },
-  {
     "fileName": "Morocco Team",
     "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md",
     "headings": [
@@ -6717,15 +7052,15 @@
         "displayText": "North African Crew"
       },
       {
-        "fileName": "22-5-22",
-        "link": "Morocco Team",
-        "relativePath": "Sunday Game notes/22-5-22.md",
-        "displayText": "North African Crew"
-      },
-      {
         "fileName": "22-4-24",
         "link": "Morocco Team",
         "relativePath": "Sunday Game notes/22-4-24.md",
+        "displayText": "North African Crew"
+      },
+      {
+        "fileName": "22-5-22",
+        "link": "Morocco Team",
+        "relativePath": "Sunday Game notes/22-5-22.md",
         "displayText": "North African Crew"
       },
       {
@@ -6735,15 +7070,15 @@
         "displayText": "North African Crew"
       },
       {
-        "fileName": "22-2-27",
-        "link": "Morocco Team",
-        "relativePath": "Sunday Game notes/22-2-27.md",
-        "displayText": "North African Crew"
-      },
-      {
         "fileName": "22-3-27",
         "link": "Morocco Team",
         "relativePath": "Sunday Game notes/22-3-27.md",
+        "displayText": "North African Crew"
+      },
+      {
+        "fileName": "22-2-27",
+        "link": "Morocco Team",
+        "relativePath": "Sunday Game notes/22-2-27.md",
         "displayText": "North African Crew"
       },
       {
@@ -6759,9 +7094,9 @@
         "displayText": "North African Crew"
       },
       {
-        "fileName": "22-1-2",
+        "fileName": "21-12-19",
         "link": "Morocco Team",
-        "relativePath": "Sunday Game notes/22-1-2.md",
+        "relativePath": "Sunday Game notes/21-12-19.md",
         "displayText": "North African Crew"
       },
       {
@@ -6771,15 +7106,15 @@
         "displayText": "North African Crew"
       },
       {
-        "fileName": "21-12-5",
+        "fileName": "22-1-2",
         "link": "Morocco Team",
-        "relativePath": "Sunday Game notes/21-12-5.md",
+        "relativePath": "Sunday Game notes/22-1-2.md",
         "displayText": "North African Crew"
       },
       {
-        "fileName": "21-12-19",
+        "fileName": "21-12-5",
         "link": "Morocco Team",
-        "relativePath": "Sunday Game notes/21-12-19.md",
+        "relativePath": "Sunday Game notes/21-12-5.md",
         "displayText": "North African Crew"
       },
       {
@@ -6886,6 +7221,12 @@
         "displayText": "Denver Specials"
       },
       {
+        "fileName": "22-7-16",
+        "link": "Denver Team",
+        "relativePath": "Saturday Game notes/22-7-16.md",
+        "displayText": "Denver Specials"
+      },
+      {
         "fileName": "22-7-30",
         "link": "Denver Team",
         "relativePath": "Saturday Game notes/22-7-30.md",
@@ -6898,9 +7239,9 @@
         "displayText": "Denver Specials"
       },
       {
-        "fileName": "22-7-16",
+        "fileName": "22-6-18",
         "link": "Denver Team",
-        "relativePath": "Saturday Game notes/22-7-16.md",
+        "relativePath": "Saturday Game notes/22-6-18.md",
         "displayText": "Denver Specials"
       },
       {
@@ -6910,15 +7251,15 @@
         "displayText": "Denver Specials"
       },
       {
-        "fileName": "22-6-18",
-        "link": "Denver Team",
-        "relativePath": "Saturday Game notes/22-6-18.md",
-        "displayText": "Denver Specials"
-      },
-      {
         "fileName": "22-5-21",
         "link": "Denver Team",
         "relativePath": "Saturday Game notes/22-5-21.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-2-26",
+        "link": "Denver Team",
+        "relativePath": "Saturday Game notes/22-2-26.md",
         "displayText": "Denver Specials"
       },
       {
@@ -6934,27 +7275,27 @@
         "displayText": "Denver Specials"
       },
       {
-        "fileName": "22-2-26",
-        "link": "Denver Team",
-        "relativePath": "Saturday Game notes/22-2-26.md",
-        "displayText": "Denver Specials"
-      },
-      {
         "fileName": "22-2-12",
         "link": "Denver Team",
         "relativePath": "Saturday Game notes/22-2-12.md",
         "displayText": "Denver Specials"
       },
       {
-        "fileName": "22-1-2",
+        "fileName": "22-11-5",
         "link": "Denver Team",
-        "relativePath": "Saturday Game notes/22-1-2.md",
+        "relativePath": "Saturday Game notes/22-11-5.md",
         "displayText": "Denver Specials"
       },
       {
         "fileName": "22-10-8",
         "link": "Denver Team",
         "relativePath": "Saturday Game notes/22-10-8.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "21-8-14",
+        "link": "Denver Team",
+        "relativePath": "Saturday Game notes/21-8-14.md",
         "displayText": "Denver Specials"
       },
       {
@@ -6970,9 +7311,9 @@
         "displayText": "Denver Specials"
       },
       {
-        "fileName": "21-8-14",
+        "fileName": "22-1-2",
         "link": "Denver Team",
-        "relativePath": "Saturday Game notes/21-8-14.md",
+        "relativePath": "Saturday Game notes/22-1-2.md",
         "displayText": "Denver Specials"
       },
       {
@@ -6982,27 +7323,33 @@
         "displayText": "Denver Specials"
       },
       {
-        "fileName": "21-7-3",
-        "link": "Denver Team",
-        "relativePath": "Saturday Game notes/21-7-3.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "21-7-3",
-        "link": "Denver Team",
-        "relativePath": "Saturday Game notes/21-7-3.md",
-        "displayText": "Denver Specials"
-      },
-      {
         "fileName": "21-7-17",
         "link": "Denver Team",
         "relativePath": "Saturday Game notes/21-7-17.md",
         "displayText": "Denver Specials"
       },
       {
+        "fileName": "21-7-3",
+        "link": "Denver Team",
+        "relativePath": "Saturday Game notes/21-7-3.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "21-7-3",
+        "link": "Denver Team",
+        "relativePath": "Saturday Game notes/21-7-3.md",
+        "displayText": "Denver Specials"
+      },
+      {
         "fileName": "21-6-19",
         "link": "Denver Team",
         "relativePath": "Saturday Game notes/21-6-19.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "21-11-6",
+        "link": "Denver Team",
+        "relativePath": "Saturday Game notes/21-11-6.md",
         "displayText": "Denver Specials"
       },
       {
@@ -7015,12 +7362,6 @@
         "fileName": "21-12-18",
         "link": "Denver Team",
         "relativePath": "Saturday Game notes/21-12-18.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "21-11-6",
-        "link": "Denver Team",
-        "relativePath": "Saturday Game notes/21-11-6.md",
         "displayText": "Denver Specials"
       },
       {
@@ -7049,6 +7390,17 @@
     ]
   },
   {
+    "fileName": "Litehouse news",
+    "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Litehouse news.md",
+    "backlinks": [
+      {
+        "fileName": "Litehouse Production",
+        "link": "Litehouse news",
+        "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production.md"
+      }
+    ]
+  },
+  {
     "fileName": "Blood and Chrome",
     "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Blood and Chrome.md",
     "backlinks": [
@@ -7060,40 +7412,23 @@
     ]
   },
   {
-    "fileName": "Litehouse Manufacturing",
-    "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Manufacturing.md",
-    "headings": [
-      {
-        "heading": "Arms Manufacturing",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Manufacturing",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate/Manufacturing.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Troy",
-        "link": "Litehouse Manufacturing",
-        "relativePath": "NPCs/Friendly/Denver/Troy.md"
-      },
-      {
-        "fileName": "Litehouse Brand",
-        "link": "Litehouse Manufacturing",
-        "relativePath": "Lighthouse Industries/Litehouse Brand.md"
-      }
-    ]
-  },
-  {
     "fileName": "Litehouse Construction",
     "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Construction.md",
     "backlinks": [
       {
         "fileName": "Litehouse Brand",
         "link": "Litehouse Construction",
+        "relativePath": "Lighthouse Industries/Litehouse Brand.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Litehouse Aerospace",
+    "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Aerospace.md",
+    "backlinks": [
+      {
+        "fileName": "Litehouse Brand",
+        "link": "Litehouse Aerospace",
         "relativePath": "Lighthouse Industries/Litehouse Brand.md"
       }
     ]
@@ -7120,20 +7455,6 @@
         "fileName": "Litehouse Industries",
         "link": "Incubus Club",
         "relativePath": "AA Corps/Litehouse Industries.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Denver School for Advanced Learning",
-    "relativePath": "Lighthouse Industries/Denver School for Advanced Learning.md",
-    "links": [
-      {
-        "link": "Cat",
-        "relativePath": "Players/Saturday/Cat.md"
-      },
-      {
-        "link": "Incubus",
-        "relativePath": "Players/Saturday/Incubus.md"
       }
     ]
   },
@@ -7180,57 +7501,38 @@
     ]
   },
   {
-    "fileName": "Sperm Banks",
-    "relativePath": "Lighthouse Industries/Genesis Medical/Sperm Banks.md",
-    "backlinks": [
+    "fileName": "Denver School for Advanced Learning",
+    "relativePath": "Lighthouse Industries/Denver School for Advanced Learning.md",
+    "links": [
       {
-        "fileName": "Genesis Medical",
-        "link": "Sperm Banks",
-        "relativePath": "Lighthouse Industries/Genesis Medical.md"
+        "link": "Cat",
+        "relativePath": "Players/Saturday/Cat.md"
+      },
+      {
+        "link": "Incubus",
+        "relativePath": "Players/Saturday/Incubus.md"
       }
     ]
   },
   {
-    "fileName": "Genesis Medical Hospital",
-    "relativePath": "Lighthouse Industries/Genesis Medical/Genesis Medical Hospital.md",
-    "backlinks": [
+    "fileName": "SKA-008",
+    "relativePath": "Lighthouse Industries/Cheyenne Mountain/SKA-008.md",
+    "links": [
       {
-        "fileName": "Genesis Medical",
-        "link": "Genesis Medical Hospital",
-        "relativePath": "Lighthouse Industries/Genesis Medical.md"
+        "link": "Cat",
+        "relativePath": "Players/Saturday/Cat.md"
       }
-    ]
-  },
-  {
-    "fileName": "Genesis Summit Medical Clinic",
-    "relativePath": "Lighthouse Industries/Genesis Medical/Genesis Summit Medical Clinic.md",
+    ],
     "backlinks": [
       {
-        "fileName": "Genesis Medical",
-        "link": "Genesis Summit Medical Clinic",
-        "relativePath": "Lighthouse Industries/Genesis Medical.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Genesis Medical Clinic Aurora",
-    "relativePath": "Lighthouse Industries/Genesis Medical/Genesis Medical Clinic Aurora.md",
-    "backlinks": [
+        "fileName": "Cat",
+        "link": "SKA-008",
+        "relativePath": "Players/Saturday/Cat.md"
+      },
       {
-        "fileName": "Genesis Medical",
-        "link": "Genesis Medical Clinic Aurora",
-        "relativePath": "Lighthouse Industries/Genesis Medical.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Genesis Avista Hospital",
-    "relativePath": "Lighthouse Industries/Genesis Medical/Genesis Avista Hospital.md",
-    "backlinks": [
-      {
-        "fileName": "Genesis Medical",
-        "link": "Genesis Avista Hospital",
-        "relativePath": "Lighthouse Industries/Genesis Medical.md"
+        "fileName": "Cheyenne Mountain",
+        "link": "SKA-008",
+        "relativePath": "Locations/FRFZ/Cheyenne Mountain.md"
       }
     ]
   },
@@ -7279,8 +7581,8 @@
     ]
   },
   {
-    "fileName": "SKA-008",
-    "relativePath": "Lighthouse Industries/Cheyenne Mountain/SKA-008.md",
+    "fileName": "Lear-Cessna Platinum",
+    "relativePath": "Lighthouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md",
     "links": [
       {
         "link": "Cat",
@@ -7290,12 +7592,12 @@
     "backlinks": [
       {
         "fileName": "Cat",
-        "link": "SKA-008",
+        "link": "Lear-Cessna Platinum",
         "relativePath": "Players/Saturday/Cat.md"
       },
       {
         "fileName": "Cheyenne Mountain",
-        "link": "SKA-008",
+        "link": "Lear-Cessna Platinum",
         "relativePath": "Locations/FRFZ/Cheyenne Mountain.md"
       }
     ]
@@ -7323,24 +7625,57 @@
     ]
   },
   {
-    "fileName": "Lear-Cessna Platinum",
-    "relativePath": "Lighthouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md",
-    "links": [
-      {
-        "link": "Cat",
-        "relativePath": "Players/Saturday/Cat.md"
-      }
-    ],
+    "fileName": "Genesis Summit Medical Clinic",
+    "relativePath": "Lighthouse Industries/Genesis Medical/Genesis Summit Medical Clinic.md",
     "backlinks": [
       {
-        "fileName": "Cat",
-        "link": "Lear-Cessna Platinum",
-        "relativePath": "Players/Saturday/Cat.md"
-      },
+        "fileName": "Genesis Medical",
+        "link": "Genesis Summit Medical Clinic",
+        "relativePath": "Lighthouse Industries/Genesis Medical.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sperm Banks",
+    "relativePath": "Lighthouse Industries/Genesis Medical/Sperm Banks.md",
+    "backlinks": [
       {
-        "fileName": "Cheyenne Mountain",
-        "link": "Lear-Cessna Platinum",
-        "relativePath": "Locations/FRFZ/Cheyenne Mountain.md"
+        "fileName": "Genesis Medical",
+        "link": "Sperm Banks",
+        "relativePath": "Lighthouse Industries/Genesis Medical.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Genesis Medical Hospital",
+    "relativePath": "Lighthouse Industries/Genesis Medical/Genesis Medical Hospital.md",
+    "backlinks": [
+      {
+        "fileName": "Genesis Medical",
+        "link": "Genesis Medical Hospital",
+        "relativePath": "Lighthouse Industries/Genesis Medical.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Genesis Medical Clinic Aurora",
+    "relativePath": "Lighthouse Industries/Genesis Medical/Genesis Medical Clinic Aurora.md",
+    "backlinks": [
+      {
+        "fileName": "Genesis Medical",
+        "link": "Genesis Medical Clinic Aurora",
+        "relativePath": "Lighthouse Industries/Genesis Medical.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Genesis Avista Hospital",
+    "relativePath": "Lighthouse Industries/Genesis Medical/Genesis Avista Hospital.md",
+    "backlinks": [
+      {
+        "fileName": "Genesis Medical",
+        "link": "Genesis Avista Hospital",
+        "relativePath": "Lighthouse Industries/Genesis Medical.md"
       }
     ]
   },
@@ -7414,22 +7749,6 @@
     ]
   },
   {
-    "fileName": "1UP! Colfax",
-    "relativePath": "Lighthouse Industries/1UP!/1UP! Colfax.md",
-    "backlinks": [
-      {
-        "fileName": "Salena Boisvert",
-        "link": "1UP! Colfax",
-        "relativePath": "NPCs/Friendly/Denver/Salena Boisvert.md"
-      },
-      {
-        "fileName": "1UP!",
-        "link": "1UP! Colfax",
-        "relativePath": "Lighthouse Industries/1UP!.md"
-      }
-    ]
-  },
-  {
     "fileName": "1UP! Lo-Bo",
     "relativePath": "Lighthouse Industries/1UP!/1UP! Lo-Bo.md",
     "headings": [
@@ -7447,116 +7766,18 @@
     ]
   },
   {
-    "fileName": "How to Use Foundry",
-    "relativePath": "How to Use Foundry.md",
-    "tags": [
-      "foundry"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 21
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "How to Use Foundry",
-        "level": 1
-      },
-      {
-        "heading": "Logging In",
-        "level": 2
-      },
-      {
-        "heading": "Selecting a Character",
-        "level": 2
-      },
-      {
-        "heading": "Character Sheets",
-        "level": 2
-      },
-      {
-        "heading": "Rolling Dice",
-        "level": 2
-      }
-    ],
+    "fileName": "1UP! Colfax",
+    "relativePath": "Lighthouse Industries/1UP!/1UP! Colfax.md",
     "backlinks": [
       {
-        "fileName": "Homepage",
-        "link": "How to Use Foundry",
-        "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "House Rules",
-    "relativePath": "House Rules.md",
-    "headings": [
-      {
-        "heading": "Qualities",
-        "level": 3
+        "fileName": "Salena Boisvert",
+        "link": "1UP! Colfax",
+        "relativePath": "NPCs/Friendly/Denver/Salena Boisvert.md"
       },
       {
-        "heading": "Magic",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Combat",
-        "relativePath": "House Rules/Combat.md"
-      },
-      {
-        "link": "Contacts",
-        "relativePath": "House Rules/Contacts.md"
-      },
-      {
-        "link": "Matrix Actions",
-        "relativePath": "House Rules/Matrix Actions.md"
-      },
-      {
-        "link": "Ramming",
-        "relativePath": "House Rules/Ramming.md"
-      },
-      {
-        "link": "True Name Calling",
-        "relativePath": "House Rules/Qualities/True Name Calling.md"
-      },
-      {
-        "link": "Magic",
-        "displayText": "Base Magic",
-        "relativePath": "House Rules/Magic/Magic.md"
-      },
-      {
-        "link": "Quickend Spells",
-        "relativePath": "House Rules/Magic/Quickend Spells.md"
-      },
-      {
-        "link": "Reagents",
-        "relativePath": "House Rules/Magic/Reagents.md"
-      },
-      {
-        "link": "Ritual Magic",
-        "relativePath": "House Rules/Magic/Ritual Magic.md"
-      },
-      {
-        "link": "4th World Magic",
-        "relativePath": "House Rules/Magic/4th World Magic.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Homepage",
-        "link": "House Rules",
-        "relativePath": "Homepage.md"
+        "fileName": "1UP!",
+        "link": "1UP! Colfax",
+        "relativePath": "Lighthouse Industries/1UP!.md"
       }
     ]
   },
@@ -7578,42 +7799,6 @@
     ]
   },
   {
-    "fileName": "True Name Calling",
-    "relativePath": "House Rules/Qualities/True Name Calling.md",
-    "backlinks": [
-      {
-        "fileName": "House Rules",
-        "link": "True Name Calling",
-        "relativePath": "House Rules.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Contacts",
-    "relativePath": "House Rules/Contacts.md",
-    "headings": [
-      {
-        "heading": "Buying from Contacts",
-        "level": 3
-      },
-      {
-        "heading": "What contacts roll",
-        "level": 5
-      },
-      {
-        "heading": "Alchemical Preps",
-        "level": 5
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "House Rules",
-        "link": "Contacts",
-        "relativePath": "House Rules.md"
-      }
-    ]
-  },
-  {
     "fileName": "Matrix Actions",
     "relativePath": "House Rules/Matrix Actions.md",
     "backlinks": [
@@ -7625,23 +7810,12 @@
     ]
   },
   {
-    "fileName": "Combat",
-    "relativePath": "House Rules/Combat.md",
+    "fileName": "True Name Calling",
+    "relativePath": "House Rules/Qualities/True Name Calling.md",
     "backlinks": [
       {
         "fileName": "House Rules",
-        "link": "Combat",
-        "relativePath": "House Rules.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Ritual Magic",
-    "relativePath": "House Rules/Magic/Ritual Magic.md",
-    "backlinks": [
-      {
-        "fileName": "House Rules",
-        "link": "Ritual Magic",
+        "link": "True Name Calling",
         "relativePath": "House Rules.md"
       }
     ]
@@ -7653,6 +7827,17 @@
       {
         "fileName": "House Rules",
         "link": "Reagents",
+        "relativePath": "House Rules.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Ritual Magic",
+    "relativePath": "House Rules/Magic/Ritual Magic.md",
+    "backlinks": [
+      {
+        "fileName": "House Rules",
+        "link": "Ritual Magic",
         "relativePath": "House Rules.md"
       }
     ]
@@ -7703,6 +7888,42 @@
       {
         "fileName": "House Rules",
         "link": "4th World Magic",
+        "relativePath": "House Rules.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Contacts",
+    "relativePath": "House Rules/Contacts.md",
+    "headings": [
+      {
+        "heading": "Buying from Contacts",
+        "level": 3
+      },
+      {
+        "heading": "What contacts roll",
+        "level": 5
+      },
+      {
+        "heading": "Alchemical Preps",
+        "level": 5
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "House Rules",
+        "link": "Contacts",
+        "relativePath": "House Rules.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Combat",
+    "relativePath": "House Rules/Combat.md",
+    "backlinks": [
+      {
+        "fileName": "House Rules",
+        "link": "Combat",
         "relativePath": "House Rules.md"
       }
     ]
@@ -7835,6 +8056,10 @@
         "relativePath": "NPCs/Friendly/Seattle/Hitsuki Cho.md"
       },
       {
+        "link": "Clyde",
+        "relativePath": "NPCs/Neutral/Denver/Clyde.md"
+      },
+      {
         "link": "Colonel Bennet",
         "relativePath": "NPCs/Neutral/Denver/Colonel Bennet.md"
       },
@@ -7857,6 +8082,10 @@
       {
         "link": "Ghostwalker",
         "relativePath": "NPCs/Friendly/Denver/Ghostwalker.md"
+      },
+      {
+        "link": "Hippocrates",
+        "relativePath": "NPCs/Friendly/Denver/Hippocrates.md"
       },
       {
         "link": "Howard Dumbacher",
@@ -8102,15 +8331,15 @@
       },
       {
         "link": "Vice",
-        "relativePath": "Players/Old Characters/Vice.md"
+        "relativePath": "Players/Morocco/Vice.md"
       },
       {
         "link": "Myrr",
-        "relativePath": "Players/Old Characters/Myrr.md"
+        "relativePath": "Players/Morocco/Myrr.md"
       },
       {
         "link": "Alley Cat",
-        "relativePath": "Players/Old Characters/Alley Cat.md"
+        "relativePath": "Players/Dead Characters/Alley Cat.md"
       },
       {
         "link": "Helix",
@@ -8138,7 +8367,7 @@
       },
       {
         "link": "Alley Cat",
-        "relativePath": "Players/Old Characters/Alley Cat.md"
+        "relativePath": "Players/Dead Characters/Alley Cat.md"
       },
       {
         "link": "Titania",
@@ -8162,12 +8391,12 @@
       },
       {
         "link": "Myrr",
-        "displayText": "Players/Old Characters/Myrr",
-        "relativePath": "Players/Old Characters/Myrr.md"
+        "displayText": "Players/Morocco/Myrr",
+        "relativePath": "Players/Morocco/Myrr.md"
       },
       {
         "link": "Elfo",
-        "relativePath": "Players/Old Characters/Elfo.md"
+        "relativePath": "Players/London/Elfo.md"
       },
       {
         "link": "Kisouma",
@@ -8180,11 +8409,166 @@
       },
       {
         "link": "Vice",
-        "relativePath": "Players/Old Characters/Vice.md"
+        "relativePath": "Players/Morocco/Vice.md"
       },
       {
         "link": "Livia Davis",
         "relativePath": "NPCs/Neutral/Horizon/Livia Davis.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Djinn",
+    "relativePath": "Country Entities/Djinn.md",
+    "headings": [
+      {
+        "heading": "Branches",
+        "level": 5
+      },
+      {
+        "heading": "Known Djinn",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Rabat",
+        "relativePath": "Locations/Morocco/Rabat.md"
+      },
+      {
+        "link": "rabat black site",
+        "displayText": "black site",
+        "relativePath": "Locations/Morocco/rabat black site.md"
+      },
+      {
+        "link": "Rabat",
+        "relativePath": "Locations/Morocco/Rabat.md"
+      },
+      {
+        "link": "Casablanca",
+        "relativePath": "Locations/Morocco/Casablanca.md"
+      },
+      {
+        "link": "Marrakesh",
+        "relativePath": "Locations/Morocco/Marrakesh.md"
+      },
+      {
+        "link": "Ruby",
+        "relativePath": "NPCs/Neutral/Morocco/Ruby.md"
+      },
+      {
+        "link": "Blake",
+        "relativePath": "NPCs/Neutral/Morocco/Blake.md"
+      },
+      {
+        "link": "Weiss",
+        "relativePath": "NPCs/Neutral/Morocco/Weiss.md"
+      },
+      {
+        "link": "Commander Hamal ibn Halabi",
+        "relativePath": "NPCs/Neutral/Morocco/Commander Hamal ibn Halabi.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sand Worm",
+        "link": "Djinn",
+        "relativePath": "NPCs/Unfriendly/Sand Worm.md"
+      },
+      {
+        "fileName": "Inhabaited non-neutonian cube",
+        "link": "Djinn",
+        "relativePath": "NPCs/Unfriendly/Inhabaited non-neutonian cube.md"
+      },
+      {
+        "fileName": "Ruby",
+        "link": "Djinn",
+        "relativePath": "NPCs/Neutral/Morocco/Ruby.md"
+      },
+      {
+        "fileName": "Weiss",
+        "link": "Djinn",
+        "relativePath": "NPCs/Neutral/Morocco/Weiss.md"
+      },
+      {
+        "fileName": "Commander Hamal ibn Halabi",
+        "link": "Djinn",
+        "relativePath": "NPCs/Neutral/Morocco/Commander Hamal ibn Halabi.md",
+        "displayText": "djinn"
+      },
+      {
+        "fileName": "Blake",
+        "link": "Djinn",
+        "relativePath": "NPCs/Neutral/Morocco/Blake.md"
+      },
+      {
+        "fileName": "rabat black site",
+        "link": "Djinn",
+        "relativePath": "Locations/Morocco/rabat black site.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Black Monkey Syndicate",
+    "relativePath": "Crime Orgs/Black Monkey Syndicate.md",
+    "links": [
+      {
+        "link": "Rabat",
+        "displayText": "../Locations/Morocco/Rabat",
+        "relativePath": "Locations/Morocco/Rabat.md"
+      },
+      {
+        "link": "Rabat",
+        "displayText": "../Locations/Morocco/Rabat",
+        "relativePath": "Locations/Morocco/Rabat.md"
+      },
+      {
+        "link": "Sand Worm",
+        "relativePath": "NPCs/Unfriendly/Sand Worm.md"
+      },
+      {
+        "link": "Somalia",
+        "relativePath": "Locations/Black Monkey Syndicate/Somalia.md"
+      },
+      {
+        "link": "Golden Triangle",
+        "relativePath": "Locations/Black Monkey Syndicate/Golden Triangle.md"
+      },
+      {
+        "link": "Golden Triangle",
+        "relativePath": "Locations/Black Monkey Syndicate/Golden Triangle.md"
+      },
+      {
+        "link": "Himalayas",
+        "displayText": "Himalaian",
+        "relativePath": "Locations/Black Monkey Syndicate/Himalayas.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "22-4-10",
+        "link": "Black Monkey Syndicate",
+        "relativePath": "Sunday Game notes/22-4-10.md"
+      },
+      {
+        "fileName": "22-3-13",
+        "link": "Black Monkey Syndicate",
+        "relativePath": "Sunday Game notes/22-3-13.md"
+      },
+      {
+        "fileName": "Sand Worm",
+        "link": "Black Monkey Syndicate",
+        "relativePath": "NPCs/Unfriendly/Sand Worm.md"
+      },
+      {
+        "fileName": "Roman Torchwick",
+        "link": "Black Monkey Syndicate",
+        "relativePath": "NPCs/Unfriendly/Roman Torchwick.md"
+      },
+      {
+        "fileName": "Inhabaited non-neutonian cube",
+        "link": "Black Monkey Syndicate",
+        "relativePath": "NPCs/Unfriendly/Inhabaited non-neutonian cube.md"
       }
     ]
   },
@@ -8228,6 +8612,10 @@
         "relativePath": "GM Info/Germany/information.md"
       }
     ]
+  },
+  {
+    "fileName": "NPC Skill ranges",
+    "relativePath": "GM Info/Germany/NPC Skill ranges.md"
   },
   {
     "fileName": "information",
@@ -8395,10 +8783,6 @@
     ]
   },
   {
-    "fileName": "NPC Skill ranges",
-    "relativePath": "GM Info/Germany/NPC Skill ranges.md"
-  },
-  {
     "fileName": "Firestorm",
     "relativePath": "GM Info/Germany/Backstories/Firestorm.md",
     "links": [
@@ -8421,197 +8805,265 @@
     ]
   },
   {
-    "fileName": "22-11-06",
-    "relativePath": "GM Info/games/22-11-06.md",
+    "fileName": "22-11-20",
+    "relativePath": "GM Info/games/22-11-20.md"
+  },
+  {
+    "fileName": "Yoyo Dine",
+    "relativePath": "AA Corps/Yoyo Dine.md",
+    "tags": [
+      "aa_corporation"
+    ],
     "links": [
       {
-        "link": "22-10-23",
-        "displayText": "Angel needs rehab",
-        "relativePath": "GM Info/games/22-10-23.md"
+        "link": "Incubus",
+        "relativePath": "Players/Saturday/Incubus.md"
+      },
+      {
+        "link": "Ares",
+        "relativePath": "AAA Corps/Ares.md"
       }
     ]
   },
   {
-    "fileName": "22-10-23",
-    "relativePath": "GM Info/games/22-10-23.md",
-    "headings": [
-      {
-        "heading": "Angel needs rehab",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Berlin Team",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Team.md"
-      },
-      {
-        "link": "Evangelia Kaufmann",
-        "relativePath": "NPCs/Friendly/Germany/Evangelia Kaufmann.md"
-      }
+    "fileName": "Spinrad Global",
+    "relativePath": "AA Corps/Spinrad Global.md",
+    "tags": [
+      "aa_corporation"
     ],
     "backlinks": [
-      {
-        "fileName": "22-11-06",
-        "link": "22-10-23",
-        "relativePath": "GM Info/games/22-11-06.md",
-        "displayText": "Angel needs rehab"
-      }
-    ]
-  },
-  {
-    "fileName": "Black Monkey Syndicate",
-    "relativePath": "Crime Orgs/Black Monkey Syndicate.md",
-    "links": [
-      {
-        "link": "Rabat",
-        "displayText": "../Locations/Morocco/Rabat",
-        "relativePath": "Locations/Morocco/Rabat.md"
-      },
-      {
-        "link": "Rabat",
-        "displayText": "../Locations/Morocco/Rabat",
-        "relativePath": "Locations/Morocco/Rabat.md"
-      },
-      {
-        "link": "Sand Worm",
-        "relativePath": "NPCs/Unfriendly/Sand Worm.md"
-      },
-      {
-        "link": "Somalia",
-        "relativePath": "Locations/Black Monkey Syndicate/Somalia.md"
-      },
-      {
-        "link": "Golden Triangle",
-        "relativePath": "Locations/Black Monkey Syndicate/Golden Triangle.md"
-      },
-      {
-        "link": "Golden Triangle",
-        "relativePath": "Locations/Black Monkey Syndicate/Golden Triangle.md"
-      },
-      {
-        "link": "Himalayas",
-        "displayText": "Himalaian",
-        "relativePath": "Locations/Black Monkey Syndicate/Himalayas.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "22-4-10",
-        "link": "Black Monkey Syndicate",
-        "relativePath": "Sunday Game notes/22-4-10.md"
-      },
-      {
-        "fileName": "22-3-13",
-        "link": "Black Monkey Syndicate",
-        "relativePath": "Sunday Game notes/22-3-13.md"
-      },
-      {
-        "fileName": "Sand Worm",
-        "link": "Black Monkey Syndicate",
-        "relativePath": "NPCs/Unfriendly/Sand Worm.md"
-      },
       {
         "fileName": "Roman Torchwick",
-        "link": "Black Monkey Syndicate",
+        "link": "Spinrad Global",
         "relativePath": "NPCs/Unfriendly/Roman Torchwick.md"
-      },
-      {
-        "fileName": "Inhabaited non-neutonian cube",
-        "link": "Black Monkey Syndicate",
-        "relativePath": "NPCs/Unfriendly/Inhabaited non-neutonian cube.md"
       }
     ]
   },
   {
-    "fileName": "Djinn",
-    "relativePath": "Country Entities/Djinn.md",
+    "fileName": "Litehouse Industries",
+    "relativePath": "AA Corps/Litehouse Industries.md",
+    "tags": [
+      "aa_corporation"
+    ],
     "headings": [
       {
-        "heading": "Branches",
+        "heading": "Owners",
+        "level": 4
+      },
+      {
+        "heading": "Litehouse Industries Original Board",
+        "level": 4
+      },
+      {
+        "heading": "Litehouse Industries Current Board",
+        "level": 4
+      },
+      {
+        "heading": "Corporate Layout",
+        "level": 4
+      },
+      {
+        "heading": "[[../Players/Saturday/Cat| Cat]] Owns",
+        "level": 4
+      },
+      {
+        "heading": "[[../Players/Saturday/Incubus|Incubus]] Owns",
+        "level": 4
+      },
+      {
+        "heading": "[[../Players/London/Nightowl|Nightowl]] Owns",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Cat",
+        "relativePath": "Players/Saturday/Cat.md"
+      },
+      {
+        "link": "Merlin",
+        "relativePath": "NPCs/Friendly/Denver/Merlin.md"
+      },
+      {
+        "link": "Incubus",
+        "relativePath": "Players/Saturday/Incubus.md"
+      },
+      {
+        "link": "Nightowl",
+        "relativePath": "Players/London/Nightowl.md"
+      },
+      {
+        "link": "Elfo",
+        "relativePath": "Players/London/Elfo.md"
+      },
+      {
+        "link": "Cat",
+        "relativePath": "Players/Saturday/Cat.md"
+      },
+      {
+        "link": "Merlin",
+        "relativePath": "NPCs/Friendly/Denver/Merlin.md"
+      },
+      {
+        "link": "Kalt",
+        "relativePath": "NPCs/Friendly/Denver/Kalt.md"
+      },
+      {
+        "link": "Jess",
+        "relativePath": "NPCs/Friendly/Denver/Jess.md"
+      },
+      {
+        "link": "Steve",
+        "relativePath": "NPCs/Friendly/Denver/Steve.md"
+      },
+      {
+        "link": "Cat",
+        "relativePath": "Players/Saturday/Cat.md"
+      },
+      {
+        "link": "Merlin",
+        "relativePath": "NPCs/Friendly/Denver/Merlin.md"
+      },
+      {
+        "link": "Incubus",
+        "relativePath": "Players/Saturday/Incubus.md"
+      },
+      {
+        "link": "Elfo",
+        "relativePath": "Players/London/Elfo.md"
+      },
+      {
+        "link": "Nightowl",
+        "relativePath": "Players/London/Nightowl.md"
+      },
+      {
+        "link": "Cat",
+        "relativePath": "Players/Saturday/Cat.md"
+      },
+      {
+        "link": "1UP!",
+        "relativePath": "Lighthouse Industries/1UP!.md"
+      },
+      {
+        "link": "Litehouse Brand",
+        "relativePath": "Lighthouse Industries/Litehouse Brand.md"
+      },
+      {
+        "link": "Genesis Medical",
+        "relativePath": "Lighthouse Industries/Genesis Medical.md"
+      },
+      {
+        "link": "The Apollo Group",
+        "relativePath": "Lighthouse Industries/The Apollo Group.md"
+      },
+      {
+        "link": "Incubus",
+        "relativePath": "Players/Saturday/Incubus.md"
+      },
+      {
+        "link": "Incubus Club",
+        "relativePath": "Lighthouse Industries/Incubus Club.md"
+      },
+      {
+        "link": "Nightowl",
+        "relativePath": "Players/London/Nightowl.md"
+      },
+      {
+        "link": "Mercea Conglomerate",
+        "relativePath": "Lighthouse Industries/Mercea Conglomerate.md"
+      },
+      {
+        "link": "Rainbow Corp",
+        "relativePath": "Lighthouse Industries/Rainbow Corp.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Troy",
+        "link": "Litehouse Industries",
+        "relativePath": "NPCs/Friendly/Denver/Troy.md",
+        "displayText": "LItehouse Industries"
+      },
+      {
+        "fileName": "Saint George Parish",
+        "link": "Litehouse Industries",
+        "relativePath": "Locations/Saint George Parish.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Draco Foundation",
+    "relativePath": "AA Corps/Draco Foundation.md",
+    "tags": [
+      "aa_corporation"
+    ],
+    "headings": [
+      {
+        "heading": "People",
+        "level": 4
+      },
+      {
+        "heading": "CEO",
         "level": 5
       },
       {
-        "heading": "Known Djinn",
+        "heading": "Known Drakes",
         "level": 5
       }
     ],
     "links": [
       {
-        "link": "Rabat",
-        "relativePath": "Locations/Morocco/Rabat.md"
+        "link": "Nadja Davier",
+        "relativePath": "NPCs/Neutral/Nadja Davier.md"
       },
       {
-        "link": "rabat black site",
-        "displayText": "black site",
-        "relativePath": "Locations/Morocco/rabat black site.md"
-      },
-      {
-        "link": "Rabat",
-        "relativePath": "Locations/Morocco/Rabat.md"
-      },
-      {
-        "link": "Casablanca",
-        "relativePath": "Locations/Morocco/Casablanca.md"
-      },
-      {
-        "link": "Marrakesh",
-        "relativePath": "Locations/Morocco/Marrakesh.md"
-      },
-      {
-        "link": "Ruby",
-        "relativePath": "NPCs/Neutral/Morocco/Ruby.md"
-      },
-      {
-        "link": "Blake",
-        "relativePath": "NPCs/Neutral/Morocco/Blake.md"
-      },
-      {
-        "link": "Weiss",
-        "relativePath": "NPCs/Neutral/Morocco/Weiss.md"
-      },
-      {
-        "link": "Commander Hamal ibn Halabi",
-        "relativePath": "NPCs/Neutral/Morocco/Commander Hamal ibn Halabi.md"
+        "link": "Blitz",
+        "relativePath": "NPCs/Friendly/Denver/Blitz.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Sand Worm",
-        "link": "Djinn",
-        "relativePath": "NPCs/Unfriendly/Sand Worm.md"
+        "fileName": "Mi Kwan",
+        "link": "Draco Foundation",
+        "relativePath": "NPCs/Friendly/Denver/Mi Kwan.md"
       },
       {
-        "fileName": "Inhabaited non-neutonian cube",
-        "link": "Djinn",
-        "relativePath": "NPCs/Unfriendly/Inhabaited non-neutonian cube.md"
+        "fileName": "Blitz",
+        "link": "Draco Foundation",
+        "relativePath": "NPCs/Friendly/Denver/Blitz.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Blue Steel Industries",
+    "relativePath": "AA Corps/Blue Steel Industries.md",
+    "tags": [
+      "aa_corporation"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Canis",
+        "link": "Blue Steel Industries",
+        "relativePath": "NPCs/Friendly/Seattle/Canis.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sader Krupp",
+    "relativePath": "AAA Corps/Sader Krupp.md",
+    "tags": [
+      "aaa_corporation"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Maximilian",
+        "link": "Sader Krupp",
+        "relativePath": "Players/Germany(Sunday)/Maximilian.md"
       },
       {
-        "fileName": "Weiss",
-        "link": "Djinn",
-        "relativePath": "NPCs/Neutral/Morocco/Weiss.md"
-      },
-      {
-        "fileName": "Ruby",
-        "link": "Djinn",
-        "relativePath": "NPCs/Neutral/Morocco/Ruby.md"
-      },
-      {
-        "fileName": "Commander Hamal ibn Halabi",
-        "link": "Djinn",
-        "relativePath": "NPCs/Neutral/Morocco/Commander Hamal ibn Halabi.md",
-        "displayText": "djinn"
-      },
-      {
-        "fileName": "Blake",
-        "link": "Djinn",
-        "relativePath": "NPCs/Neutral/Morocco/Blake.md"
-      },
-      {
-        "fileName": "rabat black site",
-        "link": "Djinn",
-        "relativePath": "Locations/Morocco/rabat black site.md"
+        "fileName": "Angel",
+        "link": "Sader Krupp",
+        "relativePath": "Players/Germany(Sunday)/Angel.md"
       }
     ]
   },
@@ -8650,25 +9102,6 @@
         "fileName": "22-4-24",
         "link": "Shiawase",
         "relativePath": "Sunday Game notes/22-4-24.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Sader Krupp",
-    "relativePath": "AAA Corps/Sader Krupp.md",
-    "tags": [
-      "aaa_corporation"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Maximilian",
-        "link": "Sader Krupp",
-        "relativePath": "Players/Germany(Sunday)/Maximilian.md"
-      },
-      {
-        "fileName": "Angel",
-        "link": "Sader Krupp",
-        "relativePath": "Players/Germany(Sunday)/Angel.md"
       }
     ]
   },
@@ -8723,6 +9156,27 @@
     ]
   },
   {
+    "fileName": "Evo",
+    "relativePath": "AAA Corps/Evo.md",
+    "tags": [
+      "aaa_corporation"
+    ],
+    "backlinks": [
+      {
+        "fileName": "22-4-24",
+        "link": "Evo",
+        "relativePath": "Sunday Game notes/22-4-24.md",
+        "displayText": "EVO"
+      },
+      {
+        "fileName": "22-4-24",
+        "link": "Evo",
+        "relativePath": "Sunday Game notes/22-4-24.md",
+        "displayText": "EVO"
+      }
+    ]
+  },
+  {
     "fileName": "Horizon",
     "relativePath": "AAA Corps/Horizon/Horizon.md",
     "tags": [
@@ -8770,27 +9224,6 @@
         "fileName": "22-1-30",
         "link": "Horizon",
         "relativePath": "Sunday Game notes/22-1-30.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Evo",
-    "relativePath": "AAA Corps/Evo.md",
-    "tags": [
-      "aaa_corporation"
-    ],
-    "backlinks": [
-      {
-        "fileName": "22-4-24",
-        "link": "Evo",
-        "relativePath": "Sunday Game notes/22-4-24.md",
-        "displayText": "EVO"
-      },
-      {
-        "fileName": "22-4-24",
-        "link": "Evo",
-        "relativePath": "Sunday Game notes/22-4-24.md",
-        "displayText": "EVO"
       }
     ]
   },
@@ -8919,11 +9352,6 @@
         "relativePath": "NPCs/Neutral/Morocco/David Johnson.md"
       },
       {
-        "fileName": "Deimos",
-        "link": "Ares",
-        "relativePath": "NPCs/Neutral/Ares/Deimos.md"
-      },
-      {
         "fileName": "Tia Micheals",
         "link": "Ares",
         "relativePath": "NPCs/Neutral/Ares/Tia Micheals.md"
@@ -8954,6 +9382,11 @@
         "relativePath": "NPCs/Neutral/Ares/Lance Barrymore.md"
       },
       {
+        "fileName": "Deimos",
+        "link": "Ares",
+        "relativePath": "NPCs/Neutral/Ares/Deimos.md"
+      },
+      {
         "fileName": "Amera",
         "link": "Ares",
         "relativePath": "NPCs/Neutral/Ares/Amera.md"
@@ -8967,226 +9400,6 @@
         "fileName": "Yoyo Dine",
         "link": "Ares",
         "relativePath": "AA Corps/Yoyo Dine.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Spinrad Global",
-    "relativePath": "AA Corps/Spinrad Global.md",
-    "tags": [
-      "aa_corporation"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Roman Torchwick",
-        "link": "Spinrad Global",
-        "relativePath": "NPCs/Unfriendly/Roman Torchwick.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Yoyo Dine",
-    "relativePath": "AA Corps/Yoyo Dine.md",
-    "tags": [
-      "aa_corporation"
-    ],
-    "links": [
-      {
-        "link": "Incubus",
-        "relativePath": "Players/Saturday/Incubus.md"
-      },
-      {
-        "link": "Ares",
-        "relativePath": "AAA Corps/Ares.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Litehouse Industries",
-    "relativePath": "AA Corps/Litehouse Industries.md",
-    "tags": [
-      "aa_corporation"
-    ],
-    "headings": [
-      {
-        "heading": "Owners",
-        "level": 4
-      },
-      {
-        "heading": "Litehouse Industries Original Board",
-        "level": 4
-      },
-      {
-        "heading": "Litehouse Industries Current Board",
-        "level": 4
-      },
-      {
-        "heading": "Corporate Layout",
-        "level": 4
-      },
-      {
-        "heading": "[[../Players/Saturday/Cat| Cat]] Owns",
-        "level": 4
-      },
-      {
-        "heading": "[[../Players/Saturday/Incubus|Incubus]] Owns",
-        "level": 4
-      },
-      {
-        "heading": "[[../Players/London/Nightowl|Nightowl]] Owns",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "Cat",
-        "relativePath": "Players/Saturday/Cat.md"
-      },
-      {
-        "link": "Merlin",
-        "relativePath": "NPCs/Friendly/Denver/Merlin.md"
-      },
-      {
-        "link": "Incubus",
-        "relativePath": "Players/Saturday/Incubus.md"
-      },
-      {
-        "link": "Nightowl",
-        "relativePath": "Players/London/Nightowl.md"
-      },
-      {
-        "link": "Elfo",
-        "relativePath": "Players/Old Characters/Elfo.md"
-      },
-      {
-        "link": "Cat",
-        "relativePath": "Players/Saturday/Cat.md"
-      },
-      {
-        "link": "Jess",
-        "relativePath": "NPCs/Friendly/Denver/Jess.md"
-      },
-      {
-        "link": "Steve",
-        "relativePath": "NPCs/Friendly/Denver/Steve.md"
-      },
-      {
-        "link": "Cat",
-        "relativePath": "Players/Saturday/Cat.md"
-      },
-      {
-        "link": "Incubus",
-        "relativePath": "Players/Saturday/Incubus.md"
-      },
-      {
-        "link": "Cat",
-        "relativePath": "Players/Saturday/Cat.md"
-      },
-      {
-        "link": "1UP!",
-        "relativePath": "Lighthouse Industries/1UP!.md"
-      },
-      {
-        "link": "Litehouse Brand",
-        "relativePath": "Lighthouse Industries/Litehouse Brand.md"
-      },
-      {
-        "link": "Genesis Medical",
-        "relativePath": "Lighthouse Industries/Genesis Medical.md"
-      },
-      {
-        "link": "The Apollo Group",
-        "relativePath": "Lighthouse Industries/The Apollo Group.md"
-      },
-      {
-        "link": "Incubus",
-        "relativePath": "Players/Saturday/Incubus.md"
-      },
-      {
-        "link": "Incubus Club",
-        "relativePath": "Lighthouse Industries/Incubus Club.md"
-      },
-      {
-        "link": "Nightowl",
-        "relativePath": "Players/London/Nightowl.md"
-      },
-      {
-        "link": "Mercea Conglomerate",
-        "relativePath": "Lighthouse Industries/Mercea Conglomerate.md"
-      },
-      {
-        "link": "Rainbow Corp",
-        "relativePath": "Lighthouse Industries/Rainbow Corp.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Troy",
-        "link": "Litehouse Industries",
-        "relativePath": "NPCs/Friendly/Denver/Troy.md",
-        "displayText": "LItehouse Industries"
-      },
-      {
-        "fileName": "Saint George Parish",
-        "link": "Litehouse Industries",
-        "relativePath": "Locations/Saint George Parish.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Draco Foundation",
-    "relativePath": "AA Corps/Draco Foundation.md",
-    "tags": [
-      "aa_corporation"
-    ],
-    "headings": [
-      {
-        "heading": "People",
-        "level": 4
-      },
-      {
-        "heading": "CEO",
-        "level": 5
-      },
-      {
-        "heading": "Known Drakes",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Nadja Davier",
-        "relativePath": "NPCs/Neutral/Nadja Davier.md"
-      },
-      {
-        "link": "Blitz",
-        "relativePath": "NPCs/Friendly/Denver/Blitz.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Mi Kwan",
-        "link": "Draco Foundation",
-        "relativePath": "NPCs/Friendly/Denver/Mi Kwan.md"
-      },
-      {
-        "fileName": "Blitz",
-        "link": "Draco Foundation",
-        "relativePath": "NPCs/Friendly/Denver/Blitz.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Blue Steel Industries",
-    "relativePath": "AA Corps/Blue Steel Industries.md",
-    "tags": [
-      "aa_corporation"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Canis",
-        "link": "Blue Steel Industries",
-        "relativePath": "NPCs/Friendly/Seattle/Canis.md"
       }
     ]
   },

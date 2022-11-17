@@ -4,22 +4,22 @@
 - [[../NPCs/Friendly/Denver/Merlin|Merlin]] 
 - [[../Players/Saturday/Incubus|Incubus]]
 - [[../Players/London/Nightowl|Nightowl]]
-- [[../Players/Old Characters/Elfo|Elfo]]
+- [[../Players/London/Elfo|Elfo]]
 
 #### Litehouse Industries Original Board
 - [[../Players/Saturday/Cat|Cat]] - 3 Votes
-- Merlin - 2 Votes
-- Kalt - 2 Votes
+- [[../NPCs/Friendly/Denver/Merlin|Merlin]] - 2 Votes
+- [[../NPCs/Friendly/Denver/Kalt|Kalt]] - 2 Votes
 - [[../NPCs/Friendly/Denver/Jess|Jess]] - 1 Vote
 - [[../NPCs/Friendly/Denver/Steve|Steve]] - 1 Vote
 
 #### Litehouse Industries Current Board
 1 vote each
 - [[../Players/Saturday/Cat|Cat]]
-- Merlin
+- [[../NPCs/Friendly/Denver/Merlin|Merlin]]
 - [[../Players/Saturday/Incubus|Incubus]]
-- Elfo
-- Nightowl
+- [[../Players/London/Elfo|Elfo]]
+- [[../Players/London/Nightowl|Nightowl]]
 
 #### Corporate Layout
 ```mermaid
@@ -50,7 +50,9 @@ graph TD
     DPA0 --- DPAD[Denver School for Advanced Learning]
 
     DPA0 --- DPAO[OneUP!!]
-    
+
+    DPAL --- DPALA[Litehouse Aerospace]
+
     DPAL --- DPALC[Litehouse Construction]
 
     DPAL --- DPALM[Litehouse Manufacturing]

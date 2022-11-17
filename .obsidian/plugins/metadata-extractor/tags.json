@@ -27,6 +27,13 @@
     ]
   },
   {
+    "tag": "foundry",
+    "tagCount": 1,
+    "relativePaths": [
+      "How to Use Foundry.md"
+    ]
+  },
+  {
     "tag": "locations",
     "tagCount": 1,
     "relativePaths": [
@@ -46,8 +53,8 @@
     "tagCount": 6,
     "relativePaths": [
       "Lighthouse Industries/Rainbow Corp.md",
-      "AA Corps/Spinrad Global.md",
       "AA Corps/Yoyo Dine.md",
+      "AA Corps/Spinrad Global.md",
       "AA Corps/Litehouse Industries.md",
       "AA Corps/Draco Foundation.md",
       "AA Corps/Blue Steel Industries.md"
@@ -61,23 +68,16 @@
     ]
   },
   {
-    "tag": "foundry",
-    "tagCount": 1,
-    "relativePaths": [
-      "How to Use Foundry.md"
-    ]
-  },
-  {
     "tag": "aaa_corporation",
     "tagCount": 9,
     "relativePaths": [
+      "AAA Corps/Sader Krupp.md",
       "AAA Corps/Wuxing.md",
       "AAA Corps/Shiawase.md",
-      "AAA Corps/Sader Krupp.md",
       "AAA Corps/Renraku.md",
       "AAA Corps/MCT.md",
-      "AAA Corps/Horizon/Horizon.md",
       "AAA Corps/Evo.md",
+      "AAA Corps/Horizon/Horizon.md",
       "AAA Corps/Aztechnology.md",
       "AAA Corps/Ares.md"
     ]

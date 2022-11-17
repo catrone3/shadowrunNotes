@@ -1,6 +1,6 @@
 Board of Directors
 - Chairman: Jerry '[[../Players/London/Nightowl|Nightowl]]' Molly
-- Director of Matrix Initiatives: '[[../Players/Old Characters/Elfo|Elfo]]'
+- Director of Matrix Initiatives: '[[../Players/London/Elfo|Elfo]]'
 - Director: '[[../Players/London/Casper|Casper]]'
 - Director: '[[../Players/London/Zer0|Zer0]]'
 
@@ -24,7 +24,7 @@ Character Goals
 
 	- Conditioning and brainwashing, refinement. 
 
-- [[../Players/Old Characters/Elfo|Elfo]]’s 
+- [[../Players/London/Elfo|Elfo]]’s 
 
 	- Explore A.I. emergence and its causes. 
 
@@ -62,4 +62,4 @@ Step 9c: Acquisition of Drones and Workers (See [[../Players/London/Casper|Caspe
 
 Step 10: Found Magical Group for Shadowrunners/Adept Security team? 
 
-Step 11: Build our own Host and begin to upgrade it alongside aid of [[../Players/Old Characters/Elfo|Elfo]] and Technicolor Streams. Once in the Foundation we can Grow an existing Host: It takes # of Months = Current Rating to raise the Rating value by 1.
+Step 11: Build our own Host and begin to upgrade it alongside aid of [[../Players/London/Elfo|Elfo]] and Technicolor Streams. Once in the Foundation we can Grow an existing Host: It takes # of Months = Current Rating to raise the Rating value by 1.

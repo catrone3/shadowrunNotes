@@ -28,14 +28,14 @@
 [[../../NPCs/Friendly/France/Blood Butterfly|Blood Butterfly]]
 [[NPCs/Friendly/Seattle/Canis|Canis]]
 [[NPCs/Friendly/Seattle/Hitsuki Cho|Cho]]
-Clyde
+[[NPCs/Neutral/Denver/Clyde|Clyde]]
 [[NPCs/Neutral/Denver/Colonel Bennet|Colonel Bennet]]
 [[../../NPCs/Friendly/Matrix/Data-Stream|Data-Stream]]
 [[../../NPCs/Friendly/Matrix/DexTER|DexTER]]
 [[NPCs/Neutral/Dragon Council|Dragon Council]]
 [[NPCs/Neutral/Evelyn Prescott|Evelyn Prescott]]
 [[NPCs/Friendly/Denver/Ghostwalker|Ghostwalker]]
-Hippocrates
+[[NPCs/Friendly/Denver/Hippocrates|Hippocrates]]
 [[NPCs/Friendly/Howard Dumbacher|Howard Dumbacher]]
 [[NPCs/Friendly/Denver/Ivy|Ivy]]
 [[NPCs/Friendly/Denver/Jess|Jess]]
@@ -114,9 +114,9 @@ Thanatos
 [[Players/Morocco/Titania|Titania]]
 [[Players/Morocco/Triage Black|Triage Black]]
 [[Players/Saturday/Spyder|Spyder]]
-[[Players/Old Characters/Vice|Vice]] - Retired
-[[Players/Old Characters/Myrr|Myrr]] - Retired
-[[Players/Old Characters/Alley Cat|Alley Cat]] - Dead
+[[Players/Morocco/Vice|Vice]] - Retired
+[[Players/Morocco/Myrr|Myrr]] - Retired
+[[Players/Dead Characters/Alley Cat|Alley Cat]] - Dead
 
 ##### Contacts
 [[NPCs/Friendly/Morocco/Helix|Helix]]
@@ -132,17 +132,17 @@ Thanatos
 <iframe src="https://www.google.com/maps/d/embed?mid=1T-XvWV-CvoD--SYnhAvub1hFnB7kDINF&ehbc=2E312F" width="640" height="480"></iframe>
 #### London Team
 
-[[Players/Old Characters/Alley Cat|Alley Cat]] - Dead
+[[Players/Dead Characters/Alley Cat|Alley Cat]] - Dead
 [[Players/Morocco/Titania|Titania]] - Retired
 [[Players/Saturday/Spyder|Spyder]] - Unknown
 [[Players/London/Zer0|Zer0]] - Retired
 [[Players/London/Nightowl|Nightowl]] - Retired
 [[Players/Morocco/Corvus|Corvus]] - Unknown
-[[Players/Old Characters/Myrr]] - Unknown
-[[Players/Old Characters/Elfo|Elfo]] - Retired
+[[Players/Morocco/Myrr]] - Unknown
+[[Players/London/Elfo|Elfo]] - Retired
 [[Players/Morocco/Kisouma|KiKi]] - Unkown
 [[Players/Morocco/Triage Black|Triage Black]] - Unknown
-[[Players/Old Characters/Vice|Vice]] - Unknown
+[[Players/Morocco/Vice|Vice]] - Unknown
 
 ##### Contacts
 [[NPCs/Neutral/Horizon/Livia Davis|Livia Davis]]

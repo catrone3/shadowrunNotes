@@ -6,9 +6,9 @@
 - Charisma = 8 (6)
 
 ##### Stealth rolls
-- Improved invis =  11(3)
-- sound barrier = 7(0)
-- snake blood = 9 (6)
+- Improved invis =  6()
+- sound barrier = 7()
+- snake blood = 9 ()
 - traceless walk = 4
 - rpc = 4
 - sneak = 3
@@ -29,16 +29,16 @@
 ##### Dating
 - [[Swiss]] - Boyfriend and Team mage
 - [[../../NPCs/Friendly/Denver/Valerian Quinn|Valerian Quinn]]
-- other one
+- [[../../NPCs/Friendly/Denver/Coco|Coco]]
 
 ##### Exs
 - [[../../NPCs/Neutral/Seattle/Ushi Bido|Ushi Bido]]
 	- Father: [[../../NPCs/Friendly/Seattle/Hitsuki Cho|Cho]]
 
 ### Kids
-5 babies with Ushi (3 Orks 2 elves)
+5 3 year olds with Ushi (3 Orks 2 elves) (born in summer 2079)
 1 Teenager in [[../../Locations/London|London]]
-1 Baby Dragon staying Ghostwalker
+1 Baby Dragon staying Ghostwalker (4 years out of shell)
 6 Teenagers
 - to (mage) ork M5
 - socket (Rigger)
@@ -77,6 +77,10 @@
 - [[../../NPCs/Friendly/Seattle/Hitsuki Cho|Cho]]
 - [[../../NPCs/Friendly/Denver/Ghostwalker|Ghostwalker]]
 - [[../../NPCs/Neutral/Dragon Council|Dragon Council]]
+- [[../../NPCs/Friendly/Denver/Hippocrates|Hippocrates]]
+
+##### Unvoluntary Employment
+- [[../../NPCs/Neutral/Denver/DataMax|DataMax]]
 
 ##### Shadowrun Teams
 [[../../Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team|Denver Team]]

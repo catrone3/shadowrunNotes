@@ -1,7 +1,7 @@
 #Seattle #[[../../Locations/London|London]] #Atlanta
 Employees
 
-- Head Researcher '[[../../Players/Old Characters/Elfo|Elfo]]'
+- Head Researcher '[[../../Players/London/Elfo|Elfo]]'
 - [[../../NPCs/Friendly/Olivia|Olivia]] – Business Manager from Wisconsin
   
   Sites:
