@@ -1,5 +1,9 @@
 [
   {
+    "fileName": "How to use Exploding Dice bot",
+    "relativePath": "How to use Exploding Dice bot.md"
+  },
+  {
     "fileName": "Working with Github",
     "relativePath": "Working with Github.md",
     "headings": [
@@ -539,6 +543,10 @@
         "relativePath": "Locations/Morocco/Rabat.md"
       }
     ]
+  },
+  {
+    "fileName": "22-11-19",
+    "relativePath": "Saturday Game notes/22-11-19.md"
   },
   {
     "fileName": "22-9-24",
@@ -2473,6 +2481,10 @@
       {
         "link": "Niklas Klause",
         "relativePath": "NPCs/Friendly/Germany/Niklas Klause.md"
+      },
+      {
+        "link": "Heidi Nagel",
+        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
       }
     ],
     "backlinks": [
@@ -2515,6 +2527,10 @@
       {
         "link": "Reinhold Wulf",
         "relativePath": "NPCs/Friendly/Germany/Reinhold Wulf.md"
+      },
+      {
+        "link": "Heidi Nagel",
+        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
       }
     ],
     "backlinks": [
@@ -2763,6 +2779,10 @@
       {
         "link": "Walter Hogersmans",
         "relativePath": "NPCs/Friendly/Germany/Walter Hogersmans.md"
+      },
+      {
+        "link": "Heidi Nagel",
+        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
       }
     ],
     "backlinks": [
@@ -3542,6 +3562,37 @@
         "fileName": "Homepage",
         "link": "Blood Butterfly",
         "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Heidi Nagel",
+    "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md",
+    "backlinks": [
+      {
+        "fileName": "Maximilian",
+        "link": "Heidi Nagel",
+        "relativePath": "Players/Germany(Sunday)/Maximilian.md"
+      },
+      {
+        "fileName": "Tanka",
+        "link": "Heidi Nagel",
+        "relativePath": "Players/Germany(Sunday)/Tanka.md"
+      },
+      {
+        "fileName": "Angel",
+        "link": "Heidi Nagel",
+        "relativePath": "Players/Germany(Sunday)/Angel.md"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Heidi Nagel",
+        "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "22-11-20",
+        "link": "Heidi Nagel",
+        "relativePath": "GM Info/games/22-11-20.md"
       }
     ]
   },
@@ -8302,6 +8353,10 @@
         "relativePath": "NPCs/Friendly/Germany/Reinald Neudorf.md"
       },
       {
+        "link": "Heidi Nagel",
+        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
+      },
+      {
         "link": "Corvus",
         "relativePath": "Players/Morocco/Corvus.md"
       },
@@ -8599,6 +8654,10 @@
       {
         "heading": "runner team",
         "level": 5
+      },
+      {
+        "heading": "Hosts",
+        "level": 5
       }
     ],
     "backlinks": [
@@ -8802,7 +8861,23 @@
   },
   {
     "fileName": "22-11-20",
-    "relativePath": "GM Info/games/22-11-20.md"
+    "relativePath": "GM Info/games/22-11-20.md",
+    "headings": [
+      {
+        "heading": "[[../../NPCs/Friendly/Germany/Heidi Nagel|Heidi Nagel]]",
+        "level": 5
+      },
+      {
+        "heading": "End stats",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Heidi Nagel",
+        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
+      }
+    ]
   },
   {
     "fileName": "Yoyo Dine",

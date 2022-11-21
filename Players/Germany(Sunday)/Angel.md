@@ -20,3 +20,7 @@ Awakened
 [[../../NPCs/Friendly/Germany/Walter Hogersmans|Walter Hogersmans]]
 - Company Suit
 - Loyalty: 1
+
+[[../../NPCs/Friendly/Germany/Heidi Nagel|Heidi Nagel]]
+- Higher up at Platte
+- loyalty 1 

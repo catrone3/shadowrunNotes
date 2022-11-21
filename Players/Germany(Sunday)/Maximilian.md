@@ -20,3 +20,7 @@ Awakened
 [[../../NPCs/Friendly/Germany/Niklas Klause|Niklas Klause]]
 - Mercenary Alchemist
 - Loyalty: 2
+
+[[../../NPCs/Friendly/Germany/Heidi Nagel|Heidi Nagel]]
+- Higher up at Platte
+- loyalty 1 

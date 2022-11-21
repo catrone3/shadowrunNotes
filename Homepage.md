@@ -101,6 +101,7 @@ Thanatos
 [[../../NPCs/Friendly/Germany/Marjan Decker|Marjan Decker]]
 [[../../NPCs/Friendly/Germany/Salih Meier|Salih Meier]]
 [[../../NPCs/Friendly/Germany/Reinald Neudorf|Reinald Neudorf]]
+[[NPCs/Friendly/Germany/Heidi Nagel|Heidi Nagel]]
 
 
 
