@@ -34,25 +34,12 @@
             }
           },
           {
-            "id": "aca78ab432597ea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Friendly/Germany/Heidi Nagel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "106bb3c5683da21f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Players/Germany(Sunday)/Angel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Friendly/Germany/Heidi Nagel.md",
+                "file": "Players/Germany(Sunday)/Angel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "17c028d156c8c8c7",
+  "active": "106bb3c5683da21f",
   "lastOpenFiles": [
-    "Homepage.md",
-    "Players/Germany(Sunday)/Tanka.md",
-    "NPCs/Friendly/Germany/Heidi Nagel.md",
     "Players/Germany(Sunday)/Maximilian.md",
-    "Players/Germany(Sunday)/Angel.md",
-    "GM Info/games/22-11-20.md",
-    "GM Info/Germany/Tiger-Syndikat.md",
-    "GM Info/Germany/information.md",
+    "Players/Germany(Sunday)/Tanka.md",
+    "Players/Germany(Sunday)/Firestorm.md",
+    "Players/Germany(Sunday)/Jericho.md",
     "Players/Germany(Sunday)/Dok.md",
-    "NPCs/Friendly/Germany/Immo Mauer.md"
+    "Players/Germany(Sunday)/Angel.md",
+    "Players/Germany(Sunday)/Glitch.md",
+    "House Rules.md",
+    "Homepage.md",
+    "How to use Exploding Dice bot.md"
   ]
 }

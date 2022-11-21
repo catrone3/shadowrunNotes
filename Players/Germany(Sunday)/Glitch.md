@@ -3,6 +3,8 @@ None
 
 ### Status
 Emerged
+Almost never in hotsim in between games. Tends to grease monkey
+Always running silent
 
 ### Contacts
 [[../../NPCs/Friendly/Germany/Caroline Krause|Caroline Krause]]

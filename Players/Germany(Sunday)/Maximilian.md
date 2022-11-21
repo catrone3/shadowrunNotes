@@ -2,7 +2,7 @@
 [[../../AAA Corps/Sader Krupp|Sader Krupp]]
 
 ### Status
-Awakened
+Adept
 
 ### Contacts
 [[../../NPCs/Friendly/Germany/Dell' Inferno|Dell' Inferno]]

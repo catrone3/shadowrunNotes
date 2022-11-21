@@ -2,7 +2,7 @@
 None
 
 ### Status
-Awakened 
+Mage
 
 ### Contacts
 [[../../NPCs/Friendly/Germany/Marko Wirth|Marko Wirth]]

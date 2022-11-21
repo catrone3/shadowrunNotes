@@ -2,7 +2,8 @@
 None
 
 ### Status
-Awakened
+Mysad
+Never had your own face, 2-3 different faces ish.
 
 ### Contacts
 [[../../NPCs/Friendly/Germany/Christof Hardt|Christof Hardt]]

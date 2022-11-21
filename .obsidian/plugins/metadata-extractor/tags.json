@@ -1,32 +1,5 @@
 [
   {
-    "tag": "caribbean_league",
-    "tagCount": 2,
-    "relativePaths": [
-      "Players/Port Au Prince/Pirate Group.md",
-      "Locations/Saint George Parish.md"
-    ]
-  },
-  {
-    "tag": "denver",
-    "tagCount": 6,
-    "relativePaths": [
-      "NPCs/Neutral/Morocco/David Johnson.md",
-      "Locations/FRFZ/Denver Nexus.md",
-      "Lighthouse Industries/Litehouse Brand.md",
-      "Lighthouse Industries/Incubus Club.md",
-      "Lighthouse Industries/Genesis Medical.md",
-      "Lighthouse Industries/1UP!.md"
-    ]
-  },
-  {
-    "tag": "fixer",
-    "tagCount": 1,
-    "relativePaths": [
-      "NPCs/Neutral/Morocco/David Johnson.md"
-    ]
-  },
-  {
     "tag": "foundry",
     "tagCount": 1,
     "relativePaths": [
@@ -34,10 +7,11 @@
     ]
   },
   {
-    "tag": "locations",
-    "tagCount": 1,
+    "tag": "caribbean_league",
+    "tagCount": 2,
     "relativePaths": [
-      "Locations/FRFZ/Cheyenne Mountain.md"
+      "Players/Port Au Prince/Pirate Group.md",
+      "Locations/Saint George Parish.md"
     ]
   },
   {
@@ -68,16 +42,42 @@
     ]
   },
   {
+    "tag": "denver",
+    "tagCount": 6,
+    "relativePaths": [
+      "Lighthouse Industries/Litehouse Brand.md",
+      "Lighthouse Industries/Incubus Club.md",
+      "Lighthouse Industries/Genesis Medical.md",
+      "Lighthouse Industries/1UP!.md",
+      "NPCs/Neutral/Morocco/David Johnson.md",
+      "Locations/FRFZ/Denver Nexus.md"
+    ]
+  },
+  {
+    "tag": "fixer",
+    "tagCount": 1,
+    "relativePaths": [
+      "NPCs/Neutral/Morocco/David Johnson.md"
+    ]
+  },
+  {
+    "tag": "locations",
+    "tagCount": 1,
+    "relativePaths": [
+      "Locations/FRFZ/Cheyenne Mountain.md"
+    ]
+  },
+  {
     "tag": "aaa_corporation",
     "tagCount": 9,
     "relativePaths": [
-      "AAA Corps/Sader Krupp.md",
       "AAA Corps/Wuxing.md",
       "AAA Corps/Shiawase.md",
+      "AAA Corps/Sader Krupp.md",
       "AAA Corps/Renraku.md",
       "AAA Corps/MCT.md",
-      "AAA Corps/Evo.md",
       "AAA Corps/Horizon/Horizon.md",
+      "AAA Corps/Evo.md",
       "AAA Corps/Aztechnology.md",
       "AAA Corps/Ares.md"
     ]

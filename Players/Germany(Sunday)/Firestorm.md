@@ -2,7 +2,7 @@
 None
 
 ### Status
-Awakened
+Mage
 
 ### Contacts
 [[../../NPCs/Friendly/Germany/Anna Die Schone|Anna Die Schone]]

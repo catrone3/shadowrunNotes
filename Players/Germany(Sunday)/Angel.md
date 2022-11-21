@@ -2,7 +2,8 @@
 [[../../AAA Corps/Sader Krupp|Sader Krupp]]
 
 ### Status
-Awakened
+Adept
+Never had your own face.
 
 ### Contacts
 [[../../NPCs/Friendly/Germany/Blue Feather|Blue Feather]]
