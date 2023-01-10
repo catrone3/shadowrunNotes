@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sunday Game notes/22-11-20.md",
+                "file": "GM Info/games/23-1-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,20 +60,15 @@
             }
           },
           {
-            "id": "f1b08b2c92b75d8a",
+            "id": "4a7ba503145b6d80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Info/games/23-1-15.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,17 +162,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f1b08b2c92b75d8a",
+  "active": "ebcf598a68f8e117",
   "lastOpenFiles": [
-    "Sunday Game notes/23-01-01.md",
+    "The Black Forrest.md",
+    "GM Info/games/23-1-15.md",
     "Sunday Game notes/22-11-20.md",
+    "Sunday Game notes/23-01-01.md",
     "House Rules/Magic/Great Form Spirit.md",
     "GM Info/Germany/Tiger-Syndikat.md",
     "House Rules/Weapons/Missile types.md",
     "GM Info/Germany/information.md",
     "GM Info/Germany/NPC Skill ranges.md",
-    "Players/Germany(Sunday)/Glitch.md",
-    "Players/Germany(Sunday)/Firestorm.md",
-    "Players/Germany(Sunday)/Dok.md"
+    "Players/Germany(Sunday)/Glitch.md"
   ]
 }
