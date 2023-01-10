@@ -1,9 +1,7 @@
 ### Corporate Ties
-None
-
+Saeder Krupp Corp SIN
 ### Status
-Mage
-
+Mysad
 ### Contacts
 [[../../NPCs/Friendly/Germany/Anna Die Schone|Anna Die Schone]]
 - ID Manufacturer

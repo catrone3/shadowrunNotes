@@ -95,3 +95,7 @@ defended by
 
 avirl longfeather
 general whitebear
+
+
+###### Other info
+Electra

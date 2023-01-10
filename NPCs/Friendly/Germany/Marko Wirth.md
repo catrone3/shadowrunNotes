@@ -1,4 +1,5 @@
 ### Marko Wirth
 - Parabiologist
+- Connection: 2
 
-Connection: 2
+Marko Wirth is a parabiologist living and working in Berlin, Germany. He is an expert in the study of paranormal creatures and phenomena, and has a deep knowledge of the Shadowrun universe. He is a passionate researcher and a bit of a loner, preferring to spend most of his time in his lab studying the strange creatures he encounters. Marko is a middle aged man with a thin build and a balding head. He wears glasses and is usually dressed in a lab coat and slacks. He has a friendly demeanor and is always willing to share his knowledge with those who seek it. Marko is a well respected member of the parabiological community and is often consulted by shadowrunners looking for information on the paranormal. He is also a member of the Berlin Paranormal Research Society, a group of like minded individuals who share their knowledge and experiences. Marko is always on the lookout for new and exciting research opportunities, and is always willing to lend his expertise to those who need it.

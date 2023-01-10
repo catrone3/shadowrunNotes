@@ -17,6 +17,10 @@ Adept
 - Fixer/Club Manager
 - Loyalty: 3
 
+Reinald Ebersbacher
+- Laes Dealer
+- Loyalty: 1
+
 [[../../NPCs/Friendly/Germany/Niklas Klause|Niklas Klause]]
 - Mercenary Alchemist
 - Loyalty: 2

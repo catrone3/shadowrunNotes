@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a25377d5166fd51c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sunday Game notes/22-11-06.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1526e8858e7aff6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to use Exploding Dice bot.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +21,51 @@
             }
           },
           {
-            "id": "106bb3c5683da21f",
+            "id": "c1984f84baf9cd2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Germany(Sunday)/Angel.md",
+                "file": "GM Info/Germany/information.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "294a9cc0c4fcd66d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Info/Germany/Tiger-Syndikat.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebcf598a68f8e117",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sunday Game notes/22-11-20.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1b08b2c92b75d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Info/games/23-1-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -105,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Germany(Sunday)/Angel.md",
+                "file": "GM Info/games/23-1-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +157,27 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "106bb3c5683da21f",
+  "left-ribbon": {
+    "hiddenItems": {
+      "rpg-manager:RPG Manager": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "f1b08b2c92b75d8a",
   "lastOpenFiles": [
-    "Players/Germany(Sunday)/Maximilian.md",
-    "Players/Germany(Sunday)/Tanka.md",
-    "Players/Germany(Sunday)/Firestorm.md",
-    "Players/Germany(Sunday)/Jericho.md",
-    "Players/Germany(Sunday)/Dok.md",
-    "Players/Germany(Sunday)/Angel.md",
+    "Sunday Game notes/23-01-01.md",
+    "Sunday Game notes/22-11-20.md",
+    "House Rules/Magic/Great Form Spirit.md",
+    "GM Info/Germany/Tiger-Syndikat.md",
+    "House Rules/Weapons/Missile types.md",
+    "GM Info/Germany/information.md",
+    "GM Info/Germany/NPC Skill ranges.md",
     "Players/Germany(Sunday)/Glitch.md",
-    "House Rules.md",
-    "Homepage.md",
-    "How to use Exploding Dice bot.md"
+    "Players/Germany(Sunday)/Firestorm.md",
+    "Players/Germany(Sunday)/Dok.md"
   ]
 }

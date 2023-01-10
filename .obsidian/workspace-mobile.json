@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Friendly/Germany/Walter Hogersmans.md",
+                "file": "GM Info/Proofing notes/Body shop link 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -67,7 +67,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NPCs/Friendly/Germany/Walter Hogersmans.md",
+            "file": "GM Info/Proofing notes/Body shop link 2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -81,20 +81,17 @@
     ],
     "currentTab": 0
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "e50fecba407b6951",
   "lastOpenFiles": [
+    "GM Info/Proofing notes/Body shop Link 1.md",
+    "GM Info/helpful sites.md",
+    "NPCs/Friendly/Germany/Walter Hogersmans.md",
     "Shadowrun/Sunday Game notes/22-7-3.md",
     "Shadowrun/GM Info/Germany/NPC Skill ranges.md",
     "Shadowrun/GM Info/Germany/Ideas.md",
     "Shadowrun/NPCs/Neutral/Evangelia Kaufmann.md",
     "Shadowrun/Sunday Game notes/22-6-19.md",
     "Shadowrun/Saturday Game notes/22-3-26.md",
-    "Shadowrun/Sunday Game notes/22-5-22.md",
-    "Shadowrun/Sunday Game notes/22-5-8.md",
-    "Shadowrun/Saturday Game notes/22-6-4.md",
-    "Shadowrun/Saturday Game notes/22-5-21.md"
+    "Shadowrun/Sunday Game notes/22-5-22.md"
   ]
 }
