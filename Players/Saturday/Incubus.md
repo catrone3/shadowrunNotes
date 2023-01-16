@@ -3,7 +3,7 @@
 - [[../../NPCs/Friendly/Denver/Valentina Kwan|Valentina Kwan]]
 - [[../../NPCs/Friendly/Denver/Ivy|Ivy]]
 - [[../../NPCs/Friendly/Denver/Sage Quinn|Sage Quinn]]
-- Tarado (Who is this, are they on the wrong character?)
+- Tara
 
 ##### Past Relationships
 - Sky Kingsly

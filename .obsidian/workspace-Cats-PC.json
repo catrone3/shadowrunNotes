@@ -21,46 +21,15 @@
             }
           },
           {
+            "id": "c1984f84baf9cd2e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "3f9bb2d93063b447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sunday Game notes/23-1-15.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d29341b01009a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sunday Game notes/23-1-15.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a165ba6737085e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Info/Germany/Scenes/Recap.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bac1d5d0b9b94ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -131,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sunday Game notes/23-1-15.md",
+                "file": "GM Info/Germany/Scenes/Fixer Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +116,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a9687647aa13d86",
+            "type": "leaf",
+            "state": {
+              "type": "rpgm-creator-view",
               "state": {}
             }
           }
@@ -167,17 +144,17 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "a143fa0784ea9505",
+  "active": "17c028d156c8c8c7",
   "lastOpenFiles": [
-    "GM Info/Germany/Scenes/Planning for mission.md",
-    "GM Info/Germany/Scenes/Fixer Meeting.md",
-    "GM Info/Germany/Sessions/Finding an In.md",
-    "GM Info/Germany/Scenes/Fight in location.md",
-    "GM Info/Germany/Scenes/fighting into location.md",
-    "GM Info/Germany/Scenes/Get out.md",
-    "GM Info/Germany/Scenes/Recap.md",
-    "Sunday Game notes/23-1-15.md",
-    "GM Info/Germany/information.md",
-    "NPCs/Friendly/Germany/Evangelia Kaufmann.md"
+    "GM Info/games/23-1-15.md",
+    "GM Info/Germany/Characters/Tanka.md",
+    "GM Info/Germany/Characters/Maximilian.md",
+    "GM Info/Germany/Characters/Jericho.md",
+    "GM Info/Germany/Characters/Angel.md",
+    "GM Info/Germany/Characters/Dok.md",
+    "GM Info/Germany/Characters/Firestorm.md",
+    "GM Info/Germany/Characters/Glitch.md",
+    "GM Info/Germany/Backstories/Firestorm.md",
+    "GM Info/Germany/NonPlayerCharacters/Ekon Chlebek.md"
   ]
 }

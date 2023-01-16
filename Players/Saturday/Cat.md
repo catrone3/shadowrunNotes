@@ -6,12 +6,12 @@
 - Charisma = 8 (6)
 
 ##### Stealth rolls
-- Improved invis =  6()
+- Improved invis =  11()
 - sound barrier = 7()
 - snake blood = 9 ()
 - traceless walk = 4
 - rpc = 4
-- sneak = 3
+- sneak = 8
 - Concealment = 13
 
 ##### Cheyenne Mountain
@@ -47,6 +47,7 @@
 - Bubbles (adept) M6 (pink hair)
 - Shadow (Only male) B&e
 - Necro (Technomancer)
+Tara (Drake)
 
 ##### Agents
 - [[Spectre]]
