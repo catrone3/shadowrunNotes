@@ -12,7 +12,7 @@ Threads count converts to drain using the following table
 | 4 | F+1 |
 | 5 | F+3 |
 
-The Circle for spells equates to force, this means that for the purposes of casting there is no need for it. For story purposes Circle determines the spells you can learn, threading rank/2 rounded up is the circles you can learn up to. 
+The Circle for spells equates to force, this means that for the purposes of casting there is no need for it. For story purposes Circle determines the spells you can learn, threading rank-2 is the circles you can learn up to. 
 
 You must pick a talent set to go down. The talents are as follows Elementalist, Illusionist, Nethermancer, Wizard
 

@@ -1,4 +1,4 @@
-Group located in the shadows of [[../Locations/Morocco/Rabat]],
+Group located in the shadows of [[../Locations/Morocco/Rabat|Rabat]],
 Has members that hang out at the old bar that has the job board morocco group used to use. This bar is located in [[../Locations/Morocco/Rabat]] under a section of low end housing. The bar is known to the underground of Morocco, however kept quite secret from the authorities.
 
 They are working on a new weapon that is supposed to be a body wide version of a nervgun after they stole one

@@ -253,17 +253,17 @@
           },
           {
             "field": 11,
-            "checked": false,
+            "checked": true,
             "required": false
           },
           {
             "field": 12,
-            "checked": false,
+            "checked": true,
             "required": false
           },
           {
             "field": 13,
-            "checked": false,
+            "checked": true,
             "required": false
           }
         ]
