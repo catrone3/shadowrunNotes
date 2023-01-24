@@ -341,12 +341,36 @@
       "relativePath": "Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department"
     },
     {
-      "name": "First Circle",
-      "relativePath": "House Rules/Magic/4th world Spells/Necromancer/First Circle"
+      "name": "1st Circle",
+      "relativePath": "House Rules/Magic/4th world Spells/Necromancer/1st Circle"
     },
     {
-      "name": "Second Circle",
-      "relativePath": "House Rules/Magic/4th world Spells/Necromancer/Second Circle"
+      "name": "2nd Circle",
+      "relativePath": "House Rules/Magic/4th world Spells/Necromancer/2nd Circle"
+    },
+    {
+      "name": "3rd Circle",
+      "relativePath": "House Rules/Magic/4th world Spells/Necromancer/3rd Circle"
+    },
+    {
+      "name": "4th Circle",
+      "relativePath": "House Rules/Magic/4th world Spells/Necromancer/4th Circle"
+    },
+    {
+      "name": "5th Circle",
+      "relativePath": "House Rules/Magic/4th world Spells/Necromancer/5th Circle"
+    },
+    {
+      "name": "6th Circle",
+      "relativePath": "House Rules/Magic/4th world Spells/Necromancer/6th Circle"
+    },
+    {
+      "name": "7th Circle",
+      "relativePath": "House Rules/Magic/4th world Spells/Necromancer/7th Circle"
+    },
+    {
+      "name": "8th Circle",
+      "relativePath": "House Rules/Magic/4th world Spells/Necromancer/8th Circle"
     }
   ],
   "nonMdFiles": [

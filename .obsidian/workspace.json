@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0158975fadd7901",
+        "id": "352b550dffc5fd01",
         "type": "tabs",
         "children": [
           {
-            "id": "70a89d2650c837d0",
+            "id": "91c0ef51991f84b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "House Rules/Magic/4th world Spells/Necromancer/First Circle/Soul Armor.md",
+                "file": "House Rules/Magic/4th world Spells/Necromancer/3rd Circle/Aspect of the Cowardly Skulk.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "a9737aa3794c62fe",
+            "id": "3bcafe9f14a0c7a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "House Rules/Magic/4th world Spells/Necromancer/First Circle/Soulless Eyes.md",
+                "file": "House Rules/Magic/4th world Spells/Necromancer/3rd Circle/Fog of Fear.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "7675e2116c766e5f",
+            "id": "2a80f72f684e4052",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "House Rules/Magic/4th world Spells/Necromancer/First Circle/Spirit Dart.md",
+                "file": "House Rules/Magic/4th world Spells/Necromancer/3rd Circle/Grave Message.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "d5e38a98b3e68e84",
+            "id": "fd66b1d1a42771c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "House Rules/Magic/4th world Spells/Necromancer/First Circle/Astral Spear.md",
+                "file": "House Rules/Magic/4th world Spells/Necromancer/3rd Circle/Pain.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,111 +60,18 @@
             }
           },
           {
-            "id": "333db08387bc781e",
+            "id": "637898f5f1cf4b98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "House Rules/Magic/4th world Spells/Necromancer/First Circle/Soulless Eyes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "488f1b4556353c9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "House Rules/Magic/4th world Spells/Necromancer/Second Circle/Chilling Circle.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "886ef2c33e7b3fa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "House Rules/Magic/4th world Spells/Necromancer/Second Circle/Death's Head.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5c1dc8d610d73b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "House Rules/Magic/4th world Spells/Necromancer/Second Circle/Night's Edge.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f9bb2d93063b447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sunday Game notes/23-1-15.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d29341b01009a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Info/Germany/Scenes/Finding an In/Recap.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a165ba6737085e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Info/Germany/Scenes/Finding an In/Recap.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bac1d5d0b9b94ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Info/Germany/Scenes/Finding an In/Fixer Meeting.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "House Rules/Magic/4th world Spells/Necromancer/First Circle/Bone Circle.md",
+                "staged": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "House Rules/Magic/4th world Spells/Necromancer/Second Circle/Night's Edge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,17 +164,17 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "e5c1dc8d610d73b1",
+  "active": "637898f5f1cf4b98",
   "lastOpenFiles": [
-    "House Rules/Magic/4th world Spells/Necromancer/First Circle/Soulless Eyes.md",
-    "House Rules/Magic/4th world Spells/Necromancer/First Circle/Spirit Dart.md",
-    "House Rules/Magic/4th world Spells/Necromancer/Second Circle/Night's Edge.md",
-    "House Rules/Magic/4th world Spells/Necromancer/Second Circle/Death's Head.md",
-    "House Rules/Magic/4th world Spells/Necromancer/First Circle/Shadow Meld.md",
-    "House Rules/Magic/4th world Spells/Necromancer/First Circle/Soul Armor.md",
-    "House Rules/Magic/4th world Spells/Necromancer/Second Circle/Chilling Circle.md",
-    "House Rules/Magic/4th world Spells/Necromancer/First Circle/Spirit Grip.md",
-    "House Rules/Magic/4th world Spells/Necromancer/Second Circle/Aspect of the Fog Ghost.md",
-    "House Rules/Magic/4th world Spells/Necromancer/First Circle/Life Circle of One.md"
+    "House Rules/Magic/4th world Spells/Necromancer/2nd Circle/Shield Mist.md",
+    "House Rules/Magic/4th world Spells/Necromancer/1st Circle/Astral Spear.md",
+    "House Rules/Magic/4th world Spells/Necromancer/2nd Circle/Shadow's Whisper.md",
+    "House Rules/Magic/4th world Spells/Necromancer/2nd Circle/Chilling Circle.md",
+    "House Rules/Magic/4th world Spells/Necromancer/3rd Circle/Arrow of Night.md",
+    "House Rules/Magic/Magic.md",
+    "House Rules/Magic/4th world Spells/Necromancer/3rd Circle/Summon Bone Spirit.md",
+    "House Rules/Magic/4th world Spells/Necromancer/3rd Circle/Pain.md",
+    "House Rules/Magic/4th world Spells/Necromancer/3rd Circle/Grave Message.md",
+    "House Rules/Magic/4th world Spells/Necromancer/2nd Circle/Summon Fog Ghost.md"
   ]
 }
