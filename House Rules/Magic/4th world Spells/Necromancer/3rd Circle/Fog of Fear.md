@@ -1,5 +1,5 @@
 Manipulation Spell
-Type:  Physical
+Type:  Mental
 Range: LOS Area
 Duration: S
 Drain: F-3

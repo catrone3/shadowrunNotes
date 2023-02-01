@@ -6,8 +6,8 @@
 - Charisma = 8 (6)
 
 ##### Stealth rolls
-- Improved invis =  11()
-- sound barrier = 7()
+- Improved invis =  9()
+- sound barrier = 6()
 - snake blood = 9 ()
 - traceless walk = 4
 - rpc = 4

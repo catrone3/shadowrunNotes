@@ -1,5 +1,5 @@
 Requires magic 10/grade 8
-Uses Threadweaving+magic[astral]
+Uses Threadweaving+magic
 
 Threads count converts to drain using the following table
 
@@ -21,3 +21,19 @@ Effect should follow the similar method for type from core, i.e. Combat (direct,
 Duration listed, rank is the same as threading skill rank.
 
 Range and AOE as listed.
+
+-------
+
+Curtis ideas:
+
+Mystic Defense = intuition (+counterspelling)
+Mystic (for effect) = intuition
+Keep 1 prepared for rank x 5 minutes
+Weaving is threshold for Threading Test
+
+| Rank  | Additional Threads |
+| ----- | ------------------ |
+| 1-3   | 1                  |
+| 4-6   | 2                  |
+| 7-9   | 3                  |
+| 10-12 | 4                  |

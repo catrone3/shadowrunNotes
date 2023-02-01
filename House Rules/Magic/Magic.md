@@ -8,6 +8,9 @@ Initiation takes only days for the extended test on it
 
 Search - masking roll adds to the threshold
 
+Fear power:
+- 
+
 
 ### Clarifications
 
