@@ -1,4 +1,5 @@
 #AA_Corporation
+![[../Images/attachments/litehouse logo.png]]
 #### Owners
 - [[../Players/Saturday/Cat|Cat]]
 - [[../NPCs/Friendly/Denver/Merlin|Merlin]] 

@@ -6,9 +6,10 @@
 - [[../../NPCs/Friendly/Howard Dumbacher|Howard Dumbacher]] (brother)
 - Martha (mother)
 
-##### Assitants
-[[../../NPCs/Friendly/Denver/Ulli|Ulli]]
+##### Girlfriends
 [[../../NPCs/Friendly/Denver/Selena|Selena]]
-[[../../NPCs/Friendly/Denver/Meia|Meia]]
-[[../../NPCs/Friendly/Denver/Leah|Leah]]
+
+
+##### Baby Momma
+[[../../NPCs/Friendly/Denver/Ulli|Ulli]] - Is now going to be employeed by Swiss' new company
 

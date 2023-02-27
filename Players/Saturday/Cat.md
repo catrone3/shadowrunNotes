@@ -29,6 +29,7 @@
 ##### Dating
 - [[Swiss]] - Boyfriend and Team mage
 - [[../../NPCs/Friendly/Denver/Valerian Quinn|Valerian Quinn]]
+	- pregnent with a Girl
 - [[../../NPCs/Friendly/Denver/Coco|Coco]]
 
 ##### Exs

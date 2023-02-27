@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "352b550dffc5fd01",
+        "id": "b9bf40cd686f49f1",
         "type": "tabs",
         "children": [
           {
-            "id": "ddae75b6bc72382a",
+            "id": "14926e749f00e474",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saturday Game notes/23-1-14.md",
+                "file": "Saturday Game notes/23-2-23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "25a0c433b857b23e",
+            "id": "f6ceaea33f7b2dc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "House Rules/Magic/4th World Magic.md",
+                "file": "Lighthouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "e51e12adb6a17d32",
+            "id": "25d8bd1d2ccf413b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "House Rules/Magic/4th world Spells/Necromancer/2nd Circle/Chilling Circle.md",
+                "file": "GM Info/Germany/information.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "dac39fd7499261bb",
+            "id": "b08b39af86e23431",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Germany/Sessions/Taking back what is stolen.md",
+                "file": "GM Info/games/23-2-26.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,38 +60,12 @@
             }
           },
           {
-            "id": "2115bdeb0eb2b5dc",
+            "id": "c57e5a964dc3a8cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Germany(Sunday)/Glitch.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f630adb2f8ef31c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "House Rules/Magic/4th world Spells/Necromancer/1st Circle/Bone Circle.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c62b78bcab1fe242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saturday Game notes/22-12-17.md",
+                "file": "Sunday Game notes/23-2-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Taiomah",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,14 +131,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "House Rules/Magic/4th world Spells/Necromancer/2nd Circle/Chilling Circle.md",
+                "file": "GM Info/games/23-2-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -194,17 +168,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e51e12adb6a17d32",
+  "active": "b08b39af86e23431",
   "lastOpenFiles": [
-    "House Rules/Magic/4th world Spells/Necromancer/2nd Circle/Aspect of the Fog Ghost.md",
-    "House Rules/Magic/4th world Spells/Necromancer/1st Circle/Spirit Grip.md",
-    "House Rules/Magic/4th world Spells/Necromancer/1st Circle/Spirit Dart.md",
-    "House Rules/Magic/4th world Spells/Necromancer/1st Circle/Soulless Eyes.md",
-    "House Rules/Magic/4th world Spells/Necromancer/1st Circle/Soul Armor.md",
-    "House Rules/Magic/4th world Spells/Necromancer/1st Circle/Astral Spear.md",
-    "House Rules/Magic/4th world Spells/Necromancer/1st Circle/Bone Circle.md",
-    "House Rules/Magic/4th world Spells/Necromancer/1st Circle/Dark Messenger.md",
-    "House Rules/Magic/4th world Spells/Necromancer/1st Circle/Ethereal Darkness.md",
-    "House Rules/Magic/4th world Spells/Necromancer/1st Circle/Experience Death.md"
+    "Sunday Game notes/23-2-12.md",
+    "GM Info/games/23-2-26.md",
+    "Sunday Game notes/22-6-19.md",
+    "Sunday Game notes/22-7-3.md",
+    "Sunday Game notes/22-8-14.md",
+    "GM Info/Germany/information.md",
+    "GM Info/Germany/Germany.md",
+    "Sunday Game notes/22-9-11.md",
+    "Sunday Game notes/22-7-17.md",
+    "Sunday Game notes/22-5-22.md"
   ]
 }

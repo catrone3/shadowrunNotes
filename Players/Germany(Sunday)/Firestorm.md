@@ -5,7 +5,7 @@ Mysad
 ### Contacts
 [[../../NPCs/Friendly/Germany/Anna Die Schone|Anna Die Schone]]
 - ID Manufacturer
-- Loyalty: 1
+- Loyalty: 2
 
 [[../../NPCs/Friendly/Germany/Logan|Logan]]
 - Coyote
