@@ -1,6 +1,6 @@
 #Denver
 ##### Founder
-- [[../Players/Saturday/Cat|Cat]]
+- [[../Players/Denver Prime/Cat|Cat]]
 
 ##### Locations
 - [[1UP!/1UP! Lo-Bo|1UP! Lo-Bo]]

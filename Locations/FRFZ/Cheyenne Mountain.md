@@ -3,7 +3,7 @@
 
 ##### Owners
 - [[../../NPCs/Friendly/Denver/Kalt|Kalt]]
-- [[../../Players/Saturday/Cat|Cat]]
+- [[../../Players/Denver Prime/Cat|Cat]]
 
 ##### Vehicles
 

@@ -1,2 +1,2 @@
 #Denver
-Owned By [[../Players/Saturday/Incubus|Incubus]]
+Owned By [[../Players/Denver Prime/Incubus|Incubus]]

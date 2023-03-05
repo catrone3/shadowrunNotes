@@ -4,4 +4,4 @@
 [[Ghostwalker]]'s Doctor
 
 ##### Relationships
- - [[../../../Players/Saturday/Incubus|Incubus]]
+ - [[../../../Players/Denver Prime/Incubus|Incubus]]

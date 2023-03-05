@@ -1,12 +1,12 @@
 ##### Fixer
-[[../../../../Players/Saturday/Cat|Cat]]
+[[../../../../Players/Denver Prime/Cat|Cat]]
 
 ##### Runners
-- [[../../../../Players/Saturday/Cat|Cat]]
-- [[../../../../Players/Saturday/Spectre|Spectre]]
+- [[../../../../Players/Denver Prime/Cat|Cat]]
+- [[../../../../Players/Denver Prime/Spectre|Spectre]]
 - [[../../../../Players/Front Range Consulting/Arcane|Arcane]]
-- [[../../../../Players/Saturday/Swiss|Swiss]]
-- [[../../../../Players/Saturday/Incubus|Incubus]]
+- [[../../../../Players/Denver Prime/Swiss|Swiss]]
+- [[../../../../Players/Denver Prime/Incubus|Incubus]]
 
 ##### Stand ins
-- [[../../../../Players/Saturday/Sentinel|Sentinel]]
+- [[../../../../Players/Denver Prime/Sentinel|Sentinel]]

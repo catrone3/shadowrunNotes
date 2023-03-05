@@ -3,4 +3,4 @@
 This is their Human form
 
 
-[[../../Players/Saturday/Cat|Cat]] can all him We or W
+[[../../Players/Denver Prime/Cat|Cat]] can all him We or W

@@ -55,11 +55,11 @@
 #### Saturday
 ##### [[Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team|Cat's Team]]
 
-[[Players/Saturday/Spyder|Spyder]]
-[[Players/Saturday/Cat|Cat]]
-[[Players/Saturday/Incubus|Incubus]]
-[[Players/Saturday/Spectre|Spectre]]
-[[Players/Saturday/Swiss|Swiss]]
+[[Players/Denver Prime/Spyder|Spyder]]
+[[Players/Denver Prime/Cat|Cat]]
+[[Players/Denver Prime/Incubus|Incubus]]
+[[Players/Denver Prime/Spectre|Spectre]]
+[[Players/Denver Prime/Swiss|Swiss]]
 
 
 ##### Contacts
@@ -114,7 +114,7 @@ Thanatos
 [[Players/Morocco/Thirteen|Thirteen]]
 [[Players/Morocco/Titania|Titania]]
 [[Players/Morocco/Triage Black|Triage Black]]
-[[Players/Saturday/Spyder|Spyder]]
+[[Players/Denver Prime/Spyder|Spyder]]
 [[Players/Morocco/Vice|Vice]] - Retired
 [[Players/Morocco/Myrr|Myrr]] - Retired
 [[Players/Dead Characters/Alley Cat|Alley Cat]] - Dead
@@ -135,7 +135,7 @@ Thanatos
 
 [[Players/Dead Characters/Alley Cat|Alley Cat]] - Dead
 [[Players/Morocco/Titania|Titania]] - Retired
-[[Players/Saturday/Spyder|Spyder]] - Unknown
+[[Players/Denver Prime/Spyder|Spyder]] - Unknown
 [[Players/London/Zer0|Zer0]] - Retired
 [[Players/London/Nightowl|Nightowl]] - Retired
 [[Players/Morocco/Corvus|Corvus]] - Unknown

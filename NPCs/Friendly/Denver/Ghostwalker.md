@@ -15,5 +15,5 @@ Voice of Ghostwalker is Nicholas Whitebeard
 
 ##### Drake Operatives
 - [[Blitz]]
-- [[../../../Players/Saturday/Cat|Cat]]
-- [[../../../Players/Saturday/Spectre|Spectre]]
+- [[../../../Players/Denver Prime/Cat|Cat]]
+- [[../../../Players/Denver Prime/Spectre|Spectre]]

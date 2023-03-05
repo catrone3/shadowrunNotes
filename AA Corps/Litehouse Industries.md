@@ -1,14 +1,14 @@
 #AA_Corporation
 ![[../Images/attachments/litehouse logo.png]]
 #### Owners
-- [[../Players/Saturday/Cat|Cat]]
+- [[../Players/Denver Prime/Cat|Cat]]
 - [[../NPCs/Friendly/Denver/Merlin|Merlin]] 
-- [[../Players/Saturday/Incubus|Incubus]]
+- [[../Players/Denver Prime/Incubus|Incubus]]
 - [[../Players/London/Nightowl|Nightowl]]
 - [[../Players/London/Elfo|Elfo]]
 
 #### Litehouse Industries Original Board
-- [[../Players/Saturday/Cat|Cat]] - 3 Votes
+- [[../Players/Denver Prime/Cat|Cat]] - 3 Votes
 - [[../NPCs/Friendly/Denver/Merlin|Merlin]] - 2 Votes
 - [[../NPCs/Friendly/Denver/Kalt|Kalt]] - 2 Votes
 - [[../NPCs/Friendly/Denver/Jess|Jess]] - 1 Vote
@@ -16,9 +16,9 @@
 
 #### Litehouse Industries Current Board
 1 vote each
-- [[../Players/Saturday/Cat|Cat]]
+- [[../Players/Denver Prime/Cat|Cat]]
 - [[../NPCs/Friendly/Denver/Merlin|Merlin]]
-- [[../Players/Saturday/Incubus|Incubus]]
+- [[../Players/Denver Prime/Incubus|Incubus]]
 - [[../Players/London/Elfo|Elfo]]
 - [[../Players/London/Nightowl|Nightowl]]
 
@@ -102,7 +102,7 @@ graph TD
 
 ```
 
-#### [[../Players/Saturday/Cat| Cat]] Owns
+#### [[../Players/Denver Prime/Cat| Cat]] Owns
 - [[../Lighthouse Industries/1UP!|1UP!]]
 - [[../Lighthouse Industries/Litehouse Brand|Litehouse Brand]]
 -  [[../Lighthouse Industries/Genesis Medical|Genesis Medical]]
@@ -110,7 +110,7 @@ graph TD
 -  Yearly Profit 19.42 Mil nuyen
 
 
-#### [[../Players/Saturday/Incubus|Incubus]] Owns
+#### [[../Players/Denver Prime/Incubus|Incubus]] Owns
 - [[../Lighthouse Industries/Incubus Club|Incubus Club]]
 - 
 

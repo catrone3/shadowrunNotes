@@ -4,7 +4,7 @@
 
 #### Relationships
 ##### ex-wife
-- [[../../../Players/Saturday/Cat|Cat]]
+- [[../../../Players/Denver Prime/Cat|Cat]]
 
 ##### Family
 - [[../../Friendly/Seattle/Hitsuki Cho|Cho]]

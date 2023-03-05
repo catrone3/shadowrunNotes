@@ -5,7 +5,7 @@ Name | Status
 -------- | -------
 [[../../../Players/Dead Characters/Alley Cat\|Alley Cat]] | Dead
 [[../../../Players/Morocco/Titania\|Titania]]  | Retired
-[[../../../Players/Saturday/Spyder\|Spyder]]  |  Unknown
+[[../../../Players/Denver Prime/Spyder\|Spyder]]  |  Unknown
 [[../../../Players/London/Zer0\|Zer0]]  |  Retired
 [[../../../Players/London/Nightowl\|Nightowl]]  |  Retired
 [[../../../Players/Morocco/Corvus\|Corvus]]  |  Unknown

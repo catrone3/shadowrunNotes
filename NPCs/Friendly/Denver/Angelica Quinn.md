@@ -10,4 +10,4 @@
 - [[Valerian Quinn]]
 
 ##### Dating
-- [[../../../Players/Saturday/Spectre|Spectre]]
+- [[../../../Players/Denver Prime/Spectre|Spectre]]

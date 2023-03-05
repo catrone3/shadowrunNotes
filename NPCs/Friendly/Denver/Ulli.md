@@ -1,6 +1,6 @@
 ![[../../../Images/shadowrun characters/ulli.jpg]]
-Has two Kids (twins) with [[../../../Players/Saturday/Swiss|Swiss]]
+Has two Kids (twins) with [[../../../Players/Denver Prime/Swiss|Swiss]]
 - Isabella
 - Theresa
 
-Assistant to [[../../../Players/Saturday/Swiss|Swiss]]
+Assistant to [[../../../Players/Denver Prime/Swiss|Swiss]]

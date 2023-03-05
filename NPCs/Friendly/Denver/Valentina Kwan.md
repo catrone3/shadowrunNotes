@@ -2,4 +2,4 @@ Human girl used to be Barista now works at [[../../../Lighthouse Industries/Incu
 Unrelated to Mi Kwan
 #### Relationships
 ##### Dating
-- [[../../../Players/Saturday/Incubus|Incubus]]
+- [[../../../Players/Denver Prime/Incubus|Incubus]]
