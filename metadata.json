@@ -5304,6 +5304,10 @@
     ]
   },
   {
+    "fileName": "Dr Lisette",
+    "relativePath": "NPCs/Friendly/New Orleans/Dr Lisette.md"
+  },
+  {
     "fileName": "Dr Lester",
     "relativePath": "NPCs/Friendly/New Orleans/Dr Lester.md"
   },
@@ -5334,10 +5338,6 @@
         "displayText": "Mario \"the Dude\" Castro"
       }
     ]
-  },
-  {
-    "fileName": "Lisette",
-    "relativePath": "NPCs/Friendly/New Orleans/Lisette.md"
   },
   {
     "fileName": "Mama Mawu",

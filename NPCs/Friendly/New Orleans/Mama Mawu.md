@@ -2,4 +2,4 @@
 ![[../../../Images/shadowrun characters/Mama Mawu.png]]
 
 Voodoo Talismonger
-Connection:
+Connection: 5

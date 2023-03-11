@@ -1,4 +1,6 @@
 
 ![[../../../Images/shadowrun characters/Jardis Balise.png]]
-Talismonger
+Chaos Talismonger
 Connection: 5
+
+Team Loyalty: 1
