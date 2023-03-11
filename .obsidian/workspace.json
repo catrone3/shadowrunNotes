@@ -91,7 +91,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Friendly/New Orleans/Adonis.md",
+                "file": "NPCs/Friendly/New Orleans/Zoe.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77e61eff30f039ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Friendly/New Orleans/Eddie Boussard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "927771e620164c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/New Orleans/Grimm.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f590bb6073f655a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Friendly/New Orleans/Lisette.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,26 +138,7 @@
             }
           }
         ],
-        "currentTab": 6
-      },
-      {
-        "id": "0a59460a90ce2814",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e7f871e6550bdc71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Players/New Orleans/Jester.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -176,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Friendly/New Orleans/Adonis.md",
+                "file": "NPCs/Friendly/New Orleans/Lisette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,28 +233,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "6f590bb6073f655a",
   "lastOpenFiles": [
-    "NPCs/Friendly/New Orleans/ClicClac and Big Lou.md",
-    "NPCs/Friendly/New Orleans/Blaze.md",
-    "NPCs/Friendly/New Orleans/Adonis.md",
-    "NPCs/Friendly/New Orleans/City Official.md",
-    "NPCs/Friendly/New Orleans/Cyrille Boutin.md",
-    "NPCs/Friendly/New Orleans/Danny Macaluso.md",
-    "NPCs/Friendly/New Orleans/Galaxy Jack.md",
-    "NPCs/Friendly/New Orleans/Jardis Balise.md",
-    "NPCs/Friendly/New Orleans/Jessy Roy.md",
-    "NPCs/Friendly/New Orleans/June BUg Reavers.md",
-    "NPCs/Friendly/New Orleans/Lester.md",
-    "NPCs/Friendly/New Orleans/Lisette.md",
+    "NPCs/Friendly/New Orleans/Dr Lester.md",
+    "NPCs/Friendly/New Orleans/Rose Lacelle.md",
+    "Players/New Orleans/Grimm.md",
+    "Images/shadowrun characters/Grimm.png",
+    "NPCs/Friendly/New Orleans/Eddie Boussard.md",
     "NPCs/Friendly/New Orleans/Mama Mawu.md",
     "NPCs/Friendly/New Orleans/Mario Castro.md",
     "NPCs/Friendly/New Orleans/Melissade DeBussy.md",
     "NPCs/Friendly/New Orleans/Zoe.md",
+    "Images/shadowrun characters/Eddie Boussard.png",
+    "Images/shadowrun characters/Mama Mawu.png",
+    "NPCs/Friendly/New Orleans/June BUg Reavers.md",
+    "NPCs/Friendly/New Orleans/Galaxy Jack.md",
+    "NPCs/Friendly/New Orleans/ClicClac and Big Lou.md",
+    "NPCs/Friendly/New Orleans/City Official.md",
+    "NPCs/Friendly/New Orleans/Blaze.md",
+    "NPCs/Friendly/New Orleans/Adonis.md",
+    "Saturday Game notes/23-2-23.md",
+    "NPCs/Friendly/New Orleans/Cyrille Boutin.md",
+    "NPCs/Friendly/New Orleans/Danny Macaluso.md",
+    "NPCs/Friendly/New Orleans/Jardis Balise.md",
+    "NPCs/Friendly/New Orleans/Jessy Roy.md",
+    "NPCs/Friendly/New Orleans/Lisette.md",
     "Players/New Orleans/Jester.md",
     "Sunday Game notes/23-2-26.md",
     "Players/New Orleans/Old Man Bones.md",
-    "Pasted image 20230305182123.png",
     "Images/shadowrun characters/Blaze.png",
     "Images/shadowrun characters/ClicClac.png",
     "Images/shadowrun characters/Big Lou.png",
@@ -243,16 +269,10 @@
     "Pasted image 20230305093747.png",
     "Players/New Orleans/Big Byte.md",
     "Images/shadowrun characters/Adonis.png",
-    "Images/shadowrun characters/Lisette.png",
-    "Images/shadowrun characters/Lester.png",
     "NPCs/Friendly/New Orleans",
     "Players/New Orleans/Nines.md",
     "NPCs/Friendly/Denver/Untitled",
     "Sunday Game notes/23-2-12.md",
-    "Players/New Orleans",
-    "Sunday Game notes/22-6-19.md",
-    "Sunday Game notes/22-7-3.md",
-    "Sunday Game notes/22-8-14.md",
-    "GM Info/Germany/information.md"
+    "Players/New Orleans"
   ]
 }

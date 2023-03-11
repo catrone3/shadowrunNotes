@@ -2,4 +2,6 @@
 ![[../../../Images/shadowrun characters/Adonis.png]]
 
 Armorer
-Connection:
+Connection:3
+
+Team Loyalty: 1

@@ -1,5 +1,5 @@
 
-![[../../../Pasted image 20230305182123.png]]
+![[../../../Images/shadowrun characters/Mama Mawu.png]]
 
 Voodoo Talismonger
 Connection:

@@ -3,4 +3,4 @@
 ![[../../../Images/shadowrun characters/Big Lou.png]]
 
 Cleaners
-Connection:
+Connection: 2
