@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b9bf40cd686f49f1",
+        "id": "50c5b8aaa02952aa",
         "type": "tabs",
         "children": [
           {
-            "id": "14926e749f00e474",
+            "id": "f75a1e2247daaa01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saturday Game notes/23-2-23.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/shadowrun characters/John Pau Morrell.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,10 +109,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a143fa0784ea9505",
+  "active": "f75a1e2247daaa01",
   "lastOpenFiles": [
-    "NPCs/Friendly/New Orleans/John Pau Morrell.md",
+    "Images/shadowrun characters/Aléxios Callas.png",
+    "GM Info/games/23-3-12.md",
+    "NPCs/Friendly/Athens/Aléxios Callas.md",
+    "NPCs/Friendly/Athens/Thalís Savas.md",
+    "NPCs/Friendly/Athens/Dimitra Michel.md",
+    "Images/shadowrun characters/Dimitra Michel.png",
+    "NPCs/Friendly/Athens/Sofoúla Manis.md",
+    "NPCs/Friendly/Athens/Dorís Andreas.md",
+    "Images/shadowrun characters/Thalís Savas.png",
+    "NPCs/Friendly/Athens/Páris Marinos.md",
+    "GM Info/Germany/information.md",
+    "Images/shadowrun characters/Sofoúla Manis.png",
+    "Images/shadowrun characters/Dorís Andreas.png",
+    "Images/shadowrun characters/Páris Marinos.png",
+    "NPCs/Friendly/Athens",
+    "Sunday Game notes/23-2-26.md",
+    "Sunday Game notes/22-11-20.md",
+    "Sunday Game notes/21-12-5.md",
+    "Sunday Game notes/23-2-12.md",
+    "Saturday Game notes/23-2-23.md",
     "Images/shadowrun characters/John Pau Morrell.png",
+    "NPCs/Friendly/New Orleans/John Pau Morrell.md",
     "Images/shadowrun characters/Cyrille Boutin.png",
     "NPCs/Friendly/New Orleans/Cyrille Boutin.md",
     "NPCs/Friendly/New Orleans/Zoe.md",
@@ -131,28 +145,9 @@
     "NPCs/Friendly/New Orleans/Jardis Balise.md",
     "NPCs/Friendly/New Orleans/Galaxy Jack.md",
     "NPCs/Friendly/New Orleans/Eddie Boussard.md",
-    "NPCs/Friendly/New Orleans/Dr Lisette.md",
-    "NPCs/Friendly/New Orleans/Dr Lester.md",
-    "NPCs/Friendly/New Orleans/Danny Macaluso.md",
-    "NPCs/Friendly/New Orleans/ClicClac and Big Lou.md",
-    "NPCs/Friendly/New Orleans/Blaze.md",
-    "NPCs/Friendly/New Orleans/Adonis.md",
-    "Players/New Orleans/Grimm.md",
     "Images/shadowrun characters/Grimm.png",
     "Images/shadowrun characters/Eddie Boussard.png",
-    "Images/shadowrun characters/Mama Mawu.png",
-    "Saturday Game notes/23-2-23.md",
-    "Players/New Orleans/Jester.md",
-    "Sunday Game notes/23-2-26.md",
-    "Players/New Orleans/Old Man Bones.md",
-    "Images/shadowrun characters/Blaze.png",
-    "Images/shadowrun characters/ClicClac.png",
-    "Images/shadowrun characters/Big Lou.png",
-    "Images/shadowrun characters/Old Man Bones.png",
-    "Pasted image 20230305093747 1.png",
-    "Players/New Orleans/Big Byte.md",
     "NPCs/Friendly/New Orleans",
-    "Players/New Orleans/Nines.md",
     "NPCs/Friendly/Denver/Untitled",
     "Players/New Orleans"
   ]

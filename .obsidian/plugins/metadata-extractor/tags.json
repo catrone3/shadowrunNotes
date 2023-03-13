@@ -12,11 +12,11 @@
     "tagCount": 6,
     "relativePaths": [
       "NPCs/Neutral/Morocco/David Johnson.md",
-      "Locations/FRFZ/Denver Nexus.md",
       "Lighthouse Industries/Litehouse Brand.md",
       "Lighthouse Industries/Incubus Club.md",
       "Lighthouse Industries/Genesis Medical.md",
-      "Lighthouse Industries/1UP!.md"
+      "Lighthouse Industries/1UP!.md",
+      "Locations/FRFZ/Denver Nexus.md"
     ]
   },
   {
@@ -27,10 +27,10 @@
     ]
   },
   {
-    "tag": "locations",
+    "tag": "foundry",
     "tagCount": 1,
     "relativePaths": [
-      "Locations/FRFZ/Cheyenne Mountain.md"
+      "How to Use Foundry.md"
     ]
   },
   {
@@ -46,8 +46,8 @@
     "tagCount": 6,
     "relativePaths": [
       "Lighthouse Industries/Rainbow Corp.md",
-      "AA Corps/Spinrad Global.md",
       "AA Corps/Yoyo Dine.md",
+      "AA Corps/Spinrad Global.md",
       "AA Corps/Litehouse Industries.md",
       "AA Corps/Draco Foundation.md",
       "AA Corps/Blue Steel Industries.md"
@@ -61,10 +61,10 @@
     ]
   },
   {
-    "tag": "foundry",
+    "tag": "locations",
     "tagCount": 1,
     "relativePaths": [
-      "How to Use Foundry.md"
+      "Locations/FRFZ/Cheyenne Mountain.md"
     ]
   },
   {
@@ -76,8 +76,8 @@
       "AAA Corps/Sader Krupp.md",
       "AAA Corps/Renraku.md",
       "AAA Corps/MCT.md",
-      "AAA Corps/Horizon/Horizon.md",
       "AAA Corps/Evo.md",
+      "AAA Corps/Horizon/Horizon.md",
       "AAA Corps/Aztechnology.md",
       "AAA Corps/Ares.md"
     ]
