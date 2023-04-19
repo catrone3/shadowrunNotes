@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"file","file":"Players/Athens.md","id":"8e99ed2fcb94f31f","x":-180,"y":-220,"width":400,"height":400},
+		{"type":"file","file":"Players/New Orleans.md","id":"eecc334dd1c28f62","x":-1180,"y":-240,"width":400,"height":400},
+		{"type":"file","file":"Players/Berlin Game.md","id":"ecfc8b9961508a50","x":-120,"y":360,"width":400,"height":400},
+		{"type":"file","file":"Players/Denver Prime.md","id":"6007b31acf73b20c","x":-1120,"y":360,"width":400,"height":400},
+		{"type":"file","file":"Players/Morocco.md","id":"934f3afb85b738f5","x":-640,"y":360,"width":400,"height":400},
+		{"type":"file","file":"Players/London.md","id":"8f4f084730c860ff","x":-640,"y":1040,"width":400,"height":400},
+		{"type":"file","file":"Homepage.md","id":"36c01fc366660c81","x":-640,"y":-1160,"width":400,"height":400},
+		{"id":"a2afdf61fd11db25","x":-780,"y":-490,"width":250,"height":60,"type":"text","text":"# Wanda"},
+		{"id":"d11aae5e965368e0","x":-430,"y":-490,"width":250,"height":51,"type":"text","text":"# Will"}
+	],
+	"edges":[
+		{"id":"8dd1fa72d5955c59","fromNode":"8e99ed2fcb94f31f","fromSide":"bottom","toNode":"ecfc8b9961508a50","toSide":"top","fromEnd":"arrow"},
+		{"id":"324dd588bd8ba0b9","fromNode":"a2afdf61fd11db25","fromSide":"bottom","toNode":"eecc334dd1c28f62","toSide":"top"},
+		{"id":"5f339567596da685","fromNode":"d11aae5e965368e0","fromSide":"bottom","toNode":"8e99ed2fcb94f31f","toSide":"top"},
+		{"id":"f119ce30a96a96c4","fromNode":"8f4f084730c860ff","fromSide":"top","toNode":"934f3afb85b738f5","toSide":"bottom"},
+		{"id":"474c9c5c717992e3","fromNode":"d11aae5e965368e0","fromSide":"bottom","toNode":"934f3afb85b738f5","toSide":"top"},
+		{"id":"cb6160a635e20be3","fromNode":"a2afdf61fd11db25","fromSide":"bottom","toNode":"6007b31acf73b20c","toSide":"top"},
+		{"id":"ad676bb21f664fad","fromNode":"36c01fc366660c81","fromSide":"bottom","toNode":"a2afdf61fd11db25","toSide":"top"},
+		{"id":"6e8eeeb9c7ff048f","fromNode":"36c01fc366660c81","fromSide":"bottom","toNode":"d11aae5e965368e0","toSide":"top"}
+	]
+}

@@ -7,8 +7,8 @@
 
 ##### Vehicles
 
-- [[../../Lighthouse Industries/Cheyenne Mountain/C-260|C-260]]
-- [[../../Lighthouse Industries/Cheyenne Mountain/Lear-Cessna Platinum|Lear-Cessna Platinum]]
-- [[../../Lighthouse Industries/Cheyenne Mountain/SKA-008|SKA-008]]
-- [[../../Lighthouse Industries/Cheyenne Mountain/SU-41 'Fixer'|SU-41 'Fixer']]
-- [[../../Lighthouse Industries/Cheyenne Mountain/Toyota Gopher|Toyota Gopher]]
+- [[../../Litehouse Industries/Cheyenne Mountain/C-260|C-260]]
+- [[../../Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum|Lear-Cessna Platinum]]
+- [[../../Litehouse Industries/Cheyenne Mountain/SKA-008|SKA-008]]
+- [[../../Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'|SU-41 'Fixer']]
+- [[../../Litehouse Industries/Cheyenne Mountain/Toyota Gopher|Toyota Gopher]]

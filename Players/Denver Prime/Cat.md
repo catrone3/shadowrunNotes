@@ -15,11 +15,11 @@
 - Concealment = 13
 
 ##### Cheyenne Mountain
-- [[../../Lighthouse Industries/Cheyenne Mountain/C-260|C-260]]
-- [[../../Lighthouse Industries/Cheyenne Mountain/Toyota Gopher|Toyota Gopher]]
-- [[../../Lighthouse Industries/Cheyenne Mountain/SKA-008|SKA-008]]
-- [[../../Lighthouse Industries/Cheyenne Mountain/SU-41 'Fixer'|SU-41 'Fixer']]
-- [[../../Lighthouse Industries/Cheyenne Mountain/Lear-Cessna Platinum|Lear-Cessna Platinum]]
+- [[../../Litehouse Industries/Cheyenne Mountain/C-260|C-260]]
+- [[../../Litehouse Industries/Cheyenne Mountain/Toyota Gopher|Toyota Gopher]]
+- [[../../Litehouse Industries/Cheyenne Mountain/SKA-008|SKA-008]]
+- [[../../Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'|SU-41 'Fixer']]
+- [[../../Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum|Lear-Cessna Platinum]]
 
 ##### Pets
 - Greater Thunderbird
@@ -55,7 +55,7 @@ Tara (Drake)
 - Wing
 
 
-##### [[../../Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department|Fixers]]
+##### [[../../Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department|Fixers]]
 - [[../../NPCs/Friendly/Denver/Jess|Jess]]
 - [[../../NPCs/Friendly/Denver/Steve|Steve]]
 - [[../../NPCs/Friendly/Morocco/Helix|Helix]]
@@ -85,7 +85,7 @@ Tara (Drake)
 - [[../../NPCs/Neutral/Denver/DataMax|DataMax]]
 
 ##### Shadowrun Teams
-[[../../Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team|Denver Team]]
+[[../../Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team|Denver Team]]
 Cat's Team
 
 

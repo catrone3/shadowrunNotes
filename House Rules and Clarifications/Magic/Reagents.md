@@ -1,3 +1,4 @@
+
 | Type | Raw | Refined | Radical |
 |-------- | ---- | ------ | -------- |
 | Tainted | 2 | 2.5 | 3 |

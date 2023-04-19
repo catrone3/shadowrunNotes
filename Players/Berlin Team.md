@@ -1,7 +1,0 @@
-[[Players/Germany(Sunday)/Angel|Angel]]
-[[Players/Germany(Sunday)/Dok|Dok]]
-[[Players/Germany(Sunday)/Firestorm|Firestorm]]
-[[Players/Germany(Sunday)/Glitch|Glitch]]
-[[Players/Germany(Sunday)/Jericho|Jericho]]
-[[Players/Germany(Sunday)/Maximilian|Max]]
-[[Players/Germany(Sunday)/Tanka|Tanka]]
