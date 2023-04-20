@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "House Rules.md",
+                "file": "How to use Exploding Dice bot.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "House Rules.md",
+                "file": "How to use Exploding Dice bot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +137,7 @@
   "active": "059fe9ad89f42f25",
   "lastOpenFiles": [
     "Homepage.md",
+    "House Rules.md",
     "Fixing PATH.md",
     "Working with Github.md",
     "Sunday Game notes/23-3-26.md",
@@ -161,7 +162,6 @@
     "Sunday Game notes/22-4-10.md",
     "Sunday Game notes/22-4-24.md",
     "Sunday Game notes/22-3-13.md",
-    "Sunday Game notes/22-3-27.md",
     "Untitled.canvas",
     "Litehouse Industries/Litehouse Industries.canvas",
     "House Rules/Magic",
