@@ -1,71 +1,36 @@
 [
   {
-    "tag": "sunday",
+    "tag": "sunday_game",
     "tagCount": 29,
     "relativePaths": [
-      "Sunday Game notes/23-2-12.md",
       "Sunday Game notes/23-3-26.md",
       "Sunday Game notes/23-3-12.md",
       "Sunday Game notes/23-2-26.md",
-      "Sunday Game notes/23-1-15.md",
       "Sunday Game notes/23-1-29.md",
+      "Sunday Game notes/23-2-12.md",
+      "Sunday Game notes/22-9-11.md",
       "Sunday Game notes/22-9-25.md",
       "Sunday Game notes/23-01-01.md",
-      "Sunday Game notes/22-8-14.md",
-      "Sunday Game notes/22-9-11.md",
-      "Sunday Game notes/22-5-8.md",
+      "Sunday Game notes/23-1-15.md",
       "Sunday Game notes/22-7-3.md",
-      "Sunday Game notes/22-6-19.md",
+      "Sunday Game notes/22-8-14.md",
       "Sunday Game notes/22-7-17.md",
-      "Sunday Game notes/22-4-24.md",
+      "Sunday Game notes/22-6-19.md",
+      "Sunday Game notes/22-5-8.md",
+      "Sunday Game notes/22-10-23.md",
       "Sunday Game notes/22-5-22.md",
+      "Sunday Game notes/22-4-24.md",
       "Sunday Game notes/22-4-10.md",
       "Sunday Game notes/22-3-27.md",
       "Sunday Game notes/22-3-13.md",
       "Sunday Game notes/22-2-27.md",
       "Sunday Game notes/22-11-20.md",
-      "Sunday Game notes/22-1-30.md",
       "Sunday Game notes/22-11-06.md",
       "Sunday Game notes/22-10-9.md",
-      "Sunday Game notes/22-10-23.md",
-      "Sunday Game notes/21-12-5.md",
-      "Sunday Game notes/22-1-2.md",
-      "Sunday Game notes/22-1-16.md",
-      "Sunday Game notes/21-12-19.md"
-    ]
-  },
-  {
-    "tag": "game",
-    "tagCount": 29,
-    "relativePaths": [
-      "Sunday Game notes/23-2-12.md",
-      "Sunday Game notes/23-3-26.md",
-      "Sunday Game notes/23-3-12.md",
-      "Sunday Game notes/23-2-26.md",
-      "Sunday Game notes/23-1-15.md",
-      "Sunday Game notes/23-1-29.md",
-      "Sunday Game notes/22-9-25.md",
-      "Sunday Game notes/23-01-01.md",
-      "Sunday Game notes/22-8-14.md",
-      "Sunday Game notes/22-9-11.md",
-      "Sunday Game notes/22-5-8.md",
-      "Sunday Game notes/22-7-3.md",
-      "Sunday Game notes/22-6-19.md",
-      "Sunday Game notes/22-7-17.md",
-      "Sunday Game notes/22-4-24.md",
-      "Sunday Game notes/22-5-22.md",
-      "Sunday Game notes/22-4-10.md",
-      "Sunday Game notes/22-3-27.md",
-      "Sunday Game notes/22-3-13.md",
-      "Sunday Game notes/22-2-27.md",
-      "Sunday Game notes/22-11-20.md",
       "Sunday Game notes/22-1-30.md",
-      "Sunday Game notes/22-11-06.md",
-      "Sunday Game notes/22-10-9.md",
-      "Sunday Game notes/22-10-23.md",
-      "Sunday Game notes/21-12-5.md",
       "Sunday Game notes/22-1-2.md",
       "Sunday Game notes/22-1-16.md",
+      "Sunday Game notes/21-12-5.md",
       "Sunday Game notes/21-12-19.md"
     ]
   },
@@ -83,8 +48,8 @@
     "relativePaths": [
       "NPCs/Neutral/Morocco/David Johnson.md",
       "Locations/FRFZ/Denver Nexus.md",
-      "Litehouse Industries/Litehouse Brand.md",
       "Litehouse Industries/Incubus Club.md",
+      "Litehouse Industries/Litehouse Brand.md",
       "Litehouse Industries/Genesis Medical.md",
       "Litehouse Industries/1UP!.md"
     ]
@@ -104,10 +69,11 @@
     ]
   },
   {
-    "tag": "foundry",
-    "tagCount": 1,
+    "tag": "seattle",
+    "tagCount": 2,
     "relativePaths": [
-      "How to Use Foundry.md"
+      "Litehouse Industries/The Apollo Group.md",
+      "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
     ]
   },
   {
@@ -115,19 +81,11 @@
     "tagCount": 6,
     "relativePaths": [
       "Litehouse Industries/Rainbow Corp.md",
-      "AA Corps/Draco Foundation.md",
+      "AA Corps/Blue Steel Industries.md",
+      "AA Corps/Spinrad Global.md",
       "AA Corps/Yoyo Dine.md",
       "AA Corps/Litehouse Industries.md",
-      "AA Corps/Spinrad Global.md",
-      "AA Corps/Blue Steel Industries.md"
-    ]
-  },
-  {
-    "tag": "seattle",
-    "tagCount": 2,
-    "relativePaths": [
-      "Litehouse Industries/The Apollo Group.md",
-      "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+      "AA Corps/Draco Foundation.md"
     ]
   },
   {
@@ -138,17 +96,24 @@
     ]
   },
   {
+    "tag": "foundry",
+    "tagCount": 1,
+    "relativePaths": [
+      "How to Use Foundry.md"
+    ]
+  },
+  {
     "tag": "aaa_corporation",
     "tagCount": 9,
     "relativePaths": [
-      "AAA Corps/Shiawase.md",
       "AAA Corps/Wuxing.md",
       "AAA Corps/Sader Krupp.md",
-      "AAA Corps/Renraku.md",
+      "AAA Corps/Shiawase.md",
       "AAA Corps/MCT.md",
-      "AAA Corps/Horizon/Horizon.md",
+      "AAA Corps/Renraku.md",
       "AAA Corps/Evo.md",
       "AAA Corps/Aztechnology.md",
+      "AAA Corps/Horizon/Horizon.md",
       "AAA Corps/Ares.md"
     ]
   }

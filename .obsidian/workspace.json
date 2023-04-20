@@ -11,16 +11,57 @@
             "id": "059fe9ad89f42f25",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas.canvas",
-                "viewState": {
-                  "x": -314.49596774193543,
-                  "y": -84.87903225806463,
-                  "zoom": -1.527603121278877
+                "file": "Players/Denver Prime/Swiss.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "7d7af2e83f22f2d2"
+          }
+        ]
+      },
+      {
+        "id": "da65dac738a73d7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e56d2e260c8b5f62",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Players/Denver Prime/Swiss.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
                 }
               }
-            }
+            },
+            "group": "7d7af2e83f22f2d2"
           }
         ]
       }
@@ -80,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas.canvas",
+                "file": "Players/Denver Prime/Swiss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +179,8 @@
   },
   "active": "059fe9ad89f42f25",
   "lastOpenFiles": [
+    "Players/Denver Prime/Cat.md",
+    "Canvas.canvas",
     "Homepage.md",
     "How to use Exploding Dice bot.md",
     "House Rules.md",
@@ -163,7 +206,6 @@
     "Sunday Game notes/22-5-22.md",
     "Sunday Game notes/22-5-8.md",
     "Sunday Game notes/22-4-10.md",
-    "Sunday Game notes/22-4-24.md",
     "Untitled.canvas",
     "Litehouse Industries/Litehouse Industries.canvas",
     "House Rules/Magic",
@@ -174,7 +216,6 @@
     "GM Info/Germany",
     "canvas.json",
     "tags.json",
-    "Canvas.canvas",
     "Players/Athens",
     "Players/Germany(Sunday) - Copy",
     "Images/shadowrun characters/Pasted image 20230325161639.png",
