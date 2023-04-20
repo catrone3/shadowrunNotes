@@ -6,5 +6,5 @@
 - [[../../../NPCs/Friendly/Denver/Telenov|Telenov]]
 
 ##### Teams
-- [[Special Interests Department/Denver Team|Denver Specials]]
-- [[Special Interests Department/Morocco Team|Morocco Team]]
+- [[../../../Players/Denver Prime|Denver Specials]]
+- [[../../../Players/Morocco|Morocco Team]]

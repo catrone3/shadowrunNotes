@@ -4,5 +4,7 @@
   "rpg-manager",
   "obsidian-git",
   "table-editor-obsidian",
-  "metadata-extractor"
+  "metadata-extractor",
+  "obsidian-linter",
+  "find-unlinked-files"
 ]

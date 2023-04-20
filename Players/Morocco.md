@@ -2,6 +2,10 @@
 <iframe src="https://www.google.com/maps/d/embed?mid=1hLRIdVFrhMDA6TWswTy2vL6BZeSvotPM&ehbc=2E312F" width="640" height="480"></iframe>
 #### [[../Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team|Morocco Team]]
 
+##### Fixer
+[[../../../../NPCs/Friendly/Morocco/Helix|Helix]]
+
+##### Runners
 [[Morocco/Corvus|Corvus]]
 [[Morocco/Kisouma|Kisouma]]
 [[Morocco/Thirteen|Thirteen]]

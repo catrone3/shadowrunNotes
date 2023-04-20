@@ -85,7 +85,7 @@ Tara (Drake)
 - [[../../NPCs/Neutral/Denver/DataMax|DataMax]]
 
 ##### Shadowrun Teams
-[[../../Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team|Denver Team]]
+[[../Denver Prime|Denver Team]]
 Cat's Team
 
 

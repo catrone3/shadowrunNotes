@@ -3,12 +3,18 @@
 #### Saturday
 ##### [[../Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team]]
 
-[Denver Prime/Spyder|Spyder]]
+##### Fixer
+[[Denver Prime/Cat|Cat]]
+
+##### Runners
+[[Denver Prime/Spyder|Spyder]]
 [[Denver Prime/Cat|Cat]]
 [[Denver Prime/Incubus|Incubus]]
 [[Denver Prime/Spectre|Spectre]]
 [[Denver Prime/Swiss|Swiss]]
 
+##### Stand ins
+- [[Denver Prime/Sentinel|Sentinel]]
 
 ##### Contacts
 [[../NPCs/Neutral/Ares/Amera|Amera]]

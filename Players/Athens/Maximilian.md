@@ -17,7 +17,7 @@ Adept
 - Fixer/Club Manager
 - Loyalty: 3
 
-Reinald Ebersbacher
+[[../../NPCs/Friendly/Germany/Reinald Ebersbacher|Reinald Ebersbacher]]
 - Laes Dealer
 - Loyalty: 1
 
