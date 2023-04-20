@@ -15,6 +15,3 @@
 - [[Players/Berlin Game|Berlin]]
 - [[Players/Morocco|Morocco]]
 - [[Players/London|London]]
-
-
-[ ]  This is a test checkbox

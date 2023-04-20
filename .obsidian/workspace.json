@@ -11,12 +11,14 @@
             "id": "059fe9ad89f42f25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "How to use Exploding Dice bot.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Canvas.canvas",
+                "viewState": {
+                  "x": -314.49596774193543,
+                  "y": -84.87903225806463,
+                  "zoom": -1.527603121278877
+                }
               }
             }
           }
@@ -78,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to use Exploding Dice bot.md",
+                "file": "Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +139,7 @@
   "active": "059fe9ad89f42f25",
   "lastOpenFiles": [
     "Homepage.md",
+    "How to use Exploding Dice bot.md",
     "House Rules.md",
     "Fixing PATH.md",
     "Working with Github.md",
@@ -161,7 +164,6 @@
     "Sunday Game notes/22-5-8.md",
     "Sunday Game notes/22-4-10.md",
     "Sunday Game notes/22-4-24.md",
-    "Sunday Game notes/22-3-13.md",
     "Untitled.canvas",
     "Litehouse Industries/Litehouse Industries.canvas",
     "House Rules/Magic",
