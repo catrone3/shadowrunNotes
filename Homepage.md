@@ -15,3 +15,5 @@
 - [[Players/Berlin Game|Berlin]]
 - [[Players/Morocco|Morocco]]
 - [[Players/London|London]]
+
+
