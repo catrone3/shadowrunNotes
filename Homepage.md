@@ -17,3 +17,4 @@
 - [[Players/London|London]]
 
 
+- [ ]  This is a test checkbox

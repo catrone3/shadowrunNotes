@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "House Rules.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "House Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +134,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "059fe9ad89f42f25",
   "lastOpenFiles": [
+    "Homepage.md",
     "Fixing PATH.md",
     "Working with Github.md",
     "Sunday Game notes/23-3-26.md",
@@ -161,7 +162,6 @@
     "Sunday Game notes/22-4-24.md",
     "Sunday Game notes/22-3-13.md",
     "Sunday Game notes/22-3-27.md",
-    "Sunday Game notes/22-1-30.md",
     "Untitled.canvas",
     "Litehouse Industries/Litehouse Industries.canvas",
     "House Rules/Magic",
