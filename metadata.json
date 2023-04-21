@@ -7602,6 +7602,122 @@
     "tags": [
       "explodingdice"
     ],
+    "headings": [
+      {
+        "heading": "Possible Commands",
+        "level": 2
+      },
+      {
+        "heading": "/roll",
+        "level": 2
+      },
+      {
+        "heading": "/shadowrun roll",
+        "level": 2
+      },
+      {
+        "heading": "/shadowrun extended",
+        "level": 2
+      },
+      {
+        "heading": "/shadowrun alchemylist",
+        "level": 2
+      },
+      {
+        "heading": "/shadowrun alchemyuse",
+        "level": 2
+      },
+      {
+        "heading": "/shadowrun alchemyage",
+        "level": 2
+      },
+      {
+        "heading": "/shadowrun alchemycreate",
+        "level": 2
+      },
+      {
+        "heading": "/shadowrun alchemydelete",
+        "level": 2
+      },
+      {
+        "heading": "/shadowrun summonspirit",
+        "level": 2
+      },
+      {
+        "heading": "/shadowrun bindspirit",
+        "level": 2
+      },
+      {
+        "heading": "/shadowrun resistdamage",
+        "level": 2
+      },
+      {
+        "heading": "/initshadowrun",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "roll",
+        "displayText": "/roll",
+        "relativePath": "How to use Exploding Dice bot.md"
+      },
+      {
+        "link": "shadowrun roll",
+        "displayText": "/shadowrun roll",
+        "relativePath": "How to use Exploding Dice bot.md"
+      },
+      {
+        "link": "shadowrun extended",
+        "displayText": "/shadowrun extended",
+        "relativePath": "How to use Exploding Dice bot.md"
+      },
+      {
+        "link": "shadowrun alchemylist",
+        "displayText": "/shadowrun alchemylist",
+        "relativePath": "How to use Exploding Dice bot.md"
+      },
+      {
+        "link": "shadowrun alchemyuse",
+        "displayText": "/shadowrun alchemyuse",
+        "relativePath": "How to use Exploding Dice bot.md"
+      },
+      {
+        "link": "shadowrun alchemyage",
+        "displayText": "/shadowrun alchemyage",
+        "relativePath": "How to use Exploding Dice bot.md"
+      },
+      {
+        "link": "shadowrun alchemycreate",
+        "displayText": "## /shadowrun alchemycreate",
+        "relativePath": "How to use Exploding Dice bot.md"
+      },
+      {
+        "link": "shadowrun alchemydelete",
+        "displayText": "/shadowrun alchemydelete",
+        "relativePath": "How to use Exploding Dice bot.md"
+      },
+      {
+        "link": "shadowrun summonspirit",
+        "displayText": "/shadowrun summonspirit",
+        "relativePath": "How to use Exploding Dice bot.md"
+      },
+      {
+        "link": "shadowrun bindspirit",
+        "displayText": "/shadowrun bindspirit",
+        "relativePath": "How to use Exploding Dice bot.md"
+      },
+      {
+        "link": "shadowrun resistdamage",
+        "displayText": "/shadowrun resistdamage",
+        "relativePath": "How to use Exploding Dice bot.md"
+      },
+      {
+        "link": "initshadowrun",
+        "displayText": "/initshadowrun",
+        "relativePath": "How to use Exploding Dice bot.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "Homepage",

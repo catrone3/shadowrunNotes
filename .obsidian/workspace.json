@@ -4,58 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "808a02ef168f84a5",
-        "type": "split",
+        "id": "1f624b749c282ae4",
+        "type": "tabs",
         "children": [
           {
-            "id": "1f624b749c282ae4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0856b67dccab50d5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "How to use Exploding Dice bot.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
+            "id": "0856b67dccab50d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "13e570730e8e9c88",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b8e45602d797314d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "GM Info/Greece/Locations/Athens.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "84af390c9a617c13",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 1
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,14 +142,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "0856b67dccab50d5",
   "lastOpenFiles": [
     "How to use Exploding Dice bot.md",
+    "Images/Pasted image 20230421140050.png",
+    "Images/Pasted image 20230421135922.png",
+    "Images/Pasted image 20230421135939.png",
+    "Images/Pasted image 20230421135730.png",
+    "GM Info/Greece/Locations/Athens.md",
+    "GM Info/Greece/Athens.md",
     "How to Use Foundry.md",
     "Working with Github.md",
-    "GM Info/Greece/Athens.md",
     "GM Info/Greece/Factions/The Hades Syndicate.md",
-    "GM Info/Greece/Locations/Athens.md",
     "GM Info/Greece/Factions/The Athena's Owl.md",
     "GM Info/Greece/Factions/The Cult of Dionysus.md",
     "GM Info/Greece/Factions/The Athenian Triads.md",
@@ -204,7 +174,6 @@
     "Sunday Game notes/21-12-5.md",
     "AAA Corps/Evo.md",
     "AAA Corps/Aztechnology.md",
-    "AAA Corps/Ares.md",
     "Canvas.canvas",
     "Untitled.canvas",
     "Litehouse Industries/Litehouse Industries.canvas",
@@ -222,10 +191,6 @@
     "Images/shadowrun characters/Pasted image 20230325150404.png",
     "Images/shadowrun characters/Pasted image 20230325145550.png",
     "Images/shadowrun characters/Aléxios Callas.png",
-    "Images/shadowrun characters/Dimitra Michel.png",
-    "Images/shadowrun characters/Thalís Savas.png",
-    "Images/shadowrun characters/Sofoúla Manis.png",
-    "Images/shadowrun characters/Dorís Andreas.png",
-    "Images/shadowrun characters/Páris Marinos.png"
+    "Images/shadowrun characters/Dimitra Michel.png"
   ]
 }

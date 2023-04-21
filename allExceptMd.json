@@ -1112,6 +1112,21 @@
       "name": "Zoe.png",
       "basename": "Zoe",
       "relativePath": "Images/shadowrun characters/Zoe.png"
+    },
+    {
+      "name": "Pasted image 20230421135730.png",
+      "basename": "Pasted image 20230421135730",
+      "relativePath": "Images/Pasted image 20230421135730.png"
+    },
+    {
+      "name": "Pasted image 20230421135939.png",
+      "basename": "Pasted image 20230421135939",
+      "relativePath": "Images/Pasted image 20230421135939.png"
+    },
+    {
+      "name": "Pasted image 20230421140050.png",
+      "basename": "Pasted image 20230421140050",
+      "relativePath": "Images/Pasted image 20230421140050.png"
     }
   ]
 }
