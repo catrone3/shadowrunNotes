@@ -1,3 +1,4 @@
+#NewOrleans 
 ![[../../../Images/shadowrun characters/Eddie Boussard.png]]
 
 Finder

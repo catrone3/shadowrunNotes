@@ -1,3 +1,4 @@
+#Denver 
 ![[../../../Images/shadowrun characters/leah.jpg]]
 
 Sisters of a new contact

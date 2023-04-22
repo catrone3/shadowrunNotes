@@ -1,3 +1,4 @@
+#Denver 
  ![[../../../Images/shadowrun characters/slip.jpg]]
 They are a drake of the Council
 Manages the runner team that hunts Horrors

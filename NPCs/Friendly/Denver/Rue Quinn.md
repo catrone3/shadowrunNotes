@@ -1,3 +1,4 @@
+#Denver 
 ![[../../../Images/shadowrun characters/rue_Quinn.png]]
 
 #### Biology

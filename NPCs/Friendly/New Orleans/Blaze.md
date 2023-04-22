@@ -1,4 +1,4 @@
-
+#NewOrleans
 ![[../../../Images/shadowrun characters/Blaze.png]]
 
 Holloweener Gang Boss

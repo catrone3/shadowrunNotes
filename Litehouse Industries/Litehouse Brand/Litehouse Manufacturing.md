@@ -1,3 +1,4 @@
+#Denver 
 Has shared factories with Mercea Conglomerate's [[../Mercea Conglomerate/Manufacturing|Manufacturing]]
    
 ### Arms Manufacturing

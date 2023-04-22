@@ -1,3 +1,4 @@
+#Denver 
 ##### Relationships
 - The [[../../NPCs/Friendly/France/Blood Butterfly|Blood Butterfly]]
 - [[../../NPCs/Friendly/Denver/Valentina Kwan|Valentina Kwan]]

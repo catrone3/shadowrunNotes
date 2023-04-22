@@ -1,3 +1,4 @@
+#Denver 
 ![[../../../Images/shadowrun characters/old guy in incubus.jpg]]
 
 hired to find [[../Horizon/puddin]], 

@@ -77,6 +77,14 @@
       {
         "link": "Athens",
         "relativePath": "Players/Athens.md"
+      },
+      {
+        "link": "Athens",
+        "relativePath": "Locations/Athens.md"
+      },
+      {
+        "link": "Athens",
+        "relativePath": "Locations/Athens.md"
       }
     ]
   },
@@ -1049,6 +1057,9 @@
   {
     "fileName": "Old Man Bones",
     "relativePath": "Players/New Orleans/Old Man Bones.md",
+    "tags": [
+      "neworleans"
+    ],
     "links": [
       {
         "link": "Blaze",
@@ -1076,6 +1087,9 @@
   {
     "fileName": "Nines",
     "relativePath": "Players/New Orleans/Nines.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -1088,6 +1102,9 @@
   {
     "fileName": "Big Byte",
     "relativePath": "Players/New Orleans/Big Byte.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -1100,6 +1117,9 @@
   {
     "fileName": "Jester",
     "relativePath": "Players/New Orleans/Jester.md",
+    "tags": [
+      "neworleans"
+    ],
     "links": [
       {
         "link": "John Pau Morrell",
@@ -1131,6 +1151,15 @@
   {
     "fileName": "Grimm",
     "relativePath": "Players/New Orleans/Grimm.md",
+    "tags": [
+      "neworleans"
+    ],
+    "links": [
+      {
+        "link": "Rose Lacelle",
+        "relativePath": "NPCs/Friendly/New Orleans/Rose Lacelle.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -2076,6 +2105,9 @@
   {
     "fileName": "Denver Prime",
     "relativePath": "Players/Denver Prime.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "[Denver Map](https://www.google.com/maps/d/u/0/viewer?mid=1BrcfAzyifwU4Gk8I2KPeP9VoH8wz9w-K&ll=28.49634055143031%2C-83.41172544999999&z=5)",
@@ -2565,6 +2597,9 @@
   {
     "fileName": "Swiss",
     "relativePath": "Players/Denver Prime/Swiss.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Relationship",
@@ -2671,6 +2706,9 @@
   {
     "fileName": "Spyder",
     "relativePath": "Players/Denver Prime/Spyder.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Contacts",
@@ -2725,6 +2763,9 @@
   {
     "fileName": "Spectre",
     "relativePath": "Players/Denver Prime/Spectre.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Relationships",
@@ -2792,6 +2833,9 @@
   {
     "fileName": "Sentinel",
     "relativePath": "Players/Denver Prime/Sentinel.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Denver Prime",
@@ -2803,6 +2847,9 @@
   {
     "fileName": "Incubus",
     "relativePath": "Players/Denver Prime/Incubus.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Relationships",
@@ -2939,6 +2986,9 @@
   {
     "fileName": "Cat",
     "relativePath": "Players/Denver Prime/Cat.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Own modifers/rolls",
@@ -3562,6 +3612,10 @@
         "level": 3
       },
       {
+        "heading": "Locations",
+        "level": 3
+      },
+      {
         "heading": "Player Characters",
         "level": 3
       },
@@ -3571,6 +3625,10 @@
       }
     ],
     "links": [
+      {
+        "link": "Athens",
+        "relativePath": "Locations/Athens.md"
+      },
       {
         "link": "Angel",
         "displayText": "Athens/Angel",
@@ -3608,32 +3666,26 @@
       },
       {
         "link": "Aléxios Callas",
-        "displayText": "../NPCs/Friendly/Athens/Aléxios Callas",
         "relativePath": "NPCs/Friendly/Athens/Aléxios Callas.md"
       },
       {
         "link": "Dimitra Michel",
-        "displayText": "../NPCs/Friendly/Athens/Dimitra Michel",
         "relativePath": "NPCs/Friendly/Athens/Dimitra Michel.md"
       },
       {
         "link": "Dorís Andreas",
-        "displayText": "../NPCs/Friendly/Athens/Dorís Andreas",
         "relativePath": "NPCs/Friendly/Athens/Dorís Andreas.md"
       },
       {
         "link": "Páris Marinos",
-        "displayText": "../NPCs/Friendly/Athens/Páris Marinos",
         "relativePath": "NPCs/Friendly/Athens/Páris Marinos.md"
       },
       {
         "link": "Sofoúla Manis",
-        "displayText": "../NPCs/Friendly/Athens/Sofoúla Manis",
         "relativePath": "NPCs/Friendly/Athens/Sofoúla Manis.md"
       },
       {
         "link": "Thalís Savas",
-        "displayText": "../NPCs/Friendly/Athens/Thalís Savas",
         "relativePath": "NPCs/Friendly/Athens/Thalís Savas.md"
       }
     ],
@@ -3652,6 +3704,31 @@
         "fileName": "Homepage",
         "link": "Athens",
         "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "The Hades Syndicate",
+        "link": "Athens",
+        "relativePath": "GM Info/Greece/Factions/The Hades Syndicate.md"
+      },
+      {
+        "fileName": "The Athena's Owl",
+        "link": "Athens",
+        "relativePath": "GM Info/Greece/Factions/The Athena's Owl.md"
+      },
+      {
+        "fileName": "The Cult of Dionysus",
+        "link": "Athens",
+        "relativePath": "GM Info/Greece/Factions/The Cult of Dionysus.md"
+      },
+      {
+        "fileName": "The Athenian Triads",
+        "link": "Athens",
+        "relativePath": "GM Info/Greece/Factions/The Athenian Triads.md"
+      },
+      {
+        "fileName": "The Olympic Circle",
+        "link": "Athens",
+        "relativePath": "GM Info/Greece/Factions/The Olympic Circle.md"
       }
     ]
   },
@@ -4776,6 +4853,9 @@
   {
     "fileName": "Rada (Dead)",
     "relativePath": "NPCs/Neutral/Denver/Rada (Dead).md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Drag",
@@ -4787,6 +4867,9 @@
   {
     "fileName": "Puck",
     "relativePath": "NPCs/Neutral/Denver/Puck.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Denver Prime",
@@ -4803,6 +4886,9 @@
   {
     "fileName": "Perri",
     "relativePath": "NPCs/Neutral/Denver/Perri.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Denver Nexus",
@@ -4830,6 +4916,9 @@
   {
     "fileName": "Old man",
     "relativePath": "NPCs/Neutral/Denver/Old man.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "puddin",
@@ -4855,6 +4944,9 @@
   {
     "fileName": "Green",
     "relativePath": "NPCs/Neutral/Denver/Green.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Rainbow Corp",
@@ -4865,6 +4957,9 @@
   {
     "fileName": "Drag",
     "relativePath": "NPCs/Neutral/Denver/Drag.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Ghostwalker",
@@ -4883,6 +4978,9 @@
   {
     "fileName": "DataMax",
     "relativePath": "NPCs/Neutral/Denver/DataMax.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Cat",
@@ -4905,6 +5003,9 @@
   {
     "fileName": "Colonel Bennet",
     "relativePath": "NPCs/Neutral/Denver/Colonel Bennet.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Denver Prime",
@@ -4921,6 +5022,9 @@
   {
     "fileName": "Clyde",
     "relativePath": "NPCs/Neutral/Denver/Clyde.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Denver Prime",
@@ -5190,30 +5294,49 @@
   {
     "fileName": "Zoe",
     "relativePath": "NPCs/Friendly/New Orleans/Zoe.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
         "link": "Zoe",
         "relativePath": "Players/New Orleans.md",
         "displayText": "../NPCs/Friendly/New Orleans/Zoe"
+      },
+      {
+        "fileName": "23-3-25",
+        "link": "Zoe",
+        "relativePath": "New Orleans Game Notes/23-3-25.md"
       }
     ]
   },
   {
     "fileName": "Rose Lacelle",
     "relativePath": "NPCs/Friendly/New Orleans/Rose Lacelle.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
         "link": "Rose Lacelle",
         "relativePath": "Players/New Orleans.md",
         "displayText": "../NPCs/Friendly/New Orleans/Rose Lacelle"
+      },
+      {
+        "fileName": "Grimm",
+        "link": "Rose Lacelle",
+        "relativePath": "Players/New Orleans/Grimm.md"
       }
     ]
   },
   {
     "fileName": "Old Absenth House",
     "relativePath": "NPCs/Friendly/New Orleans/Old Absenth House.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -5226,6 +5349,9 @@
   {
     "fileName": "Molly's",
     "relativePath": "NPCs/Friendly/New Orleans/Molly's.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -5238,18 +5364,30 @@
   {
     "fileName": "Melissade DeBussy",
     "relativePath": "NPCs/Friendly/New Orleans/Melissade DeBussy.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
         "link": "Melissade DeBussy",
         "relativePath": "Players/New Orleans.md",
         "displayText": "../NPCs/Friendly/New Orleans/Melissade DeBussy"
+      },
+      {
+        "fileName": "23-3-25",
+        "link": "Melissade DeBussy",
+        "relativePath": "New Orleans Game Notes/23-3-25.md",
+        "displayText": "Melissade Debussy"
       }
     ]
   },
   {
     "fileName": "Mario Castro",
     "relativePath": "NPCs/Friendly/New Orleans/Mario Castro.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -5268,6 +5406,9 @@
   {
     "fileName": "Mama Mawu",
     "relativePath": "NPCs/Friendly/New Orleans/Mama Mawu.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -5285,6 +5426,9 @@
   {
     "fileName": "June Bug Reavers",
     "relativePath": "NPCs/Friendly/New Orleans/June Bug Reavers.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -5297,6 +5441,9 @@
   {
     "fileName": "John Pau Morrell",
     "relativePath": "NPCs/Friendly/New Orleans/John Pau Morrell.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -5315,6 +5462,9 @@
   {
     "fileName": "Jardis Balise",
     "relativePath": "NPCs/Friendly/New Orleans/Jardis Balise.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -5327,18 +5477,29 @@
   {
     "fileName": "Galaxy Jack",
     "relativePath": "NPCs/Friendly/New Orleans/Galaxy Jack.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
         "link": "Galaxy Jack",
         "relativePath": "Players/New Orleans.md",
         "displayText": "../NPCs/Friendly/New Orleans/Galaxy Jack"
+      },
+      {
+        "fileName": "23-3-25",
+        "link": "Galaxy Jack",
+        "relativePath": "New Orleans Game Notes/23-3-25.md"
       }
     ]
   },
   {
     "fileName": "Jessy Roy",
     "relativePath": "NPCs/Friendly/New Orleans/Jessy Roy.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -5356,6 +5517,9 @@
   {
     "fileName": "Eddie Boussard",
     "relativePath": "NPCs/Friendly/New Orleans/Eddie Boussard.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -5368,6 +5532,9 @@
   {
     "fileName": "Dr Lisette",
     "relativePath": "NPCs/Friendly/New Orleans/Dr Lisette.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -5380,6 +5547,9 @@
   {
     "fileName": "Danny Macaluso",
     "relativePath": "NPCs/Friendly/New Orleans/Danny Macaluso.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -5397,6 +5567,9 @@
   {
     "fileName": "Dr Lester",
     "relativePath": "NPCs/Friendly/New Orleans/Dr Lester.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -5409,6 +5582,9 @@
   {
     "fileName": "ClicClac and Big Lou",
     "relativePath": "NPCs/Friendly/New Orleans/ClicClac and Big Lou.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -5421,6 +5597,9 @@
   {
     "fileName": "Cyrille Boutin",
     "relativePath": "NPCs/Friendly/New Orleans/Cyrille Boutin.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -5438,6 +5617,9 @@
   {
     "fileName": "Blaze",
     "relativePath": "NPCs/Friendly/New Orleans/Blaze.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -5455,6 +5637,9 @@
   {
     "fileName": "Adonis",
     "relativePath": "NPCs/Friendly/New Orleans/Adonis.md",
+    "tags": [
+      "neworleans"
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -6600,6 +6785,9 @@
   {
     "fileName": "Telenov",
     "relativePath": "NPCs/Friendly/Denver/Telenov.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Denver Prime",
@@ -6621,6 +6809,9 @@
   {
     "fileName": "Valentina Kwan",
     "relativePath": "NPCs/Friendly/Denver/Valentina Kwan.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Relationships",
@@ -6657,6 +6848,9 @@
   {
     "fileName": "Valerian Quinn",
     "relativePath": "NPCs/Friendly/Denver/Valerian Quinn.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Biology",
@@ -6729,6 +6923,9 @@
   {
     "fileName": "Ulli",
     "relativePath": "NPCs/Friendly/Denver/Ulli.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Swiss",
@@ -6750,6 +6947,9 @@
   {
     "fileName": "Troy",
     "relativePath": "NPCs/Friendly/Denver/Troy.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Employeed by",
@@ -6791,6 +6991,9 @@
   {
     "fileName": "Steve",
     "relativePath": "NPCs/Friendly/Denver/Steve.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "1UP!",
@@ -6823,6 +7026,9 @@
   {
     "fileName": "Selena",
     "relativePath": "NPCs/Friendly/Denver/Selena.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Swiss",
@@ -6844,6 +7050,9 @@
   {
     "fileName": "Slip",
     "relativePath": "NPCs/Friendly/Denver/Slip.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Denver Prime",
@@ -6860,6 +7069,9 @@
   {
     "fileName": "Salena Boisvert",
     "relativePath": "NPCs/Friendly/Denver/Salena Boisvert.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "1UP! Colfax",
@@ -6882,6 +7094,9 @@
   {
     "fileName": "Sage Quinn",
     "relativePath": "NPCs/Friendly/Denver/Sage Quinn.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Biology",
@@ -6954,6 +7169,9 @@
   {
     "fileName": "Rue Quinn",
     "relativePath": "NPCs/Friendly/Denver/Rue Quinn.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Biology",
@@ -7016,6 +7234,9 @@
   {
     "fileName": "Nicholas Whitebird",
     "relativePath": "NPCs/Friendly/Denver/Nicholas Whitebird.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Denver Prime",
@@ -7032,6 +7253,9 @@
   {
     "fileName": "Mi Kwan",
     "relativePath": "NPCs/Friendly/Denver/Mi Kwan.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Relationships",
@@ -7073,6 +7297,9 @@
   {
     "fileName": "Kalt",
     "relativePath": "NPCs/Friendly/Denver/Kalt.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Cheyenne Mountain",
@@ -7119,6 +7346,9 @@
   {
     "fileName": "Merlin",
     "relativePath": "NPCs/Friendly/Denver/Merlin.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "1UP!",
@@ -7160,6 +7390,9 @@
   {
     "fileName": "Meia",
     "relativePath": "NPCs/Friendly/Denver/Meia.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Swiss",
@@ -7170,6 +7403,9 @@
   {
     "fileName": "Leah",
     "relativePath": "NPCs/Friendly/Denver/Leah.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Swiss",
@@ -7180,6 +7416,9 @@
   {
     "fileName": "Jess",
     "relativePath": "NPCs/Friendly/Denver/Jess.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "1UP!",
@@ -7217,6 +7456,9 @@
   {
     "fileName": "Driver",
     "relativePath": "NPCs/Friendly/Denver/Driver.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Relationships",
@@ -7257,6 +7499,9 @@
   {
     "fileName": "Ivy",
     "relativePath": "NPCs/Friendly/Denver/Ivy.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Relationships",
@@ -7303,6 +7548,9 @@
   {
     "fileName": "Hippocrates",
     "relativePath": "NPCs/Friendly/Denver/Hippocrates.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Denver Prime",
@@ -7319,6 +7567,9 @@
   {
     "fileName": "Ghostwalker",
     "relativePath": "NPCs/Friendly/Denver/Ghostwalker.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Head of ZDF",
@@ -7403,6 +7654,9 @@
   {
     "fileName": "Coco",
     "relativePath": "NPCs/Friendly/Denver/Coco.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Cat",
@@ -7414,6 +7668,9 @@
   {
     "fileName": "Blitz",
     "relativePath": "NPCs/Friendly/Denver/Blitz.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Draco Foundation",
@@ -7445,6 +7702,9 @@
   {
     "fileName": "Angelica Quinn",
     "relativePath": "NPCs/Friendly/Denver/Angelica Quinn.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Biology",
@@ -7521,8 +7781,7 @@
       {
         "fileName": "Athens",
         "link": "Thalís Savas",
-        "relativePath": "Players/Athens.md",
-        "displayText": "../NPCs/Friendly/Athens/Thalís Savas"
+        "relativePath": "Players/Athens.md"
       }
     ]
   },
@@ -7533,8 +7792,7 @@
       {
         "fileName": "Athens",
         "link": "Sofoúla Manis",
-        "relativePath": "Players/Athens.md",
-        "displayText": "../NPCs/Friendly/Athens/Sofoúla Manis"
+        "relativePath": "Players/Athens.md"
       }
     ]
   },
@@ -7545,8 +7803,7 @@
       {
         "fileName": "Athens",
         "link": "Páris Marinos",
-        "relativePath": "Players/Athens.md",
-        "displayText": "../NPCs/Friendly/Athens/Páris Marinos"
+        "relativePath": "Players/Athens.md"
       }
     ]
   },
@@ -7557,8 +7814,7 @@
       {
         "fileName": "Athens",
         "link": "Dorís Andreas",
-        "relativePath": "Players/Athens.md",
-        "displayText": "../NPCs/Friendly/Athens/Dorís Andreas"
+        "relativePath": "Players/Athens.md"
       }
     ]
   },
@@ -7569,8 +7825,7 @@
       {
         "fileName": "Athens",
         "link": "Dimitra Michel",
-        "relativePath": "Players/Athens.md",
-        "displayText": "../NPCs/Friendly/Athens/Dimitra Michel"
+        "relativePath": "Players/Athens.md"
       }
     ]
   },
@@ -7581,18 +7836,33 @@
       {
         "fileName": "Athens",
         "link": "Aléxios Callas",
-        "relativePath": "Players/Athens.md",
-        "displayText": "../NPCs/Friendly/Athens/Aléxios Callas"
+        "relativePath": "Players/Athens.md"
       }
     ]
   },
   {
     "fileName": "23-3-25",
     "relativePath": "New Orleans Game Notes/23-3-25.md",
+    "tags": [
+      "neworleans"
+    ],
     "links": [
       {
         "link": "New Orleans",
         "relativePath": "Players/New Orleans.md"
+      },
+      {
+        "link": "Zoe",
+        "relativePath": "NPCs/Friendly/New Orleans/Zoe.md"
+      },
+      {
+        "link": "Galaxy Jack",
+        "relativePath": "NPCs/Friendly/New Orleans/Galaxy Jack.md"
+      },
+      {
+        "link": "Melissade DeBussy",
+        "displayText": "Melissade Debussy",
+        "relativePath": "NPCs/Friendly/New Orleans/Melissade DeBussy.md"
       }
     ]
   },
@@ -7724,6 +7994,42 @@
         "link": "How to use Exploding Dice bot",
         "relativePath": "Homepage.md"
       }
+    ]
+  },
+  {
+    "fileName": "Athens",
+    "relativePath": "Locations/Athens.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Awakened",
+        "level": 4
+      },
+      {
+        "heading": "Mundane",
+        "level": 4
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "23-3-12",
+        "link": "Athens",
+        "relativePath": "Sunday Game notes/23-3-12.md"
+      },
+      {
+        "fileName": "23-3-12",
+        "link": "Athens",
+        "relativePath": "Sunday Game notes/23-3-12.md"
+      }
+    ]
+  },
+  {
+    "fileName": "New Orleans",
+    "relativePath": "Locations/New Orleans.md",
+    "tags": [
+      "neworleans"
     ]
   },
   {
@@ -8578,7 +8884,8 @@
     "fileName": "Litehouse Brand",
     "relativePath": "Litehouse Industries/Litehouse Brand.md",
     "tags": [
-      "denver"
+      "denver",
+      "aa_corporation"
     ],
     "headings": [
       {
@@ -8615,6 +8922,9 @@
   {
     "fileName": "Litehouse Production",
     "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "News Staff",
@@ -8655,6 +8965,9 @@
   {
     "fileName": "Litehouse Manufacturing",
     "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Arms Manufacturing",
@@ -8805,6 +9118,9 @@
   {
     "fileName": "Litehouse Construction",
     "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Construction.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Litehouse Brand",
@@ -8816,6 +9132,9 @@
   {
     "fileName": "Litehouse Aerospace",
     "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Aerospace.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Litehouse Brand",
@@ -8852,6 +9171,9 @@
   {
     "fileName": "Incubus Club Teams",
     "relativePath": "Litehouse Industries/Incubus Club/Incubus Club Teams.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Incubus",
@@ -8904,6 +9226,9 @@
   {
     "fileName": "Genesis Medical Clinic Aurora",
     "relativePath": "Litehouse Industries/Genesis Medical/Genesis Medical Clinic Aurora.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Genesis Medical",
@@ -8915,6 +9240,9 @@
   {
     "fileName": "Genesis Medical Hospital",
     "relativePath": "Litehouse Industries/Genesis Medical/Genesis Medical Hospital.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Genesis Medical",
@@ -8926,6 +9254,9 @@
   {
     "fileName": "Genesis Summit Medical Clinic",
     "relativePath": "Litehouse Industries/Genesis Medical/Genesis Summit Medical Clinic.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Genesis Medical",
@@ -8937,6 +9268,9 @@
   {
     "fileName": "Sperm Banks",
     "relativePath": "Litehouse Industries/Genesis Medical/Sperm Banks.md",
+    "tags": [
+      "seattle"
+    ],
     "backlinks": [
       {
         "fileName": "Genesis Medical",
@@ -8948,6 +9282,9 @@
   {
     "fileName": "Genesis Avista Hospital",
     "relativePath": "Litehouse Industries/Genesis Medical/Genesis Avista Hospital.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Genesis Medical",
@@ -9028,6 +9365,9 @@
   {
     "fileName": "Denver School for Advanced Learning",
     "relativePath": "Litehouse Industries/Denver School for Advanced Learning.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Cat",
@@ -9042,6 +9382,9 @@
   {
     "fileName": "Toyota Gopher",
     "relativePath": "Litehouse Industries/Cheyenne Mountain/Toyota Gopher.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Cat",
@@ -9064,6 +9407,9 @@
   {
     "fileName": "SU-41 'Fixer'",
     "relativePath": "Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Cat",
@@ -9086,6 +9432,9 @@
   {
     "fileName": "SKA-008",
     "relativePath": "Litehouse Industries/Cheyenne Mountain/SKA-008.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Cat",
@@ -9108,6 +9457,9 @@
   {
     "fileName": "Lear-Cessna Platinum",
     "relativePath": "Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Cat",
@@ -9130,6 +9482,9 @@
   {
     "fileName": "C-260",
     "relativePath": "Litehouse Industries/Cheyenne Mountain/C-260.md",
+    "tags": [
+      "denver"
+    ],
     "links": [
       {
         "link": "Cat",
@@ -9152,6 +9507,9 @@
   {
     "fileName": "1UP! Colfax",
     "relativePath": "Litehouse Industries/1UP!/1UP! Colfax.md",
+    "tags": [
+      "denver"
+    ],
     "backlinks": [
       {
         "fileName": "Salena Boisvert",
@@ -9168,6 +9526,9 @@
   {
     "fileName": "1UP! Lo-Bo",
     "relativePath": "Litehouse Industries/1UP!/1UP! Lo-Bo.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Layout",
@@ -10113,6 +10474,13 @@
         "heading": "Faction Details",
         "level": 3
       }
+    ],
+    "links": [
+      {
+        "link": "Athens",
+        "displayText": "",
+        "relativePath": "Players/Athens.md"
+      }
     ]
   },
   {
@@ -10144,6 +10512,11 @@
         "link": "The Parthenon",
         "displayText": "",
         "relativePath": "GM Info/Greece/Locations/The Parthenon.md"
+      },
+      {
+        "link": "Athens",
+        "displayText": "",
+        "relativePath": "Players/Athens.md"
       }
     ]
   },
@@ -10170,6 +10543,13 @@
         "heading": "Faction Details",
         "level": 3
       }
+    ],
+    "links": [
+      {
+        "link": "Athens",
+        "displayText": "",
+        "relativePath": "Players/Athens.md"
+      }
     ]
   },
   {
@@ -10194,6 +10574,13 @@
       {
         "heading": "Faction Details",
         "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Athens",
+        "displayText": "",
+        "relativePath": "Players/Athens.md"
       }
     ]
   },
@@ -10226,6 +10613,11 @@
         "link": "Mount Olympus",
         "displayText": "",
         "relativePath": "GM Info/Greece/Locations/Mount Olympus.md"
+      },
+      {
+        "link": "Athens",
+        "displayText": "",
+        "relativePath": "Players/Athens.md"
       }
     ]
   },
@@ -10315,13 +10707,6 @@
       {
         "heading": "Location Details",
         "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Athens",
-        "displayText": "",
-        "relativePath": "GM Info/Greece/Locations/Athens.md"
       }
     ]
   },
@@ -10462,11 +10847,6 @@
         "fileName": "The Catacombs of Athens",
         "link": "Athens",
         "relativePath": "GM Info/Greece/Locations/The Catacombs of Athens.md"
-      },
-      {
-        "fileName": "The Temple of Delphi",
-        "link": "Athens",
-        "relativePath": "GM Info/Greece/Locations/The Temple of Delphi.md"
       },
       {
         "fileName": "Mount Olympus",
@@ -11368,6 +11748,9 @@
   {
     "fileName": "21-12-4",
     "relativePath": "Denver Game notes/21-12-4.md",
+    "tags": [
+      "denver"
+    ],
     "headings": [
       {
         "heading": "Wedding",
@@ -12322,6 +12705,9 @@
   {
     "fileName": "Ardat-Lili Cyberware",
     "relativePath": "A Corps/Ardat-Lili Cyberware.md",
+    "tags": [
+      "a_corporation"
+    ],
     "backlinks": [
       {
         "fileName": "22-9-11",

@@ -4,3 +4,5 @@ Talismonger
 	- Psionic
 	- Connection: 3
 	- Loyalty: 1
+
+

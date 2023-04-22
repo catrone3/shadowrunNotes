@@ -1,3 +1,4 @@
+#Denver 
 ![[../../../Images/shadowrun characters/ivy.jpg]]
 
 [[Kalt]]'s voice/Assistant

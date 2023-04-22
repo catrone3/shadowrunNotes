@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "GM Info/Greece/Locations/Athens.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a151a063c5eff97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Athens.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10c15113c1279866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Info/Greece/Factions/The Olympic Circle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Players/Athens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,41 +169,42 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0856b67dccab50d5",
+  "active": "17c028d156c8c8c7",
   "lastOpenFiles": [
-    "How to use Exploding Dice bot.md",
+    "GM Info/GM Pages.md",
+    "GM Info/Greece/Locations/The Temple of Delphi.md",
+    "Players/New Orleans/Old Man Bones.md",
+    "GM Info/Greece/Factions/The Olympic Circle.md",
+    "GM Info/Greece/Factions/The Hades Syndicate.md",
+    "GM Info/Greece/Factions/The Cult of Dionysus.md",
+    "GM Info/Greece/Factions/The Athena's Owl.md",
+    "GM Info/Greece/Factions/The Athenian Triads.md",
+    "New Orleans Game Notes/23-3-25.md",
+    "Denver Game notes/22-6-4.md",
+    "Denver Game notes/21-6-19.md",
+    "Denver Game notes/21-7-3.md",
+    "Denver Game notes/21-7-17.md",
+    "Denver Game notes/21-7-31.md",
+    "Denver Game notes/21-8-14.md",
+    "Denver Game notes/21-8-28.md",
+    "Denver Game notes/21-10-23.md",
+    "Denver Game notes/21-11-6.md",
+    "Denver Game notes/21-11-20.md",
+    "Denver Game notes/21-12-4.md",
+    "Denver Game notes/21-12-18.md",
+    "Players/Denver Prime.md",
+    "A Corps/Ardat-Lili Cyberware.md",
+    "AAA Corps/Wuxing.md",
+    "AAA Corps/Shiawase.md",
+    "AAA Corps/Sader Krupp.md",
+    "Litehouse Industries/Litehouse Industries.canvas",
     "Images/Pasted image 20230421140050.png",
     "Images/Pasted image 20230421135922.png",
     "Images/Pasted image 20230421135939.png",
     "Images/Pasted image 20230421135730.png",
-    "GM Info/Greece/Locations/Athens.md",
-    "GM Info/Greece/Athens.md",
-    "How to Use Foundry.md",
-    "Working with Github.md",
-    "GM Info/Greece/Factions/The Hades Syndicate.md",
-    "GM Info/Greece/Factions/The Athena's Owl.md",
-    "GM Info/Greece/Factions/The Cult of Dionysus.md",
-    "GM Info/Greece/Factions/The Athenian Triads.md",
-    "GM Info/Greece/Factions/The Olympic Circle.md",
     "GM Info/Greece/Factions",
-    "AAA Corps/Sader Krupp.md",
-    "GM Info/GM Pages.md",
-    "GM Info/Greece/Locations/The Acropolis.md",
-    "GM Info/Greece/Locations/The Temple of Delphi.md",
-    "GM Info/Greece/Locations/Mount Olympus.md",
-    "GM Info/Greece/Locations/The Parthenon.md",
-    "GM Info/Greece/Locations/The Catacombs of Athens.md",
-    "AAA Corps/Wuxing.md",
-    "AAA Corps/Shiawase.md",
-    "AAA Corps/Renraku.md",
-    "AAA Corps/MCT.md",
-    "AAA Corps/Horizon.md",
-    "Sunday Game notes/21-12-5.md",
-    "AAA Corps/Evo.md",
-    "AAA Corps/Aztechnology.md",
     "Canvas.canvas",
     "Untitled.canvas",
-    "Litehouse Industries/Litehouse Industries.canvas",
     "House Rules/Magic",
     "House Rules",
     "allExceptMd.json",
