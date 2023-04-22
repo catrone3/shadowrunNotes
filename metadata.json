@@ -10708,6 +10708,13 @@
         "heading": "Location Details",
         "level": 3
       }
+    ],
+    "links": [
+      {
+        "link": "Athens",
+        "displayText": "",
+        "relativePath": "GM Info/Greece/Locations/Athens.md"
+      }
     ]
   },
   {
@@ -10847,6 +10854,11 @@
         "fileName": "The Catacombs of Athens",
         "link": "Athens",
         "relativePath": "GM Info/Greece/Locations/The Catacombs of Athens.md"
+      },
+      {
+        "fileName": "The Temple of Delphi",
+        "link": "Athens",
+        "relativePath": "GM Info/Greece/Locations/The Temple of Delphi.md"
       },
       {
         "fileName": "Mount Olympus",
