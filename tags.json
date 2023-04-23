@@ -1,0 +1,229 @@
+[
+  {
+    "tag": "caribbean_league",
+    "tagCount": 2,
+    "relativePaths": [
+      "Players/Port Au Prince/Pirate Group.md",
+      "Locations/Saint George Parish.md"
+    ]
+  },
+  {
+    "tag": "neworleans",
+    "tagCount": 27,
+    "relativePaths": [
+      "Players/New Orleans/Old Man Bones.md",
+      "Players/New Orleans/Nines.md",
+      "Players/New Orleans/Jester.md",
+      "Players/New Orleans/Grimm.md",
+      "Players/New Orleans/Big Byte.md",
+      "NPCs/Friendly/New Orleans/Zoe.md",
+      "NPCs/Friendly/New Orleans/Rose Lacelle.md",
+      "NPCs/Friendly/New Orleans/Old Absenth House.md",
+      "NPCs/Friendly/New Orleans/Molly's.md",
+      "NPCs/Friendly/New Orleans/Melissade DeBussy.md",
+      "NPCs/Friendly/New Orleans/Mario Castro.md",
+      "NPCs/Friendly/New Orleans/Mama Mawu.md",
+      "NPCs/Friendly/New Orleans/June Bug Reavers.md",
+      "NPCs/Friendly/New Orleans/John Pau Morrell.md",
+      "NPCs/Friendly/New Orleans/Jessy Roy.md",
+      "NPCs/Friendly/New Orleans/Jardis Balise.md",
+      "NPCs/Friendly/New Orleans/Galaxy Jack.md",
+      "NPCs/Friendly/New Orleans/Eddie Boussard.md",
+      "NPCs/Friendly/New Orleans/Dr Lisette.md",
+      "NPCs/Friendly/New Orleans/Dr Lester.md",
+      "NPCs/Friendly/New Orleans/Danny Macaluso.md",
+      "NPCs/Friendly/New Orleans/Cyrille Boutin.md",
+      "NPCs/Friendly/New Orleans/ClicClac and Big Lou.md",
+      "NPCs/Friendly/New Orleans/Blaze.md",
+      "NPCs/Friendly/New Orleans/Adonis.md",
+      "New Orleans Game Notes/23-3-25.md",
+      "Locations/New Orleans.md"
+    ]
+  },
+  {
+    "tag": "denver",
+    "tagCount": 65,
+    "relativePaths": [
+      "Players/Denver Prime.md",
+      "Players/Denver Prime/Swiss.md",
+      "Players/Denver Prime/Spyder.md",
+      "Players/Denver Prime/Spectre.md",
+      "Players/Denver Prime/Sentinel.md",
+      "Players/Denver Prime/Incubus.md",
+      "Players/Denver Prime/Cat.md",
+      "NPCs/Neutral/Morocco/David Johnson.md",
+      "NPCs/Neutral/Denver/Rada (Dead).md",
+      "NPCs/Neutral/Denver/Puck.md",
+      "NPCs/Neutral/Denver/Old man.md",
+      "NPCs/Neutral/Denver/Perri.md",
+      "NPCs/Neutral/Denver/Green.md",
+      "NPCs/Neutral/Denver/Drag.md",
+      "NPCs/Neutral/Denver/DataMax.md",
+      "NPCs/Neutral/Denver/Colonel Bennet.md",
+      "NPCs/Neutral/Denver/Clyde.md",
+      "NPCs/Friendly/Denver/Valerian Quinn.md",
+      "NPCs/Friendly/Denver/Ulli.md",
+      "NPCs/Friendly/Denver/Valentina Kwan.md",
+      "NPCs/Friendly/Denver/Telenov.md",
+      "NPCs/Friendly/Denver/Troy.md",
+      "NPCs/Friendly/Denver/Steve.md",
+      "NPCs/Friendly/Denver/Slip.md",
+      "NPCs/Friendly/Denver/Selena.md",
+      "NPCs/Friendly/Denver/Sage Quinn.md",
+      "NPCs/Friendly/Denver/Salena Boisvert.md",
+      "NPCs/Friendly/Denver/Rue Quinn.md",
+      "NPCs/Friendly/Denver/Nicholas Whitebird.md",
+      "NPCs/Friendly/Denver/Mi Kwan.md",
+      "NPCs/Friendly/Denver/Meia.md",
+      "NPCs/Friendly/Denver/Merlin.md",
+      "NPCs/Friendly/Denver/Leah.md",
+      "NPCs/Friendly/Denver/Jess.md",
+      "NPCs/Friendly/Denver/Kalt.md",
+      "NPCs/Friendly/Denver/Ivy.md",
+      "NPCs/Friendly/Denver/Ghostwalker.md",
+      "NPCs/Friendly/Denver/Hippocrates.md",
+      "NPCs/Friendly/Denver/Driver.md",
+      "NPCs/Friendly/Denver/Blitz.md",
+      "NPCs/Friendly/Denver/Coco.md",
+      "NPCs/Friendly/Denver/Angelica Quinn.md",
+      "Locations/FRFZ/Denver Nexus.md",
+      "Litehouse Industries/Litehouse Brand.md",
+      "Litehouse Industries/Incubus Club.md",
+      "Litehouse Industries/Litehouse Brand/Litehouse Production.md",
+      "Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md",
+      "Litehouse Industries/Litehouse Brand/Litehouse Construction.md",
+      "Litehouse Industries/Litehouse Brand/Litehouse Aerospace.md",
+      "Litehouse Industries/Incubus Club/Incubus Club Teams.md",
+      "Litehouse Industries/Genesis Medical.md",
+      "Litehouse Industries/Genesis Medical/Genesis Summit Medical Clinic.md",
+      "Litehouse Industries/Genesis Medical/Genesis Medical Hospital.md",
+      "Litehouse Industries/Genesis Medical/Genesis Medical Clinic Aurora.md",
+      "Litehouse Industries/Genesis Medical/Genesis Avista Hospital.md",
+      "Litehouse Industries/Denver School for Advanced Learning.md",
+      "Litehouse Industries/Cheyenne Mountain/Toyota Gopher.md",
+      "Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'.md",
+      "Litehouse Industries/Cheyenne Mountain/SKA-008.md",
+      "Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md",
+      "Litehouse Industries/Cheyenne Mountain/C-260.md",
+      "Litehouse Industries/1UP!.md",
+      "Litehouse Industries/1UP!/1UP! Lo-Bo.md",
+      "Litehouse Industries/1UP!/1UP! Colfax.md",
+      "Denver Game notes/21-12-4.md"
+    ]
+  },
+  {
+    "tag": "sunday_game",
+    "tagCount": 30,
+    "relativePaths": [
+      "Sunday Game notes/23-3-26.md",
+      "Sunday Game notes/23-3-12.md",
+      "Sunday Game notes/23-2-26.md",
+      "Sunday Game notes/23-2-12.md",
+      "Sunday Game notes/23-1-15.md",
+      "Sunday Game notes/23-1-29.md",
+      "Sunday Game notes/23-01-01.md",
+      "Sunday Game notes/22-9-25.md",
+      "Sunday Game notes/22-9-11.md",
+      "Sunday Game notes/22-8-14.md",
+      "Sunday Game notes/22-7-3.md",
+      "Sunday Game notes/22-7-17.md",
+      "Sunday Game notes/22-6-19.md",
+      "Sunday Game notes/22-5-8.md",
+      "Sunday Game notes/22-5-22.md",
+      "Sunday Game notes/22-3-27.md",
+      "Sunday Game notes/22-4-24.md",
+      "Sunday Game notes/22-4-10.md",
+      "Sunday Game notes/22-3-13.md",
+      "Sunday Game notes/22-11-20.md",
+      "Sunday Game notes/22-2-27.md",
+      "Sunday Game notes/22-11-06.md",
+      "Sunday Game notes/22-10-9.md",
+      "Sunday Game notes/22-10-23.md",
+      "Sunday Game notes/22-1-30.md",
+      "Sunday Game notes/22-1-2.md",
+      "Sunday Game notes/22-1-16.md",
+      "Sunday Game notes/21-12-5.md",
+      "Sunday Game notes/21-12-19.md",
+      "Locations/Athens.md"
+    ]
+  },
+  {
+    "tag": "fixer",
+    "tagCount": 1,
+    "relativePaths": [
+      "NPCs/Neutral/Morocco/David Johnson.md"
+    ]
+  },
+  {
+    "tag": "locations",
+    "tagCount": 1,
+    "relativePaths": [
+      "Locations/FRFZ/Cheyenne Mountain.md"
+    ]
+  },
+  {
+    "tag": "seattle",
+    "tagCount": 3,
+    "relativePaths": [
+      "Litehouse Industries/The Apollo Group.md",
+      "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md",
+      "Litehouse Industries/Genesis Medical/Sperm Banks.md"
+    ]
+  },
+  {
+    "tag": "aa_corporation",
+    "tagCount": 7,
+    "relativePaths": [
+      "Litehouse Industries/Rainbow Corp.md",
+      "Litehouse Industries/Litehouse Brand.md",
+      "AA Corps/Yoyo Dine.md",
+      "AA Corps/Spinrad Global.md",
+      "AA Corps/Litehouse Industries.md",
+      "AA Corps/Draco Foundation.md",
+      "AA Corps/Blue Steel Industries.md"
+    ]
+  },
+  {
+    "tag": "atlanta",
+    "tagCount": 1,
+    "relativePaths": [
+      "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+    ]
+  },
+  {
+    "tag": "foundry",
+    "tagCount": 1,
+    "relativePaths": [
+      "How to Use Foundry.md"
+    ]
+  },
+  {
+    "tag": "explodingdice",
+    "tagCount": 1,
+    "relativePaths": [
+      "How to use Exploding Dice bot.md"
+    ]
+  },
+  {
+    "tag": "aaa_corporation",
+    "tagCount": 9,
+    "relativePaths": [
+      "AAA Corps/Wuxing.md",
+      "AAA Corps/Shiawase.md",
+      "AAA Corps/Saeder Krupp.md",
+      "AAA Corps/Renraku.md",
+      "AAA Corps/MCT.md",
+      "AAA Corps/Horizon.md",
+      "AAA Corps/Aztechnology.md",
+      "AAA Corps/Evo.md",
+      "AAA Corps/Ares.md"
+    ]
+  },
+  {
+    "tag": "a_corporation",
+    "tagCount": 1,
+    "relativePaths": [
+      "A Corps/Ardat-Lili Cyberware.md"
+    ]
+  }
+]

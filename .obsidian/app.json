@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "Images"
+}

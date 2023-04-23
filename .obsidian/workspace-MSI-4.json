@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "3cea7d7c3230f7c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "50c5b8aaa02952aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f75a1e2247daaa01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Friendly/New Orleans/Mama Mawu.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43f418c74b0f5ef9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "House Rules and Clarifications/Magic/Magic.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17b5ca273e332aa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Friendly/New Orleans/Mama Mawu.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f85459e464e91053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Friendly/New Orleans/Molly's.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e65e3762a1834471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Friendly/New Orleans/John Pau Morrell.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a142d5665189053",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4257aa4bfc416ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a143fa0784ea9505",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83fe7f36a7d51964",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f272726064d725ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1d3c5b13813192b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1997ddfff4547b33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPCs/Friendly/New Orleans/Mama Mawu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "17c028d156c8c8c7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "rpg-manager:RPG Manager": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "f75a1e2247daaa01",
+  "lastOpenFiles": [
+    "New Orleans Game Notes/23-4-8.md",
+    "New Orleans Game Notes/23-3-25.md",
+    "NPCs/Friendly/New Orleans/Mama Mawu.md",
+    "NPCs/Friendly/New Orleans/Zoe.md",
+    "NPCs/Friendly/New Orleans/Melissade DeBussy.md",
+    "NPCs/Friendly/New Orleans/Mario Castro.md",
+    "NPCs/Friendly/New Orleans/June BUg Reavers.md",
+    "Pasted image 20230408140717.png",
+    "NPCs/Friendly/New Orleans/Adonis.md",
+    "NPCs/Friendly/New Orleans/ClicClac and Big Lou.md",
+    "NPCs/Friendly/New Orleans/Dr Lisette.md",
+    "NPCs/Friendly/New Orleans/Dr Lester.md",
+    "NPCs/Friendly/New Orleans/Galaxy Jack.md",
+    "House Rules and Clarifications/Magic/Magic.md",
+    "House Rules and Clarifications/Magic/Reagents.md",
+    "House Rules and Clarifications/Magic/Quickend Spells.md",
+    "Pasted image 20230325161639.png",
+    "NPCs/Friendly/New Orleans/John Pau Morrell.md",
+    "NPCs/Friendly/New Orleans/Jessy Roy.md",
+    "NPCs/Friendly/New Orleans/Jardis Balise.md",
+    "NPCs/Friendly/New Orleans/Eddie Boussard.md",
+    "NPCs/Friendly/New Orleans/Danny Macaluso.md",
+    "NPCs/Friendly/New Orleans/Cyrille Boutin.md",
+    "NPCs/Friendly/New Orleans/Old Absenth House.md",
+    "Pasted image 20230325150422.png",
+    "NPCs/Friendly/New Orleans/Molly's.md",
+    "Pasted image 20230325150404.png",
+    "Pasted image 20230325145550.png",
+    "Homepage.md",
+    "New Orleans Game Notes",
+    "Images/shadowrun characters/Aléxios Callas.png",
+    "GM Info/games/23-3-12.md",
+    "NPCs/Friendly/Athens/Aléxios Callas.md",
+    "Images/shadowrun characters/Dimitra Michel.png",
+    "Images/shadowrun characters/Thalís Savas.png",
+    "Images/shadowrun characters/Sofoúla Manis.png",
+    "Images/shadowrun characters/Dorís Andreas.png",
+    "NPCs/Friendly/Athens",
+    "NPCs/Friendly/New Orleans",
+    "NPCs/Friendly/Denver/Untitled",
+    "Players/New Orleans"
+  ]
+}

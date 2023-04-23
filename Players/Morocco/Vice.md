@@ -1,0 +1,1 @@
+force 5 spells
