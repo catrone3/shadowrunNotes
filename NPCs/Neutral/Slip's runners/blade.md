@@ -1,1 +1,0 @@
-![[../../../Images/shadowrun characters/blade.jpg]]

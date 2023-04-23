@@ -1,1 +1,0 @@
-Training new comers, 
