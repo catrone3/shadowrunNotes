@@ -13,26 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Greece/Locations/Islands.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f37fa8dea325880b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3d425b8184104365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Info/Greece/Locations/Athens.md",
+                "file": "GM Info/Greece/Locations/South Athens.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f272726064d725ac",
@@ -97,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Info/Greece/Locations/Athens.md",
+                "file": "GM Info/Greece/Locations/South Athens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,11 +126,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,27 +143,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "824da5c4b45c75bf",
   "lastOpenFiles": [
-    "GM Info/Greece/Locations/Islands.md",
-    "GM Info/Greece/Locations/North Athens.md",
-    "GM Info/Greece/Locations/Piraeus.md",
-    "GM Info/Greece/Locations/South Athens.md",
-    "GM Info/Greece/Locations/West Attica.md",
-    "GM Info/Greece/Locations/West Athens.md",
-    "GM Info/Greece/Locations/East Attica.md",
-    "GM Info/Greece/Locations/Athens.md",
-    "GM Info/Greece/NonPlayerCharacters/Maria Andriopoulos.md",
-    "GM Info/Greece/NonPlayerCharacters/Nikos Vasilopoulos.md",
-    "GM Info/Greece/Factions/The Black Hand.md",
-    "GM Info/Greece/Factions/The Hades Syndicate.md",
-    "GM Info/Greece/NonPlayerCharacters/Andreas Kyriakopoulos.md",
     "GM Info/Greece/Locations/Central Athens.md",
-    "GM Info/Greece/NonPlayerCharacters/Sophia Georgiadou.md",
-    "GM Info/Greece/NonPlayerCharacters",
+    "GM Info/Greece/Locations/South Athens.md",
+    "GM Info/Greece/Locations/West Athens.md",
+    "GM Info/Greece/Locations/North Athens.md",
+    "GM Info/Greece/Locations/Islands.md",
+    "GM Info/Greece/Locations/Piraeus.md",
+    "GM Info/Greece/Locations/East Attica.md",
+    "GM Info/Greece/Locations/West Attica.md",
     "GM Info/Greece/Factions/The Athenian Mafia.md",
+    "GM Info/Greece/Locations/Athens.md",
+    "GM Info/Greece/Factions/The Black Hand.md",
     "GM Info/Greece/Factions/The Red Vipers.md",
     "GM Info/Greece/Factions/The Olympic Circle.md",
+    "GM Info/Greece/Factions/The Hades Syndicate.md",
     "GM Info/Greece/Factions/The Athena's Owl.md",
     "GM Info/Greece/Factions/The Athenian Triads.md",
     "GM Info/Greece/Factions/The Cult of Dionysus.md",
@@ -190,6 +167,10 @@
     "AAA Corps/Saeder Krupp.md",
     "AAA Corps/Renraku.md",
     "AAA Corps/MCT.md",
+    "AAA Corps/Horizon.md",
+    "AAA Corps/Aztechnology.md",
+    "AAA Corps/Saeder-Krupp/SK-Athens.md",
+    "AAA Corps/Renraku/Renraku-Athens.md",
     "AAA Corps/Renraku",
     "AAA Corps/MCT",
     "AAA Corps/Saeder-Krupp",
@@ -207,6 +188,7 @@
     "House Rules/Magic",
     "House Rules",
     "allExceptMd.json",
+    "GM Info/Greece/Locations",
     "Images/shadowrun characters/Pasted image 20230325161639.png",
     "Images/shadowrun characters/Pasted image 20230325150422.png",
     "Images/shadowrun characters/Pasted image 20230325150404.png",

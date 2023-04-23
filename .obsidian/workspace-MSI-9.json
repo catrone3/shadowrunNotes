@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Greece/Locations/Islands.md",
+                "file": "GM Info/Greece/Locations/West Attica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Greece/Locations/Athens.md",
+                "file": "GM Info/Greece/Locations/West Athens.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Info/Greece/Locations/Athens.md",
+                "file": "GM Info/Greece/Locations/West Athens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,11 +144,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,24 +161,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "3d425b8184104365",
   "lastOpenFiles": [
-    "GM Info/Greece/Locations/Islands.md",
-    "GM Info/Greece/Locations/North Athens.md",
-    "GM Info/Greece/Locations/Piraeus.md",
-    "GM Info/Greece/Locations/South Athens.md",
     "GM Info/Greece/Locations/West Attica.md",
-    "GM Info/Greece/Locations/West Athens.md",
-    "GM Info/Greece/Locations/East Attica.md",
     "GM Info/Greece/Locations/Athens.md",
     "GM Info/Greece/NonPlayerCharacters/Maria Andriopoulos.md",
+    "GM Info/Greece/Locations/Piraeus.md",
     "GM Info/Greece/NonPlayerCharacters/Nikos Vasilopoulos.md",
     "GM Info/Greece/Factions/The Black Hand.md",
     "GM Info/Greece/Factions/The Hades Syndicate.md",
     "GM Info/Greece/NonPlayerCharacters/Andreas Kyriakopoulos.md",
     "GM Info/Greece/Locations/Central Athens.md",
     "GM Info/Greece/NonPlayerCharacters/Sophia Georgiadou.md",
+    "GM Info/Greece/Locations/East Attica.md",
     "GM Info/Greece/NonPlayerCharacters",
+    "GM Info/Greece/Locations/South Athens.md",
+    "GM Info/Greece/Locations/West Athens.md",
+    "GM Info/Greece/Locations/North Athens.md",
+    "GM Info/Greece/Locations/Islands.md",
     "GM Info/Greece/Factions/The Athenian Mafia.md",
     "GM Info/Greece/Factions/The Red Vipers.md",
     "GM Info/Greece/Factions/The Olympic Circle.md",

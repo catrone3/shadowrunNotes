@@ -1,5 +1,5 @@
 ### Corporate Ties
-[[../../AAA Corps/Sader Krupp|Sader Krupp]]
+[[../../AAA Corps/Saeder Krupp|Sader Krupp]]
 
 ### Status
 Adept

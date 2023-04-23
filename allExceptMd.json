@@ -355,6 +355,26 @@
     {
       "name": "Factions",
       "relativePath": "GM Info/Greece/Factions"
+    },
+    {
+      "name": "Aztechnology",
+      "relativePath": "AAA Corps/Aztechnology"
+    },
+    {
+      "name": "MCT",
+      "relativePath": "AAA Corps/MCT"
+    },
+    {
+      "name": "Renraku",
+      "relativePath": "AAA Corps/Renraku"
+    },
+    {
+      "name": "Saeder-Krupp",
+      "relativePath": "AAA Corps/Saeder-Krupp"
+    },
+    {
+      "name": "NonPlayerCharacters",
+      "relativePath": "GM Info/Greece/NonPlayerCharacters"
     }
   ],
   "nonMdFiles": [
@@ -1127,6 +1147,11 @@
       "name": "Pasted image 20230421140050.png",
       "basename": "Pasted image 20230421140050",
       "relativePath": "Images/Pasted image 20230421140050.png"
+    },
+    {
+      "name": "Pasted image 20230408140717.png",
+      "basename": "Pasted image 20230408140717",
+      "relativePath": "Pasted image 20230408140717.png"
     }
   ]
 }

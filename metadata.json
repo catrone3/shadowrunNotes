@@ -1882,8 +1882,9 @@
     ],
     "links": [
       {
-        "link": "Sader Krupp",
-        "relativePath": "AAA Corps/Sader Krupp.md"
+        "link": "Saeder Krupp",
+        "displayText": "Sader Krupp",
+        "relativePath": "AAA Corps/Saeder Krupp.md"
       },
       {
         "link": "Dell' Inferno",
@@ -2070,8 +2071,9 @@
     ],
     "links": [
       {
-        "link": "Sader Krupp",
-        "relativePath": "AAA Corps/Sader Krupp.md"
+        "link": "Saeder Krupp",
+        "displayText": "Sader Krupp",
+        "relativePath": "AAA Corps/Saeder Krupp.md"
       },
       {
         "link": "Blue Feather",
@@ -3706,9 +3708,24 @@
         "relativePath": "Homepage.md"
       },
       {
-        "fileName": "The Hades Syndicate",
+        "fileName": "Andreas Kyriakopoulos",
         "link": "Athens",
-        "relativePath": "GM Info/Greece/Factions/The Hades Syndicate.md"
+        "relativePath": "GM Info/Greece/NonPlayerCharacters/Andreas Kyriakopoulos.md"
+      },
+      {
+        "fileName": "The Athenian Mafia",
+        "link": "Athens",
+        "relativePath": "GM Info/Greece/Factions/The Athenian Mafia.md"
+      },
+      {
+        "fileName": "The Golden Dawn",
+        "link": "Athens",
+        "relativePath": "GM Info/Greece/Factions/The Golden Dawn.md"
+      },
+      {
+        "fileName": "The Red Vipers",
+        "link": "Athens",
+        "relativePath": "GM Info/Greece/Factions/The Red Vipers.md"
       },
       {
         "fileName": "The Athena's Owl",
@@ -3751,8 +3768,9 @@
     ],
     "links": [
       {
-        "link": "Sader Krupp",
-        "relativePath": "AAA Corps/Sader Krupp.md"
+        "link": "Saeder Krupp",
+        "displayText": "Sader Krupp",
+        "relativePath": "AAA Corps/Saeder Krupp.md"
       },
       {
         "link": "Dell' Inferno",
@@ -4007,8 +4025,9 @@
     ],
     "links": [
       {
-        "link": "Sader Krupp",
-        "relativePath": "AAA Corps/Sader Krupp.md"
+        "link": "Saeder Krupp",
+        "displayText": "Sader Krupp",
+        "relativePath": "AAA Corps/Saeder Krupp.md"
       },
       {
         "link": "Blue Feather",
@@ -4777,9 +4796,9 @@
         "relativePath": "Players/London.md"
       },
       {
-        "fileName": "Horizon",
+        "fileName": "Horizon-London",
         "link": "Livia Davis",
-        "relativePath": "AAA Corps/Horizon.md",
+        "relativePath": "AAA Corps/Horizon/Horizon-London.md",
         "displayText": "LIvia Davis"
       }
     ]
@@ -7841,6 +7860,10 @@
     ]
   },
   {
+    "fileName": "23-4-8",
+    "relativePath": "New Orleans Game Notes/23-4-8.md"
+  },
+  {
     "fileName": "23-3-25",
     "relativePath": "New Orleans Game Notes/23-3-25.md",
     "tags": [
@@ -10452,8 +10475,167 @@
     "relativePath": "GM Info/games/23-4-23.md"
   },
   {
-    "fileName": "The Hades Syndicate",
-    "relativePath": "GM Info/Greece/Factions/The Hades Syndicate.md",
+    "fileName": "Maria Andriopoulos",
+    "relativePath": "GM Info/Greece/NonPlayerCharacters/Maria Andriopoulos.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Non Player Character Notes",
+        "level": 3
+      },
+      {
+        "heading": "Non Player Character Story",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "West Attica",
+        "displayText": "",
+        "relativePath": "GM Info/Greece/Locations/West Attica.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Nikos Vasilopoulos",
+    "relativePath": "GM Info/Greece/NonPlayerCharacters/Nikos Vasilopoulos.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Non Player Character Notes",
+        "level": 3
+      },
+      {
+        "heading": "Non Player Character Story",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Piraeus",
+        "displayText": "",
+        "relativePath": "GM Info/Greece/Locations/Piraeus.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sophia Georgiadou",
+    "relativePath": "GM Info/Greece/NonPlayerCharacters/Sophia Georgiadou.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Non Player Character Notes",
+        "level": 3
+      },
+      {
+        "heading": "Non Player Character Story",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "East Attica",
+        "displayText": "",
+        "relativePath": "GM Info/Greece/Locations/East Attica.md"
+      },
+      {
+        "link": "The Black Hand",
+        "displayText": "",
+        "relativePath": "GM Info/Greece/Factions/The Black Hand.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Andreas Kyriakopoulos",
+    "relativePath": "GM Info/Greece/NonPlayerCharacters/Andreas Kyriakopoulos.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Non Player Character Notes",
+        "level": 3
+      },
+      {
+        "heading": "Non Player Character Story",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Central Athens",
+        "displayText": "",
+        "relativePath": "GM Info/Greece/Locations/Central Athens.md"
+      },
+      {
+        "link": "Athens",
+        "displayText": "",
+        "relativePath": "Players/Athens.md"
+      },
+      {
+        "link": "The Hades Syndicate",
+        "displayText": "",
+        "relativePath": "GM Info/Greece/Factions/The Hades Syndicate.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Athenian Mafia",
+    "relativePath": "GM Info/Greece/Factions/The Athenian Mafia.md",
     "frontmatter": {
       "alias": [],
       "position": {
@@ -10480,6 +10662,148 @@
         "link": "Athens",
         "displayText": "",
         "relativePath": "Players/Athens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Black Hand",
+    "relativePath": "GM Info/Greece/Factions/The Black Hand.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Faction Details",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "East Attica",
+        "displayText": "",
+        "relativePath": "GM Info/Greece/Locations/East Attica.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sophia Georgiadou",
+        "link": "The Black Hand",
+        "relativePath": "GM Info/Greece/NonPlayerCharacters/Sophia Georgiadou.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Golden Dawn",
+    "relativePath": "GM Info/Greece/Factions/The Golden Dawn.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Faction Details",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Athens",
+        "displayText": "",
+        "relativePath": "Players/Athens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Red Vipers",
+    "relativePath": "GM Info/Greece/Factions/The Red Vipers.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Faction Details",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Athens",
+        "displayText": "",
+        "relativePath": "Players/Athens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Hades Syndicate",
+    "relativePath": "GM Info/Greece/Factions/The Hades Syndicate.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Faction Details",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Central Athens",
+        "displayText": "",
+        "relativePath": "GM Info/Greece/Locations/Central Athens.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Andreas Kyriakopoulos",
+        "link": "The Hades Syndicate",
+        "relativePath": "GM Info/Greece/NonPlayerCharacters/Andreas Kyriakopoulos.md"
       }
     ]
   },
@@ -10618,6 +10942,244 @@
         "link": "Athens",
         "displayText": "",
         "relativePath": "Players/Athens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "South Athens",
+    "relativePath": "GM Info/Greece/Locations/South Athens.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Location Details",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Central Athens",
+    "relativePath": "GM Info/Greece/Locations/Central Athens.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Location Details",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Andreas Kyriakopoulos",
+        "link": "Central Athens",
+        "relativePath": "GM Info/Greece/NonPlayerCharacters/Andreas Kyriakopoulos.md"
+      },
+      {
+        "fileName": "The Hades Syndicate",
+        "link": "Central Athens",
+        "relativePath": "GM Info/Greece/Factions/The Hades Syndicate.md"
+      }
+    ]
+  },
+  {
+    "fileName": "West Athens",
+    "relativePath": "GM Info/Greece/Locations/West Athens.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Location Details",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "West Attica",
+    "relativePath": "GM Info/Greece/Locations/West Attica.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Location Details",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Maria Andriopoulos",
+        "link": "West Attica",
+        "relativePath": "GM Info/Greece/NonPlayerCharacters/Maria Andriopoulos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Piraeus",
+    "relativePath": "GM Info/Greece/Locations/Piraeus.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Location Details",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Nikos Vasilopoulos",
+        "link": "Piraeus",
+        "relativePath": "GM Info/Greece/NonPlayerCharacters/Nikos Vasilopoulos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "East Attica",
+    "relativePath": "GM Info/Greece/Locations/East Attica.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Location Details",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sophia Georgiadou",
+        "link": "East Attica",
+        "relativePath": "GM Info/Greece/NonPlayerCharacters/Sophia Georgiadou.md"
+      },
+      {
+        "fileName": "The Black Hand",
+        "link": "East Attica",
+        "relativePath": "GM Info/Greece/Factions/The Black Hand.md"
+      }
+    ]
+  },
+  {
+    "fileName": "North Athens",
+    "relativePath": "GM Info/Greece/Locations/North Athens.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Location Details",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Islands",
+    "relativePath": "GM Info/Greece/Locations/Islands.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Location Details",
+        "level": 3
       }
     ]
   },
@@ -10825,6 +11387,10 @@
       {
         "heading": "Mundane",
         "level": 4
+      },
+      {
+        "heading": "Oligarch",
+        "level": 3
       },
       {
         "heading": "ChatGPT Made",
@@ -12110,31 +12676,90 @@
     ]
   },
   {
-    "fileName": "Sader Krupp",
-    "relativePath": "AAA Corps/Sader Krupp.md",
+    "fileName": "SK-Athens",
+    "relativePath": "AAA Corps/Saeder-Krupp/SK-Athens.md",
+    "backlinks": [
+      {
+        "fileName": "Saeder Krupp",
+        "link": "SK-Athens",
+        "relativePath": "AAA Corps/Saeder Krupp.md",
+        "displayText": "Athens"
+      }
+    ]
+  },
+  {
+    "fileName": "Renraku-Athens",
+    "relativePath": "AAA Corps/Renraku/Renraku-Athens.md",
+    "backlinks": [
+      {
+        "fileName": "Renraku",
+        "link": "Renraku-Athens",
+        "relativePath": "AAA Corps/Renraku.md",
+        "displayText": "Athens"
+      }
+    ]
+  },
+  {
+    "fileName": "MCT-Athens",
+    "relativePath": "AAA Corps/MCT/MCT-Athens.md",
+    "backlinks": [
+      {
+        "fileName": "MCT",
+        "link": "MCT-Athens",
+        "relativePath": "AAA Corps/MCT.md",
+        "displayText": "Athens"
+      }
+    ]
+  },
+  {
+    "fileName": "AZT-Athens",
+    "relativePath": "AAA Corps/Aztechnology/AZT-Athens.md",
+    "backlinks": [
+      {
+        "fileName": "Aztechnology",
+        "link": "AZT-Athens",
+        "relativePath": "AAA Corps/Aztechnology.md",
+        "displayText": "Athens"
+      }
+    ]
+  },
+  {
+    "fileName": "Saeder Krupp",
+    "relativePath": "AAA Corps/Saeder Krupp.md",
     "tags": [
       "aaa_corporation"
+    ],
+    "links": [
+      {
+        "link": "SK-Athens",
+        "displayText": "Athens",
+        "relativePath": "AAA Corps/Saeder-Krupp/SK-Athens.md"
+      }
     ],
     "backlinks": [
       {
         "fileName": "Maximilian",
-        "link": "Sader Krupp",
-        "relativePath": "Players/Germany(Sunday)/Maximilian.md"
+        "link": "Saeder Krupp",
+        "relativePath": "Players/Germany(Sunday)/Maximilian.md",
+        "displayText": "Sader Krupp"
       },
       {
         "fileName": "Angel",
-        "link": "Sader Krupp",
-        "relativePath": "Players/Germany(Sunday)/Angel.md"
+        "link": "Saeder Krupp",
+        "relativePath": "Players/Germany(Sunday)/Angel.md",
+        "displayText": "Sader Krupp"
       },
       {
         "fileName": "Maximilian",
-        "link": "Sader Krupp",
-        "relativePath": "Players/Athens/Maximilian.md"
+        "link": "Saeder Krupp",
+        "relativePath": "Players/Athens/Maximilian.md",
+        "displayText": "Sader Krupp"
       },
       {
         "fileName": "Angel",
-        "link": "Sader Krupp",
-        "relativePath": "Players/Athens/Angel.md"
+        "link": "Saeder Krupp",
+        "relativePath": "Players/Athens/Angel.md",
+        "displayText": "Sader Krupp"
       }
     ]
   },
@@ -12182,6 +12807,13 @@
     "tags": [
       "aaa_corporation"
     ],
+    "links": [
+      {
+        "link": "MCT-Athens",
+        "displayText": "Athens",
+        "relativePath": "AAA Corps/MCT/MCT-Athens.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "22-4-24",
@@ -12213,6 +12845,13 @@
         "level": 5
       }
     ],
+    "links": [
+      {
+        "link": "Renraku-Athens",
+        "displayText": "Athens",
+        "relativePath": "AAA Corps/Renraku/Renraku-Athens.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "22-7-30",
@@ -12232,6 +12871,39 @@
     "tags": [
       "aaa_corporation"
     ],
+    "links": [
+      {
+        "link": "Horizon-London",
+        "displayText": "London",
+        "relativePath": "AAA Corps/Horizon/Horizon-London.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "22-4-24",
+        "link": "Horizon",
+        "relativePath": "Sunday Game notes/22-4-24.md"
+      },
+      {
+        "fileName": "22-4-24",
+        "link": "Horizon",
+        "relativePath": "Sunday Game notes/22-4-24.md"
+      },
+      {
+        "fileName": "22-1-30",
+        "link": "Horizon",
+        "relativePath": "Sunday Game notes/22-1-30.md"
+      },
+      {
+        "fileName": "22-1-30",
+        "link": "Horizon",
+        "relativePath": "Sunday Game notes/22-1-30.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Horizon-London",
+    "relativePath": "AAA Corps/Horizon/Horizon-London.md",
     "headings": [
       {
         "heading": "In Game Activities",
@@ -12256,24 +12928,10 @@
     ],
     "backlinks": [
       {
-        "fileName": "22-4-24",
-        "link": "Horizon",
-        "relativePath": "Sunday Game notes/22-4-24.md"
-      },
-      {
-        "fileName": "22-4-24",
-        "link": "Horizon",
-        "relativePath": "Sunday Game notes/22-4-24.md"
-      },
-      {
-        "fileName": "22-1-30",
-        "link": "Horizon",
-        "relativePath": "Sunday Game notes/22-1-30.md"
-      },
-      {
-        "fileName": "22-1-30",
-        "link": "Horizon",
-        "relativePath": "Sunday Game notes/22-1-30.md"
+        "fileName": "Horizon",
+        "link": "Horizon-London",
+        "relativePath": "AAA Corps/Horizon.md",
+        "displayText": "London"
       }
     ]
   },
@@ -12282,6 +12940,13 @@
     "relativePath": "AAA Corps/Aztechnology.md",
     "tags": [
       "aaa_corporation"
+    ],
+    "links": [
+      {
+        "link": "AZT-Athens",
+        "displayText": "Athens",
+        "relativePath": "AAA Corps/Aztechnology/AZT-Athens.md"
+      }
     ],
     "backlinks": [
       {
@@ -12296,9 +12961,9 @@
         "relativePath": "NPCs/Unfriendly/Dice.md"
       },
       {
-        "fileName": "Horizon",
+        "fileName": "Horizon-London",
         "link": "Aztechnology",
-        "relativePath": "AAA Corps/Horizon.md",
+        "relativePath": "AAA Corps/Horizon/Horizon-London.md",
         "displayText": "../Aztechnology"
       }
     ]

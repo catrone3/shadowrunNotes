@@ -13,25 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Greece/Locations/Islands.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f37fa8dea325880b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3d425b8184104365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "GM Info/Greece/Locations/Athens.md",
                 "mode": "source",
                 "backlinks": false,
@@ -144,11 +125,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,40 +142,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "824da5c4b45c75bf",
   "lastOpenFiles": [
-    "GM Info/Greece/Locations/Islands.md",
-    "GM Info/Greece/Locations/North Athens.md",
-    "GM Info/Greece/Locations/Piraeus.md",
-    "GM Info/Greece/Locations/South Athens.md",
-    "GM Info/Greece/Locations/West Attica.md",
-    "GM Info/Greece/Locations/West Athens.md",
-    "GM Info/Greece/Locations/East Attica.md",
-    "GM Info/Greece/Locations/Athens.md",
-    "GM Info/Greece/NonPlayerCharacters/Maria Andriopoulos.md",
-    "GM Info/Greece/NonPlayerCharacters/Nikos Vasilopoulos.md",
-    "GM Info/Greece/Factions/The Black Hand.md",
-    "GM Info/Greece/Factions/The Hades Syndicate.md",
-    "GM Info/Greece/NonPlayerCharacters/Andreas Kyriakopoulos.md",
-    "GM Info/Greece/Locations/Central Athens.md",
-    "GM Info/Greece/NonPlayerCharacters/Sophia Georgiadou.md",
-    "GM Info/Greece/NonPlayerCharacters",
-    "GM Info/Greece/Factions/The Athenian Mafia.md",
-    "GM Info/Greece/Factions/The Red Vipers.md",
-    "GM Info/Greece/Factions/The Olympic Circle.md",
-    "GM Info/Greece/Factions/The Athena's Owl.md",
-    "GM Info/Greece/Factions/The Athenian Triads.md",
-    "GM Info/Greece/Factions/The Cult of Dionysus.md",
-    "GM Info/Greece/Factions/The Golden Dawn.md",
     "GM Info/Greece/Locations/The Temple of Delphi.md",
+    "GM Info/Greece/Factions/The Red Vipers.md",
+    "GM Info/Greece/Locations/Athens.md",
     "AAA Corps/Saeder Krupp.md",
     "AAA Corps/Renraku.md",
     "AAA Corps/MCT.md",
+    "AAA Corps/Horizon.md",
+    "AAA Corps/Aztechnology.md",
+    "AAA Corps/Saeder-Krupp/SK-Athens.md",
+    "AAA Corps/Renraku/Renraku-Athens.md",
+    "AAA Corps/MCT/MCT-Athens.md",
+    "AAA Corps/Horizon/Horizon-London.md",
+    "AAA Corps/Aztechnology/AZT-Athens.md",
     "AAA Corps/Renraku",
     "AAA Corps/MCT",
     "AAA Corps/Saeder-Krupp",
+    "Players/Athens.md",
     "AAA Corps/Aztechnology",
+    "GM Info/Greece/Factions/The Olympic Circle.md",
+    "GM Info/Greece/Factions/The Hades Syndicate.md",
+    "GM Info/Greece/Factions/The Cult of Dionysus.md",
+    "GM Info/Greece/Factions/The Athenian Triads.md",
+    "GM Info/Greece/Factions/The Athena's Owl.md",
+    "GM Info/Greece/Locations/The Parthenon.md",
+    "GM Info/Greece/Locations/The Catacombs of Athens.md",
+    "GM Info/Greece/Locations/The Acropolis.md",
+    "GM Info/Greece/Locations/Mount Olympus.md",
+    "GM Info/1230322212837-Germany/NPC Skill ranges.md",
+    "GM Info/1230322212837-Germany/information.md",
     "GM Info/1230322212837-Germany",
+    "Litehouse Industries/Genesis Medical/Genesis Summit Medical Clinic.md",
     "Pasted image 20230408140717.png",
     "Litehouse Industries/Litehouse Industries.canvas",
     "Images/Pasted image 20230421140050.png",
@@ -207,6 +187,7 @@
     "House Rules/Magic",
     "House Rules",
     "allExceptMd.json",
+    "GM Info/Greece/Locations",
     "Images/shadowrun characters/Pasted image 20230325161639.png",
     "Images/shadowrun characters/Pasted image 20230325150422.png",
     "Images/shadowrun characters/Pasted image 20230325150404.png",
