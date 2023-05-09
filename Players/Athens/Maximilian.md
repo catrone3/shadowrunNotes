@@ -3,6 +3,7 @@
 
 ### Status
 Adept
+Back in Berlin
 
 ### Contacts
 [[../../NPCs/Friendly/Germany/Dell' Inferno|Dell' Inferno]]

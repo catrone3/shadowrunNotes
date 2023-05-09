@@ -6,6 +6,7 @@ Emerged
 Almost never in hotsim in between games. Tends to grease monkey
 Always running silent
 Once a week sets off alarm on car back to back
+Captured
 
 ### Contacts
 [[../../NPCs/Friendly/Germany/Caroline Krause|Caroline Krause]]

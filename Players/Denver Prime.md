@@ -18,7 +18,7 @@
 - [[Denver Prime/Sentinel|Sentinel]]
 
 ##### Contacts
-[[../NPCs/Neutral/Ares/Amera|Amera]]
+[[../NPCs/Neutral/Denver/Amera|Amera]]
 [[../NPCs/Friendly/Denver/Angelica Quinn|Angelica Quinn]]
 [[../NPCs/Neutral/Slip's runners/Big Mac|Big Mac]]
 [[../NPCs/Friendly/Denver/Blitz|Blitz]]

@@ -3,7 +3,7 @@ None
 
 ### Status
 Adept
-
+Captured
 ### Contacts
 
 [[../../NPCs/Friendly/Germany/Salih Meier|Salih Meier]]

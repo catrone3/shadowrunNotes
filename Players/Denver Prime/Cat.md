@@ -69,7 +69,7 @@ Tara (Drake)
 
 ##### Known AI
 - [[../../NPCs/Friendly/Denver/Merlin|Merlin]]
-- [[../../NPCs/Neutral/Ares/Deimos|Deimos]]
+- [[../../NPCs/Neutral/Seattle/Deimos|Deimos]]
 
 ##### Business Contacts
 - [[../../NPCs/Neutral/Nadja Davier|Nadja Davier]]

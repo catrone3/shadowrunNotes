@@ -4,6 +4,7 @@
 ### Status
 Adept
 Never had your own face.
+Back in Berlin
 
 ### Contacts
 [[../../NPCs/Friendly/Germany/Blue Feather|Blue Feather]]

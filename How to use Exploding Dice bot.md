@@ -6,7 +6,7 @@
 - [[How to use Exploding Dice bot#/shadowrun alchemylist|/shadowrun alchemylist]]
 - [[How to use Exploding Dice bot#/shadowrun alchemyuse|/shadowrun alchemyuse]]
 - [[How to use Exploding Dice bot#/shadowrun alchemyage|/shadowrun alchemyage]]
-- [[How to use Exploding Dice bot#/shadowrun alchemycreate|## /shadowrun alchemycreate]]
+- [[How to use Exploding Dice bot#/shadowrun alchemycreate|/shadowrun alchemycreate]]
 - [[How to use Exploding Dice bot#/shadowrun alchemydelete|/shadowrun alchemydelete]]
 - [[How to use Exploding Dice bot#/shadowrun summonspirit|/shadowrun summonspirit]]
 - [[How to use Exploding Dice bot#/shadowrun bindspirit|/shadowrun bindspirit]]
@@ -32,15 +32,15 @@ An example of the same vs command as before is as follows
 ```
 /shadowrun roll command:12v10 annotation:Versus dice roll
 ```
-![[Images/Pasted image 20230421135730.png]]
+![[Images/attachments/Pasted image 20230421135730.png]]
 ## /shadowrun extended
 ```
 /shadowrun extended dice:{} edge:{}
 ```
 This command only does extended dice rolls, edge option only uses edge on the first roll. This will not add your edge to the next roll. Once you roll there will be three buttons
-![[Images/Pasted image 20230421140050.png]]
+![[Images/attachments/Pasted image 20230421140050.png]]
 These buttons do exactly as they say, the first toggles a post edge roll on the last roll. The edge Reroll will roll the next one as a preedge using the edge number you gave previously as the extra to it. The Roll Again will roll your next set of dice for the extended test. Below is what it will look like in your message box, the edge option is not required
-![[Images/Pasted image 20230421135939.png]]
+![[Images/attachments/Pasted image 20230421135939.png]]
 ## /shadowrun alchemylist
 ```
 /shadowrun alchemylist annotation:{}

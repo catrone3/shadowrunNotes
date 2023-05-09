@@ -24,3 +24,5 @@ Fear power:
 - Illusion spells are pass/fail unless otherwise stated.
 	- The exceptions are house rules on the Invisiblity spells and sound barrier that provide a negative to the perception test.
 - AOE Indirect get counterspell added to their soak.
+
+Juggernaught weights 1500KG

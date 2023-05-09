@@ -2,7 +2,7 @@
 wip
 
 ### Locations
-- [[../Locations/Athens|Athens]]
+- [[../Locations/Greece/Athens|Athens]]
 ### Player Characters
 - [[Athens/Angel]]
 - [[Athens/Dok]]
