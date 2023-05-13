@@ -85,10 +85,6 @@
       "relativePath": "GM Info/Greece"
     },
     {
-      "name": "templates",
-      "relativePath": "GM Info/templates"
-    },
-    {
       "name": "Magic",
       "relativePath": "House Rules and Clarifications/Magic"
     },
@@ -399,6 +395,10 @@
     {
       "name": "Morocco-Germany-Athens",
       "relativePath": "Morocco-Germany-Athens"
+    },
+    {
+      "name": "Miami",
+      "relativePath": "GM Info/Miami"
     }
   ],
   "nonMdFiles": [
