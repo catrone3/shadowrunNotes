@@ -8,4 +8,4 @@ a shadowy organization that deals in smuggling, assassination, and other illegal
 ### Locations
 | Image | Name   | Synopsis |
 | ----- | ------ | -------- |
-|       | East Attica |          |
+|       | [[../../../Locations/Greece/Attica/East Attica\|East Attica]] |          |

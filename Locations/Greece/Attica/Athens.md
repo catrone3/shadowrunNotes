@@ -39,28 +39,28 @@ positionInParent: 0
 ### Oligarch
 1.  [[../../../NPCs/Neutral/Athens/Andreas Kyriakopoulos|Andreas Kyriakopoulos]]
 2.  [[../../../NPCs/Neutral/Athens/Sophia Georgiadou|Sophia Georgiadou]]
-3.  Nikos Vasilopoulos
-4.  Maria Andriopoulos
-5.  Yiannis Papadakis
-6.  Katerina Katsaros
-7.  Antonis Lambros
-8.  Eleni Vlachou 
-9.  Dimitris Athanasiou
-10.  Anna Michalopoulos
+3.  [[../../../NPCs/Neutral/Athens/Nikos Vasilopoulos|Nikos Vasilopoulos]]
+4.  [[../../../NPCs/Neutral/Athens/Maria Andriopoulos|Maria Andriopoulos]]
+5.  [[../../../NPCs/Neutral/Athens/Yiannis Papadakis|Yiannis Papadakis]]
+6.  [[../../../NPCs/Neutral/Athens/Katerina Katsaros|Katerina Katsaros]]
+7.  [[../../../NPCs/Neutral/Athens/Antonis Lambros|Antonis Lambros]]
+8.  [[../../../NPCs/Neutral/Athens/Eleni Vlachou|Eleni Vlachou]] 
+9.  [[../../../NPCs/Neutral/Athens/Dimitris Athanasiou|Dimitris Athanasiou]]
+10.  [[../../../NPCs/Neutral/Athens/Anna Michalopoulos|Anna Michalopoulos]]
 
 #### Gangs:
 
-- The Athenian Triads 
-- The Olympic Circle 
-- The Cult of Dionysus 
-- The Athena's Owls 
+- The [[../../../Factions/Attica/Crime Orgs/Athenian Triads|Athenian Triads]]
+- [[../../../Factions/Attica/Crime Orgs/The Olympic Circle|The Olympic Circle]]
+- [[../../../Factions/Attica/Crime Orgs/The Cult of Dionysus|The Cult of Dionysus]]
+- The [[../../../Factions/Attica/Crime Orgs/Athena's Owl|Athena's Owl]]
 - [[../../../Factions/Attica/Crime Orgs/The Hades Syndicate|The Hades Syndicate]]
 
 #### Criminal Syndicates
-1.  The Red Vipers     
-2.  The Golden Dawn     
-3.  The Black Hand     
-4.  The Athenian Mafia 
+1.  [[../../../Factions/Attica/Crime Orgs/The Red Vipers|The Red Vipers]]     
+2.  [[../../../Factions/Attica/Crime Orgs/The Golden Dawn|The Golden Dawn]]     
+3.  [[../../../Factions/Attica/Crime Orgs/The Black Hand|The Black Hand]]     
+4.  The [[../../../Factions/Attica/Crime Orgs/Athenian Mafia|Athenian Mafia]]
 
 #### Bunker Tunnels
 Beneath the bustling streets of Athens lies a labyrinth of tunnels and bunkers, constructed during World War II to provide shelter from bombing raids. While many of these tunnels have been sealed off or repurposed for modern use, there is one section that remains untouched and mysterious.

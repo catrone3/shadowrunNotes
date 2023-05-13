@@ -865,6 +865,230 @@
     ]
   },
   {
+    "fileName": "The Gorgon Collective",
+    "relativePath": "Factions/Attica/Crime Orgs/The Gorgon Collective.md",
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 3
+      },
+      {
+        "heading": "NonPlayerCharacters",
+        "level": 3
+      },
+      {
+        "heading": "Locations",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Yiannis Papadakis",
+        "relativePath": "NPCs/Neutral/Athens/Yiannis Papadakis.md"
+      },
+      {
+        "link": "West Athens",
+        "relativePath": "Locations/Greece/Attica/West Athens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Elysian Syndicate",
+    "relativePath": "Factions/Attica/Crime Orgs/The Elysian Syndicate.md",
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 3
+      },
+      {
+        "heading": "NonPlayerCharacters",
+        "level": 3
+      },
+      {
+        "heading": "Locations",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Katerina Katsaros",
+        "relativePath": "NPCs/Neutral/Athens/Katerina Katsaros.md"
+      },
+      {
+        "link": "South Athens",
+        "relativePath": "Locations/Greece/Attica/South Athens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Chimera Alliance",
+    "relativePath": "Factions/Attica/Crime Orgs/The Chimera Alliance.md",
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 3
+      },
+      {
+        "heading": "NonPlayerCharacters",
+        "level": 3
+      },
+      {
+        "heading": "Locations",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Dimitris Athanasiou",
+        "relativePath": "NPCs/Neutral/Athens/Dimitris Athanasiou.md"
+      },
+      {
+        "link": "Athens",
+        "relativePath": "Players/Athens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Stygian Brotherhood",
+    "relativePath": "Factions/Attica/Crime Orgs/The Stygian Brotherhood.md",
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 3
+      },
+      {
+        "heading": "NonPlayerCharacters",
+        "level": 3
+      },
+      {
+        "heading": "Locations",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Eleni Vlachou",
+        "relativePath": "NPCs/Neutral/Athens/Eleni Vlachou.md"
+      },
+      {
+        "link": "Islands",
+        "relativePath": "Locations/Greece/Attica/Islands.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Olympian Circle",
+    "relativePath": "Factions/Attica/Crime Orgs/The Olympian Circle.md",
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 3
+      },
+      {
+        "heading": "NonPlayerCharacters",
+        "level": 3
+      },
+      {
+        "heading": "Locations",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Anna Michalopoulos",
+        "relativePath": "NPCs/Neutral/Athens/Anna Michalopoulos.md"
+      },
+      {
+        "link": "Athens",
+        "relativePath": "Players/Athens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Hydra Syndicate",
+    "relativePath": "Factions/Attica/Crime Orgs/The Hydra Syndicate.md",
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 3
+      },
+      {
+        "heading": "NonPlayerCharacters",
+        "level": 3
+      },
+      {
+        "heading": "Locations",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Maria Andriopoulos",
+        "relativePath": "NPCs/Neutral/Athens/Maria Andriopoulos.md"
+      },
+      {
+        "link": "West Attica",
+        "relativePath": "Locations/Greece/Attica/West Attica.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Hellenic Cartel",
+    "relativePath": "Factions/Attica/Crime Orgs/The Hellenic Cartel.md",
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 3
+      },
+      {
+        "heading": "NonPlayerCharacters",
+        "level": 3
+      },
+      {
+        "heading": "Locations",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Nikos Vasilopoulos",
+        "relativePath": "NPCs/Neutral/Athens/Nikos Vasilopoulos.md"
+      },
+      {
+        "link": "Piraeus",
+        "relativePath": "Locations/Greece/Attica/Piraeus.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Athenian Brotherhood",
+    "relativePath": "Factions/Attica/Crime Orgs/The Athenian Brotherhood.md",
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 3
+      },
+      {
+        "heading": "NonPlayerCharacters",
+        "level": 3
+      },
+      {
+        "heading": "Locations",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Antonis Lambros",
+        "relativePath": "NPCs/Neutral/Athens/Antonis Lambros.md"
+      },
+      {
+        "link": "North Athens",
+        "relativePath": "Locations/Greece/Attica/North Athens.md"
+      }
+    ]
+  },
+  {
     "fileName": "The Red Vipers",
     "relativePath": "Factions/Attica/Crime Orgs/The Red Vipers.md",
     "headings": [
@@ -875,6 +1099,19 @@
       {
         "heading": "Locations",
         "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Attica",
+        "relativePath": "Locations/Greece/Attica.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Athens",
+        "link": "The Red Vipers",
+        "relativePath": "Locations/Greece/Attica/Athens.md"
       }
     ]
   },
@@ -889,6 +1126,13 @@
       {
         "heading": "Locations",
         "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Athens",
+        "link": "The Olympic Circle",
+        "relativePath": "Locations/Greece/Attica/Athens.md"
       }
     ]
   },
@@ -913,6 +1157,10 @@
       {
         "link": "Andreas Kyriakopoulos",
         "relativePath": "NPCs/Neutral/Athens/Andreas Kyriakopoulos.md"
+      },
+      {
+        "link": "Central Athens",
+        "relativePath": "Locations/Greece/Attica/Central Athens.md"
       }
     ],
     "backlinks": [
@@ -940,6 +1188,19 @@
         "heading": "Locations",
         "level": 3
       }
+    ],
+    "links": [
+      {
+        "link": "Attica",
+        "relativePath": "Locations/Greece/Attica.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Athens",
+        "link": "The Golden Dawn",
+        "relativePath": "Locations/Greece/Attica/Athens.md"
+      }
     ]
   },
   {
@@ -957,6 +1218,19 @@
       {
         "heading": "Faction Details",
         "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Attica",
+        "relativePath": "Locations/Greece/Attica.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Athens",
+        "link": "The Cult of Dionysus",
+        "relativePath": "Locations/Greece/Attica/Athens.md"
       }
     ]
   },
@@ -977,11 +1251,22 @@
         "level": 3
       }
     ],
+    "links": [
+      {
+        "link": "East Attica",
+        "relativePath": "Locations/Greece/Attica/East Attica.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "Sophia Georgiadou",
         "link": "The Black Hand",
         "relativePath": "NPCs/Neutral/Athens/Sophia Georgiadou.md"
+      },
+      {
+        "fileName": "Athens",
+        "link": "The Black Hand",
+        "relativePath": "Locations/Greece/Attica/Athens.md"
       }
     ]
   },
@@ -997,6 +1282,19 @@
         "heading": "Locations",
         "level": 3
       }
+    ],
+    "links": [
+      {
+        "link": "Attica",
+        "relativePath": "Locations/Greece/Attica.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Athens",
+        "link": "Athenian Triads",
+        "relativePath": "Locations/Greece/Attica/Athens.md"
+      }
     ]
   },
   {
@@ -1011,6 +1309,19 @@
         "heading": "Locations",
         "level": 3
       }
+    ],
+    "links": [
+      {
+        "link": "Attica",
+        "relativePath": "Locations/Greece/Attica.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Athens",
+        "link": "Athenian Mafia",
+        "relativePath": "Locations/Greece/Attica/Athens.md"
+      }
     ]
   },
   {
@@ -1024,6 +1335,19 @@
       {
         "heading": "Locations",
         "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Attica",
+        "relativePath": "Locations/Greece/Attica.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Athens",
+        "link": "Athena's Owl",
+        "relativePath": "Locations/Greece/Attica/Athens.md"
       }
     ]
   },
@@ -3055,10 +3379,6 @@
       {
         "heading": "Contacts",
         "level": 3
-      },
-      {
-        "heading": "NonPlayerCharacters",
-        "level": 3
       }
     ],
     "links": [
@@ -3128,52 +3448,6 @@
       {
         "link": "Thalís Savas",
         "relativePath": "NPCs/Friendly/Athens/Thalís Savas.md"
-      },
-      {
-        "link": "Takeshi Nakamura"
-      },
-      {
-        "link": "Marcus Krieger"
-      },
-      {
-        "link": "Andreas Kyriakopoulos",
-        "relativePath": "NPCs/Neutral/Athens/Andreas Kyriakopoulos.md"
-      },
-      {
-        "link": "Anna Michalopoulos",
-        "relativePath": "NPCs/Neutral/Athens/Anna Michalopoulos.md"
-      },
-      {
-        "link": "Antonis Lambros",
-        "relativePath": "NPCs/Neutral/Athens/Antonis Lambros.md"
-      },
-      {
-        "link": "Dimitris Athanasiou",
-        "relativePath": "NPCs/Neutral/Athens/Dimitris Athanasiou.md"
-      },
-      {
-        "link": "Eleni Vlachou",
-        "relativePath": "NPCs/Neutral/Athens/Eleni Vlachou.md"
-      },
-      {
-        "link": "Katerina Katsaros",
-        "relativePath": "NPCs/Neutral/Athens/Katerina Katsaros.md"
-      },
-      {
-        "link": "Maria Andriopoulos",
-        "relativePath": "NPCs/Neutral/Athens/Maria Andriopoulos.md"
-      },
-      {
-        "link": "Nikos Vasilopoulos",
-        "relativePath": "NPCs/Neutral/Athens/Nikos Vasilopoulos.md"
-      },
-      {
-        "link": "Sophia Georgiadou",
-        "relativePath": "NPCs/Neutral/Athens/Sophia Georgiadou.md"
-      },
-      {
-        "link": "Yiannis Papadakis",
-        "relativePath": "NPCs/Neutral/Athens/Yiannis Papadakis.md"
       }
     ],
     "backlinks": [
@@ -3196,6 +3470,21 @@
         "fileName": "23-3-12",
         "link": "Athens",
         "relativePath": "Morocco-Germany-Athens/23-3-12.md"
+      },
+      {
+        "fileName": "The Chimera Alliance",
+        "link": "Athens",
+        "relativePath": "Factions/Attica/Crime Orgs/The Chimera Alliance.md"
+      },
+      {
+        "fileName": "The Olympian Circle",
+        "link": "Athens",
+        "relativePath": "Factions/Attica/Crime Orgs/The Olympian Circle.md"
+      },
+      {
+        "fileName": "Attica",
+        "link": "Athens",
+        "relativePath": "Locations/Greece/Attica.md"
       },
       {
         "fileName": "Homepage",
@@ -5454,11 +5743,6 @@
       {
         "fileName": "Athens",
         "link": "Sophia Georgiadou",
-        "relativePath": "Players/Athens.md"
-      },
-      {
-        "fileName": "Athens",
-        "link": "Sophia Georgiadou",
         "relativePath": "Locations/Greece/Attica/Athens.md"
       }
     ]
@@ -5488,9 +5772,14 @@
     ],
     "backlinks": [
       {
+        "fileName": "The Hellenic Cartel",
+        "link": "Nikos Vasilopoulos",
+        "relativePath": "Factions/Attica/Crime Orgs/The Hellenic Cartel.md"
+      },
+      {
         "fileName": "Athens",
         "link": "Nikos Vasilopoulos",
-        "relativePath": "Players/Athens.md"
+        "relativePath": "Locations/Greece/Attica/Athens.md"
       }
     ]
   },
@@ -5519,9 +5808,14 @@
     ],
     "backlinks": [
       {
+        "fileName": "The Gorgon Collective",
+        "link": "Yiannis Papadakis",
+        "relativePath": "Factions/Attica/Crime Orgs/The Gorgon Collective.md"
+      },
+      {
         "fileName": "Athens",
         "link": "Yiannis Papadakis",
-        "relativePath": "Players/Athens.md"
+        "relativePath": "Locations/Greece/Attica/Athens.md"
       }
     ]
   },
@@ -5550,9 +5844,14 @@
     ],
     "backlinks": [
       {
+        "fileName": "The Hydra Syndicate",
+        "link": "Maria Andriopoulos",
+        "relativePath": "Factions/Attica/Crime Orgs/The Hydra Syndicate.md"
+      },
+      {
         "fileName": "Athens",
         "link": "Maria Andriopoulos",
-        "relativePath": "Players/Athens.md"
+        "relativePath": "Locations/Greece/Attica/Athens.md"
       }
     ]
   },
@@ -5581,9 +5880,14 @@
     ],
     "backlinks": [
       {
+        "fileName": "The Stygian Brotherhood",
+        "link": "Eleni Vlachou",
+        "relativePath": "Factions/Attica/Crime Orgs/The Stygian Brotherhood.md"
+      },
+      {
         "fileName": "Athens",
         "link": "Eleni Vlachou",
-        "relativePath": "Players/Athens.md"
+        "relativePath": "Locations/Greece/Attica/Athens.md"
       }
     ]
   },
@@ -5612,9 +5916,14 @@
     ],
     "backlinks": [
       {
+        "fileName": "The Elysian Syndicate",
+        "link": "Katerina Katsaros",
+        "relativePath": "Factions/Attica/Crime Orgs/The Elysian Syndicate.md"
+      },
+      {
         "fileName": "Athens",
         "link": "Katerina Katsaros",
-        "relativePath": "Players/Athens.md"
+        "relativePath": "Locations/Greece/Attica/Athens.md"
       }
     ]
   },
@@ -5639,9 +5948,14 @@
     ],
     "backlinks": [
       {
+        "fileName": "The Chimera Alliance",
+        "link": "Dimitris Athanasiou",
+        "relativePath": "Factions/Attica/Crime Orgs/The Chimera Alliance.md"
+      },
+      {
         "fileName": "Athens",
         "link": "Dimitris Athanasiou",
-        "relativePath": "Players/Athens.md"
+        "relativePath": "Locations/Greece/Attica/Athens.md"
       }
     ]
   },
@@ -5666,9 +5980,14 @@
     ],
     "backlinks": [
       {
+        "fileName": "The Olympian Circle",
+        "link": "Anna Michalopoulos",
+        "relativePath": "Factions/Attica/Crime Orgs/The Olympian Circle.md"
+      },
+      {
         "fileName": "Athens",
         "link": "Anna Michalopoulos",
-        "relativePath": "Players/Athens.md"
+        "relativePath": "Locations/Greece/Attica/Athens.md"
       }
     ]
   },
@@ -5697,9 +6016,14 @@
     ],
     "backlinks": [
       {
+        "fileName": "The Athenian Brotherhood",
+        "link": "Antonis Lambros",
+        "relativePath": "Factions/Attica/Crime Orgs/The Athenian Brotherhood.md"
+      },
+      {
         "fileName": "Athens",
         "link": "Antonis Lambros",
-        "relativePath": "Players/Athens.md"
+        "relativePath": "Locations/Greece/Attica/Athens.md"
       }
     ]
   },
@@ -5740,11 +6064,6 @@
         "fileName": "The Hades Syndicate",
         "link": "Andreas Kyriakopoulos",
         "relativePath": "Factions/Attica/Crime Orgs/The Hades Syndicate.md"
-      },
-      {
-        "fileName": "Athens",
-        "link": "Andreas Kyriakopoulos",
-        "relativePath": "Players/Athens.md"
       },
       {
         "fileName": "Central Athens",
@@ -8960,6 +9279,44 @@
   {
     "fileName": "Attica",
     "relativePath": "Locations/Greece/Attica.md",
+    "links": [
+      {
+        "link": "Athens",
+        "relativePath": "Players/Athens.md"
+      },
+      {
+        "link": "Central Athens",
+        "relativePath": "Locations/Greece/Attica/Central Athens.md"
+      },
+      {
+        "link": "East Attica",
+        "relativePath": "Locations/Greece/Attica/East Attica.md"
+      },
+      {
+        "link": "Islands",
+        "relativePath": "Locations/Greece/Attica/Islands.md"
+      },
+      {
+        "link": "North Athens",
+        "relativePath": "Locations/Greece/Attica/North Athens.md"
+      },
+      {
+        "link": "Piraeus",
+        "relativePath": "Locations/Greece/Attica/Piraeus.md"
+      },
+      {
+        "link": "South Athens",
+        "relativePath": "Locations/Greece/Attica/South Athens.md"
+      },
+      {
+        "link": "West Attica",
+        "relativePath": "Locations/Greece/Attica/West Attica.md"
+      },
+      {
+        "link": "West Athens",
+        "relativePath": "Locations/Greece/Attica/West Athens.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "23-3-12",
@@ -8970,6 +9327,36 @@
         "fileName": "23-3-12",
         "link": "Attica",
         "relativePath": "Morocco-Germany-Athens/23-3-12.md"
+      },
+      {
+        "fileName": "The Red Vipers",
+        "link": "Attica",
+        "relativePath": "Factions/Attica/Crime Orgs/The Red Vipers.md"
+      },
+      {
+        "fileName": "The Golden Dawn",
+        "link": "Attica",
+        "relativePath": "Factions/Attica/Crime Orgs/The Golden Dawn.md"
+      },
+      {
+        "fileName": "The Cult of Dionysus",
+        "link": "Attica",
+        "relativePath": "Factions/Attica/Crime Orgs/The Cult of Dionysus.md"
+      },
+      {
+        "fileName": "Athenian Triads",
+        "link": "Attica",
+        "relativePath": "Factions/Attica/Crime Orgs/Athenian Triads.md"
+      },
+      {
+        "fileName": "Athenian Mafia",
+        "link": "Attica",
+        "relativePath": "Factions/Attica/Crime Orgs/Athenian Mafia.md"
+      },
+      {
+        "fileName": "Athena's Owl",
+        "link": "Attica",
+        "relativePath": "Factions/Attica/Crime Orgs/Athena's Owl.md"
       },
       {
         "fileName": "Athens",
@@ -8999,9 +9386,19 @@
     "relativePath": "Locations/Greece/Attica/West Attica.md",
     "backlinks": [
       {
+        "fileName": "The Hydra Syndicate",
+        "link": "West Attica",
+        "relativePath": "Factions/Attica/Crime Orgs/The Hydra Syndicate.md"
+      },
+      {
         "fileName": "Maria Andriopoulos",
         "link": "West Attica",
         "relativePath": "NPCs/Neutral/Athens/Maria Andriopoulos.md"
+      },
+      {
+        "fileName": "Attica",
+        "link": "West Attica",
+        "relativePath": "Locations/Greece/Attica.md"
       }
     ]
   },
@@ -9010,9 +9407,19 @@
     "relativePath": "Locations/Greece/Attica/West Athens.md",
     "backlinks": [
       {
+        "fileName": "The Gorgon Collective",
+        "link": "West Athens",
+        "relativePath": "Factions/Attica/Crime Orgs/The Gorgon Collective.md"
+      },
+      {
         "fileName": "Yiannis Papadakis",
         "link": "West Athens",
         "relativePath": "NPCs/Neutral/Athens/Yiannis Papadakis.md"
+      },
+      {
+        "fileName": "Attica",
+        "link": "West Athens",
+        "relativePath": "Locations/Greece/Attica.md"
       }
     ]
   },
@@ -9021,9 +9428,19 @@
     "relativePath": "Locations/Greece/Attica/South Athens.md",
     "backlinks": [
       {
+        "fileName": "The Elysian Syndicate",
+        "link": "South Athens",
+        "relativePath": "Factions/Attica/Crime Orgs/The Elysian Syndicate.md"
+      },
+      {
         "fileName": "Katerina Katsaros",
         "link": "South Athens",
         "relativePath": "NPCs/Neutral/Athens/Katerina Katsaros.md"
+      },
+      {
+        "fileName": "Attica",
+        "link": "South Athens",
+        "relativePath": "Locations/Greece/Attica.md"
       }
     ]
   },
@@ -9032,9 +9449,19 @@
     "relativePath": "Locations/Greece/Attica/Piraeus.md",
     "backlinks": [
       {
+        "fileName": "The Hellenic Cartel",
+        "link": "Piraeus",
+        "relativePath": "Factions/Attica/Crime Orgs/The Hellenic Cartel.md"
+      },
+      {
         "fileName": "Nikos Vasilopoulos",
         "link": "Piraeus",
         "relativePath": "NPCs/Neutral/Athens/Nikos Vasilopoulos.md"
+      },
+      {
+        "fileName": "Attica",
+        "link": "Piraeus",
+        "relativePath": "Locations/Greece/Attica.md"
       }
     ]
   },
@@ -9043,9 +9470,19 @@
     "relativePath": "Locations/Greece/Attica/North Athens.md",
     "backlinks": [
       {
+        "fileName": "The Athenian Brotherhood",
+        "link": "North Athens",
+        "relativePath": "Factions/Attica/Crime Orgs/The Athenian Brotherhood.md"
+      },
+      {
         "fileName": "Antonis Lambros",
         "link": "North Athens",
         "relativePath": "NPCs/Neutral/Athens/Antonis Lambros.md"
+      },
+      {
+        "fileName": "Attica",
+        "link": "North Athens",
+        "relativePath": "Locations/Greece/Attica.md"
       }
     ]
   },
@@ -9058,9 +9495,19 @@
     "relativePath": "Locations/Greece/Attica/Islands.md",
     "backlinks": [
       {
+        "fileName": "The Stygian Brotherhood",
+        "link": "Islands",
+        "relativePath": "Factions/Attica/Crime Orgs/The Stygian Brotherhood.md"
+      },
+      {
         "fileName": "Eleni Vlachou",
         "link": "Islands",
         "relativePath": "NPCs/Neutral/Athens/Eleni Vlachou.md"
+      },
+      {
+        "fileName": "Attica",
+        "link": "Islands",
+        "relativePath": "Locations/Greece/Attica.md"
       }
     ]
   },
@@ -9069,9 +9516,19 @@
     "relativePath": "Locations/Greece/Attica/East Attica.md",
     "backlinks": [
       {
+        "fileName": "The Black Hand",
+        "link": "East Attica",
+        "relativePath": "Factions/Attica/Crime Orgs/The Black Hand.md"
+      },
+      {
         "fileName": "Sophia Georgiadou",
         "link": "East Attica",
         "relativePath": "NPCs/Neutral/Athens/Sophia Georgiadou.md"
+      },
+      {
+        "fileName": "Attica",
+        "link": "East Attica",
+        "relativePath": "Locations/Greece/Attica.md"
       }
     ]
   },
@@ -9092,9 +9549,19 @@
     ],
     "backlinks": [
       {
+        "fileName": "The Hades Syndicate",
+        "link": "Central Athens",
+        "relativePath": "Factions/Attica/Crime Orgs/The Hades Syndicate.md"
+      },
+      {
         "fileName": "Andreas Kyriakopoulos",
         "link": "Central Athens",
         "relativePath": "NPCs/Neutral/Athens/Andreas Kyriakopoulos.md"
+      },
+      {
+        "fileName": "Attica",
+        "link": "Central Athens",
+        "relativePath": "Locations/Greece/Attica.md"
       }
     ]
   },
@@ -9145,8 +9612,72 @@
         "relativePath": "NPCs/Neutral/Athens/Sophia Georgiadou.md"
       },
       {
+        "link": "Nikos Vasilopoulos",
+        "relativePath": "NPCs/Neutral/Athens/Nikos Vasilopoulos.md"
+      },
+      {
+        "link": "Maria Andriopoulos",
+        "relativePath": "NPCs/Neutral/Athens/Maria Andriopoulos.md"
+      },
+      {
+        "link": "Yiannis Papadakis",
+        "relativePath": "NPCs/Neutral/Athens/Yiannis Papadakis.md"
+      },
+      {
+        "link": "Katerina Katsaros",
+        "relativePath": "NPCs/Neutral/Athens/Katerina Katsaros.md"
+      },
+      {
+        "link": "Antonis Lambros",
+        "relativePath": "NPCs/Neutral/Athens/Antonis Lambros.md"
+      },
+      {
+        "link": "Eleni Vlachou",
+        "relativePath": "NPCs/Neutral/Athens/Eleni Vlachou.md"
+      },
+      {
+        "link": "Dimitris Athanasiou",
+        "relativePath": "NPCs/Neutral/Athens/Dimitris Athanasiou.md"
+      },
+      {
+        "link": "Anna Michalopoulos",
+        "relativePath": "NPCs/Neutral/Athens/Anna Michalopoulos.md"
+      },
+      {
+        "link": "Athenian Triads",
+        "relativePath": "Factions/Attica/Crime Orgs/Athenian Triads.md"
+      },
+      {
+        "link": "The Olympic Circle",
+        "relativePath": "Factions/Attica/Crime Orgs/The Olympic Circle.md"
+      },
+      {
+        "link": "The Cult of Dionysus",
+        "relativePath": "Factions/Attica/Crime Orgs/The Cult of Dionysus.md"
+      },
+      {
+        "link": "Athena's Owl",
+        "relativePath": "Factions/Attica/Crime Orgs/Athena's Owl.md"
+      },
+      {
         "link": "The Hades Syndicate",
         "relativePath": "Factions/Attica/Crime Orgs/The Hades Syndicate.md"
+      },
+      {
+        "link": "The Red Vipers",
+        "relativePath": "Factions/Attica/Crime Orgs/The Red Vipers.md"
+      },
+      {
+        "link": "The Golden Dawn",
+        "relativePath": "Factions/Attica/Crime Orgs/The Golden Dawn.md"
+      },
+      {
+        "link": "The Black Hand",
+        "relativePath": "Factions/Attica/Crime Orgs/The Black Hand.md"
+      },
+      {
+        "link": "Athenian Mafia",
+        "relativePath": "Factions/Attica/Crime Orgs/Athenian Mafia.md"
       }
     ],
     "backlinks": [

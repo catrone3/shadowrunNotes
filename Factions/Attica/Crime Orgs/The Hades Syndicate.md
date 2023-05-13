@@ -8,4 +8,4 @@ a gang of underworld enforcers and hitmen who are rumored to have connections to
 ### Locations
 | Image | Name   | Synopsis |
 | ----- | ------ | -------- |
-|       | [[../../../Locations/Greece/Attica/Central Athens|Central Athens]] | Leader: Andreas Kyriakopoulos        |
+|       | [[../../../Locations/Greece/Attica/Central Athens\|Central Athens]] | Leader: Andreas Kyriakopoulos        |

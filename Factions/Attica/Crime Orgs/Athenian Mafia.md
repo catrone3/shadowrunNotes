@@ -4,4 +4,4 @@ a powerful crime family that controls much of the city's underworld. They are kn
 ### Locations
 | Image | Name   | Synopsis |
 | ----- | ------ | -------- |
-|       | [[../../../Locations/Greece/Attica/Athens|Athens]] |          |
+|       | [[../../../Locations/Greece/Attica\|Attica]] |          |
