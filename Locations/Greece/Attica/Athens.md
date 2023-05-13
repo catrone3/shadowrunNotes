@@ -1,4 +1,4 @@
-#Sunday_Game 
+### Location Details
 #### Awakened
  - **Free Spirits** - For some reason there's a greater concentration of Free Spirits in and around Athens. Most seem to have been some form of Guidance and Task Spirits, one Task Spirit even opened up shop and works as a highly paid sculptor. I've seen some Task Spirits before and often they take a shape that's practical. These ones are not only humanoid but very anthropomorphic.
 
@@ -24,3 +24,59 @@
 -   **Getting Around** - Public transportation sucks. But all other alternatives are worse. Buy multiple passes, each one tied to a different SIN, and take the trains. Avoid any and all "express" trains. Not because they're horrible, but because they all have so many sensors and cameras that any Fake SINs will be easily caught. The advertising on those is relentless, so many upstanding normal citizens avoid them as well. If you buy a mapsoft that only shows you the streets you got ripped off. Cities build up and there are layers to old ancient Athens that don't show up in the tourist softs.
     
 -   **Food** - It's usually fish. If you don't like seafood you should avoid the entire region omae. Sure, it's not caught from the sea anymore, but it's still a big thing. This is where you can do some sorta legitimate work. There are aqua farms near Athens as well as dozens of so-called water purification plants. Most of these are covers or tax loopholes. The FRH can't afford to inspect each and every one of them--the truth is they can but their inspectors have inconvenient attachments to their lives or their loved ones which the corporations are all too willing to eliminate. Recently, they've just been bribing them so the inspectors nearly all work for the corps they're inspecting. That's where you come in. No, you don't blow up the damn fish and krill farms. You familiarize yourself with the environmental codes, or get a knowsoft, and you secretly gather information. Maybe record some frank discussions between employees, or secure some mail from management. This goes beyond the food industry, but it's the biggest concern. They pay well and may get you a contact inside the government for other work.
+
+---
+```RpgManagerID
+### DO NOT EDIT MANUALLY IF NOT INSTRUCTED TO DO SO ###
+type: 128
+campaignSettings: 0
+id: "c9bf5057-0e68-4f5f-8572-c5608c51670c"
+campaignId: "4a176188-d5e4-489e-98c4-a3dc1820ce83"
+parentId: "4a176188-d5e4-489e-98c4-a3dc1820ce83"
+positionInParent: 0
+```
+
+### Oligarch
+1.  [[../../../NPCs/Neutral/Athens/Andreas Kyriakopoulos|Andreas Kyriakopoulos]]
+2.  [[../../../NPCs/Neutral/Athens/Sophia Georgiadou|Sophia Georgiadou]]
+3.  Nikos Vasilopoulos
+4.  Maria Andriopoulos
+5.  Yiannis Papadakis
+6.  Katerina Katsaros
+7.  Antonis Lambros
+8.  Eleni Vlachou 
+9.  Dimitris Athanasiou
+10.  Anna Michalopoulos
+
+#### Gangs:
+
+- The Athenian Triads 
+- The Olympic Circle 
+- The Cult of Dionysus 
+- The Athena's Owls 
+- [[../../../Factions/Attica/Crime Orgs/The Hades Syndicate|The Hades Syndicate]]
+
+#### Criminal Syndicates
+1.  The Red Vipers     
+2.  The Golden Dawn     
+3.  The Black Hand     
+4.  The Athenian Mafia 
+
+#### Bunker Tunnels
+Beneath the bustling streets of Athens lies a labyrinth of tunnels and bunkers, constructed during World War II to provide shelter from bombing raids. While many of these tunnels have been sealed off or repurposed for modern use, there is one section that remains untouched and mysterious.
+
+Rumors abound of strange noises emanating from the depths of the bunker, and those brave enough to venture inside have reported a feeling of being watched by unseen eyes. It is said that during certain phases of the moon, a shimmering portal opens within the bunker, leading to a realm of otherworldly spirits and ancient powers.
+
+Many runners and magical practitioners seek out this hidden site in hopes of tapping into the mystical energies that flow within its walls. Some believe that it is a nexus of ley lines, a place where the raw power of the earth converges, while others suspect that it is the domain of powerful spirits who have long been forgotten by mortal man.
+
+Regardless of its true nature, the bunker remains a tantalizing mystery, a place where the line between reality and the supernatural blurs, and where brave runners can uncover powerful secrets and ancient treasures, if they're willing to risk the dangers that lurk within.
+
+### more from the bot
+1.  Aegis Shield: A shield that provides strong defense against magical attacks. It is said to have been created by the goddess Athena herself and has been passed down through the generations of Athenian knights.
+    
+2.  Tyche's Coin: A magical coin that can bring good luck to its owner. It is said that if you flip the coin and make a wish, Tyche, the goddess of luck, will grant it.
+    
+3.  Medusa's Gaze: A cursed necklace that can turn people into stone if they look directly at it. It is believed to be hidden somewhere in the ruins of the ancient city of Corinth.
+    
+4.  The Eye of the Cyclops: A magical gemstone that enhances the user's strength and allows them to see through walls. It is said to be hidden in a secret underground chamber beneath the Acropolis.
+    

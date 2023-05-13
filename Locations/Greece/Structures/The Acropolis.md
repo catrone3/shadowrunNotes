@@ -1,0 +1,1 @@
+this ancient citadel is said to have once been a center of magical learning and experimentation, and some say that hidden chambers still exist within its walls where powerful spells and artifacts are hidden.

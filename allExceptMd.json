@@ -9,20 +9,12 @@
       "relativePath": "A Corps"
     },
     {
-      "name": "AA Corps",
-      "relativePath": "AA Corps"
-    },
-    {
       "name": "AAA Corps",
       "relativePath": "AAA Corps"
     },
     {
-      "name": "Country Entities",
-      "relativePath": "Country Entities"
-    },
-    {
-      "name": "Crime Orgs",
-      "relativePath": "Crime Orgs"
+      "name": "AA Corps",
+      "relativePath": "AA Corps"
     },
     {
       "name": "Denver Game notes",
@@ -41,28 +33,24 @@
       "relativePath": "Images"
     },
     {
-      "name": "Locations",
-      "relativePath": "Locations"
-    },
-    {
       "name": "Litehouse Industries",
       "relativePath": "Litehouse Industries"
+    },
+    {
+      "name": "Locations",
+      "relativePath": "Locations"
     },
     {
       "name": "NPCs",
       "relativePath": "NPCs"
     },
     {
-      "name": "New Orleans Game Notes",
-      "relativePath": "New Orleans Game Notes"
-    },
-    {
-      "name": "Sunday Game notes",
-      "relativePath": "Sunday Game notes"
-    },
-    {
       "name": "Players",
       "relativePath": "Players"
+    },
+    {
+      "name": "New Orleans Game Notes",
+      "relativePath": "New Orleans Game Notes"
     },
     {
       "name": "Aztechnology",
@@ -105,16 +93,16 @@
       "relativePath": "House Rules and Clarifications/Magic"
     },
     {
-      "name": "Weapons",
-      "relativePath": "House Rules and Clarifications/Weapons"
+      "name": "attachments",
+      "relativePath": "Images/attachments"
     },
     {
       "name": "Qualities",
       "relativePath": "House Rules and Clarifications/Qualities"
     },
     {
-      "name": "attachments",
-      "relativePath": "Images/attachments"
+      "name": "Weapons",
+      "relativePath": "House Rules and Clarifications/Weapons"
     },
     {
       "name": "floor plans and buildings",
@@ -125,28 +113,8 @@
       "relativePath": "Images/shadowrun characters"
     },
     {
-      "name": "Greece",
-      "relativePath": "Locations/Greece"
-    },
-    {
-      "name": "FRFZ",
-      "relativePath": "Locations/FRFZ"
-    },
-    {
-      "name": "Black Monkey Syndicate",
-      "relativePath": "Locations/Black Monkey Syndicate"
-    },
-    {
-      "name": "Morocco",
-      "relativePath": "Locations/Morocco"
-    },
-    {
       "name": "1UP!",
       "relativePath": "Litehouse Industries/1UP!"
-    },
-    {
-      "name": "Southern Florida",
-      "relativePath": "Locations/Southern Florida"
     },
     {
       "name": "Cheyenne Mountain",
@@ -157,12 +125,12 @@
       "relativePath": "Litehouse Industries/Genesis Medical"
     },
     {
-      "name": "Litehouse Brand",
-      "relativePath": "Litehouse Industries/Litehouse Brand"
-    },
-    {
       "name": "Incubus Club",
       "relativePath": "Litehouse Industries/Incubus Club"
+    },
+    {
+      "name": "Litehouse Brand",
+      "relativePath": "Litehouse Industries/Litehouse Brand"
     },
     {
       "name": "Mercea Conglomerate",
@@ -175,6 +143,26 @@
     {
       "name": "Rainbow Corp",
       "relativePath": "Litehouse Industries/Rainbow Corp"
+    },
+    {
+      "name": "Black Monkey Syndicate",
+      "relativePath": "Locations/Black Monkey Syndicate"
+    },
+    {
+      "name": "FRFZ",
+      "relativePath": "Locations/FRFZ"
+    },
+    {
+      "name": "Greece",
+      "relativePath": "Locations/Greece"
+    },
+    {
+      "name": "Morocco",
+      "relativePath": "Locations/Morocco"
+    },
+    {
+      "name": "Southern Florida",
+      "relativePath": "Locations/Southern Florida"
     },
     {
       "name": "Friendly",
@@ -229,26 +217,6 @@
       "relativePath": "House Rules and Clarifications/Magic/4th world Spells"
     },
     {
-      "name": "Factions",
-      "relativePath": "GM Info/Greece/Factions"
-    },
-    {
-      "name": "Clues",
-      "relativePath": "GM Info/Greece/Clues"
-    },
-    {
-      "name": "Locations",
-      "relativePath": "GM Info/Greece/Locations"
-    },
-    {
-      "name": "NonPlayerCharacters",
-      "relativePath": "GM Info/Greece/NonPlayerCharacters"
-    },
-    {
-      "name": "Artifacts",
-      "relativePath": "Locations/Greece/Artifacts"
-    },
-    {
       "name": "Litehouse Construction",
       "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Construction"
     },
@@ -261,6 +229,10 @@
       "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production"
     },
     {
+      "name": "M.H. Institue of Neuroscience Sites",
+      "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites"
+    },
+    {
       "name": "Manufacturing",
       "relativePath": "Litehouse Industries/Mercea Conglomerate/Manufacturing"
     },
@@ -269,8 +241,8 @@
       "relativePath": "Litehouse Industries/Mercea Conglomerate/Twilight Medical Services"
     },
     {
-      "name": "M.H. Institue of Neuroscience Sites",
-      "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites"
+      "name": "Artifacts",
+      "relativePath": "Locations/Greece/Artifacts"
     },
     {
       "name": "Athens",
@@ -293,16 +265,16 @@
       "relativePath": "NPCs/Friendly/Las Vegas"
     },
     {
+      "name": "London",
+      "relativePath": "NPCs/Friendly/London"
+    },
+    {
       "name": "Matrix",
       "relativePath": "NPCs/Friendly/Matrix"
     },
     {
       "name": "New Orleans",
       "relativePath": "NPCs/Friendly/New Orleans"
-    },
-    {
-      "name": "London",
-      "relativePath": "NPCs/Friendly/London"
     },
     {
       "name": "Morocco",
@@ -317,24 +289,28 @@
       "relativePath": "NPCs/Neutral/Athens"
     },
     {
-      "name": "Denver",
-      "relativePath": "NPCs/Neutral/Denver"
-    },
-    {
       "name": "Avalon",
       "relativePath": "NPCs/Neutral/Avalon"
     },
     {
-      "name": "Germany",
-      "relativePath": "NPCs/Neutral/Germany"
+      "name": "Denver",
+      "relativePath": "NPCs/Neutral/Denver"
     },
     {
       "name": "Horizon",
       "relativePath": "NPCs/Neutral/Horizon"
     },
     {
+      "name": "Germany",
+      "relativePath": "NPCs/Neutral/Germany"
+    },
+    {
       "name": "Morocco",
       "relativePath": "NPCs/Neutral/Morocco"
+    },
+    {
+      "name": "Organizations",
+      "relativePath": "NPCs/Neutral/Organizations"
     },
     {
       "name": "Slip's runners",
@@ -345,24 +321,8 @@
       "relativePath": "NPCs/Neutral/Seattle"
     },
     {
-      "name": "Organizations",
-      "relativePath": "NPCs/Neutral/Organizations"
-    },
-    {
       "name": "Necromancer",
       "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer"
-    },
-    {
-      "name": "Attica Council",
-      "relativePath": "GM Info/Greece/NonPlayerCharacters/Attica Council"
-    },
-    {
-      "name": "Renraku",
-      "relativePath": "GM Info/Greece/NonPlayerCharacters/Renraku"
-    },
-    {
-      "name": "SK",
-      "relativePath": "GM Info/Greece/NonPlayerCharacters/SK"
     },
     {
       "name": "Special Interests Department",
@@ -399,13 +359,53 @@
     {
       "name": "8th Circle",
       "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer/8th Circle"
+    },
+    {
+      "name": "Factions",
+      "relativePath": "Factions"
+    },
+    {
+      "name": "Morocco",
+      "relativePath": "Factions/Morocco"
+    },
+    {
+      "name": "Crime Orgs",
+      "relativePath": "Factions/Morocco/Crime Orgs"
+    },
+    {
+      "name": "Attica",
+      "relativePath": "Factions/Attica"
+    },
+    {
+      "name": "Country Entities",
+      "relativePath": "Factions/Morocco/Country Entities"
+    },
+    {
+      "name": "Crime Orgs",
+      "relativePath": "Factions/Attica/Crime Orgs"
+    },
+    {
+      "name": "Country Orgs",
+      "relativePath": "Factions/Attica/Country Orgs"
+    },
+    {
+      "name": "Attica",
+      "relativePath": "Locations/Greece/Attica"
+    },
+    {
+      "name": "Structures",
+      "relativePath": "Locations/Greece/Structures"
+    },
+    {
+      "name": "Morocco-Germany-Athens",
+      "relativePath": "Morocco-Germany-Athens"
     }
   ],
   "nonMdFiles": [
     {
-      "name": "allExceptMd.json",
-      "basename": "allExceptMd",
-      "relativePath": "allExceptMd.json"
+      "name": "Canvas.canvas",
+      "basename": "Canvas",
+      "relativePath": "Canvas.canvas"
     },
     {
       "name": "canvas.json",
@@ -413,9 +413,9 @@
       "relativePath": "canvas.json"
     },
     {
-      "name": "Canvas.canvas",
-      "basename": "Canvas",
-      "relativePath": "Canvas.canvas"
+      "name": "allExceptMd.json",
+      "basename": "allExceptMd",
+      "relativePath": "allExceptMd.json"
     },
     {
       "name": "metadata.json",
@@ -426,31 +426,6 @@
       "name": "tags.json",
       "basename": "tags",
       "relativePath": "tags.json"
-    },
-    {
-      "name": "catrone3_Amulet_of_Athena_4f2d220d-d7ca-4d2c-bca8-9d5f73522b38.png",
-      "basename": "catrone3_Amulet_of_Athena_4f2d220d-d7ca-4d2c-bca8-9d5f73522b38",
-      "relativePath": "Images/catrone3_Amulet_of_Athena_4f2d220d-d7ca-4d2c-bca8-9d5f73522b38.png"
-    },
-    {
-      "name": "catrone3_Council_of_Attica_logo_with_no_words_2da43de6-734a-4cb5-9bbe-52b9795b9b54.png",
-      "basename": "catrone3_Council_of_Attica_logo_with_no_words_2da43de6-734a-4cb5-9bbe-52b9795b9b54",
-      "relativePath": "Images/catrone3_Council_of_Attica_logo_with_no_words_2da43de6-734a-4cb5-9bbe-52b9795b9b54.png"
-    },
-    {
-      "name": "catrone3_Council_of_Attica_logo_with_no_words_37bce929-518c-49cf-bfeb-aac3ed456540.png",
-      "basename": "catrone3_Council_of_Attica_logo_with_no_words_37bce929-518c-49cf-bfeb-aac3ed456540",
-      "relativePath": "Images/catrone3_Council_of_Attica_logo_with_no_words_37bce929-518c-49cf-bfeb-aac3ed456540.png"
-    },
-    {
-      "name": "catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e.png",
-      "basename": "catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e",
-      "relativePath": "Images/catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e.png"
-    },
-    {
-      "name": "catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f.png",
-      "basename": "catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f",
-      "relativePath": "Images/catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f.png"
     },
     {
       "name": "Litehouse Industries.canvas",
@@ -468,34 +443,9 @@
       "relativePath": "Images/attachments/catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f.png"
     },
     {
-      "name": "Pasted image 20221103125806.png",
-      "basename": "Pasted image 20221103125806",
-      "relativePath": "Images/attachments/Pasted image 20221103125806.png"
-    },
-    {
-      "name": "Pasted image 20221103125922.png",
-      "basename": "Pasted image 20221103125922",
-      "relativePath": "Images/attachments/Pasted image 20221103125922.png"
-    },
-    {
       "name": "Pasted image 20221103125937.png",
       "basename": "Pasted image 20221103125937",
       "relativePath": "Images/attachments/Pasted image 20221103125937.png"
-    },
-    {
-      "name": "Pasted image 20230211135711.png",
-      "basename": "Pasted image 20230211135711",
-      "relativePath": "Images/attachments/Pasted image 20230211135711.png"
-    },
-    {
-      "name": "Pasted image 20221103130021.png",
-      "basename": "Pasted image 20221103130021",
-      "relativePath": "Images/attachments/Pasted image 20221103130021.png"
-    },
-    {
-      "name": "Pasted image 20230211135728.png",
-      "basename": "Pasted image 20230211135728",
-      "relativePath": "Images/attachments/Pasted image 20230211135728.png"
     },
     {
       "name": "Pasted image 20221103130030.png",
@@ -503,9 +453,34 @@
       "relativePath": "Images/attachments/Pasted image 20221103130030.png"
     },
     {
+      "name": "Pasted image 20221103125922.png",
+      "basename": "Pasted image 20221103125922",
+      "relativePath": "Images/attachments/Pasted image 20221103125922.png"
+    },
+    {
+      "name": "Pasted image 20221103125806.png",
+      "basename": "Pasted image 20221103125806",
+      "relativePath": "Images/attachments/Pasted image 20221103125806.png"
+    },
+    {
+      "name": "Pasted image 20221103130021.png",
+      "basename": "Pasted image 20221103130021",
+      "relativePath": "Images/attachments/Pasted image 20221103130021.png"
+    },
+    {
+      "name": "Pasted image 20230211135711.png",
+      "basename": "Pasted image 20230211135711",
+      "relativePath": "Images/attachments/Pasted image 20230211135711.png"
+    },
+    {
       "name": "Pasted image 20230408140717.png",
       "basename": "Pasted image 20230408140717",
       "relativePath": "Images/attachments/Pasted image 20230408140717.png"
+    },
+    {
+      "name": "Pasted image 20230211135728.png",
+      "basename": "Pasted image 20230211135728",
+      "relativePath": "Images/attachments/Pasted image 20230211135728.png"
     },
     {
       "name": "Pasted image 20230421140050.png",
@@ -513,19 +488,14 @@
       "relativePath": "Images/attachments/Pasted image 20230421140050.png"
     },
     {
-      "name": "Pasted image 20230421135730.png",
-      "basename": "Pasted image 20230421135730",
-      "relativePath": "Images/attachments/Pasted image 20230421135730.png"
-    },
-    {
-      "name": "Pasted image 20230421135939.png",
-      "basename": "Pasted image 20230421135939",
-      "relativePath": "Images/attachments/Pasted image 20230421135939.png"
-    },
-    {
       "name": "Stirrup Interface.png",
       "basename": "Stirrup Interface",
       "relativePath": "Images/attachments/Stirrup Interface.png"
+    },
+    {
+      "name": "Pasted image 20230421135730.png",
+      "basename": "Pasted image 20230421135730",
+      "relativePath": "Images/attachments/Pasted image 20230421135730.png"
     },
     {
       "name": "Tiger Syndikat.png",
@@ -533,19 +503,24 @@
       "relativePath": "Images/attachments/Tiger Syndikat.png"
     },
     {
+      "name": "Pasted image 20230421135939.png",
+      "basename": "Pasted image 20230421135939",
+      "relativePath": "Images/attachments/Pasted image 20230421135939.png"
+    },
+    {
       "name": "451bef93-9c1d-4bed-9290-9e8e6182ae42874824869.jpg",
       "basename": "451bef93-9c1d-4bed-9290-9e8e6182ae42874824869",
       "relativePath": "Images/floor plans and buildings/451bef93-9c1d-4bed-9290-9e8e6182ae42874824869.jpg"
     },
     {
-      "name": "5766e50d-28d2-403f-b253-d13991631686-1223112583.jpg",
-      "basename": "5766e50d-28d2-403f-b253-d13991631686-1223112583",
-      "relativePath": "Images/floor plans and buildings/5766e50d-28d2-403f-b253-d13991631686-1223112583.jpg"
-    },
-    {
       "name": "Johnson city.png",
       "basename": "Johnson city",
       "relativePath": "Images/floor plans and buildings/Johnson city.png"
+    },
+    {
+      "name": "5766e50d-28d2-403f-b253-d13991631686-1223112583.jpg",
+      "basename": "5766e50d-28d2-403f-b253-d13991631686-1223112583",
+      "relativePath": "Images/floor plans and buildings/5766e50d-28d2-403f-b253-d13991631686-1223112583.jpg"
     },
     {
       "name": "London Manufacturing.png",
@@ -558,14 +533,14 @@
       "relativePath": "Images/floor plans and buildings/Seattle Site.png"
     },
     {
-      "name": "Slip Warehouse.png",
-      "basename": "Slip Warehouse",
-      "relativePath": "Images/floor plans and buildings/Slip Warehouse.png"
-    },
-    {
       "name": "office building 1.jpg",
       "basename": "office building 1",
       "relativePath": "Images/floor plans and buildings/office building 1.jpg"
+    },
+    {
+      "name": "Slip Warehouse.png",
+      "basename": "Slip Warehouse",
+      "relativePath": "Images/floor plans and buildings/Slip Warehouse.png"
     },
     {
       "name": "office building 2.jpg",
@@ -573,9 +548,9 @@
       "relativePath": "Images/floor plans and buildings/office building 2.jpg"
     },
     {
-      "name": "Adonis.png",
-      "basename": "Adonis",
-      "relativePath": "Images/shadowrun characters/Adonis.png"
+      "name": "Allen Helmut.jpg",
+      "basename": "Allen Helmut",
+      "relativePath": "Images/shadowrun characters/Allen Helmut.jpg"
     },
     {
       "name": "The Elegance Tower.png",
@@ -583,9 +558,9 @@
       "relativePath": "Images/floor plans and buildings/The Elegance Tower.png"
     },
     {
-      "name": "Allen Helmut.jpg",
-      "basename": "Allen Helmut",
-      "relativePath": "Images/shadowrun characters/Allen Helmut.jpg"
+      "name": "Adonis.png",
+      "basename": "Adonis",
+      "relativePath": "Images/shadowrun characters/Adonis.png"
     },
     {
       "name": "Aléxios Callas.png",
@@ -598,21 +573,6 @@
       "relativePath": "Images/shadowrun characters/begger.jpg"
     },
     {
-      "name": "big_mac.jpg",
-      "basename": "big_mac",
-      "relativePath": "Images/shadowrun characters/big_mac.jpg"
-    },
-    {
-      "name": "big_sky.jpg",
-      "basename": "big_sky",
-      "relativePath": "Images/shadowrun characters/big_sky.jpg"
-    },
-    {
-      "name": "blade.jpg",
-      "basename": "blade",
-      "relativePath": "Images/shadowrun characters/blade.jpg"
-    },
-    {
       "name": "Angelica_Quinn.jpg",
       "basename": "Angelica_Quinn",
       "relativePath": "Images/shadowrun characters/Angelica_Quinn.jpg"
@@ -621,6 +581,26 @@
       "name": "Big Lou.png",
       "basename": "Big Lou",
       "relativePath": "Images/shadowrun characters/Big Lou.png"
+    },
+    {
+      "name": "big_sky.jpg",
+      "basename": "big_sky",
+      "relativePath": "Images/shadowrun characters/big_sky.jpg"
+    },
+    {
+      "name": "big_mac.jpg",
+      "basename": "big_mac",
+      "relativePath": "Images/shadowrun characters/big_mac.jpg"
+    },
+    {
+      "name": "blade.jpg",
+      "basename": "blade",
+      "relativePath": "Images/shadowrun characters/blade.jpg"
+    },
+    {
+      "name": "bluefeather.png",
+      "basename": "bluefeather",
+      "relativePath": "Images/shadowrun characters/bluefeather.png"
     },
     {
       "name": "Blaze.png",
@@ -633,9 +613,14 @@
       "relativePath": "Images/shadowrun characters/Blood Butterfly.jpg"
     },
     {
-      "name": "bluefeather.png",
-      "basename": "bluefeather",
-      "relativePath": "Images/shadowrun characters/bluefeather.png"
+      "name": "Blitz.jpg",
+      "basename": "Blitz",
+      "relativePath": "Images/shadowrun characters/Blitz.jpg"
+    },
+    {
+      "name": "ClicClac.png",
+      "basename": "ClicClac",
+      "relativePath": "Images/shadowrun characters/ClicClac.png"
     },
     {
       "name": "Chip Lantray.png",
@@ -648,14 +633,9 @@
       "relativePath": "Images/shadowrun characters/Cho Drake.png"
     },
     {
-      "name": "Blitz.jpg",
-      "basename": "Blitz",
-      "relativePath": "Images/shadowrun characters/Blitz.jpg"
-    },
-    {
-      "name": "ClicClac.png",
-      "basename": "ClicClac",
-      "relativePath": "Images/shadowrun characters/ClicClac.png"
+      "name": "Colonel Bennet.png",
+      "basename": "Colonel Bennet",
+      "relativePath": "Images/shadowrun characters/Colonel Bennet.png"
     },
     {
       "name": "Coco.png",
@@ -668,14 +648,14 @@
       "relativePath": "Images/shadowrun characters/creed.jpg"
     },
     {
-      "name": "Colonel Bennet.png",
-      "basename": "Colonel Bennet",
-      "relativePath": "Images/shadowrun characters/Colonel Bennet.png"
+      "name": "Dimitra Michel.png",
+      "basename": "Dimitra Michel",
+      "relativePath": "Images/shadowrun characters/Dimitra Michel.png"
     },
     {
-      "name": "David Johnson.jpg",
-      "basename": "David Johnson",
-      "relativePath": "Images/shadowrun characters/David Johnson.jpg"
+      "name": "Cyrille Boutin.png",
+      "basename": "Cyrille Boutin",
+      "relativePath": "Images/shadowrun characters/Cyrille Boutin.png"
     },
     {
       "name": "DataMax.png",
@@ -683,19 +663,14 @@
       "relativePath": "Images/shadowrun characters/DataMax.png"
     },
     {
-      "name": "Dimitra Michel.png",
-      "basename": "Dimitra Michel",
-      "relativePath": "Images/shadowrun characters/Dimitra Michel.png"
+      "name": "David Johnson.jpg",
+      "basename": "David Johnson",
+      "relativePath": "Images/shadowrun characters/David Johnson.jpg"
     },
     {
       "name": "Domestic Cat Spirit.png",
       "basename": "Domestic Cat Spirit",
       "relativePath": "Images/shadowrun characters/Domestic Cat Spirit.png"
-    },
-    {
-      "name": "Cyrille Boutin.png",
-      "basename": "Cyrille Boutin",
-      "relativePath": "Images/shadowrun characters/Cyrille Boutin.png"
     },
     {
       "name": "Dorís Andreas.png",
@@ -708,14 +683,14 @@
       "relativePath": "Images/shadowrun characters/Eddie Boussard.png"
     },
     {
-      "name": "Evangelia Kaufmann.webp",
-      "basename": "Evangelia Kaufmann",
-      "relativePath": "Images/shadowrun characters/Evangelia Kaufmann.webp"
-    },
-    {
       "name": "female 1.jpg",
       "basename": "female 1",
       "relativePath": "Images/shadowrun characters/female 1.jpg"
+    },
+    {
+      "name": "Evangelia Kaufmann.webp",
+      "basename": "Evangelia Kaufmann",
+      "relativePath": "Images/shadowrun characters/Evangelia Kaufmann.webp"
     },
     {
       "name": "Fox spirit.png",
@@ -733,29 +708,14 @@
       "relativePath": "Images/shadowrun characters/good_father.jpg"
     },
     {
-      "name": "gip.jpg",
-      "basename": "gip",
-      "relativePath": "Images/shadowrun characters/gip.jpg"
-    },
-    {
       "name": "Grimm.png",
       "basename": "Grimm",
       "relativePath": "Images/shadowrun characters/Grimm.png"
     },
     {
-      "name": "gunnerteacher.jpg",
-      "basename": "gunnerteacher",
-      "relativePath": "Images/shadowrun characters/gunnerteacher.jpg"
-    },
-    {
-      "name": "harlequin.webp",
-      "basename": "harlequin",
-      "relativePath": "Images/shadowrun characters/harlequin.webp"
-    },
-    {
-      "name": "Heidi Nagel.png",
-      "basename": "Heidi Nagel",
-      "relativePath": "Images/shadowrun characters/Heidi Nagel.png"
+      "name": "gip.jpg",
+      "basename": "gip",
+      "relativePath": "Images/shadowrun characters/gip.jpg"
     },
     {
       "name": "Helix.jpg",
@@ -768,9 +728,19 @@
       "relativePath": "Images/shadowrun characters/Hitsuki Cho.png"
     },
     {
-      "name": "Jardis Balise.png",
-      "basename": "Jardis Balise",
-      "relativePath": "Images/shadowrun characters/Jardis Balise.png"
+      "name": "gunnerteacher.jpg",
+      "basename": "gunnerteacher",
+      "relativePath": "Images/shadowrun characters/gunnerteacher.jpg"
+    },
+    {
+      "name": "Heidi Nagel.png",
+      "basename": "Heidi Nagel",
+      "relativePath": "Images/shadowrun characters/Heidi Nagel.png"
+    },
+    {
+      "name": "harlequin.webp",
+      "basename": "harlequin",
+      "relativePath": "Images/shadowrun characters/harlequin.webp"
     },
     {
       "name": "Jenny Haniver.jpg",
@@ -778,19 +748,29 @@
       "relativePath": "Images/shadowrun characters/Jenny Haniver.jpg"
     },
     {
-      "name": "Jess.png",
-      "basename": "Jess",
-      "relativePath": "Images/shadowrun characters/Jess.png"
-    },
-    {
       "name": "ivy.jpg",
       "basename": "ivy",
       "relativePath": "Images/shadowrun characters/ivy.jpg"
     },
     {
+      "name": "Jardis Balise.png",
+      "basename": "Jardis Balise",
+      "relativePath": "Images/shadowrun characters/Jardis Balise.png"
+    },
+    {
+      "name": "Jess.png",
+      "basename": "Jess",
+      "relativePath": "Images/shadowrun characters/Jess.png"
+    },
+    {
       "name": "Jenny Haniver dragon.webp",
       "basename": "Jenny Haniver dragon",
       "relativePath": "Images/shadowrun characters/Jenny Haniver dragon.webp"
+    },
+    {
+      "name": "John Pau Morrell.png",
+      "basename": "John Pau Morrell",
+      "relativePath": "Images/shadowrun characters/John Pau Morrell.png"
     },
     {
       "name": "jester mask.png",
@@ -803,14 +783,9 @@
       "relativePath": "Images/shadowrun characters/Jester.png"
     },
     {
-      "name": "John Pau Morrell.png",
-      "basename": "John Pau Morrell",
-      "relativePath": "Images/shadowrun characters/John Pau Morrell.png"
-    },
-    {
-      "name": "kai.jpg",
-      "basename": "kai",
-      "relativePath": "Images/shadowrun characters/kai.jpg"
+      "name": "Jonathan_Micheals_1.jpg",
+      "basename": "Jonathan_Micheals_1",
+      "relativePath": "Images/shadowrun characters/Jonathan_Micheals_1.jpg"
     },
     {
       "name": "June BUg Reavers.png",
@@ -818,19 +793,9 @@
       "relativePath": "Images/shadowrun characters/June BUg Reavers.png"
     },
     {
-      "name": "Kaleidoscope.png",
-      "basename": "Kaleidoscope",
-      "relativePath": "Images/shadowrun characters/Kaleidoscope.png"
-    },
-    {
-      "name": "Jonathan_Micheals_1.jpg",
-      "basename": "Jonathan_Micheals_1",
-      "relativePath": "Images/shadowrun characters/Jonathan_Micheals_1.jpg"
-    },
-    {
-      "name": "Kalt.jpg",
-      "basename": "Kalt",
-      "relativePath": "Images/shadowrun characters/Kalt.jpg"
+      "name": "kai.jpg",
+      "basename": "kai",
+      "relativePath": "Images/shadowrun characters/kai.jpg"
     },
     {
       "name": "Lance_Barrymore_1.jpg",
@@ -843,14 +808,14 @@
       "relativePath": "Images/shadowrun characters/leah.jpg"
     },
     {
-      "name": "Lisette.png",
-      "basename": "Lisette",
-      "relativePath": "Images/shadowrun characters/Lisette.png"
+      "name": "Kalt.jpg",
+      "basename": "Kalt",
+      "relativePath": "Images/shadowrun characters/Kalt.jpg"
     },
     {
-      "name": "m12.jpg",
-      "basename": "m12",
-      "relativePath": "Images/shadowrun characters/m12.jpg"
+      "name": "Kaleidoscope.png",
+      "basename": "Kaleidoscope",
+      "relativePath": "Images/shadowrun characters/Kaleidoscope.png"
     },
     {
       "name": "Lester.png",
@@ -858,9 +823,24 @@
       "relativePath": "Images/shadowrun characters/Lester.png"
     },
     {
+      "name": "m12.jpg",
+      "basename": "m12",
+      "relativePath": "Images/shadowrun characters/m12.jpg"
+    },
+    {
+      "name": "Lisette.png",
+      "basename": "Lisette",
+      "relativePath": "Images/shadowrun characters/Lisette.png"
+    },
+    {
       "name": "magic 10 male.jpg",
       "basename": "magic 10 male",
       "relativePath": "Images/shadowrun characters/magic 10 male.jpg"
+    },
+    {
+      "name": "m13.jpg",
+      "basename": "m13",
+      "relativePath": "Images/shadowrun characters/m13.jpg"
     },
     {
       "name": "magic 10.jpg",
@@ -868,19 +848,14 @@
       "relativePath": "Images/shadowrun characters/magic 10.jpg"
     },
     {
-      "name": "magic 9.jpg",
-      "basename": "magic 9",
-      "relativePath": "Images/shadowrun characters/magic 9.jpg"
-    },
-    {
       "name": "Mama Mawu.png",
       "basename": "Mama Mawu",
       "relativePath": "Images/shadowrun characters/Mama Mawu.png"
     },
     {
-      "name": "m13.jpg",
-      "basename": "m13",
-      "relativePath": "Images/shadowrun characters/m13.jpg"
+      "name": "magic 9.jpg",
+      "basename": "magic 9",
+      "relativePath": "Images/shadowrun characters/magic 9.jpg"
     },
     {
       "name": "man 2.jpg",
@@ -898,19 +873,9 @@
       "relativePath": "Images/shadowrun characters/meia.jpg"
     },
     {
-      "name": "man 1.png",
-      "basename": "man 1",
-      "relativePath": "Images/shadowrun characters/man 1.png"
-    },
-    {
       "name": "Melissade DeBussy.png",
       "basename": "Melissade DeBussy",
       "relativePath": "Images/shadowrun characters/Melissade DeBussy.png"
-    },
-    {
-      "name": "Mi Kwan.jpg",
-      "basename": "Mi Kwan",
-      "relativePath": "Images/shadowrun characters/Mi Kwan.jpg"
     },
     {
       "name": "moniqie_Lang.jpg",
@@ -918,14 +883,19 @@
       "relativePath": "Images/shadowrun characters/moniqie_Lang.jpg"
     },
     {
+      "name": "man 1.png",
+      "basename": "man 1",
+      "relativePath": "Images/shadowrun characters/man 1.png"
+    },
+    {
       "name": "mysad.jpg",
       "basename": "mysad",
       "relativePath": "Images/shadowrun characters/mysad.jpg"
     },
     {
-      "name": "Nadja Davier.png",
-      "basename": "Nadja Davier",
-      "relativePath": "Images/shadowrun characters/Nadja Davier.png"
+      "name": "Mi Kwan.jpg",
+      "basename": "Mi Kwan",
+      "relativePath": "Images/shadowrun characters/Mi Kwan.jpg"
     },
     {
       "name": "Nash_Brand_1.jpg",
@@ -933,14 +903,14 @@
       "relativePath": "Images/shadowrun characters/Nash_Brand_1.jpg"
     },
     {
-      "name": "OIP_6.jpg",
-      "basename": "OIP_6",
-      "relativePath": "Images/shadowrun characters/OIP_6.jpg"
-    },
-    {
       "name": "OIP_2.jpg",
       "basename": "OIP_2",
       "relativePath": "Images/shadowrun characters/OIP_2.jpg"
+    },
+    {
+      "name": "Nadja Davier.png",
+      "basename": "Nadja Davier",
+      "relativePath": "Images/shadowrun characters/Nadja Davier.png"
     },
     {
       "name": "old guy in incubus.jpg",
@@ -953,6 +923,11 @@
       "relativePath": "Images/shadowrun characters/Old Man Bones.png"
     },
     {
+      "name": "OIP_6.jpg",
+      "basename": "OIP_6",
+      "relativePath": "Images/shadowrun characters/OIP_6.jpg"
+    },
+    {
       "name": "Pascal Fleming.png",
       "basename": "Pascal Fleming",
       "relativePath": "Images/shadowrun characters/Pascal Fleming.png"
@@ -963,19 +938,14 @@
       "relativePath": "Images/shadowrun characters/Pasted image 20220130180417.png"
     },
     {
-      "name": "Pasted image 20220130180427.png",
-      "basename": "Pasted image 20220130180427",
-      "relativePath": "Images/shadowrun characters/Pasted image 20220130180427.png"
-    },
-    {
       "name": "Pasted image 20220130180436.png",
       "basename": "Pasted image 20220130180436",
       "relativePath": "Images/shadowrun characters/Pasted image 20220130180436.png"
     },
     {
-      "name": "Pasted image 20220130181950.png",
-      "basename": "Pasted image 20220130181950",
-      "relativePath": "Images/shadowrun characters/Pasted image 20220130181950.png"
+      "name": "Pasted image 20220130180427.png",
+      "basename": "Pasted image 20220130180427",
+      "relativePath": "Images/shadowrun characters/Pasted image 20220130180427.png"
     },
     {
       "name": "Pasted image 20220130182532.png",
@@ -993,6 +963,11 @@
       "relativePath": "Images/shadowrun characters/Pasted image 20220418172155.png"
     },
     {
+      "name": "Pasted image 20220130181950.png",
+      "basename": "Pasted image 20220130181950",
+      "relativePath": "Images/shadowrun characters/Pasted image 20220130181950.png"
+    },
+    {
       "name": "Pasted image 20220418172208.png",
       "basename": "Pasted image 20220418172208",
       "relativePath": "Images/shadowrun characters/Pasted image 20220418172208.png"
@@ -1001,16 +976,6 @@
       "name": "Pasted image 20230225142651.png",
       "basename": "Pasted image 20230225142651",
       "relativePath": "Images/shadowrun characters/Pasted image 20230225142651.png"
-    },
-    {
-      "name": "Pasted image 20230304234523.png",
-      "basename": "Pasted image 20230304234523",
-      "relativePath": "Images/shadowrun characters/Pasted image 20230304234523.png"
-    },
-    {
-      "name": "Pasted image 20230325150404.png",
-      "basename": "Pasted image 20230325150404",
-      "relativePath": "Images/shadowrun characters/Pasted image 20230325150404.png"
     },
     {
       "name": "Pasted image 20230325145550.png",
@@ -1023,9 +988,19 @@
       "relativePath": "Images/shadowrun characters/Pasted image 20230325150422.png"
     },
     {
+      "name": "Pasted image 20230325150404.png",
+      "basename": "Pasted image 20230325150404",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230325150404.png"
+    },
+    {
       "name": "Pasted image 20230325161639.png",
       "basename": "Pasted image 20230325161639",
       "relativePath": "Images/shadowrun characters/Pasted image 20230325161639.png"
+    },
+    {
+      "name": "Pasted image 20230304234523.png",
+      "basename": "Pasted image 20230304234523",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230304234523.png"
     },
     {
       "name": "pricess.jpg",
@@ -1033,19 +1008,14 @@
       "relativePath": "Images/shadowrun characters/pricess.jpg"
     },
     {
-      "name": "Prue_Kress.jpg",
-      "basename": "Prue_Kress",
-      "relativePath": "Images/shadowrun characters/Prue_Kress.jpg"
-    },
-    {
       "name": "Páris Marinos.png",
       "basename": "Páris Marinos",
       "relativePath": "Images/shadowrun characters/Páris Marinos.png"
     },
     {
-      "name": "rada.jpg",
-      "basename": "rada",
-      "relativePath": "Images/shadowrun characters/rada.jpg"
+      "name": "Prue_Kress.jpg",
+      "basename": "Prue_Kress",
+      "relativePath": "Images/shadowrun characters/Prue_Kress.jpg"
     },
     {
       "name": "pudding.jpg",
@@ -1053,14 +1023,24 @@
       "relativePath": "Images/shadowrun characters/pudding.jpg"
     },
     {
+      "name": "R_1.png",
+      "basename": "R_1",
+      "relativePath": "Images/shadowrun characters/R_1.png"
+    },
+    {
+      "name": "rada.jpg",
+      "basename": "rada",
+      "relativePath": "Images/shadowrun characters/rada.jpg"
+    },
+    {
       "name": "Raven Spirit.png",
       "basename": "Raven Spirit",
       "relativePath": "Images/shadowrun characters/Raven Spirit.png"
     },
     {
-      "name": "R_1.png",
-      "basename": "R_1",
-      "relativePath": "Images/shadowrun characters/R_1.png"
+      "name": "Salena Boisvert.jpg",
+      "basename": "Salena Boisvert",
+      "relativePath": "Images/shadowrun characters/Salena Boisvert.jpg"
     },
     {
       "name": "rue_Quinn.png",
@@ -1068,9 +1048,9 @@
       "relativePath": "Images/shadowrun characters/rue_Quinn.png"
     },
     {
-      "name": "Salena Boisvert.jpg",
-      "basename": "Salena Boisvert",
-      "relativePath": "Images/shadowrun characters/Salena Boisvert.jpg"
+      "name": "sage_Quinn.jpg",
+      "basename": "sage_Quinn",
+      "relativePath": "Images/shadowrun characters/sage_Quinn.jpg"
     },
     {
       "name": "selena.jpg",
@@ -1083,11 +1063,6 @@
       "relativePath": "Images/shadowrun characters/Sherif Sam Peters.png"
     },
     {
-      "name": "sage_Quinn.jpg",
-      "basename": "sage_Quinn",
-      "relativePath": "Images/shadowrun characters/sage_Quinn.jpg"
-    },
-    {
       "name": "Sky_Kingsley.jpg",
       "basename": "Sky_Kingsley",
       "relativePath": "Images/shadowrun characters/Sky_Kingsley.jpg"
@@ -1098,19 +1073,9 @@
       "relativePath": "Images/shadowrun characters/slag.jpg"
     },
     {
-      "name": "slip.jpg",
-      "basename": "slip",
-      "relativePath": "Images/shadowrun characters/slip.jpg"
-    },
-    {
       "name": "shay_1.jpg",
       "basename": "shay_1",
       "relativePath": "Images/shadowrun characters/shay_1.jpg"
-    },
-    {
-      "name": "Sofoúla Manis.png",
-      "basename": "Sofoúla Manis",
-      "relativePath": "Images/shadowrun characters/Sofoúla Manis.png"
     },
     {
       "name": "sprung.jpg",
@@ -1118,9 +1083,9 @@
       "relativePath": "Images/shadowrun characters/sprung.jpg"
     },
     {
-      "name": "sunny.jpg",
-      "basename": "sunny",
-      "relativePath": "Images/shadowrun characters/sunny.jpg"
+      "name": "Sofoúla Manis.png",
+      "basename": "Sofoúla Manis",
+      "relativePath": "Images/shadowrun characters/Sofoúla Manis.png"
     },
     {
       "name": "Steve.png",
@@ -1128,19 +1093,24 @@
       "relativePath": "Images/shadowrun characters/Steve.png"
     },
     {
+      "name": "sunny.jpg",
+      "basename": "sunny",
+      "relativePath": "Images/shadowrun characters/sunny.jpg"
+    },
+    {
       "name": "Tara_Doe.jpg",
       "basename": "Tara_Doe",
       "relativePath": "Images/shadowrun characters/Tara_Doe.jpg"
     },
     {
+      "name": "slip.jpg",
+      "basename": "slip",
+      "relativePath": "Images/shadowrun characters/slip.jpg"
+    },
+    {
       "name": "teacher1.jpg",
       "basename": "teacher1",
       "relativePath": "Images/shadowrun characters/teacher1.jpg"
-    },
-    {
-      "name": "Thirteen.jpg",
-      "basename": "Thirteen",
-      "relativePath": "Images/shadowrun characters/Thirteen.jpg"
     },
     {
       "name": "Thalís Savas.png",
@@ -1151,6 +1121,11 @@
       "name": "Tia_Micheals_1.jpg",
       "basename": "Tia_Micheals_1",
       "relativePath": "Images/shadowrun characters/Tia_Micheals_1.jpg"
+    },
+    {
+      "name": "Thirteen.jpg",
+      "basename": "Thirteen",
+      "relativePath": "Images/shadowrun characters/Thirteen.jpg"
     },
     {
       "name": "teacher2.jpg",
@@ -1173,14 +1148,19 @@
       "relativePath": "Images/shadowrun characters/Toby Walker.png"
     },
     {
+      "name": "Ushi Bido (2).jpg",
+      "basename": "Ushi Bido (2)",
+      "relativePath": "Images/shadowrun characters/Ushi Bido (2).jpg"
+    },
+    {
       "name": "Troy.jpg",
       "basename": "Troy",
       "relativePath": "Images/shadowrun characters/Troy.jpg"
     },
     {
-      "name": "Ushi Bido (2).jpg",
-      "basename": "Ushi Bido (2)",
-      "relativePath": "Images/shadowrun characters/Ushi Bido (2).jpg"
+      "name": "Weagona.png",
+      "basename": "Weagona",
+      "relativePath": "Images/shadowrun characters/Weagona.png"
     },
     {
       "name": "Valerian_Quinn.png",
@@ -1193,19 +1173,44 @@
       "relativePath": "Images/shadowrun characters/ulli.jpg"
     },
     {
+      "name": "Wolf Spirit.png",
+      "basename": "Wolf Spirit",
+      "relativePath": "Images/shadowrun characters/Wolf Spirit.png"
+    },
+    {
       "name": "Zoe.png",
       "basename": "Zoe",
       "relativePath": "Images/shadowrun characters/Zoe.png"
     },
     {
-      "name": "Weagona.png",
-      "basename": "Weagona",
-      "relativePath": "Images/shadowrun characters/Weagona.png"
+      "name": "catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e.png",
+      "basename": "catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e",
+      "relativePath": "Images/shadowrun characters/catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e.png"
     },
     {
-      "name": "Wolf Spirit.png",
-      "basename": "Wolf Spirit",
-      "relativePath": "Images/shadowrun characters/Wolf Spirit.png"
+      "name": "Marcus Krieger.png",
+      "basename": "Marcus Krieger",
+      "relativePath": "Images/shadowrun characters/Marcus Krieger.png"
+    },
+    {
+      "name": "catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f 1.png",
+      "basename": "catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f 1",
+      "relativePath": "Images/attachments/catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f 1.png"
+    },
+    {
+      "name": "catrone3_Amulet_of_Athena_4f2d220d-d7ca-4d2c-bca8-9d5f73522b38.png",
+      "basename": "catrone3_Amulet_of_Athena_4f2d220d-d7ca-4d2c-bca8-9d5f73522b38",
+      "relativePath": "Images/attachments/catrone3_Amulet_of_Athena_4f2d220d-d7ca-4d2c-bca8-9d5f73522b38.png"
+    },
+    {
+      "name": "catrone3_Council_of_Attica_logo_with_no_words_2da43de6-734a-4cb5-9bbe-52b9795b9b54.png",
+      "basename": "catrone3_Council_of_Attica_logo_with_no_words_2da43de6-734a-4cb5-9bbe-52b9795b9b54",
+      "relativePath": "Images/attachments/catrone3_Council_of_Attica_logo_with_no_words_2da43de6-734a-4cb5-9bbe-52b9795b9b54.png"
+    },
+    {
+      "name": "catrone3_Council_of_Attica_logo_with_no_words_37bce929-518c-49cf-bfeb-aac3ed456540.png",
+      "basename": "catrone3_Council_of_Attica_logo_with_no_words_37bce929-518c-49cf-bfeb-aac3ed456540",
+      "relativePath": "Images/attachments/catrone3_Council_of_Attica_logo_with_no_words_37bce929-518c-49cf-bfeb-aac3ed456540.png"
     }
   ]
 }

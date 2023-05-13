@@ -1,3 +1,8 @@
+### NonPlayerCharacters
+|Image|Name|Age|Synopsis|
+| --- | --- | --- | ---|
+|![[../../Images/shadowrun characters/Marcus Krieger.png\|50]]| Marcus Krieger | | |
+### Details
 Host
 rating 9
 9/9/11/13

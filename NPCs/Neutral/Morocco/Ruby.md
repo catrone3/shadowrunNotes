@@ -1,1 +1,1 @@
-[[../../../Country Entities/Djinn|Djinn]] in training who uses a gun scyth
+[[../../../Factions/Morocco/Country Entities/Djinn|Djinn]] in training who uses a gun scyth

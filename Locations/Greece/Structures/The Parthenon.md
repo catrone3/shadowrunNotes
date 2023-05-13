@@ -1,0 +1,1 @@
+this ancient temple dedicated to the goddess Athena is said to be a focal point for magical energies, with some rumors claiming that a powerful spirit of wisdom and battle resides within its walls.

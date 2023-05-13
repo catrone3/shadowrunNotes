@@ -1,4 +1,4 @@
-Site is owned by the [[../../Country Entities/Djinn|Djinn]]
+Site is owned by the [[../../Factions/Morocco/Country Entities/Djinn|Djinn]]
 
 these were seen coming out of the black site
 ![[../../Images/shadowrun characters/man 2.jpg]]

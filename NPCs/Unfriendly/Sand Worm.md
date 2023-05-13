@@ -1,6 +1,6 @@
 found in the disputed lands of the west saraha
-was another experiment from the [[../../Crime Orgs/Black Monkey Syndicate|Black Monkey Syndicate]]
-The [[../../Country Entities/Djinn|Djinn]] will call for them to deal with it.
+was another experiment from the [[../../Factions/Morocco/Crime Orgs/Black Monkey Syndicate|Black Monkey Syndicate]]
+The [[../../Factions/Morocco/Country Entities/Djinn|Djinn]] will call for them to deal with it.
 
 man named Rukan sint Seif claims they saw it just outside of town
 
