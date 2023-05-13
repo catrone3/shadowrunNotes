@@ -8,9 +8,11 @@
 - [[How to Use Foundry]]
 - [[Working with Github]]
 - [[How to use Exploding Dice bot]]
-## Games
-- [[Players/Athens|Athens]]
+## Current Games
 - [[Players/New Orleans|New Orleans]]
+
+## Old Games 
+- [[Players/Athens|Athens]]
 - [[Players/Denver Prime|Denver Prime]]
 - [[Players/Berlin Game|Berlin]]
 - [[Players/Morocco|Morocco]]

@@ -9839,7 +9839,11 @@
         "level": 2
       },
       {
-        "heading": "Games",
+        "heading": "Current Games",
+        "level": 2
+      },
+      {
+        "heading": "Old Games",
         "level": 2
       }
     ],
@@ -9861,12 +9865,12 @@
         "relativePath": "How to use Exploding Dice bot.md"
       },
       {
-        "link": "Athens",
-        "relativePath": "Players/Athens.md"
-      },
-      {
         "link": "New Orleans",
         "relativePath": "Players/New Orleans.md"
+      },
+      {
+        "link": "Athens",
+        "relativePath": "Players/Athens.md"
       },
       {
         "link": "Denver Prime",
