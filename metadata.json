@@ -1,5 +1,339 @@
 [
   {
+    "fileName": "22-5-8",
+    "relativePath": "North African Crew/22-5-8.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Playing with Names",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-4-24",
+    "relativePath": "North African Crew/22-4-24.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Meeting of Monsters and Men",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      },
+      {
+        "link": "Titania",
+        "relativePath": "Players/Morocco/Titania.md"
+      },
+      {
+        "link": "Galahad",
+        "relativePath": "NPCs/Neutral/Avalon/Galahad.md"
+      },
+      {
+        "link": "Titania",
+        "displayText": "titania",
+        "relativePath": "Players/Morocco/Titania.md"
+      },
+      {
+        "link": "MCT",
+        "relativePath": "AAA Corps/MCT.md"
+      },
+      {
+        "link": "Shiawase",
+        "relativePath": "AAA Corps/Shiawase.md"
+      },
+      {
+        "link": "Ares",
+        "relativePath": "AAA Corps/Ares.md"
+      },
+      {
+        "link": "Wuxing",
+        "relativePath": "AAA Corps/Wuxing.md"
+      },
+      {
+        "link": "Horizon",
+        "relativePath": "AAA Corps/Horizon.md"
+      },
+      {
+        "link": "Evo",
+        "displayText": "EVO",
+        "relativePath": "AAA Corps/Evo.md"
+      },
+      {
+        "link": "MCT",
+        "relativePath": "AAA Corps/MCT.md"
+      },
+      {
+        "link": "Shiawase",
+        "relativePath": "AAA Corps/Shiawase.md"
+      },
+      {
+        "link": "Ares",
+        "relativePath": "AAA Corps/Ares.md"
+      },
+      {
+        "link": "Wuxing",
+        "relativePath": "AAA Corps/Wuxing.md"
+      },
+      {
+        "link": "Horizon",
+        "relativePath": "AAA Corps/Horizon.md"
+      },
+      {
+        "link": "Evo",
+        "displayText": "EVO",
+        "relativePath": "AAA Corps/Evo.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-4-10",
+    "relativePath": "North African Crew/22-4-10.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Library Stop",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      },
+      {
+        "link": "Black Monkey Syndicate",
+        "relativePath": "Factions/Morocco/Crime Orgs/Black Monkey Syndicate.md"
+      },
+      {
+        "link": "Jenny Haniver",
+        "relativePath": "NPCs/Unfriendly/Jenny Haniver.md"
+      },
+      {
+        "link": "Jenny Haniver",
+        "relativePath": "NPCs/Unfriendly/Jenny Haniver.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-3-27",
+    "relativePath": "North African Crew/22-3-27.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Toxic Mage Track Down",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-3-13",
+    "relativePath": "North African Crew/22-3-13.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Tieing loose ends",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      },
+      {
+        "link": "Black Monkey Syndicate",
+        "relativePath": "Factions/Morocco/Crime Orgs/Black Monkey Syndicate.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-2-27",
+    "relativePath": "North African Crew/22-2-27.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "BMS explosion",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      },
+      {
+        "link": "Helix",
+        "relativePath": "NPCs/Friendly/Morocco/Helix.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-1-30",
+    "relativePath": "North African Crew/22-1-30.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Being Shamed",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      },
+      {
+        "link": "Horizon",
+        "relativePath": "AAA Corps/Horizon.md"
+      },
+      {
+        "link": "Aztechnology",
+        "displayText": "aztechnology",
+        "relativePath": "AAA Corps/Aztechnology.md"
+      },
+      {
+        "link": "Horizon",
+        "relativePath": "AAA Corps/Horizon.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-1-16",
+    "relativePath": "North African Crew/22-1-16.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Spice must flow Pt.2",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-1-2",
+    "relativePath": "North African Crew/22-1-2.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Spice must flow Pt.2",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-12-19",
+    "relativePath": "North African Crew/21-12-19.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Spice must flow Pt.1",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-12-5",
+    "relativePath": "North African Crew/21-12-5.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Non-neutonian fun",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      },
+      {
+        "link": "Rabat",
+        "relativePath": "Locations/Morocco/Rabat.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-5-22",
+    "relativePath": "North African Crew/22-5-22.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      }
+    ]
+  },
+  {
     "fileName": "23-5-8",
     "relativePath": "Morocco-Germany-Athens/23-5-8.md",
     "tags": [
@@ -356,175 +690,6 @@
     ]
   },
   {
-    "fileName": "22-5-8",
-    "relativePath": "Morocco-Germany-Athens/22-5-8.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Playing with Names",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-4-10",
-    "relativePath": "Morocco-Germany-Athens/22-4-10.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Library Stop",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      },
-      {
-        "link": "Black Monkey Syndicate",
-        "relativePath": "Factions/Morocco/Crime Orgs/Black Monkey Syndicate.md"
-      },
-      {
-        "link": "Jenny Haniver",
-        "relativePath": "NPCs/Unfriendly/Jenny Haniver.md"
-      },
-      {
-        "link": "Jenny Haniver",
-        "relativePath": "NPCs/Unfriendly/Jenny Haniver.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-5-22",
-    "relativePath": "Morocco-Germany-Athens/22-5-22.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-3-27",
-    "relativePath": "Morocco-Germany-Athens/22-3-27.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Toxic Mage Track Down",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-4-24",
-    "relativePath": "Morocco-Germany-Athens/22-4-24.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Meeting of Monsters and Men",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      },
-      {
-        "link": "Titania",
-        "relativePath": "Players/Morocco/Titania.md"
-      },
-      {
-        "link": "Galahad",
-        "relativePath": "NPCs/Neutral/Avalon/Galahad.md"
-      },
-      {
-        "link": "Titania",
-        "displayText": "titania",
-        "relativePath": "Players/Morocco/Titania.md"
-      },
-      {
-        "link": "MCT",
-        "relativePath": "AAA Corps/MCT.md"
-      },
-      {
-        "link": "Shiawase",
-        "relativePath": "AAA Corps/Shiawase.md"
-      },
-      {
-        "link": "Ares",
-        "relativePath": "AAA Corps/Ares.md"
-      },
-      {
-        "link": "Wuxing",
-        "relativePath": "AAA Corps/Wuxing.md"
-      },
-      {
-        "link": "Horizon",
-        "relativePath": "AAA Corps/Horizon.md"
-      },
-      {
-        "link": "Evo",
-        "displayText": "EVO",
-        "relativePath": "AAA Corps/Evo.md"
-      },
-      {
-        "link": "MCT",
-        "relativePath": "AAA Corps/MCT.md"
-      },
-      {
-        "link": "Shiawase",
-        "relativePath": "AAA Corps/Shiawase.md"
-      },
-      {
-        "link": "Ares",
-        "relativePath": "AAA Corps/Ares.md"
-      },
-      {
-        "link": "Wuxing",
-        "relativePath": "AAA Corps/Wuxing.md"
-      },
-      {
-        "link": "Horizon",
-        "relativePath": "AAA Corps/Horizon.md"
-      },
-      {
-        "link": "Evo",
-        "displayText": "EVO",
-        "relativePath": "AAA Corps/Evo.md"
-      }
-    ]
-  },
-  {
     "fileName": "22-11-06",
     "relativePath": "Morocco-Germany-Athens/22-11-06.md",
     "tags": [
@@ -540,30 +705,6 @@
         "link": "22-10-23",
         "displayText": "Angel needs rehab",
         "relativePath": "Morocco-Germany-Athens/22-10-23.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-3-13",
-    "relativePath": "Morocco-Germany-Athens/22-3-13.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Tieing loose ends",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      },
-      {
-        "link": "Black Monkey Syndicate",
-        "relativePath": "Factions/Morocco/Crime Orgs/Black Monkey Syndicate.md"
       }
     ]
   },
@@ -620,30 +761,6 @@
     ]
   },
   {
-    "fileName": "22-2-27",
-    "relativePath": "Morocco-Germany-Athens/22-2-27.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "BMS explosion",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      },
-      {
-        "link": "Helix",
-        "relativePath": "NPCs/Friendly/Morocco/Helix.md"
-      }
-    ]
-  },
-  {
     "fileName": "22-11-20",
     "relativePath": "Morocco-Germany-Athens/22-11-20.md",
     "tags": [
@@ -672,123 +789,6 @@
       {
         "link": "Heidi Nagel",
         "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-1-16",
-    "relativePath": "Morocco-Germany-Athens/22-1-16.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Spice must flow Pt.2",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-1-30",
-    "relativePath": "Morocco-Germany-Athens/22-1-30.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Being Shamed",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      },
-      {
-        "link": "Horizon",
-        "relativePath": "AAA Corps/Horizon.md"
-      },
-      {
-        "link": "Aztechnology",
-        "displayText": "aztechnology",
-        "relativePath": "AAA Corps/Aztechnology.md"
-      },
-      {
-        "link": "Horizon",
-        "relativePath": "AAA Corps/Horizon.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-1-2",
-    "relativePath": "Morocco-Germany-Athens/22-1-2.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Spice must flow Pt.2",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-12-5",
-    "relativePath": "Morocco-Germany-Athens/21-12-5.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Non-neutonian fun",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      },
-      {
-        "link": "Rabat",
-        "relativePath": "Locations/Morocco/Rabat.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-12-19",
-    "relativePath": "Morocco-Germany-Athens/21-12-19.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Spice must flow Pt.1",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
       }
     ]
   },
@@ -1481,12 +1481,12 @@
       {
         "fileName": "22-4-10",
         "link": "Black Monkey Syndicate",
-        "relativePath": "Morocco-Germany-Athens/22-4-10.md"
+        "relativePath": "North African Crew/22-4-10.md"
       },
       {
         "fileName": "22-3-13",
         "link": "Black Monkey Syndicate",
-        "relativePath": "Morocco-Germany-Athens/22-3-13.md"
+        "relativePath": "North African Crew/22-3-13.md"
       },
       {
         "fileName": "Sand Worm",
@@ -1964,73 +1964,73 @@
       {
         "fileName": "22-5-8",
         "link": "Morocco",
-        "relativePath": "Morocco-Germany-Athens/22-5-8.md",
-        "displayText": "North African Crew"
-      },
-      {
-        "fileName": "22-4-10",
-        "link": "Morocco",
-        "relativePath": "Morocco-Germany-Athens/22-4-10.md",
-        "displayText": "North African Crew"
-      },
-      {
-        "fileName": "22-5-22",
-        "link": "Morocco",
-        "relativePath": "Morocco-Germany-Athens/22-5-22.md",
-        "displayText": "North African Crew"
-      },
-      {
-        "fileName": "22-3-27",
-        "link": "Morocco",
-        "relativePath": "Morocco-Germany-Athens/22-3-27.md",
+        "relativePath": "North African Crew/22-5-8.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "22-4-24",
         "link": "Morocco",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md",
+        "relativePath": "North African Crew/22-4-24.md",
+        "displayText": "North African Crew"
+      },
+      {
+        "fileName": "22-4-10",
+        "link": "Morocco",
+        "relativePath": "North African Crew/22-4-10.md",
+        "displayText": "North African Crew"
+      },
+      {
+        "fileName": "22-3-27",
+        "link": "Morocco",
+        "relativePath": "North African Crew/22-3-27.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "22-3-13",
         "link": "Morocco",
-        "relativePath": "Morocco-Germany-Athens/22-3-13.md",
+        "relativePath": "North African Crew/22-3-13.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "22-2-27",
         "link": "Morocco",
-        "relativePath": "Morocco-Germany-Athens/22-2-27.md",
-        "displayText": "North African Crew"
-      },
-      {
-        "fileName": "22-1-16",
-        "link": "Morocco",
-        "relativePath": "Morocco-Germany-Athens/22-1-16.md",
+        "relativePath": "North African Crew/22-2-27.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "22-1-30",
         "link": "Morocco",
-        "relativePath": "Morocco-Germany-Athens/22-1-30.md",
+        "relativePath": "North African Crew/22-1-30.md",
+        "displayText": "North African Crew"
+      },
+      {
+        "fileName": "22-1-16",
+        "link": "Morocco",
+        "relativePath": "North African Crew/22-1-16.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "22-1-2",
         "link": "Morocco",
-        "relativePath": "Morocco-Germany-Athens/22-1-2.md",
-        "displayText": "North African Crew"
-      },
-      {
-        "fileName": "21-12-5",
-        "link": "Morocco",
-        "relativePath": "Morocco-Germany-Athens/21-12-5.md",
+        "relativePath": "North African Crew/22-1-2.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "21-12-19",
         "link": "Morocco",
-        "relativePath": "Morocco-Germany-Athens/21-12-19.md",
+        "relativePath": "North African Crew/21-12-19.md",
+        "displayText": "North African Crew"
+      },
+      {
+        "fileName": "21-12-5",
+        "link": "Morocco",
+        "relativePath": "North African Crew/21-12-5.md",
+        "displayText": "North African Crew"
+      },
+      {
+        "fileName": "22-5-22",
+        "link": "Morocco",
+        "relativePath": "North African Crew/22-5-22.md",
         "displayText": "North African Crew"
       },
       {
@@ -2432,12 +2432,12 @@
       {
         "fileName": "22-4-24",
         "link": "Titania",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md"
+        "relativePath": "North African Crew/22-4-24.md"
       },
       {
         "fileName": "22-4-24",
         "link": "Titania",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md",
+        "relativePath": "North African Crew/22-4-24.md",
         "displayText": "titania"
       },
       {
@@ -5708,7 +5708,7 @@
       {
         "fileName": "22-4-24",
         "link": "Galahad",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md"
+        "relativePath": "North African Crew/22-4-24.md"
       }
     ]
   },
@@ -6297,12 +6297,12 @@
       {
         "fileName": "22-4-10",
         "link": "Jenny Haniver",
-        "relativePath": "Morocco-Germany-Athens/22-4-10.md"
+        "relativePath": "North African Crew/22-4-10.md"
       },
       {
         "fileName": "22-4-10",
         "link": "Jenny Haniver",
-        "relativePath": "Morocco-Germany-Athens/22-4-10.md"
+        "relativePath": "North African Crew/22-4-10.md"
       }
     ]
   },
@@ -6539,7 +6539,7 @@
       {
         "fileName": "22-2-27",
         "link": "Helix",
-        "relativePath": "Morocco-Germany-Athens/22-2-27.md"
+        "relativePath": "North African Crew/22-2-27.md"
       },
       {
         "fileName": "Morocco",
@@ -9112,7 +9112,7 @@
       {
         "fileName": "21-12-5",
         "link": "Rabat",
-        "relativePath": "Morocco-Germany-Athens/21-12-5.md"
+        "relativePath": "North African Crew/21-12-5.md"
       },
       {
         "fileName": "Djinn",
@@ -13273,12 +13273,12 @@
       {
         "fileName": "22-4-24",
         "link": "Shiawase",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md"
+        "relativePath": "North African Crew/22-4-24.md"
       },
       {
         "fileName": "22-4-24",
         "link": "Shiawase",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md"
+        "relativePath": "North African Crew/22-4-24.md"
       }
     ]
   },
@@ -13292,12 +13292,12 @@
       {
         "fileName": "22-4-24",
         "link": "Wuxing",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md"
+        "relativePath": "North African Crew/22-4-24.md"
       },
       {
         "fileName": "22-4-24",
         "link": "Wuxing",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md"
+        "relativePath": "North African Crew/22-4-24.md"
       }
     ]
   },
@@ -13372,12 +13372,12 @@
       {
         "fileName": "22-4-24",
         "link": "MCT",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md"
+        "relativePath": "North African Crew/22-4-24.md"
       },
       {
         "fileName": "22-4-24",
         "link": "MCT",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md"
+        "relativePath": "North African Crew/22-4-24.md"
       },
       {
         "fileName": "21-7-3",
@@ -13404,22 +13404,22 @@
       {
         "fileName": "22-4-24",
         "link": "Horizon",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md"
+        "relativePath": "North African Crew/22-4-24.md"
       },
       {
         "fileName": "22-4-24",
         "link": "Horizon",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md"
+        "relativePath": "North African Crew/22-4-24.md"
       },
       {
         "fileName": "22-1-30",
         "link": "Horizon",
-        "relativePath": "Morocco-Germany-Athens/22-1-30.md"
+        "relativePath": "North African Crew/22-1-30.md"
       },
       {
         "fileName": "22-1-30",
         "link": "Horizon",
-        "relativePath": "Morocco-Germany-Athens/22-1-30.md"
+        "relativePath": "North African Crew/22-1-30.md"
       }
     ]
   },
@@ -13503,13 +13503,13 @@
       {
         "fileName": "22-4-24",
         "link": "Evo",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md",
+        "relativePath": "North African Crew/22-4-24.md",
         "displayText": "EVO"
       },
       {
         "fileName": "22-4-24",
         "link": "Evo",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md",
+        "relativePath": "North African Crew/22-4-24.md",
         "displayText": "EVO"
       }
     ]
@@ -13600,12 +13600,12 @@
       {
         "fileName": "22-4-24",
         "link": "Ares",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md"
+        "relativePath": "North African Crew/22-4-24.md"
       },
       {
         "fileName": "22-4-24",
         "link": "Ares",
-        "relativePath": "Morocco-Germany-Athens/22-4-24.md"
+        "relativePath": "North African Crew/22-4-24.md"
       },
       {
         "fileName": "Deimos",
@@ -13681,7 +13681,7 @@
       {
         "fileName": "22-1-30",
         "link": "Aztechnology",
-        "relativePath": "Morocco-Germany-Athens/22-1-30.md",
+        "relativePath": "North African Crew/22-1-30.md",
         "displayText": "aztechnology"
       },
       {

@@ -399,6 +399,14 @@
     {
       "name": "Miami",
       "relativePath": "GM Info/Miami"
+    },
+    {
+      "name": "North African Crew",
+      "relativePath": "North African Crew"
+    },
+    {
+      "name": "Berlin",
+      "relativePath": "Berlin"
     }
   ],
   "nonMdFiles": [
