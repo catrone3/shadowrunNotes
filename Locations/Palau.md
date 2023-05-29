@@ -1,3 +1,4 @@
+#Pasific_Islands 
 Mages
 ![[../Images/shadowrun characters/magic 9.jpg]]
 Magic 9

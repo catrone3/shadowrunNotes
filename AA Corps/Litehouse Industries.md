@@ -1,4 +1,4 @@
-#AA_Corporation
+#AA_Corporation #Denver 
 ![[../Images/attachments/litehouse logo.png|700]]
 #### Owners
 - [[../Players/Denver Prime/Cat|Cat]]

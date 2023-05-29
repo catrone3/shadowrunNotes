@@ -1,4 +1,4 @@
-
+#HouseRules
 
 This spell allows the magician to see and hear through a nightflyer’s senses. It must be cast after sunset and only on a nightflyer already under the magician’s control, by being an animal companion or through use of the Command Nightflyer talent, p. 135.
 

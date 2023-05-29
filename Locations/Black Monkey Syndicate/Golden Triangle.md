@@ -1,3 +1,4 @@
+#Asia 
 #### Base Camp 1
 30ish spirits
 300+ mages

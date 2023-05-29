@@ -1,3 +1,5 @@
+#HouseRules 
+
 Threads: 1                                          Weaving: 2
 Casting: TMD                                     Range: Touch
 Duration: Rank hours

@@ -1,3 +1,4 @@
+#Denver
 ![[../../../Images/shadowrun characters/big_sky.jpg]]
 
 killed by

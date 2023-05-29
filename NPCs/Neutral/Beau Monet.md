@@ -1,3 +1,4 @@
+#Canada
 ![[../../Images/shadowrun characters/sprung.jpg]]
 
 Owns the sunlife building that is located in [[../../Locations/Montreal|Montreal]]

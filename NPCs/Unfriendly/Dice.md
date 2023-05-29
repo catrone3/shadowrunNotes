@@ -1,3 +1,4 @@
+#Morocco 
 ![[../../Images/shadowrun characters/Pasted image 20220130181950.png]]
 
 Works as a fixer for [[../../AAA Corps/Aztechnology|Aztechnology]]

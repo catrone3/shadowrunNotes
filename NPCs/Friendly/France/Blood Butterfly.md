@@ -1,3 +1,4 @@
+#France #Denver
 4th world vampire living in Paris
 ![[../../../Images/shadowrun characters/Blood Butterfly.jpg]]
 #### Stats

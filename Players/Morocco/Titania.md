@@ -1,3 +1,4 @@
+#London
 ![[../../Images/shadowrun characters/Titania.png]]
 nerve rifle 
 ![[../../Images/shadowrun characters/titania runner outfit.png]]

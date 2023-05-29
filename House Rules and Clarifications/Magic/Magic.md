@@ -1,3 +1,4 @@
+#HouseRules
 ## Base rule changes
 
 Look at spells with the search power

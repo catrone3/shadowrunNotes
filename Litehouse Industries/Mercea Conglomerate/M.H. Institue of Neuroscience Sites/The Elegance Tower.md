@@ -1,3 +1,4 @@
+#London 
 Founding Site - [[../../../Locations/London|London]]: The Elegance Tower (5/23/2079) 
 
 ![[../../../Images/floor plans and buildings/The Elegance Tower.png]]

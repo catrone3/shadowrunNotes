@@ -1,3 +1,4 @@
+#Athens 
 ### Location Details
 #### Awakened
  - **Free Spirits** - For some reason there's a greater concentration of Free Spirits in and around Athens. Most seem to have been some form of Guidance and Task Spirits, one Task Spirit even opened up shop and works as a highly paid sculptor. I've seen some Task Spirits before and often they take a shape that's practical. These ones are not only humanoid but very anthropomorphic.

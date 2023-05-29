@@ -1,3 +1,4 @@
+#Asia 
 ![[../../Images/shadowrun characters/gunnerteacher.jpg]]
 
 magic: 12

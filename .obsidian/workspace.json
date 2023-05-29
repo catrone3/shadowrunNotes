@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "33c8ed08660932a7",
+        "id": "4184aaa2c7aeac1e",
         "type": "tabs",
         "children": [
           {
-            "id": "21d253f0fdf0cbf8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/shadowrun characters/Marcus Krieger.png"
-              }
-            }
-          },
-          {
-            "id": "eb14ef2573446f06",
+            "id": "e0a3825b477bf251",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berlin Crew/23-2-26.md",
+                "file": "Locations/Southern Florida/Miami.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berlin Crew/23-2-26.md",
+                "file": "Locations/Southern Florida/Miami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +123,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "7baa6acb914684c4",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -150,51 +147,51 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "rpg-manager:RPG Manager": false
+      "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "eb14ef2573446f06",
+  "active": "17c028d156c8c8c7",
   "lastOpenFiles": [
-    "Berlin Crew/23-3-12.md",
-    "Berlin Crew/23-3-26.md",
-    "Berlin Crew/23-4-23.md",
-    "Berlin Crew/23-5-8.md",
-    "Berlin Crew/23-2-12.md",
-    "Berlin Crew/23-1-29.md",
-    "Berlin Crew/23-1-15.md",
-    "Berlin Crew/22-6-19.md",
-    "North African Crew/22-5-22.md",
+    "AA Corps/Litehouse Industries.md",
+    "Factions/Morocco/Crime Orgs/Tiger-Syndikat.md",
+    "Players/New Orleans.md",
+    "NPCs/Neutral/Athens/Yiannis Papadakis.md",
+    "NPCs/Neutral/Athens/Sophia Georgiadou.md",
+    "NPCs/Neutral/Athens/Nikos Vasilopoulos.md",
+    "NPCs/Neutral/Athens/Maria Andriopoulos.md",
+    "NPCs/Neutral/Athens/Katerina Katsaros.md",
+    "NPCs/Neutral/Athens/Eleni Vlachou.md",
+    "NPCs/Neutral/Athens/Dimitris Athanasiou.md",
+    "NPCs/Neutral/Athens/Antonis Lambros.md",
+    "NPCs/Neutral/Athens/Anna Michalopoulos.md",
+    "NPCs/Neutral/Athens/Andreas Kyriakopoulos.md",
+    "Locations/Greece/Artifacts/Amulet of Athena.md",
+    "Locations/Greece/Attica/Piraeus.md",
+    "Locations/Greece/Attica/Mount Olympus.md",
+    "Locations/Greece/Attica/Islands.md",
+    "Locations/Greece/Attica/Central Athens.md",
+    "Locations/Greece/Attica/Athens.md",
+    "Locations/Greece/Attica.md",
+    "Locations/Greece/Structures/The Parthenon.md",
+    "Locations/Greece/Structures/The Temple of Delphi.md",
+    "Locations/Greece/Structures/The Catacomes of Athens.md",
+    "Locations/Greece/Structures/The Acropolis.md",
+    "Factions/Attica/Country Orgs/Athens Oligarchs.md",
+    "Factions/Attica/Crime Orgs/The Stygian Brotherhood.md",
+    "Images/shadowrun characters/Marcus Krieger.png",
+    "Factions/Southern Florida",
     "Berlin",
     "North African Crew",
-    "North African Crew/22-5-8.md",
-    "North African Crew/22-4-10.md",
-    "North African Crew/22-1-16.md",
-    "North African Crew/21-12-5.md",
-    "Homepage.md",
-    "GM Info/Miami/Temp document.md",
-    "GM Info/helpful sites.md",
     "GM Info/Miami",
-    "Factions/Attica/Crime Orgs/The Gorgon Collective.md",
-    "GM Info/Greece/temp document.md",
-    "Factions/Attica/Crime Orgs/The Elysian Syndicate.md",
-    "Locations/Greece/Attica/South Athens.md",
-    "NPCs/Neutral/Athens/Yiannis Papadakis.md",
-    "Locations/Greece/Attica/West Athens.md",
-    "Factions/Attica/Crime Orgs/The Stygian Brotherhood.md",
-    "Factions/Attica/Crime Orgs/The Red Vipers.md",
-    "Factions/Attica/Crime Orgs/The Olympic Circle.md",
-    "Factions/Attica/Crime Orgs/The Olympian Circle.md",
     "Locations/Greece/Structures",
     "Locations/Greece/Attica",
     "Images/attachments/catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f 1.png",
-    "Images/shadowrun characters/Marcus Krieger.png",
     "Images/shadowrun characters/catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e.png",
     "Images/attachments/catrone3_Council_of_Attica_logo_with_no_words_2da43de6-734a-4cb5-9bbe-52b9795b9b54.png",
     "Factions/Attica/Country Orgs/Untitled",
     "Factions/Attica/Country Orgs",
     "Factions/Attica/Crime Orgs",
     "Factions/Attica",
-    "Factions/Morocco",
     "Images/attachments/catrone3_Amulet_of_Athena_4f2d220d-d7ca-4d2c-bca8-9d5f73522b38.png",
     "Images/catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e 1.png",
     "Canvas.canvas",

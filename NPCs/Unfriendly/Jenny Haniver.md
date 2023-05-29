@@ -1,3 +1,4 @@
+#Morocco 
 ![[../../Images/shadowrun characters/Jenny Haniver.jpg]]
 # Jenny Haniver
 #### Status: DEAD

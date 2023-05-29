@@ -1,3 +1,4 @@
+#Asia 
 ![[../../Images/shadowrun characters/teacher2.jpg]]
 magic: 12
 	- health: yes

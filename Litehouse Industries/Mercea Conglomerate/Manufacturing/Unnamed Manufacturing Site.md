@@ -1,3 +1,4 @@
+#London 
 Founding Site - [[../../../Locations/London|London]]: Not Yet Purchased, 11.9m Nuyen (-/-/2079) 
 
 ![[../../../Images/floor plans and buildings/London Manufacturing.png]]

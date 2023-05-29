@@ -1,3 +1,4 @@
+#Seattle 
 ![[../../../Images/shadowrun characters/Ushi Bido (2).jpg]]
 
 4th World Drake

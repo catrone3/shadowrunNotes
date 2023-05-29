@@ -1,3 +1,4 @@
+#HouseRules
 ### Buying from Contacts
 ##### What contacts roll
 To find an item, a contact rolls the following

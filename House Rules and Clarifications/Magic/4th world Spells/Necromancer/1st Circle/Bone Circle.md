@@ -1,3 +1,5 @@
+#HouseRules 
+
 Threads: 3 (ritual; see text)                          Weaving: 2
 Casting: TMD                                                 Range: Touch
 Duration: Rank months                                  Area of Effect: 2-yard radius circle

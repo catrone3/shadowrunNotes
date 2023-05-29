@@ -1,3 +1,4 @@
+#Denver
 [[../../../AAA Corps/Ares|Ares]] Employee
 ![[../../../Images/shadowrun characters/Lance_Barrymore_1.jpg]]
 

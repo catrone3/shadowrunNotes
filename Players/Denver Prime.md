@@ -5,7 +5,7 @@
 ##### [[../Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team]]
 
 ##### Fixer
-[[Denver Prime/Cat|Cat]]
+[[../NPCs/Friendly/Denver/Slip|Slip]]
 
 ##### Runners
 [[Denver Prime/Spyder|Spyder]]
@@ -40,7 +40,6 @@
 [[../NPCs/Neutral/Kaleidoscope|Kaleidoscope]]
 [[../NPCs/Friendly/Denver/Kalt|Kalt]]
 Krea
-[[../NPCs/Friendly/Las Vegas/Lucky|Lucky]]
 [[../NPCs/Friendly/Denver/Merlin|Merlin]]
 [[../NPCs/Friendly/Denver/Mi Kwan|Mi Kwan]]
 [[../NPCs/Neutral/Nadja Davier|Nadja Davier]]

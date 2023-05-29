@@ -1,3 +1,5 @@
+#HouseRules 
+
 Threads: 1                                          Weaving: 2
 Casting: TMD (see text)                    Range: Touch
 Duration: Rank + 5 rounds                  Area of Effect: 4-yard radius

@@ -1,3 +1,5 @@
+#HouseRules 
+
 Manipulation Spell
 Type:  Mental
 Range: LOS Area

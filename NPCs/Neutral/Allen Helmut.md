@@ -1,3 +1,4 @@
+#Morocco 
 ![[../../Images/shadowrun characters/Allen Helmut.jpg]]
 
 married to [[Horizon/puddin]]

@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Sunday_Game",
@@ -18,7 +18,7 @@
       "query": "tag:#NewOrleans",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16770221
       }
     },
     {
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "tag:#AA_Corporation",
+      "query": "tag:#HouseRules",
       "color": {
         "a": 1,
         "rgb": 5431378
@@ -40,6 +40,97 @@
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#Seattle",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#Berlin",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#London",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#LasVegas",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#Morocco",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Athens",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#France",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#CAS",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Canada",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#Caribbean_League",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#UCAS",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#Atlanta",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#Asia",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
       }
     }
   ],
@@ -53,6 +144,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2588386562181714,
+  "scale": 0.13168724279835878,
   "close": false
 }

@@ -1,3 +1,5 @@
+#HouseRules 
+
 Threads: 1                                         Weaving: 2
 Casting: TMD                                    Range: 20 yards
 Duration: Rank + 5 rounds

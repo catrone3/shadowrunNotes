@@ -1,3 +1,5 @@
+#HouseRules 
+
 Threads: 0                                  Weaving: 2
 Casting: TMD                              Range: Touch
 Duration: 2 rounds

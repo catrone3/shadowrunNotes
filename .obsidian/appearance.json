@@ -1,5 +1,8 @@
 {
   "baseFontSize": 18,
   "accentColor": "",
-  "cssTheme": "Cyber Glow"
+  "cssTheme": "Proper Dark",
+  "theme": "obsidian",
+  "translucency": false,
+  "nativeMenus": false
 }

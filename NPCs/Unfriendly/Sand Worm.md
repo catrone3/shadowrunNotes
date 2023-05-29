@@ -1,3 +1,4 @@
+#Morocco 
 found in the disputed lands of the west saraha
 was another experiment from the [[../../Factions/Morocco/Crime Orgs/Black Monkey Syndicate|Black Monkey Syndicate]]
 The [[../../Factions/Morocco/Country Entities/Djinn|Djinn]] will call for them to deal with it.

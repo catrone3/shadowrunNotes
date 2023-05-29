@@ -1,4 +1,5 @@
-#[[../../Locations/London|London]]
+#London 
+# [[../../Players/London|London]]
 Shares Factories with Litehouse Manufacturing
 
 Founding Site: [[Manufacturing/Unnamed Manufacturing Site|Unnamed Manufacturing Site]]

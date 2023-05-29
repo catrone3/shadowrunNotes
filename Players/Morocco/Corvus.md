@@ -1,3 +1,4 @@
+#London
 - Increase Charisma (F9, Reagent for limit 14) - 13 hits - Masked 
 - Combat Sense (F8, Reagent for NO Limit) - 14 hits - Masked
 - Logic (F8, Cast by [[Titania]]) - 7 hits - Masked by [[Titania]]

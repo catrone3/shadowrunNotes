@@ -1,3 +1,4 @@
+#Morocco 
 ![[../../../Images/shadowrun characters/pudding.jpg]]
 
 daughter of the [[Denver/Old man]]

@@ -1,3 +1,4 @@
+#Berlin 
 ![[../../../Images/shadowrun characters/bluefeather.png]]
 ### Blue Feather
 - flamboiantly gay
