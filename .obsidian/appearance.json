@@ -1,7 +1,7 @@
 {
   "baseFontSize": 18,
-  "accentColor": "",
-  "cssTheme": "Proper Dark",
+  "accentColor": "#0b92f9",
+  "cssTheme": "MagicUser",
   "theme": "obsidian",
   "translucency": false,
   "nativeMenus": false

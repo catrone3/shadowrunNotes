@@ -8,3 +8,8 @@ has commlink slaved to aztech building that invited marks to Spyders Deck
 has elemental body
 magic 9
 41 dice for con
+
+```statblock
+monster: Ancient Black Dragon
+name: Paarthurnax
+```

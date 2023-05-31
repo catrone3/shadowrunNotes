@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Southern Florida/Miami.md",
+                "file": "NPCs/Unfriendly/Dice.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Southern Florida/Miami.md",
+                "file": "NPCs/Unfriendly/Dice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,8 +150,10 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "e0a3825b477bf251",
   "lastOpenFiles": [
+    "NPCs/Unfriendly/Aleadar.md",
+    "Locations/Southern Florida/Miami.md",
     "AA Corps/Litehouse Industries.md",
     "Factions/Morocco/Crime Orgs/Tiger-Syndikat.md",
     "Players/New Orleans.md",
@@ -176,8 +178,6 @@
     "Locations/Greece/Structures/The Temple of Delphi.md",
     "Locations/Greece/Structures/The Catacomes of Athens.md",
     "Locations/Greece/Structures/The Acropolis.md",
-    "Factions/Attica/Country Orgs/Athens Oligarchs.md",
-    "Factions/Attica/Crime Orgs/The Stygian Brotherhood.md",
     "Images/shadowrun characters/Marcus Krieger.png",
     "Factions/Southern Florida",
     "Berlin",
