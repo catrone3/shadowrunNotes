@@ -1,8 +1,9 @@
 #Denver
 ### [Denver Map](https://www.google.com/maps/d/u/0/viewer?mid=1BrcfAzyifwU4Gk8I2KPeP9VoH8wz9w-K&ll=28.49634055143031%2C-83.41172544999999&z=5)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BrcfAzyifwU4Gk8I2KPeP9VoH8wz9w-K&ehbc=2E312F" width="640" height="480"></iframe>
-#### Saturday
-##### [[../Lighthouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Team]]
+
+### Saturday
+##### [[../Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials|Denver Team]]
 
 ##### Fixer
 [[../NPCs/Friendly/Denver/Slip|Slip]]

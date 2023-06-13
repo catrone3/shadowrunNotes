@@ -7,7 +7,7 @@ a group of hedonistic partiers and revelers who worship the god of wine and madn
 
 | Image | Name   | Synopsis |
 | ----- | ------ | -------- |
-|       | [[../../../Locations/Greece/Attica\|Attica]] |          |
+|       | [[../../../Locations/Attica|Attica]] |          |
 
 ### Faction Details
 - They have tattoos of a theatrical mask with grape vines crawling through and on it

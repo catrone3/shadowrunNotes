@@ -1,4 +1,6 @@
 #Denver 
+![[../../Images/cat1.png]]
+
 #### Own modifers/rolls
 ##### Quickened rolls
 - analyze device = 14 total (force 4) +8 (6)

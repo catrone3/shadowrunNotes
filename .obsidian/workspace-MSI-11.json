@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4184aaa2c7aeac1e",
+        "id": "eb9421c174f44e7f",
         "type": "tabs",
         "children": [
           {
-            "id": "e0a3825b477bf251",
+            "id": "1c51d59dde9f1fe0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "New Orleans Game Notes/23-5-20.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -54,7 +59,7 @@
             }
           },
           {
-            "id": "805276002e252d9e",
+            "id": "7ef2859605208a74",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "New Orleans Game Notes/23-5-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,19 +125,25 @@
             }
           },
           {
-            "id": "8a032bf85534f2c0",
+            "id": "50f83040aa8b63d5",
             "type": "leaf",
             "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "New Orleans Game Notes/23-5-20.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
-            "id": "3409c56f860741eb",
+            "id": "a97c05a2990e3f25",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "New Orleans Game Notes/23-5-20.md"
+              }
             }
           }
         ],
@@ -143,65 +155,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-content-generator:Fantasy Generators": false,
-      "initiative-tracker:Intiative Tracker Encounter Builder": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e0a3825b477bf251",
+  "active": "1c51d59dde9f1fe0",
   "lastOpenFiles": [
-    "Locations/South Florida/Awakened Everglades.md",
-    "Homepage.md",
-    "Images/Pasted image 20230606145441.png",
-    "Locations/South Florida/Miami.md",
-    "Corps (Local)/South Florida",
-    "Corps (Local)",
-    "Locations/Front Range Free Zone.md",
-    "GM Info/shadowrun json editor.md",
+    "New Orleans Game Notes/23-4-8.md",
+    "New Orleans Game Notes/23-3-25.md",
+    "New Orleans Game Notes/23-5-20.md",
+    "Images/Pasted image 20230520180338.png",
+    "Images/Pasted image 20230520180325.png",
+    "Images/Pasted image 20230520180307.png",
+    "Images/Macey Driver.png",
+    "Players/New Orleans.md",
     "Locations/New Orleans.md",
-    "GM Info/GM Pages.md",
-    "GM Info/temp.md",
-    "Players/Denver Prime/Cat.md",
-    "Images/cat1.png",
-    "Locations/South Florida.md",
-    "Locations/London.md",
-    "Players/London.md",
-    "Locations/Morocco.md",
-    "Locations/FRFZ/Cheyenne Mountain.md",
-    "Locations/Morocco/Marrakesh.md",
-    "Locations/FRFZ/Roseau District.md",
-    "Players/Morocco.md",
-    "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md",
-    "Locations/Greece/Attica/Central Athens.md",
-    "Locations/Attica.md",
-    "Locations/Germany.md",
-    "Locations/Hong Kong.md",
-    "Players/Berlin Game.md",
-    "Players/Denver Prime.md",
-    "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md",
-    "Images/shadowrun characters/Marcus Krieger.png",
-    "Factions/Southern Florida",
-    "Berlin",
-    "North African Crew",
-    "GM Info/Miami",
-    "Locations/Greece/Structures",
-    "Locations/Greece/Attica",
-    "Images/attachments/catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f 1.png",
-    "Images/shadowrun characters/catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e.png",
-    "Images/attachments/catrone3_Council_of_Attica_logo_with_no_words_2da43de6-734a-4cb5-9bbe-52b9795b9b54.png",
-    "Factions/Attica/Country Orgs/Untitled",
-    "Factions/Attica/Country Orgs",
-    "Images/attachments/catrone3_Amulet_of_Athena_4f2d220d-d7ca-4d2c-bca8-9d5f73522b38.png",
-    "Images/catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e 1.png",
-    "Canvas.canvas",
-    "Images/attachments/catrone3_Council_of_Attica_logo_with_no_words_37bce929-518c-49cf-bfeb-aac3ed456540.png",
-    "Images/attachments/Pasted image 20230421140050.png",
+    "Images/Pasted image 20230520135324.png",
+    "Factions/Attica/Crime Orgs/The Olympic Circle.md",
+    "Factions/Attica/Crime Orgs",
+    "Factions/Attica",
+    "Factions/Morocco/Country Entities/Djinn.md",
+    "Factions/Morocco/Country Entities",
+    "Factions/Morocco/Crime Orgs/Tiger-Syndikat.md",
+    "Factions/Morocco/Crime Orgs/Black Monkey Syndicate.md",
+    "Factions/Morocco/Crime Orgs",
+    "Factions/Morocco",
+    "Factions",
+    "GM Info/Greece/Locations/Islands.md",
+    "GM Info/Greece/Locations/North Athens.md",
+    "GM Info/Greece/Locations/Piraeus.md",
+    "GM Info/Greece/Locations/South Athens.md",
+    "GM Info/Greece/Locations/West Attica.md",
+    "GM Info/Greece/Locations/West Athens.md",
+    "GM Info/Greece/Locations/East Attica.md",
+    "GM Info/Greece/Locations/Athens.md",
+    "GM Info/Greece/NonPlayerCharacters/Maria Andriopoulos.md",
+    "GM Info/Greece/NonPlayerCharacters/Nikos Vasilopoulos.md",
+    "GM Info/Greece/Factions/The Black Hand.md",
+    "GM Info/Greece/Factions/The Hades Syndicate.md",
+    "GM Info/Greece/NonPlayerCharacters/Andreas Kyriakopoulos.md",
+    "GM Info/Greece/Locations/Central Athens.md",
+    "GM Info/Greece/NonPlayerCharacters/Sophia Georgiadou.md",
+    "GM Info/Greece/NonPlayerCharacters",
+    "GM Info/Greece/Factions/The Athenian Mafia.md",
+    "GM Info/Greece/Factions/The Red Vipers.md",
+    "AAA Corps/Renraku",
+    "AAA Corps/MCT",
+    "AAA Corps/Saeder-Krupp",
+    "Pasted image 20230408140717.png",
     "Litehouse Industries/Litehouse Industries.canvas",
+    "Images/Pasted image 20230421140050.png",
+    "Images/Pasted image 20230421135922.png",
+    "Images/Pasted image 20230421135939.png",
+    "Images/Pasted image 20230421135730.png",
+    "Canvas.canvas",
     "Untitled.canvas"
   ]
 }

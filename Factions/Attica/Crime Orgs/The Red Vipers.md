@@ -6,4 +6,4 @@ a street gang that specializes in drug trafficking and street-level violence. Th
 
 | Image | Name   | Synopsis |
 | ----- | ------ | -------- |
-|       | [[../../../Locations/Greece/Attica\|Attica]] |          |
+|       | [[../../../Locations/Attica|Attica]] |          |

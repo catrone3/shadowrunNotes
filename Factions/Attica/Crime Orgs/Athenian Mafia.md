@@ -6,4 +6,4 @@ a powerful crime family that controls much of the city's underworld. They are kn
 
 | Image | Name   | Synopsis |
 | ----- | ------ | -------- |
-|       | [[../../../Locations/Greece/Attica\|Attica]] |          |
+|       | [[../../../Locations/Attica|Attica]] |          |

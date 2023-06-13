@@ -6,4 +6,4 @@ this powerful criminal organization controls much of the city's illegal trade, f
 
 | Image | Name   | Synopsis |
 | ----- | ------ | -------- |
-|       | [[../../../Locations/Greece/Attica\|Attica]] |          |
+|       | [[../../../Locations/Attica|Attica]] |          |

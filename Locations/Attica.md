@@ -1,4 +1,7 @@
 #Athens 
+### Map
+<iframe src="https://www.google.com/maps/d/embed?mid=1_B1dng4BtmMRGCU7dTceYN2R-2nFJNg&ehbc=2E312F" width="640" height="480"></iframe>
+
 ### Major Locations
 
 | Locations                                 | Synopsis |
