@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/South Florida/Hialeah.md",
+                "file": "Locations/South Florida/Little Haiti.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b6231c65e03a040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/South Florida.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/South Florida/Hialeah.md",
+                "file": "Locations/South Florida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,38 +173,38 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "e0a3825b477bf251",
+  "active": "17c028d156c8c8c7",
   "lastOpenFiles": [
-    "Locations/South Florida.md",
     "Locations/South Florida/Hialeah.md",
-    "Locations/South Florida/Gunderson Airport and Hospitality Center.md",
-    "Locations/South Florida/Gladeview.md",
-    "Locations/South Florida/Grapeland.md",
-    "Locations/South Florida/Evo Renewal Zone.md",
-    "Locations/South Florida/Downtown Miami.md",
-    "Locations/South Florida/City of Miami.md",
-    "Locations/South Florida/Doral.md",
-    "Locations/South Florida/Deering Bay.md",
-    "Locations/South Florida/Belle Meade Erosion Zone.md",
-    "Locations/South Florida/Awakened Everglades.md",
-    "Homepage.md",
+    "Locations/South Florida.md",
+    "Locations/Morocco/rabat black site.md",
+    "Locations/South Florida/Wyndwood.md",
+    "Locations/South Florida/Shiawase Exclusion Zone.md",
+    "Locations/South Florida/Homestead Airbase and Naval Port.md",
+    "Locations/South Florida/Wuxing Eastern Shores.md",
+    "Locations/South Florida/Wastelands of Kendale Lakes.md",
+    "Locations/South Florida/Virginia Key.md",
+    "Locations/South Florida/Sun Key.md",
+    "Locations/South Florida/South Beach.md",
+    "Locations/South Florida/Relief Center 3.md",
+    "Locations/South Florida/Relief Center 2.md",
+    "Locations/South Florida/Relief Center 1 AKA The Reef.md",
+    "Locations/South Florida/Redland Agricultural Area.md",
+    "Locations/South Florida/Palatine Bank.md",
+    "Locations/South Florida/North Miami Beach.md",
+    "Locations/South Florida/Normandy Ghost Town.md",
+    "Locations/South Florida/Miramar.md",
+    "Locations/South Florida/Miami Springs.md",
+    "Locations/South Florida/Miami Shores.md",
+    "Locations/South Florida/Miami City Cemetery.md",
+    "Locations/South Florida/Medley Industrial Park.md",
+    "Locations/Morocco/Casablanca.md",
+    "Locations/Morocco.md",
+    "Locations/Montreal.md",
     "Images/Pasted image 20230606145441.png",
     "Corps (Local)/South Florida",
     "Corps (Local)",
-    "Locations/Front Range Free Zone.md",
-    "GM Info/shadowrun json editor.md",
-    "Locations/New Orleans.md",
-    "GM Info/GM Pages.md",
-    "GM Info/temp.md",
-    "Players/Denver Prime/Cat.md",
     "Images/cat1.png",
-    "Locations/London.md",
-    "Players/London.md",
-    "Locations/Morocco.md",
-    "Locations/FRFZ/Cheyenne Mountain.md",
-    "Locations/Morocco/Marrakesh.md",
-    "Locations/FRFZ/Roseau District.md",
-    "Players/Morocco.md",
     "Images/shadowrun characters/Marcus Krieger.png",
     "Factions/Southern Florida",
     "Berlin",

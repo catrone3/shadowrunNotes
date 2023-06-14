@@ -1,0 +1,5 @@
+This region of the beach was badly damaged by rising sea levels and the Seven Storms Hurricane Season of 2061. It has since been totally rebuilt as an enclave of the privileged of the Caribbean League and various corporate partners in glistening skyrakers that block the view of the sunrise for mainland residents. Heavily patrolled by Knight Errant. Residents live and play here, mostly in secure luxury, though the prestige of the northern end of the island is a bit less than the more famous South Beach.  
+  
+Population 70,000  
+  
+Security is rating AA. Patrols cover the area 24 hours a day, but are less frequent than AAA. Astral patrols take place on an irregular schedule, and there may not be a security rigger system set up. Drones and spirits may guard certain areas in place of humans. Response is prompt.

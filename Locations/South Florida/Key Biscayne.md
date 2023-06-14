@@ -1,0 +1,3 @@
+Like many natural barrier islands in Florida in 2075, this island is badly flooded by rising seas. The roads have not been maintained in decades, the existing structures have been abandoned. Hardy mangrove forests have taken over much of what remains. Squatters and criminals abound.  
+  
+This is a W zone, classified as complete wildness. Security forces will not respond without a clear and present danger to surrounding communities.
