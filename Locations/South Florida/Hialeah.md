@@ -1,0 +1,5 @@
+Even in the late 21st century, this Latino enclave is a world unto itself. This city-within-a-city maintains its own police force, fire fighters, hospital, and prison. Spanish is the official language of the city and most residents speak any other language poorly, though the younger generations tend to be bilingual. Latin American businesses, especially media production companies, are based here, but they cede government control to locals. Note that a corporate-free government is not corruption-free.  
+  
+Approximately 420,000 residents.   
+  
+Security is rating AA. Patrols cover the area 24 hours a day, but are less frequent than AAA. Astral patrols take place on an irregular schedule, and there may not be a security rigger system set up. Drones and spirits may guard certain areas in place of humans. Response is prompt.

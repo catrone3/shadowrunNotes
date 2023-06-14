@@ -1,1 +1,0 @@
-Miami is still just as weird as always.
