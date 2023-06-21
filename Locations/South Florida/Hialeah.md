@@ -3,3 +3,15 @@ Even in the late 21st century, this Latino enclave is a world unto itself. This 
 Approximately 420,000 residents.   
   
 Security is rating AA. Patrols cover the area 24 hours a day, but are less frequent than AAA. Astral patrols take place on an irregular schedule, and there may not be a security rigger system set up. Drones and spirits may guard certain areas in place of humans. Response is prompt.
+
+## Geographic Notes
+
+#### Opa-locka Exective Airport
+
+Forever trying, and failing, to compete with Miami International Airport, this smaller airport services smaller clients and vehicles. Services are available for fixed wing aircraft, helicopters, ultralights, and airships.  
+  
+What it lacks in standard passenger and cargo service it more than makes up for in small, leased hangers, pads, and other spaces for clients of all budgets.
+
+#### Hialeah Flea Market
+
+For a small fee to the city you too can open a tent and sell your wares and services in this vast, paved open air market.

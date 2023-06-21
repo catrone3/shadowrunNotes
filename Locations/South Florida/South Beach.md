@@ -5,3 +5,9 @@ At any given time there are probably as many visitors and tourists as permanent 
 Population: 50,000  
   
 Security is rating AAA, representing the highest quality law enforcement and response time money can buy.
+
+## Geographic Notes
+
+#### Rennweg Shopping and Finance
+
+The highest of high end banking services as well as boutique shopping and bespoke craft services are available to top clientele, all owned by Seader-Krup.

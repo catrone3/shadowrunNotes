@@ -6,4 +6,4 @@ a neo-Nazi group that has been gaining political power in the city. They are kno
 
 | Image | Name   | Synopsis |
 | ----- | ------ | -------- |
-|       | [[../../../Locations/Attica|Attica]] |          |
+|       | [[../../../Locations/Attica\|Attica]] |          |

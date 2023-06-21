@@ -7,3 +7,13 @@ Evo employees in unrelated fields, such as biofabrication, are beginning to move
 Population: 40,000.  
   
 Security is rating D. Infrequent patrols and poorly maintained PanicButton booths mean that crime here is reported less often and therefore enforced less often. The security services in these areas make no real effort to prevent crimes before they happen.
+
+## Geographic Notes
+
+#### Black Point Harbor
+
+EVO's main shipping hub in the area.
+
+#### Zoo Miami
+
+Evo's proudest rehabilitation accomplishment has been the acquisition and rehabilitation of the Zoo, where they showcase the latest in nature simulation for exhibited animals. VIP tours in person and in Virtual Reality are available.

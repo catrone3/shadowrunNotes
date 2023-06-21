@@ -3,3 +3,9 @@ Sleepy suburbs full of working wageslaves, franchise restaurants, and prefabrica
 Approximately 190,000 residents.   
   
 Rating A area mostly. Law enforcement in these areas is basically a call-and-response system. This means there are actually a lot of PanicButton booths and neighborhood watch groups and other organizations willing to call in at the slightest hint of criminal activity.
+
+## Geographic Notes
+
+#### Calder Racetrack and Casino
+
+Thoroughbred horses, greyhounds, and hellhounds are raced here, betting on international events, slot machines, high stakes poker, and all other forms of gambling can be found here. The actual owners are well concealed behind shell companies.

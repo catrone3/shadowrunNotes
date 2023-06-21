@@ -6,5 +6,5 @@ a secret society of scholars, scientists, and magicians who use their knowledge 
 
 | Image | Name                  | Synopsis |
 | ----- | --------------------- | -------- |
-|       | [[../../../Locations/Attica|Attica]] |          |
+|       | [[../../../Locations/Attica\|Attica]] |          |
 |       | The Parthenon    |          |

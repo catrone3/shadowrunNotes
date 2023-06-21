@@ -1,0 +1,7 @@
+The mafia has moved into a lot of new industries over the last few decades in order to expand their pull (and protect themselves from the reach of the megacorps). This is one of their known affiliated businesses, a large junkyard and mechanic shop.
+
+### Locations
+
+| Image | Name   | Synopsis |
+| ----- | ------ | -------- |
+|       | [[../../Locations/South Florida/Miami Springs\|Miami Springs]] |         |

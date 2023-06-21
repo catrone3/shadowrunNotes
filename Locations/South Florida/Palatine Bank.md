@@ -3,3 +3,11 @@ This private extraterritorial Ares megacorp island represents the pinnacle of lu
 Population: 12,000  
   
 Security is rating AAA, representing the highest quality law enforcement and response time money can buy.
+
+## Geographic Notes
+
+#### Space Command Ares Miami, SCAM
+
+Ares Macrotechnology conducts regular commercial space exploitation and has built an entire space facility in the water. Failed launches splash harmlessly into the water, or Bimini, which is close enough.   
+  
+Ares space exploitation is not entirely peaceful. [https://www.youtube.com/watch?v=L0bcRCCg01I](https://www.youtube.com/watch?v=L0bcRCCg01I)

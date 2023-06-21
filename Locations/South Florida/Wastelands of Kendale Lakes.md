@@ -3,3 +3,13 @@ Badly damaged and flooded by the Seven Storms season, this region has never been
 Population estimated at 150,000  
   
 E Rating security. This area is considered a slum. Security will respond if the victim has a SIN and calls in a complaint himself, or if the violence makes the headlines or threatens to spill over into more “important” areas.
+
+## Geographic Notes
+
+#### Miami Executive Airport
+
+This airport's runways are full of potholes, clumps of vegetation, and much of the area is flooded. The buildings are in ruins, but locals swear they sometimes see aircraft take off and land.
+
+#### Sharks!
+
+The brackish, flooded ruins of suburbs are plagued by bull sharks with an appreciation for metahuman flesh. Locals rarely go swimming.
