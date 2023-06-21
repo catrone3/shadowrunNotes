@@ -3,9 +3,11 @@
 
 <iframe src="https://www.google.com/maps/d/embed?mid=11K52_ysZGNSW0731w-LDl6w39vgipLU&ehbc=2E312F" width="640" height="480"></iframe>
 
-### Locations
+ Black, Red, Orange, Yellow, Green, Turquoise, Blue, Indigo, and Violet. 
 
-| Locations                                                                                            | Synopsis |
+### Districts
+
+| Districts                                                                                  | Synopsis |
 | --------------------------------------------------------------------------- | -------- |
 | [[South Florida/Awakened Everglades\|Awakened Everglades]]                                           |          |
 | [[South Florida/Belle Meade Erosion Zone\|Belle Meade Erosion Zone]]                                 |          |
