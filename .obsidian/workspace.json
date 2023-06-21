@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/South Florida.md",
+                "file": "Locations/South Florida/City of Miami.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/South Florida.md",
+                "file": "Locations/South Florida/City of Miami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +161,9 @@
   },
   "active": "e0a3825b477bf251",
   "lastOpenFiles": [
+    "Locations/South Florida/Belle Meade Erosion Zone.md",
+    "Locations/South Florida/Awakened Everglades.md",
+    "Locations/South Florida.md",
     "Locations/Front Range Free Zone.md",
     "Locations/Attica.md",
     "Locations/South Florida/Little Haiti.md",
@@ -176,13 +179,10 @@
     "Locations/South Florida/North Miami Beach",
     "Locations/script.ps1.md",
     "Locations/South Florida/Relief Center 1 AKA The Reef.md",
-    "Locations/South Florida.md",
     "Locations/South Florida/Gladeview.md",
     "Locations/South Florida/Evo Renewal Zone.md",
     "Locations/South Florida/Doral.md",
     "Locations/South Florida/Deering Bay.md",
-    "Locations/South Florida/Awakened Everglades.md",
-    "Locations/South Florida/Belle Meade Erosion Zone.md",
     "Locations/South Florida/City of Miami.md",
     "Locations/South Florida/Hialeah.md",
     "Locations/Morocco/rabat black site.md",
