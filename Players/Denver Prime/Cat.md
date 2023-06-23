@@ -1,5 +1,5 @@
 #Denver 
-![[../../Images/cat1.png]]
+![[../../Images/shadowrun characters/cat1.png]]
 
 #### Own modifers/rolls
 ##### Quickened rolls

@@ -1,6 +1,6 @@
-Like many natural barrier islands in Florida in 2075, this island is badly flooded by rising seas. The roads have not been maintained in decades, the existing structures have been abandoned. Hardy mangrove forests have taken over much of what remains. Squatters and criminals abound.  
+Like many natural barrier islands in Florida in 2075, this island is poorly maintained as it has minor flooding anytime high tide comes in. This has caused all of the wealth houses that used to be here to get sold for dirt cheap or abandoned  
   
-This is a W zone, classified as complete wildness. Security forces will not respond without a clear and present danger to surrounding communities.
+This area is rating D. Infrequent patrols and poorly maintained PanicButton booths mean that crime here is reported less often and therefore enforced less often. The security services in these areas make no real effort to prevent crimes before they happen.
 
 ## Geographic Notes
 
