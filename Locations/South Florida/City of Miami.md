@@ -18,7 +18,7 @@ With Cuba the dominant economy of the region, this Cuban majority community is a
 
 #### The Miami Circle
 
-A mysterious archaeological site unearthed before the turn of the century. Little is known today of the site. The archeological site remains covered by the protective concrete placed over it, and the site is only dry at the lowest spring tides. The background mana in the area is extremely high, but very localized, the site is entirely closed to the public. The eyes of all the storms of the Seven Storms season in 2061 passed over this spot.   
+A mysterious archaeological site unearthed before the turn of the century. Little is known today of the site. The archeological site remains covered by the protective concrete placed over it. The background mana in the area is extremely high, but very localized, the site is entirely closed to the public. 
   
 There is an inexplicable background count in this location that spikes high and drops low in cycles that have not been decoded. The awakened are advised not to visit.
 

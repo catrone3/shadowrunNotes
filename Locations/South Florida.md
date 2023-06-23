@@ -97,9 +97,6 @@ A drive-though safari experience with mundane and magical animals from all over 
 
 One of the major remaining money maker for the Gunderson corporation, which used to own nearly all of Miami. The port does astounding business in cruises, passengers, and cargo.
 
-#### The Wrecks
-
-The Seven Storms season was a great catastrophe for the city. Three large ships came loose and plowed through these bridges and islands, two cruise ships and one container ship, along with numerous smaller vessels. These islands are abandoned and a chaotic mass of broken buildings and torn up boats.
 
 
 

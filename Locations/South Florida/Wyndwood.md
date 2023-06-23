@@ -14,7 +14,7 @@ It is often rented as space for artists and temporary gallery exhibits.
 
 #### Edgewater Relief docks
 
-Originally built as a temporary dock for relief work during the aftermath of the Seven Storms Hurricane Season, this area has become a minor shipping hub and marina, where official supervision is quite lax.
+Originally built as a temporary dock for relief work during the aftermath of the Meistersinger Massacre, this area has become a minor shipping hub and marina, where official supervision is quite lax.
 
 #### Midtown Shops
 
