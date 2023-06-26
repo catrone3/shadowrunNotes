@@ -51,6 +51,7 @@
 - Bubbles (adept) M6 (pink hair)
 - Shadow (Only male) B&e
 - Necro (Technomancer)
+
 Tara (Drake)
 
 ##### Agents

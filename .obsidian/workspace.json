@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28a32ba721f40bed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/South Florida.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1f10f11620172366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/South Florida.md",
+                "file": "Players/Denver Prime/Cat.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/South Florida.md",
+                "file": "Players/Denver Prime/Cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,17 +161,31 @@
   },
   "active": "1f10f11620172366",
   "lastOpenFiles": [
-    "Locations/South Florida/Wyndwood.md",
+    "NPCs/Friendly/Denver/Telenov.md",
+    "Players/Denver Prime/Cat.md",
+    "NPCs/Friendly/Denver/Kalt.md",
+    "NPCs/Friendly/Denver/Coco.md",
+    "Denver Game notes/21-10-23.md",
+    "Denver Game notes/21-8-28.md",
+    "Denver Game notes/21-8-14.md",
+    "GM Info/Miami/NPCs.md",
+    "NPCs/Neutral/South Florida/Chuck Finley.md",
+    "Factions/Southern Florida/Crime Orgs/The Barbers.md",
     "Locations/South Florida.md",
     "Locations/South Florida/Kendale Lakes.md",
-    "Locations/South Florida/Sun Key.md",
+    "Locations/South Florida/Kendall.md",
+    "Locations/South Florida/Relief Center 2.md",
     "Locations/South Florida/Shiawase Exclusion Zone.md",
-    "Locations/South Florida/North Miami Beach.md",
     "Locations/South Florida/Normandy Ghost Town.md",
+    "Locations/South Florida/Alandco.md",
+    "GM Info/Miami/Temp document.md",
+    "GM Info/Miami/Untitled.md",
+    "Locations/South Florida/Wyndwood.md",
+    "Locations/South Florida/Sun Key.md",
+    "Locations/South Florida/North Miami Beach.md",
     "Locations/South Florida/Miami City Cemetery.md",
     "Locations/South Florida/Gladeview.md",
     "Locations/South Florida/City of Miami.md",
-    "NPCs/Neutral/South Florida/Chuck Finley.md",
     "Images/shadowrun characters/Pasted image 20230520180338.png",
     "Images/shadowrun characters/Pasted image 20230520135324.png",
     "Images/shadowrun characters/Pasted image 20230520180307.png",
@@ -196,20 +196,6 @@
     "Images/shadowrun characters/cat1.png",
     "Corps (Local)/South Florida/Carlito's Bar.md",
     "NPCs/Neutral/South Florida",
-    "Locations/Saint George Parish.md",
-    "Locations/South Florida/Sunshine Parkway.md",
-    "Locations/South Florida/Sunshine Acres.md",
-    "Locations/South Florida/Boca Raton.md",
-    "Locations/South Florida/Deerfield Beach.md",
-    "Locations/South Florida/Coral Springs.md",
-    "Locations/South Florida/North Lauderdale.md",
-    "Locations/South Florida/Pompano Beach.md",
-    "Locations/South Florida/Oakland.md",
-    "Locations/South Florida/Fort Lauderdale.md",
-    "Locations/South Florida/Idlewyld.md",
-    "Locations/South Florida/Edgewood.md",
-    "Locations/South Florida/Plantation.md",
-    "Locations/South Florida/Oakridge.md",
     "Factions/Southern Florida/Crime Orgs",
     "Locations/South Florida/Virginia Key",
     "Locations/South Florida/Sun Key",
