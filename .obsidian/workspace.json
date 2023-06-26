@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Denver Prime/Cat.md",
+                "file": "Players/London.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Denver Prime/Cat.md",
+                "file": "Players/London.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,8 +161,10 @@
   },
   "active": "1f10f11620172366",
   "lastOpenFiles": [
-    "NPCs/Friendly/Denver/Telenov.md",
+    "How to Use Foundry.md",
+    "Homepage.md",
     "Players/Denver Prime/Cat.md",
+    "NPCs/Friendly/Denver/Telenov.md",
     "NPCs/Friendly/Denver/Kalt.md",
     "NPCs/Friendly/Denver/Coco.md",
     "Denver Game notes/21-10-23.md",
@@ -185,7 +187,6 @@
     "Locations/South Florida/North Miami Beach.md",
     "Locations/South Florida/Miami City Cemetery.md",
     "Locations/South Florida/Gladeview.md",
-    "Locations/South Florida/City of Miami.md",
     "Images/shadowrun characters/Pasted image 20230520180338.png",
     "Images/shadowrun characters/Pasted image 20230520135324.png",
     "Images/shadowrun characters/Pasted image 20230520180307.png",
@@ -194,7 +195,6 @@
     "Images/shadowrun characters/Chuck Finley.png",
     "Images/shadowrun characters/Macey Driver.png",
     "Images/shadowrun characters/cat1.png",
-    "Corps (Local)/South Florida/Carlito's Bar.md",
     "NPCs/Neutral/South Florida",
     "Factions/Southern Florida/Crime Orgs",
     "Locations/South Florida/Virginia Key",
