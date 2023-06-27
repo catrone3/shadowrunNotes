@@ -8435,6 +8435,10 @@
         "level": 4
       },
       {
+        "heading": "Stiltsville",
+        "level": 4
+      },
+      {
         "heading": "History",
         "level": 3
       },
@@ -8666,11 +8670,6 @@
         "fileName": "Homepage",
         "link": "South Florida",
         "relativePath": "Homepage.md"
-      },
-      {
-        "fileName": "Stiltsville",
-        "link": "South Florida",
-        "relativePath": "Factions/Southern Florida/Crime Orgs/Stiltsville.md"
       }
     ]
   },
@@ -13378,8 +13377,26 @@
     "relativePath": "GM Info/temp.md"
   },
   {
+    "fileName": "companies",
+    "relativePath": "GM Info/Miami/companies.md"
+  },
+  {
+    "fileName": "npc descriptors",
+    "relativePath": "GM Info/Miami/npc descriptors.md"
+  },
+  {
+    "fileName": "crime orgs",
+    "relativePath": "GM Info/Miami/crime orgs.md"
+  },
+  {
     "fileName": "NPCs",
-    "relativePath": "GM Info/Miami/NPCs.md"
+    "relativePath": "GM Info/Miami/NPCs.md",
+    "headings": [
+      {
+        "heading": "Contact Connection ratings",
+        "level": 2
+      }
+    ]
   },
   {
     "fileName": "Untitled",
@@ -13746,22 +13763,6 @@
       {
         "link": "Awakened Everglades",
         "relativePath": "Locations/South Florida/Awakened Everglades.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Stiltsville",
-    "relativePath": "Factions/Southern Florida/Crime Orgs/Stiltsville.md",
-    "headings": [
-      {
-        "heading": "Locations",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "South Florida",
-        "relativePath": "Locations/South Florida.md"
       }
     ]
   },
