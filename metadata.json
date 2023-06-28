@@ -456,7 +456,7 @@
         "level": 2
       },
       {
-        "heading": "[[../Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team|Morocco Team]]",
+        "heading": "[[../AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team|Morocco Team]]",
         "level": 4
       },
       {
@@ -475,7 +475,7 @@
     "links": [
       {
         "link": "Morocco Team",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
       },
       {
         "link": "Helix",
@@ -616,15 +616,15 @@
         "displayText": "North African Crew"
       },
       {
-        "fileName": "Special Interests Department",
-        "link": "Morocco",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md",
-        "displayText": "Morocco Team"
-      },
-      {
         "fileName": "Homepage",
         "link": "Morocco",
         "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "Special Interests Department",
+        "link": "Morocco",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md",
+        "displayText": "Morocco Team"
       }
     ]
   },
@@ -944,14 +944,14 @@
     ],
     "backlinks": [
       {
-        "fileName": "Manufacturing",
-        "link": "London",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Manufacturing.md"
-      },
-      {
         "fileName": "Homepage",
         "link": "London",
         "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "Manufacturing",
+        "link": "London",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing.md"
       }
     ]
   },
@@ -975,12 +975,12 @@
       {
         "fileName": "Mercea Conglomerate",
         "link": "Zer0",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
       },
       {
         "fileName": "Mercea Conglomerate",
         "link": "Zer0",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
       }
     ]
   },
@@ -1004,17 +1004,17 @@
       {
         "fileName": "Mercea Conglomerate",
         "link": "Nightowl",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
       },
       {
         "fileName": "Mercea Conglomerate",
         "link": "Nightowl",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
       },
       {
         "fileName": "Mercea Conglomerate",
         "link": "Nightowl",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
       },
       {
         "fileName": "Litehouse Industries",
@@ -1053,22 +1053,22 @@
       {
         "fileName": "Mercea Conglomerate",
         "link": "Elfo",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
       },
       {
         "fileName": "Mercea Conglomerate",
         "link": "Elfo",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
       },
       {
         "fileName": "Mercea Conglomerate",
         "link": "Elfo",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
       },
       {
         "fileName": "M.H. Institue of Neuroscience",
         "link": "Elfo",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
       },
       {
         "fileName": "Litehouse Industries",
@@ -1092,22 +1092,22 @@
       {
         "fileName": "Mercea Conglomerate",
         "link": "Casper",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
       },
       {
         "fileName": "Mercea Conglomerate",
         "link": "Casper",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
       },
       {
         "fileName": "Mercea Conglomerate",
         "link": "Casper",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
       },
       {
         "fileName": "Mercea Conglomerate",
         "link": "Casper",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
       }
     ]
   },
@@ -1466,7 +1466,7 @@
       {
         "fileName": "Front Range Consulting",
         "link": "Walker",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
       }
     ]
   },
@@ -1480,7 +1480,7 @@
       {
         "fileName": "Front Range Consulting",
         "link": "Security",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
       }
     ]
   },
@@ -1494,7 +1494,7 @@
       {
         "fileName": "Front Range Consulting",
         "link": "Marshal",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
       }
     ]
   },
@@ -1508,7 +1508,7 @@
       {
         "fileName": "Front Range Consulting",
         "link": "Dharavi",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
       }
     ]
   },
@@ -1522,7 +1522,7 @@
       {
         "fileName": "Front Range Consulting",
         "link": "Arcane",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
       }
     ]
   },
@@ -1542,7 +1542,7 @@
         "level": 3
       },
       {
-        "heading": "[[../Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials|Denver Team]]",
+        "heading": "[[../AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials|Denver Team]]",
         "level": 5
       },
       {
@@ -1566,7 +1566,7 @@
       {
         "link": "Denver Specials",
         "displayText": "Denver Team",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md"
       },
       {
         "link": "Slip",
@@ -1748,12 +1748,6 @@
         "link": "Denver Prime",
         "relativePath": "Players/Denver Prime/Cat.md",
         "displayText": "Denver Team"
-      },
-      {
-        "fileName": "Special Interests Department",
-        "link": "Denver Prime",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md",
-        "displayText": "Denver Specials"
       },
       {
         "fileName": "Homepage",
@@ -1969,6 +1963,12 @@
         "link": "Denver Prime",
         "relativePath": "Denver Game notes/21-10-23.md",
         "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "Special Interests Department",
+        "link": "Denver Prime",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md",
+        "displayText": "Denver Specials"
       }
     ]
   },
@@ -2031,7 +2031,7 @@
       {
         "fileName": "Denver Specials",
         "link": "Spyder",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md"
       }
     ]
   },
@@ -2128,11 +2128,6 @@
         "relativePath": "NPCs/Friendly/Denver/Leah.md"
       },
       {
-        "fileName": "Denver Specials",
-        "link": "Swiss",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md"
-      },
-      {
         "fileName": "23-1-14",
         "link": "Swiss",
         "relativePath": "Denver Game notes/23-1-14.md"
@@ -2146,6 +2141,11 @@
         "fileName": "Ares",
         "link": "Swiss",
         "relativePath": "AAA Corps/Ares.md"
+      },
+      {
+        "fileName": "Denver Specials",
+        "link": "Swiss",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md"
       }
     ]
   },
@@ -2193,16 +2193,6 @@
         "relativePath": "NPCs/Friendly/Denver/Angelica Quinn.md"
       },
       {
-        "fileName": "Denver Specials",
-        "link": "Spectre",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md"
-      },
-      {
-        "fileName": "Front Range Consulting",
-        "link": "Spectre",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
-      },
-      {
         "fileName": "23-1-14",
         "link": "Spectre",
         "relativePath": "Denver Game notes/23-1-14.md"
@@ -2221,6 +2211,16 @@
         "fileName": "22-12-17",
         "link": "Spectre",
         "relativePath": "Denver Game notes/22-12-17.md"
+      },
+      {
+        "fileName": "Denver Specials",
+        "link": "Spectre",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md"
+      },
+      {
+        "fileName": "Front Range Consulting",
+        "link": "Spectre",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md"
       }
     ]
   },
@@ -2321,26 +2321,6 @@
         "relativePath": "NPCs/Friendly/Denver/Ivy.md"
       },
       {
-        "fileName": "Denver Specials",
-        "link": "Incubus",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md"
-      },
-      {
-        "fileName": "Incubus Club",
-        "link": "Incubus",
-        "relativePath": "Litehouse Industries/Incubus Club.md"
-      },
-      {
-        "fileName": "Incubus Club Teams",
-        "link": "Incubus",
-        "relativePath": "Litehouse Industries/Incubus Club/Incubus Club Teams.md"
-      },
-      {
-        "fileName": "Denver School for Advanced Learning",
-        "link": "Incubus",
-        "relativePath": "Litehouse Industries/Denver School for Advanced Learning.md"
-      },
-      {
         "fileName": "23-2-11",
         "link": "Incubus",
         "relativePath": "Denver Game notes/23-2-11.md"
@@ -2359,6 +2339,26 @@
         "fileName": "22-8-13",
         "link": "Incubus",
         "relativePath": "Denver Game notes/22-8-13.md"
+      },
+      {
+        "fileName": "Denver Specials",
+        "link": "Incubus",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md"
+      },
+      {
+        "fileName": "Incubus Club",
+        "link": "Incubus",
+        "relativePath": "AA Corps/Litehouse Industries/Incubus Club.md"
+      },
+      {
+        "fileName": "Incubus Club Teams",
+        "link": "Incubus",
+        "relativePath": "AA Corps/Litehouse Industries/Incubus Club/Incubus Club Teams.md"
+      },
+      {
+        "fileName": "Denver School for Advanced Learning",
+        "link": "Incubus",
+        "relativePath": "AA Corps/Litehouse Industries/Denver School for Advanced Learning.md"
       },
       {
         "fileName": "Yoyo Dine",
@@ -2430,7 +2430,7 @@
         "level": 5
       },
       {
-        "heading": "[[../../Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department|Fixers]]",
+        "heading": "[[../../AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department|Fixers]]",
         "level": 5
       },
       {
@@ -2465,23 +2465,23 @@
     "links": [
       {
         "link": "C-260",
-        "relativePath": "Litehouse Industries/Cheyenne Mountain/C-260.md"
+        "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/C-260.md"
       },
       {
         "link": "Toyota Gopher",
-        "relativePath": "Litehouse Industries/Cheyenne Mountain/Toyota Gopher.md"
+        "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/Toyota Gopher.md"
       },
       {
         "link": "SKA-008",
-        "relativePath": "Litehouse Industries/Cheyenne Mountain/SKA-008.md"
+        "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/SKA-008.md"
       },
       {
         "link": "SU-41 'Fixer'",
-        "relativePath": "Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'.md"
+        "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'.md"
       },
       {
         "link": "Lear-Cessna Platinum",
-        "relativePath": "Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md"
+        "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md"
       },
       {
         "link": "Swiss",
@@ -2515,7 +2515,7 @@
       {
         "link": "Special Interests Department",
         "displayText": "Fixers",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
       },
       {
         "link": "Jess",
@@ -2647,46 +2647,6 @@
         "relativePath": "Locations/FRFZ/Cheyenne Mountain.md"
       },
       {
-        "fileName": "Denver Specials",
-        "link": "Cat",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md"
-      },
-      {
-        "fileName": "Denver School for Advanced Learning",
-        "link": "Cat",
-        "relativePath": "Litehouse Industries/Denver School for Advanced Learning.md"
-      },
-      {
-        "fileName": "1UP!",
-        "link": "Cat",
-        "relativePath": "Litehouse Industries/1UP!.md"
-      },
-      {
-        "fileName": "Toyota Gopher",
-        "link": "Cat",
-        "relativePath": "Litehouse Industries/Cheyenne Mountain/Toyota Gopher.md"
-      },
-      {
-        "fileName": "SU-41 'Fixer'",
-        "link": "Cat",
-        "relativePath": "Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'.md"
-      },
-      {
-        "fileName": "SKA-008",
-        "link": "Cat",
-        "relativePath": "Litehouse Industries/Cheyenne Mountain/SKA-008.md"
-      },
-      {
-        "fileName": "Lear-Cessna Platinum",
-        "link": "Cat",
-        "relativePath": "Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md"
-      },
-      {
-        "fileName": "C-260",
-        "link": "Cat",
-        "relativePath": "Litehouse Industries/Cheyenne Mountain/C-260.md"
-      },
-      {
         "fileName": "23-2-11",
         "link": "Cat",
         "relativePath": "Denver Game notes/23-2-11.md"
@@ -2710,6 +2670,46 @@
         "fileName": "22-12-17",
         "link": "Cat",
         "relativePath": "Denver Game notes/22-12-17.md"
+      },
+      {
+        "fileName": "Denver Specials",
+        "link": "Cat",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md"
+      },
+      {
+        "fileName": "Denver School for Advanced Learning",
+        "link": "Cat",
+        "relativePath": "AA Corps/Litehouse Industries/Denver School for Advanced Learning.md"
+      },
+      {
+        "fileName": "1UP!",
+        "link": "Cat",
+        "relativePath": "AA Corps/Litehouse Industries/1UP!.md"
+      },
+      {
+        "fileName": "Toyota Gopher",
+        "link": "Cat",
+        "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/Toyota Gopher.md"
+      },
+      {
+        "fileName": "SU-41 'Fixer'",
+        "link": "Cat",
+        "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'.md"
+      },
+      {
+        "fileName": "SKA-008",
+        "link": "Cat",
+        "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/SKA-008.md"
+      },
+      {
+        "fileName": "Lear-Cessna Platinum",
+        "link": "Cat",
+        "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md"
+      },
+      {
+        "fileName": "C-260",
+        "link": "Cat",
+        "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/C-260.md"
       },
       {
         "fileName": "Litehouse Industries",
@@ -3549,7 +3549,7 @@
     "links": [
       {
         "link": "Rainbow Corp",
-        "relativePath": "Litehouse Industries/Rainbow Corp.md"
+        "relativePath": "AA Corps/Litehouse Industries/Rainbow Corp.md"
       }
     ]
   },
@@ -3611,7 +3611,7 @@
       },
       {
         "link": "Spinrad Global",
-        "relativePath": "AA Corps/Spinrad Global.md"
+        "relativePath": "AAA Corps/Spinrad Global.md"
       },
       {
         "link": "Helix",
@@ -4619,7 +4619,7 @@
     "links": [
       {
         "link": "Rainbow Corp",
-        "relativePath": "Litehouse Industries/Rainbow Corp.md"
+        "relativePath": "AA Corps/Litehouse Industries/Rainbow Corp.md"
       }
     ]
   },
@@ -5294,7 +5294,7 @@
       {
         "fileName": "M.H. Institue of Neuroscience",
         "link": "Olivia",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
       }
     ]
   },
@@ -6304,7 +6304,7 @@
       {
         "fileName": "Special Interests Department",
         "link": "Helix",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
       }
     ]
   },
@@ -6757,7 +6757,7 @@
       {
         "fileName": "Mercea Conglomerate",
         "link": "Siri",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
       }
     ]
   },
@@ -6983,7 +6983,7 @@
       },
       {
         "link": "Litehouse Manufacturing",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md"
       }
     ],
     "backlinks": [
@@ -7042,7 +7042,7 @@
     "links": [
       {
         "link": "Incubus Club",
-        "relativePath": "Litehouse Industries/Incubus Club.md"
+        "relativePath": "AA Corps/Litehouse Industries/Incubus Club.md"
       },
       {
         "link": "Incubus",
@@ -7106,7 +7106,7 @@
       {
         "fileName": "Special Interests Department",
         "link": "Telenov",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
       }
     ]
   },
@@ -7119,7 +7119,7 @@
     "links": [
       {
         "link": "1UP!",
-        "relativePath": "Litehouse Industries/1UP!.md"
+        "relativePath": "AA Corps/Litehouse Industries/1UP!.md"
       }
     ],
     "backlinks": [
@@ -7131,12 +7131,12 @@
       {
         "fileName": "Special Interests Department",
         "link": "Steve",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
       },
       {
         "fileName": "1UP!",
         "link": "Steve",
-        "relativePath": "Litehouse Industries/1UP!.md"
+        "relativePath": "AA Corps/Litehouse Industries/1UP!.md"
       },
       {
         "fileName": "Litehouse Industries",
@@ -7170,7 +7170,7 @@
       {
         "fileName": "Denver Specials",
         "link": "Slip",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md"
       }
     ]
   },
@@ -7323,7 +7323,7 @@
     "links": [
       {
         "link": "1UP! Colfax",
-        "relativePath": "Litehouse Industries/1UP!/1UP! Colfax.md"
+        "relativePath": "AA Corps/Litehouse Industries/1UP!/1UP! Colfax.md"
       }
     ],
     "backlinks": [
@@ -7335,7 +7335,7 @@
       {
         "fileName": "Special Interests Department",
         "link": "Salena Boisvert",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
       }
     ]
   },
@@ -7411,7 +7411,7 @@
     "links": [
       {
         "link": "1UP!",
-        "relativePath": "Litehouse Industries/1UP!.md"
+        "relativePath": "AA Corps/Litehouse Industries/1UP!.md"
       },
       {
         "link": "Cat",
@@ -7481,7 +7481,7 @@
     "links": [
       {
         "link": "1UP!",
-        "relativePath": "Litehouse Industries/1UP!.md"
+        "relativePath": "AA Corps/Litehouse Industries/1UP!.md"
       }
     ],
     "backlinks": [
@@ -7498,12 +7498,12 @@
       {
         "fileName": "Special Interests Department",
         "link": "Jess",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
       },
       {
         "fileName": "1UP!",
         "link": "Jess",
-        "relativePath": "Litehouse Industries/1UP!.md"
+        "relativePath": "AA Corps/Litehouse Industries/1UP!.md"
       },
       {
         "fileName": "Litehouse Industries",
@@ -9127,6 +9127,20 @@
       {
         "heading": "Calder Racetrack and Casino",
         "level": 4
+      },
+      {
+        "heading": "Known Companies",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Azimuth Corporation",
+        "relativePath": "A Corps/Azimuth Corporation.md"
+      },
+      {
+        "link": "Blackfire Arms & Armory",
+        "relativePath": "Corps (Local)/South Florida/Blackfire Arms & Armory.md"
       }
     ],
     "backlinks": [
@@ -9165,6 +9179,16 @@
       {
         "heading": "Roving Bands of Birds",
         "level": 4
+      },
+      {
+        "heading": "Known Companies",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Blackfire Arms & Armory",
+        "relativePath": "Corps (Local)/South Florida/Blackfire Arms & Armory.md"
       }
     ],
     "backlinks": [
@@ -9939,7 +9963,7 @@
     "links": [
       {
         "link": "Litehouse Production",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production.md"
       },
       {
         "link": "Ares",
@@ -10106,64 +10130,64 @@
         "relativePath": "NPCs/Friendly/London/Sammy.md"
       },
       {
-        "fileName": "The Vabel",
+        "fileName": "Homepage",
         "link": "London",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md"
+        "relativePath": "Homepage.md"
       },
       {
         "fileName": "The Vabel",
         "link": "London",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md"
       },
       {
         "fileName": "The Vabel",
         "link": "London",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md"
+      },
+      {
+        "fileName": "The Vabel",
+        "link": "London",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md"
       },
       {
         "fileName": "Twilight Medical Services",
         "link": "London",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Twilight Medical Services.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services.md"
       },
       {
         "fileName": "M.H. Institue of Neuroscience",
         "link": "London",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
       },
       {
         "fileName": "Unnamed Manufacturing Site",
         "link": "London",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md"
       },
       {
         "fileName": "Unnamed Manufacturing Site",
         "link": "London",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md"
       },
       {
         "fileName": "The Elegance Tower",
         "link": "London",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
       },
       {
         "fileName": "The Elegance Tower",
         "link": "London",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
       },
       {
         "fileName": "The Elegance Tower",
         "link": "London",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
       },
       {
         "fileName": "The Elegance Tower",
         "link": "London",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
-      },
-      {
-        "fileName": "Homepage",
-        "link": "London",
-        "relativePath": "Homepage.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
       }
     ]
   },
@@ -10664,23 +10688,23 @@
       },
       {
         "link": "C-260",
-        "relativePath": "Litehouse Industries/Cheyenne Mountain/C-260.md"
+        "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/C-260.md"
       },
       {
         "link": "Lear-Cessna Platinum",
-        "relativePath": "Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md"
+        "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md"
       },
       {
         "link": "SKA-008",
-        "relativePath": "Litehouse Industries/Cheyenne Mountain/SKA-008.md"
+        "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/SKA-008.md"
       },
       {
         "link": "SU-41 'Fixer'",
-        "relativePath": "Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'.md"
+        "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'.md"
       },
       {
         "link": "Toyota Gopher",
-        "relativePath": "Litehouse Industries/Cheyenne Mountain/Toyota Gopher.md"
+        "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/Toyota Gopher.md"
       }
     ],
     "backlinks": [
@@ -10991,1245 +11015,6 @@
         "fileName": "Homepage",
         "link": "How to Use Foundry",
         "relativePath": "Homepage.md"
-      }
-    ]
-  },
-  {
-    "fileName": "The Apollo Group",
-    "relativePath": "Litehouse Industries/The Apollo Group.md",
-    "tags": [
-      "seattle"
-    ],
-    "headings": [
-      {
-        "heading": "Fields",
-        "level": 5
-      },
-      {
-        "heading": "Offices",
-        "level": 5
-      },
-      {
-        "heading": "Costs",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Host Upgrades",
-        "relativePath": "Litehouse Industries/The Apollo Group/Host Upgrades.md"
-      },
-      {
-        "link": "IC Designs",
-        "relativePath": "Litehouse Industries/The Apollo Group/IC Designs.md"
-      },
-      {
-        "link": "Security Programs",
-        "relativePath": "Litehouse Industries/The Apollo Group/Security Programs.md"
-      },
-      {
-        "link": "Office 1",
-        "relativePath": "Litehouse Industries/The Apollo Group/Office 1.md"
-      },
-      {
-        "link": "Office 2",
-        "relativePath": "Litehouse Industries/The Apollo Group/Office 2.md"
-      },
-      {
-        "link": "Original Office",
-        "relativePath": "Litehouse Industries/The Apollo Group/Original Office.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Litehouse Industries",
-        "link": "The Apollo Group",
-        "relativePath": "AA Corps/Litehouse Industries.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Security Programs",
-    "relativePath": "Litehouse Industries/The Apollo Group/Security Programs.md",
-    "tags": [
-      "seattle"
-    ],
-    "backlinks": [
-      {
-        "fileName": "The Apollo Group",
-        "link": "Security Programs",
-        "relativePath": "Litehouse Industries/The Apollo Group.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Original Office",
-    "relativePath": "Litehouse Industries/The Apollo Group/Original Office.md",
-    "tags": [
-      "seattle"
-    ],
-    "backlinks": [
-      {
-        "fileName": "The Apollo Group",
-        "link": "Original Office",
-        "relativePath": "Litehouse Industries/The Apollo Group.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Office 1",
-    "relativePath": "Litehouse Industries/The Apollo Group/Office 1.md",
-    "tags": [
-      "seattle"
-    ],
-    "headings": [
-      {
-        "heading": "Building",
-        "level": 5
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "The Apollo Group",
-        "link": "Office 1",
-        "relativePath": "Litehouse Industries/The Apollo Group.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Office 2",
-    "relativePath": "Litehouse Industries/The Apollo Group/Office 2.md",
-    "tags": [
-      "seattle"
-    ],
-    "headings": [
-      {
-        "heading": "Building",
-        "level": 5
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "The Apollo Group",
-        "link": "Office 2",
-        "relativePath": "Litehouse Industries/The Apollo Group.md"
-      }
-    ]
-  },
-  {
-    "fileName": "IC Designs",
-    "relativePath": "Litehouse Industries/The Apollo Group/IC Designs.md",
-    "tags": [
-      "seattle"
-    ],
-    "backlinks": [
-      {
-        "fileName": "The Apollo Group",
-        "link": "IC Designs",
-        "relativePath": "Litehouse Industries/The Apollo Group.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Host Upgrades",
-    "relativePath": "Litehouse Industries/The Apollo Group/Host Upgrades.md",
-    "tags": [
-      "seattle"
-    ],
-    "backlinks": [
-      {
-        "fileName": "The Apollo Group",
-        "link": "Host Upgrades",
-        "relativePath": "Litehouse Industries/The Apollo Group.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Rainbow Corp",
-    "relativePath": "Litehouse Industries/Rainbow Corp.md",
-    "tags": [
-      "aa_corporation"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Sam",
-        "link": "Rainbow Corp",
-        "relativePath": "NPCs/Unfriendly/Sam.md"
-      },
-      {
-        "fileName": "Green",
-        "link": "Rainbow Corp",
-        "relativePath": "NPCs/Neutral/Denver/Green.md"
-      },
-      {
-        "fileName": "Litehouse Industries",
-        "link": "Rainbow Corp",
-        "relativePath": "AA Corps/Litehouse Industries.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Mercea Conglomerate",
-    "relativePath": "Litehouse Industries/Mercea Conglomerate.md",
-    "tags": [
-      "london"
-    ],
-    "links": [
-      {
-        "link": "Nightowl",
-        "relativePath": "Players/London/Nightowl.md"
-      },
-      {
-        "link": "Elfo",
-        "relativePath": "Players/London/Elfo.md"
-      },
-      {
-        "link": "Casper",
-        "relativePath": "Players/London/Casper.md"
-      },
-      {
-        "link": "Zer0",
-        "relativePath": "Players/London/Zer0.md"
-      },
-      {
-        "link": "Manufacturing",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Manufacturing.md"
-      },
-      {
-        "link": "M.H. Institue of Neuroscience",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
-      },
-      {
-        "link": "Twilight Medical Services",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Twilight Medical Services.md"
-      },
-      {
-        "link": "Siri",
-        "relativePath": "NPCs/Friendly/London/Siri.md"
-      },
-      {
-        "link": "Nightowl",
-        "relativePath": "Players/London/Nightowl.md"
-      },
-      {
-        "link": "Nightowl",
-        "relativePath": "Players/London/Nightowl.md"
-      },
-      {
-        "link": "Elfo",
-        "relativePath": "Players/London/Elfo.md"
-      },
-      {
-        "link": "Casper",
-        "relativePath": "Players/London/Casper.md"
-      },
-      {
-        "link": "Zer0",
-        "relativePath": "Players/London/Zer0.md"
-      },
-      {
-        "link": "Casper",
-        "relativePath": "Players/London/Casper.md"
-      },
-      {
-        "link": "Casper",
-        "relativePath": "Players/London/Casper.md"
-      },
-      {
-        "link": "Elfo",
-        "relativePath": "Players/London/Elfo.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Litehouse Industries",
-        "link": "Mercea Conglomerate",
-        "relativePath": "AA Corps/Litehouse Industries.md"
-      }
-    ]
-  },
-  {
-    "fileName": "The Vabel",
-    "relativePath": "Litehouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md",
-    "tags": [
-      "london"
-    ],
-    "links": [
-      {
-        "link": "London",
-        "relativePath": "Locations/London.md"
-      },
-      {
-        "link": "London",
-        "relativePath": "Locations/London.md"
-      },
-      {
-        "link": "London",
-        "relativePath": "Locations/London.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Twilight Medical Services",
-        "link": "The Vabel",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Twilight Medical Services.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Twilight Medical Services",
-    "relativePath": "Litehouse Industries/Mercea Conglomerate/Twilight Medical Services.md",
-    "tags": [
-      "london"
-    ],
-    "headings": [
-      {
-        "heading": "[[../../Locations/London|London]]",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "London",
-        "relativePath": "Locations/London.md"
-      },
-      {
-        "link": "The Vabel",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Mercea Conglomerate",
-        "link": "Twilight Medical Services",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Manufacturing",
-    "relativePath": "Litehouse Industries/Mercea Conglomerate/Manufacturing.md",
-    "tags": [
-      "london"
-    ],
-    "headings": [
-      {
-        "heading": "[[../../Players/London|London]]",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "London",
-        "relativePath": "Players/London.md"
-      },
-      {
-        "link": "Unnamed Manufacturing Site",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md"
-      },
-      {
-        "link": "Project Ideas",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Manufacturing/Project Ideas.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Mercea Conglomerate",
-        "link": "Manufacturing",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
-      },
-      {
-        "fileName": "Litehouse Manufacturing",
-        "link": "Manufacturing",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md"
-      }
-    ]
-  },
-  {
-    "fileName": "M.H. Institue of Neuroscience",
-    "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md",
-    "tags": [
-      "seattle",
-      "atlanta"
-    ],
-    "links": [
-      {
-        "link": "London",
-        "relativePath": "Locations/London.md"
-      },
-      {
-        "link": "Elfo",
-        "relativePath": "Players/London/Elfo.md"
-      },
-      {
-        "link": "Olivia",
-        "relativePath": "NPCs/Friendly/Olivia.md"
-      },
-      {
-        "link": "The Elegance Tower",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
-      },
-      {
-        "link": "Seattle Site",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Seattle Site.md"
-      },
-      {
-        "link": "Atlanta Factory",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Atlanta Factory.md"
-      },
-      {
-        "link": "The Elegance Tower",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Mercea Conglomerate",
-        "link": "M.H. Institue of Neuroscience",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Project Ideas",
-    "relativePath": "Litehouse Industries/Mercea Conglomerate/Manufacturing/Project Ideas.md",
-    "tags": [
-      "london"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Manufacturing",
-        "link": "Project Ideas",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Manufacturing.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Unnamed Manufacturing Site",
-    "relativePath": "Litehouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md",
-    "tags": [
-      "london"
-    ],
-    "links": [
-      {
-        "link": "London",
-        "relativePath": "Locations/London.md"
-      },
-      {
-        "link": "London",
-        "relativePath": "Locations/London.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Manufacturing",
-        "link": "Unnamed Manufacturing Site",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Manufacturing.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Seattle Site",
-    "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Seattle Site.md",
-    "tags": [
-      "seattle"
-    ],
-    "backlinks": [
-      {
-        "fileName": "M.H. Institue of Neuroscience",
-        "link": "Seattle Site",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
-      }
-    ]
-  },
-  {
-    "fileName": "The Elegance Tower",
-    "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md",
-    "tags": [
-      "london"
-    ],
-    "links": [
-      {
-        "link": "London",
-        "relativePath": "Locations/London.md"
-      },
-      {
-        "link": "London",
-        "relativePath": "Locations/London.md"
-      },
-      {
-        "link": "London",
-        "relativePath": "Locations/London.md"
-      },
-      {
-        "link": "London",
-        "relativePath": "Locations/London.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "M.H. Institue of Neuroscience",
-        "link": "The Elegance Tower",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
-      },
-      {
-        "fileName": "M.H. Institue of Neuroscience",
-        "link": "The Elegance Tower",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Atlanta Factory",
-    "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Atlanta Factory.md",
-    "tags": [
-      "atlanta"
-    ],
-    "backlinks": [
-      {
-        "fileName": "M.H. Institue of Neuroscience",
-        "link": "Atlanta Factory",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Litehouse Brand",
-    "relativePath": "Litehouse Industries/Litehouse Brand.md",
-    "tags": [
-      "denver",
-      "aa_corporation"
-    ],
-    "headings": [
-      {
-        "heading": "Personal Project",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Litehouse Production",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production.md"
-      },
-      {
-        "link": "Litehouse Manufacturing",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md"
-      },
-      {
-        "link": "Litehouse Construction",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Construction.md"
-      },
-      {
-        "link": "Litehouse Aerospace",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Aerospace.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Litehouse Industries",
-        "link": "Litehouse Brand",
-        "relativePath": "AA Corps/Litehouse Industries.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Litehouse Production",
-    "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "News Staff",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Special Interests Department",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
-      },
-      {
-        "link": "The Guanxi Gambit",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/The Guanxi Gambit.md"
-      },
-      {
-        "link": "Blood and Chrome",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Blood and Chrome.md"
-      },
-      {
-        "link": "Litehouse news",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Litehouse news.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Rabat",
-        "link": "Litehouse Production",
-        "relativePath": "Locations/Morocco/Rabat.md"
-      },
-      {
-        "fileName": "Litehouse Brand",
-        "link": "Litehouse Production",
-        "relativePath": "Litehouse Industries/Litehouse Brand.md"
-      }
-    ]
-  },
-  {
-    "fileName": "The Guanxi Gambit",
-    "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/The Guanxi Gambit.md",
-    "tags": [
-      "seattle"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Litehouse Production",
-        "link": "The Guanxi Gambit",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Special Interests Department",
-    "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Fixers",
-        "level": 5
-      },
-      {
-        "heading": "Teams",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Jess",
-        "relativePath": "NPCs/Friendly/Denver/Jess.md"
-      },
-      {
-        "link": "Steve",
-        "relativePath": "NPCs/Friendly/Denver/Steve.md"
-      },
-      {
-        "link": "Helix",
-        "relativePath": "NPCs/Friendly/Morocco/Helix.md"
-      },
-      {
-        "link": "Salena Boisvert",
-        "relativePath": "NPCs/Friendly/Denver/Salena Boisvert.md"
-      },
-      {
-        "link": "Telenov",
-        "relativePath": "NPCs/Friendly/Denver/Telenov.md"
-      },
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Morocco",
-        "displayText": "Morocco Team",
-        "relativePath": "Players/Morocco.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Cat",
-        "link": "Special Interests Department",
-        "relativePath": "Players/Denver Prime/Cat.md",
-        "displayText": "Fixers"
-      },
-      {
-        "fileName": "Litehouse Production",
-        "link": "Special Interests Department",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Litehouse news",
-    "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Litehouse news.md",
-    "tags": [
-      "denver"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Litehouse Production",
-        "link": "Litehouse news",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Morocco Team",
-    "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md",
-    "backlinks": [
-      {
-        "fileName": "Morocco",
-        "link": "Morocco Team",
-        "relativePath": "Players/Morocco.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Denver Specials",
-    "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Fixer",
-        "level": 5
-      },
-      {
-        "heading": "Runners",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Slip",
-        "relativePath": "NPCs/Friendly/Denver/Slip.md"
-      },
-      {
-        "link": "Spyder",
-        "relativePath": "Players/Denver Prime/Spyder.md"
-      },
-      {
-        "link": "Cat",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      },
-      {
-        "link": "Incubus",
-        "relativePath": "Players/Denver Prime/Incubus.md"
-      },
-      {
-        "link": "Spectre",
-        "relativePath": "Players/Denver Prime/Spectre.md"
-      },
-      {
-        "link": "Swiss",
-        "relativePath": "Players/Denver Prime/Swiss.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Denver Prime",
-        "link": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md",
-        "displayText": "Denver Team"
-      }
-    ]
-  },
-  {
-    "fileName": "Front Range Consulting",
-    "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Arcane",
-        "relativePath": "Players/Front Range Consulting/Arcane.md"
-      },
-      {
-        "link": "Marshal",
-        "relativePath": "Players/Front Range Consulting/Marshal.md"
-      },
-      {
-        "link": "Walker",
-        "relativePath": "Players/Front Range Consulting/Walker.md"
-      },
-      {
-        "link": "Security",
-        "relativePath": "Players/Front Range Consulting/Security.md"
-      },
-      {
-        "link": "Dharavi",
-        "relativePath": "Players/Front Range Consulting/Dharavi.md"
-      },
-      {
-        "link": "Spectre",
-        "relativePath": "Players/Denver Prime/Spectre.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Blood and Chrome",
-    "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Blood and Chrome.md",
-    "tags": [
-      "seattle"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Litehouse Production",
-        "link": "Blood and Chrome",
-        "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Litehouse Manufacturing",
-    "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Arms Manufacturing",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Manufacturing",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate/Manufacturing.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Troy",
-        "link": "Litehouse Manufacturing",
-        "relativePath": "NPCs/Friendly/Denver/Troy.md"
-      },
-      {
-        "fileName": "Litehouse Brand",
-        "link": "Litehouse Manufacturing",
-        "relativePath": "Litehouse Industries/Litehouse Brand.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Litehouse Construction",
-    "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Construction.md",
-    "tags": [
-      "denver"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Litehouse Brand",
-        "link": "Litehouse Construction",
-        "relativePath": "Litehouse Industries/Litehouse Brand.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Litehouse Aerospace",
-    "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Aerospace.md",
-    "tags": [
-      "denver"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Litehouse Brand",
-        "link": "Litehouse Aerospace",
-        "relativePath": "Litehouse Industries/Litehouse Brand.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Incubus Club",
-    "relativePath": "Litehouse Industries/Incubus Club.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Incubus",
-        "relativePath": "Players/Denver Prime/Incubus.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Valentina Kwan",
-        "link": "Incubus Club",
-        "relativePath": "NPCs/Friendly/Denver/Valentina Kwan.md"
-      },
-      {
-        "fileName": "Litehouse Industries",
-        "link": "Incubus Club",
-        "relativePath": "AA Corps/Litehouse Industries.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Genesis Medical",
-    "relativePath": "Litehouse Industries/Genesis Medical.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Costs",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "Sperm Banks",
-        "relativePath": "Litehouse Industries/Genesis Medical/Sperm Banks.md"
-      },
-      {
-        "link": "Genesis Avista Hospital",
-        "relativePath": "Litehouse Industries/Genesis Medical/Genesis Avista Hospital.md"
-      },
-      {
-        "link": "Genesis Medical Clinic Aurora",
-        "relativePath": "Litehouse Industries/Genesis Medical/Genesis Medical Clinic Aurora.md"
-      },
-      {
-        "link": "Genesis Medical Hospital",
-        "relativePath": "Litehouse Industries/Genesis Medical/Genesis Medical Hospital.md"
-      },
-      {
-        "link": "Genesis Summit Medical Clinic",
-        "relativePath": "Litehouse Industries/Genesis Medical/Genesis Summit Medical Clinic.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Litehouse Industries",
-        "link": "Genesis Medical",
-        "relativePath": "AA Corps/Litehouse Industries.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Incubus Club Teams",
-    "relativePath": "Litehouse Industries/Incubus Club/Incubus Club Teams.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Incubus",
-        "relativePath": "Players/Denver Prime/Incubus.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Genesis Medical Hospital",
-    "relativePath": "Litehouse Industries/Genesis Medical/Genesis Medical Hospital.md",
-    "tags": [
-      "denver"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Genesis Medical",
-        "link": "Genesis Medical Hospital",
-        "relativePath": "Litehouse Industries/Genesis Medical.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Sperm Banks",
-    "relativePath": "Litehouse Industries/Genesis Medical/Sperm Banks.md",
-    "tags": [
-      "seattle"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Genesis Medical",
-        "link": "Sperm Banks",
-        "relativePath": "Litehouse Industries/Genesis Medical.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Genesis Summit Medical Clinic",
-    "relativePath": "Litehouse Industries/Genesis Medical/Genesis Summit Medical Clinic.md",
-    "tags": [
-      "denver"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Genesis Medical",
-        "link": "Genesis Summit Medical Clinic",
-        "relativePath": "Litehouse Industries/Genesis Medical.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Genesis Medical Clinic Aurora",
-    "relativePath": "Litehouse Industries/Genesis Medical/Genesis Medical Clinic Aurora.md",
-    "tags": [
-      "denver"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Genesis Medical",
-        "link": "Genesis Medical Clinic Aurora",
-        "relativePath": "Litehouse Industries/Genesis Medical.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Genesis Avista Hospital",
-    "relativePath": "Litehouse Industries/Genesis Medical/Genesis Avista Hospital.md",
-    "tags": [
-      "denver"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Genesis Medical",
-        "link": "Genesis Avista Hospital",
-        "relativePath": "Litehouse Industries/Genesis Medical.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Denver School for Advanced Learning",
-    "relativePath": "Litehouse Industries/Denver School for Advanced Learning.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Cat",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      },
-      {
-        "link": "Incubus",
-        "relativePath": "Players/Denver Prime/Incubus.md"
-      }
-    ]
-  },
-  {
-    "fileName": "1UP!",
-    "relativePath": "Litehouse Industries/1UP!.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Founder",
-        "level": 5
-      },
-      {
-        "heading": "Locations",
-        "level": 5
-      },
-      {
-        "heading": "Bar Tenders",
-        "level": 5
-      },
-      {
-        "heading": "Costs",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Cat",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      },
-      {
-        "link": "1UP! Lo-Bo",
-        "relativePath": "Litehouse Industries/1UP!/1UP! Lo-Bo.md"
-      },
-      {
-        "link": "1UP! Colfax",
-        "relativePath": "Litehouse Industries/1UP!/1UP! Colfax.md"
-      },
-      {
-        "link": "Jess",
-        "relativePath": "NPCs/Friendly/Denver/Jess.md"
-      },
-      {
-        "link": "Steve",
-        "relativePath": "NPCs/Friendly/Denver/Steve.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Steve",
-        "link": "1UP!",
-        "relativePath": "NPCs/Friendly/Denver/Steve.md"
-      },
-      {
-        "fileName": "Merlin",
-        "link": "1UP!",
-        "relativePath": "NPCs/Friendly/Denver/Merlin.md"
-      },
-      {
-        "fileName": "Jess",
-        "link": "1UP!",
-        "relativePath": "NPCs/Friendly/Denver/Jess.md"
-      },
-      {
-        "fileName": "Litehouse Industries",
-        "link": "1UP!",
-        "relativePath": "AA Corps/Litehouse Industries.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Toyota Gopher",
-    "relativePath": "Litehouse Industries/Cheyenne Mountain/Toyota Gopher.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Cat",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Cat",
-        "link": "Toyota Gopher",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      },
-      {
-        "fileName": "Cheyenne Mountain",
-        "link": "Toyota Gopher",
-        "relativePath": "Locations/FRFZ/Cheyenne Mountain.md"
-      }
-    ]
-  },
-  {
-    "fileName": "SU-41 'Fixer'",
-    "relativePath": "Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Cat",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Cat",
-        "link": "SU-41 'Fixer'",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      },
-      {
-        "fileName": "Cheyenne Mountain",
-        "link": "SU-41 'Fixer'",
-        "relativePath": "Locations/FRFZ/Cheyenne Mountain.md"
-      }
-    ]
-  },
-  {
-    "fileName": "SKA-008",
-    "relativePath": "Litehouse Industries/Cheyenne Mountain/SKA-008.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Cat",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Cat",
-        "link": "SKA-008",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      },
-      {
-        "fileName": "Cheyenne Mountain",
-        "link": "SKA-008",
-        "relativePath": "Locations/FRFZ/Cheyenne Mountain.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Lear-Cessna Platinum",
-    "relativePath": "Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Cat",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Cat",
-        "link": "Lear-Cessna Platinum",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      },
-      {
-        "fileName": "Cheyenne Mountain",
-        "link": "Lear-Cessna Platinum",
-        "relativePath": "Locations/FRFZ/Cheyenne Mountain.md"
-      }
-    ]
-  },
-  {
-    "fileName": "C-260",
-    "relativePath": "Litehouse Industries/Cheyenne Mountain/C-260.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Cat",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Cat",
-        "link": "C-260",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      },
-      {
-        "fileName": "Cheyenne Mountain",
-        "link": "C-260",
-        "relativePath": "Locations/FRFZ/Cheyenne Mountain.md"
-      }
-    ]
-  },
-  {
-    "fileName": "1UP! Lo-Bo",
-    "relativePath": "Litehouse Industries/1UP!/1UP! Lo-Bo.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Layout",
-        "level": 5
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "1UP!",
-        "link": "1UP! Lo-Bo",
-        "relativePath": "Litehouse Industries/1UP!.md"
-      }
-    ]
-  },
-  {
-    "fileName": "1UP! Colfax",
-    "relativePath": "Litehouse Industries/1UP!/1UP! Colfax.md",
-    "tags": [
-      "denver"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Salena Boisvert",
-        "link": "1UP! Colfax",
-        "relativePath": "NPCs/Friendly/Denver/Salena Boisvert.md"
-      },
-      {
-        "fileName": "1UP!",
-        "link": "1UP! Colfax",
-        "relativePath": "Litehouse Industries/1UP!.md"
       }
     ]
   },
@@ -15610,6 +14395,148 @@
     ]
   },
   {
+    "fileName": "Clean Sweep Cleaning Services",
+    "relativePath": "Corps (Local)/South Florida/Clean Sweep Cleaning Services.md",
+    "headings": [
+      {
+        "heading": "title: \"Arma 3 - Basic Medical in ACE\"",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Turner Couture",
+    "relativePath": "Corps (Local)/South Florida/Turner Couture.md"
+  },
+  {
+    "fileName": "The Neon Lounge",
+    "relativePath": "Corps (Local)/South Florida/The Neon Lounge.md"
+  },
+  {
+    "fileName": "Serenity Spa & Massage",
+    "relativePath": "Corps (Local)/South Florida/Serenity Spa & Massage.md"
+  },
+  {
+    "fileName": "Santos' Culinary Haven",
+    "relativePath": "Corps (Local)/South Florida/Santos' Culinary Haven.md"
+  },
+  {
+    "fileName": "Santos Mortuary Services",
+    "relativePath": "Corps (Local)/South Florida/Santos Mortuary Services.md"
+  },
+  {
+    "fileName": "Santos Dental Clinic",
+    "relativePath": "Corps (Local)/South Florida/Santos Dental Clinic.md"
+  },
+  {
+    "fileName": "Saint Michael's Church",
+    "relativePath": "Corps (Local)/South Florida/Saint Michael's Church.md"
+  },
+  {
+    "fileName": "Ramirez Auto Repair Shop",
+    "relativePath": "Corps (Local)/South Florida/Ramirez Auto Repair Shop.md"
+  },
+  {
+    "fileName": "Mitchell's Emporium",
+    "relativePath": "Corps (Local)/South Florida/Mitchell's Emporium.md"
+  },
+  {
+    "fileName": "Mindscape Therapy Center",
+    "relativePath": "Corps (Local)/South Florida/Mindscape Therapy Center.md"
+  },
+  {
+    "fileName": "Miami Sports Network",
+    "relativePath": "Corps (Local)/South Florida/Miami Sports Network.md"
+  },
+  {
+    "fileName": "Miami Daily",
+    "relativePath": "Corps (Local)/South Florida/Miami Daily.md"
+  },
+  {
+    "fileName": "Miami City Morgue",
+    "relativePath": "Corps (Local)/South Florida/Miami City Morgue.md"
+  },
+  {
+    "fileName": "Blackwood Gallery",
+    "relativePath": "Corps (Local)/South Florida/Blackwood Gallery.md"
+  },
+  {
+    "fileName": "Urban Development Solutions",
+    "relativePath": "Corps (Local)/South Florida/Urban Development Solutions.md"
+  },
+  {
+    "fileName": "Turner Realty",
+    "relativePath": "Corps (Local)/South Florida/Turner Realty.md"
+  },
+  {
+    "fileName": "Turner & Mitchell Law Firm",
+    "relativePath": "Corps (Local)/South Florida/Turner & Mitchell Law Firm.md"
+  },
+  {
+    "fileName": "Thompson Investigations",
+    "relativePath": "Corps (Local)/South Florida/Thompson Investigations.md"
+  },
+  {
+    "fileName": "The Nightshade Club",
+    "relativePath": "Corps (Local)/South Florida/The Nightshade Club.md"
+  },
+  {
+    "fileName": "The Inferno Club",
+    "relativePath": "Corps (Local)/South Florida/The Inferno Club.md"
+  },
+  {
+    "fileName": "The Fixer's Den",
+    "relativePath": "Corps (Local)/South Florida/The Fixer's Den.md"
+  },
+  {
+    "fileName": "Swift Delivery Services",
+    "relativePath": "Corps (Local)/South Florida/Swift Delivery Services.md"
+  },
+  {
+    "fileName": "Silverstone Investments",
+    "relativePath": "Corps (Local)/South Florida/Silverstone Investments.md"
+  },
+  {
+    "fileName": "Miami Central Library",
+    "relativePath": "Corps (Local)/South Florida/Miami Central Library.md"
+  },
+  {
+    "fileName": "Elysium",
+    "relativePath": "Corps (Local)/South Florida/Elysium.md"
+  },
+  {
+    "fileName": "The Royal Palm Hotel",
+    "relativePath": "Corps (Local)/South Florida/The Royal Palm Hotel.md"
+  },
+  {
+    "fileName": "Secure Solutions Corporation",
+    "relativePath": "Corps (Local)/South Florida/Secure Solutions Corporation.md"
+  },
+  {
+    "fileName": "Miami Dockyards",
+    "relativePath": "Corps (Local)/South Florida/Miami Dockyards.md"
+  },
+  {
+    "fileName": "Mercy General Hospital",
+    "relativePath": "Corps (Local)/South Florida/Mercy General Hospital.md"
+  },
+  {
+    "fileName": "Blackfire Arms & Armory",
+    "relativePath": "Corps (Local)/South Florida/Blackfire Arms & Armory.md",
+    "backlinks": [
+      {
+        "fileName": "Miramar",
+        "link": "Blackfire Arms & Armory",
+        "relativePath": "Locations/South Florida/Miramar.md"
+      },
+      {
+        "fileName": "Miami Shores",
+        "link": "Blackfire Arms & Armory",
+        "relativePath": "Locations/South Florida/Miami Shores.md"
+      }
+    ]
+  },
+  {
     "fileName": "WARN Guerrila Boadcasting",
     "relativePath": "Corps (Local)/South Florida/WARN Guerrila Boadcasting.md",
     "headings": [
@@ -16233,6 +15160,24 @@
     ]
   },
   {
+    "fileName": "Spinrad Global",
+    "relativePath": "AAA Corps/Spinrad Global.md",
+    "tags": [
+      "aa_corporation"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Roman Torchwick",
+        "link": "Spinrad Global",
+        "relativePath": "NPCs/Unfriendly/Roman Torchwick.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Knight Industries",
+    "relativePath": "AAA Corps/Ares/Knight Industries.md"
+  },
+  {
     "fileName": "Wuxing",
     "relativePath": "AAA Corps/Wuxing.md",
     "tags": [
@@ -16470,6 +15415,14 @@
         "relativePath": "North African Crew/22-1-30.md"
       }
     ]
+  },
+  {
+    "fileName": "Horizon Aviation Maintenance",
+    "relativePath": "AAA Corps/Horizon/Horizon Aviation Maintenance.md"
+  },
+  {
+    "fileName": "Horizon Express Delivery",
+    "relativePath": "AAA Corps/Horizon/Horizon Express Delivery.md"
   },
   {
     "fileName": "Horizon-London",
@@ -16734,6 +15687,1245 @@
     ]
   },
   {
+    "fileName": "The Apollo Group",
+    "relativePath": "AA Corps/Litehouse Industries/The Apollo Group.md",
+    "tags": [
+      "seattle"
+    ],
+    "headings": [
+      {
+        "heading": "Fields",
+        "level": 5
+      },
+      {
+        "heading": "Offices",
+        "level": 5
+      },
+      {
+        "heading": "Costs",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Host Upgrades",
+        "relativePath": "AA Corps/Litehouse Industries/The Apollo Group/Host Upgrades.md"
+      },
+      {
+        "link": "IC Designs",
+        "relativePath": "AA Corps/Litehouse Industries/The Apollo Group/IC Designs.md"
+      },
+      {
+        "link": "Security Programs",
+        "relativePath": "AA Corps/Litehouse Industries/The Apollo Group/Security Programs.md"
+      },
+      {
+        "link": "Office 1",
+        "relativePath": "AA Corps/Litehouse Industries/The Apollo Group/Office 1.md"
+      },
+      {
+        "link": "Office 2",
+        "relativePath": "AA Corps/Litehouse Industries/The Apollo Group/Office 2.md"
+      },
+      {
+        "link": "Original Office",
+        "relativePath": "AA Corps/Litehouse Industries/The Apollo Group/Original Office.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Litehouse Industries",
+        "link": "The Apollo Group",
+        "relativePath": "AA Corps/Litehouse Industries.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Security Programs",
+    "relativePath": "AA Corps/Litehouse Industries/The Apollo Group/Security Programs.md",
+    "tags": [
+      "seattle"
+    ],
+    "backlinks": [
+      {
+        "fileName": "The Apollo Group",
+        "link": "Security Programs",
+        "relativePath": "AA Corps/Litehouse Industries/The Apollo Group.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Original Office",
+    "relativePath": "AA Corps/Litehouse Industries/The Apollo Group/Original Office.md",
+    "tags": [
+      "seattle"
+    ],
+    "backlinks": [
+      {
+        "fileName": "The Apollo Group",
+        "link": "Original Office",
+        "relativePath": "AA Corps/Litehouse Industries/The Apollo Group.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Office 1",
+    "relativePath": "AA Corps/Litehouse Industries/The Apollo Group/Office 1.md",
+    "tags": [
+      "seattle"
+    ],
+    "headings": [
+      {
+        "heading": "Building",
+        "level": 5
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "The Apollo Group",
+        "link": "Office 1",
+        "relativePath": "AA Corps/Litehouse Industries/The Apollo Group.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Office 2",
+    "relativePath": "AA Corps/Litehouse Industries/The Apollo Group/Office 2.md",
+    "tags": [
+      "seattle"
+    ],
+    "headings": [
+      {
+        "heading": "Building",
+        "level": 5
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "The Apollo Group",
+        "link": "Office 2",
+        "relativePath": "AA Corps/Litehouse Industries/The Apollo Group.md"
+      }
+    ]
+  },
+  {
+    "fileName": "IC Designs",
+    "relativePath": "AA Corps/Litehouse Industries/The Apollo Group/IC Designs.md",
+    "tags": [
+      "seattle"
+    ],
+    "backlinks": [
+      {
+        "fileName": "The Apollo Group",
+        "link": "IC Designs",
+        "relativePath": "AA Corps/Litehouse Industries/The Apollo Group.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Host Upgrades",
+    "relativePath": "AA Corps/Litehouse Industries/The Apollo Group/Host Upgrades.md",
+    "tags": [
+      "seattle"
+    ],
+    "backlinks": [
+      {
+        "fileName": "The Apollo Group",
+        "link": "Host Upgrades",
+        "relativePath": "AA Corps/Litehouse Industries/The Apollo Group.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Rainbow Corp",
+    "relativePath": "AA Corps/Litehouse Industries/Rainbow Corp.md",
+    "tags": [
+      "aa_corporation"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sam",
+        "link": "Rainbow Corp",
+        "relativePath": "NPCs/Unfriendly/Sam.md"
+      },
+      {
+        "fileName": "Green",
+        "link": "Rainbow Corp",
+        "relativePath": "NPCs/Neutral/Denver/Green.md"
+      },
+      {
+        "fileName": "Litehouse Industries",
+        "link": "Rainbow Corp",
+        "relativePath": "AA Corps/Litehouse Industries.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Mercea Conglomerate",
+    "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md",
+    "tags": [
+      "london"
+    ],
+    "links": [
+      {
+        "link": "Nightowl",
+        "relativePath": "Players/London/Nightowl.md"
+      },
+      {
+        "link": "Elfo",
+        "relativePath": "Players/London/Elfo.md"
+      },
+      {
+        "link": "Casper",
+        "relativePath": "Players/London/Casper.md"
+      },
+      {
+        "link": "Zer0",
+        "relativePath": "Players/London/Zer0.md"
+      },
+      {
+        "link": "Manufacturing",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing.md"
+      },
+      {
+        "link": "M.H. Institue of Neuroscience",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+      },
+      {
+        "link": "Twilight Medical Services",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services.md"
+      },
+      {
+        "link": "Siri",
+        "relativePath": "NPCs/Friendly/London/Siri.md"
+      },
+      {
+        "link": "Nightowl",
+        "relativePath": "Players/London/Nightowl.md"
+      },
+      {
+        "link": "Nightowl",
+        "relativePath": "Players/London/Nightowl.md"
+      },
+      {
+        "link": "Elfo",
+        "relativePath": "Players/London/Elfo.md"
+      },
+      {
+        "link": "Casper",
+        "relativePath": "Players/London/Casper.md"
+      },
+      {
+        "link": "Zer0",
+        "relativePath": "Players/London/Zer0.md"
+      },
+      {
+        "link": "Casper",
+        "relativePath": "Players/London/Casper.md"
+      },
+      {
+        "link": "Casper",
+        "relativePath": "Players/London/Casper.md"
+      },
+      {
+        "link": "Elfo",
+        "relativePath": "Players/London/Elfo.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Litehouse Industries",
+        "link": "Mercea Conglomerate",
+        "relativePath": "AA Corps/Litehouse Industries.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Vabel",
+    "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md",
+    "tags": [
+      "london"
+    ],
+    "links": [
+      {
+        "link": "London",
+        "relativePath": "Locations/London.md"
+      },
+      {
+        "link": "London",
+        "relativePath": "Locations/London.md"
+      },
+      {
+        "link": "London",
+        "relativePath": "Locations/London.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Twilight Medical Services",
+        "link": "The Vabel",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Twilight Medical Services",
+    "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services.md",
+    "tags": [
+      "london"
+    ],
+    "headings": [
+      {
+        "heading": "[[../../../Locations/London|London]]",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "London",
+        "relativePath": "Locations/London.md"
+      },
+      {
+        "link": "The Vabel",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Mercea Conglomerate",
+        "link": "Twilight Medical Services",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Manufacturing",
+    "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing.md",
+    "tags": [
+      "london"
+    ],
+    "headings": [
+      {
+        "heading": "[[../../../Players/London|London]]",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "London",
+        "relativePath": "Players/London.md"
+      },
+      {
+        "link": "Unnamed Manufacturing Site",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md"
+      },
+      {
+        "link": "Project Ideas",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing/Project Ideas.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Mercea Conglomerate",
+        "link": "Manufacturing",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
+      },
+      {
+        "fileName": "Litehouse Manufacturing",
+        "link": "Manufacturing",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md"
+      }
+    ]
+  },
+  {
+    "fileName": "M.H. Institue of Neuroscience",
+    "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md",
+    "tags": [
+      "seattle",
+      "atlanta"
+    ],
+    "links": [
+      {
+        "link": "London",
+        "relativePath": "Locations/London.md"
+      },
+      {
+        "link": "Elfo",
+        "relativePath": "Players/London/Elfo.md"
+      },
+      {
+        "link": "Olivia",
+        "relativePath": "NPCs/Friendly/Olivia.md"
+      },
+      {
+        "link": "The Elegance Tower",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
+      },
+      {
+        "link": "Seattle Site",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Seattle Site.md"
+      },
+      {
+        "link": "Atlanta Factory",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Atlanta Factory.md"
+      },
+      {
+        "link": "The Elegance Tower",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Mercea Conglomerate",
+        "link": "M.H. Institue of Neuroscience",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Project Ideas",
+    "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing/Project Ideas.md",
+    "tags": [
+      "london"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Manufacturing",
+        "link": "Project Ideas",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Unnamed Manufacturing Site",
+    "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md",
+    "tags": [
+      "london"
+    ],
+    "links": [
+      {
+        "link": "London",
+        "relativePath": "Locations/London.md"
+      },
+      {
+        "link": "London",
+        "relativePath": "Locations/London.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Manufacturing",
+        "link": "Unnamed Manufacturing Site",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Seattle Site",
+    "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Seattle Site.md",
+    "tags": [
+      "seattle"
+    ],
+    "backlinks": [
+      {
+        "fileName": "M.H. Institue of Neuroscience",
+        "link": "Seattle Site",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Elegance Tower",
+    "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md",
+    "tags": [
+      "london"
+    ],
+    "links": [
+      {
+        "link": "London",
+        "relativePath": "Locations/London.md"
+      },
+      {
+        "link": "London",
+        "relativePath": "Locations/London.md"
+      },
+      {
+        "link": "London",
+        "relativePath": "Locations/London.md"
+      },
+      {
+        "link": "London",
+        "relativePath": "Locations/London.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "M.H. Institue of Neuroscience",
+        "link": "The Elegance Tower",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+      },
+      {
+        "fileName": "M.H. Institue of Neuroscience",
+        "link": "The Elegance Tower",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Atlanta Factory",
+    "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Atlanta Factory.md",
+    "tags": [
+      "atlanta"
+    ],
+    "backlinks": [
+      {
+        "fileName": "M.H. Institue of Neuroscience",
+        "link": "Atlanta Factory",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Litehouse Brand",
+    "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand.md",
+    "tags": [
+      "denver",
+      "aa_corporation"
+    ],
+    "headings": [
+      {
+        "heading": "Personal Project",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Litehouse Production",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production.md"
+      },
+      {
+        "link": "Litehouse Manufacturing",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md"
+      },
+      {
+        "link": "Litehouse Construction",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Construction.md"
+      },
+      {
+        "link": "Litehouse Aerospace",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Aerospace.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Litehouse Industries",
+        "link": "Litehouse Brand",
+        "relativePath": "AA Corps/Litehouse Industries.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Litehouse Production",
+    "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "News Staff",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Special Interests Department",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"
+      },
+      {
+        "link": "The Guanxi Gambit",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/The Guanxi Gambit.md"
+      },
+      {
+        "link": "Blood and Chrome",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Blood and Chrome.md"
+      },
+      {
+        "link": "Litehouse news",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Litehouse news.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Rabat",
+        "link": "Litehouse Production",
+        "relativePath": "Locations/Morocco/Rabat.md"
+      },
+      {
+        "fileName": "Litehouse Brand",
+        "link": "Litehouse Production",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Guanxi Gambit",
+    "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/The Guanxi Gambit.md",
+    "tags": [
+      "seattle"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Litehouse Production",
+        "link": "The Guanxi Gambit",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Special Interests Department",
+    "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Fixers",
+        "level": 5
+      },
+      {
+        "heading": "Teams",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Jess",
+        "relativePath": "NPCs/Friendly/Denver/Jess.md"
+      },
+      {
+        "link": "Steve",
+        "relativePath": "NPCs/Friendly/Denver/Steve.md"
+      },
+      {
+        "link": "Helix",
+        "relativePath": "NPCs/Friendly/Morocco/Helix.md"
+      },
+      {
+        "link": "Salena Boisvert",
+        "relativePath": "NPCs/Friendly/Denver/Salena Boisvert.md"
+      },
+      {
+        "link": "Telenov",
+        "relativePath": "NPCs/Friendly/Denver/Telenov.md"
+      },
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Morocco",
+        "displayText": "Morocco Team",
+        "relativePath": "Players/Morocco.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cat",
+        "link": "Special Interests Department",
+        "relativePath": "Players/Denver Prime/Cat.md",
+        "displayText": "Fixers"
+      },
+      {
+        "fileName": "Litehouse Production",
+        "link": "Special Interests Department",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Litehouse news",
+    "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Litehouse news.md",
+    "tags": [
+      "denver"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Litehouse Production",
+        "link": "Litehouse news",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Morocco Team",
+    "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md",
+    "backlinks": [
+      {
+        "fileName": "Morocco",
+        "link": "Morocco Team",
+        "relativePath": "Players/Morocco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Denver Specials",
+    "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Fixer",
+        "level": 5
+      },
+      {
+        "heading": "Runners",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Slip",
+        "relativePath": "NPCs/Friendly/Denver/Slip.md"
+      },
+      {
+        "link": "Spyder",
+        "relativePath": "Players/Denver Prime/Spyder.md"
+      },
+      {
+        "link": "Cat",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      },
+      {
+        "link": "Incubus",
+        "relativePath": "Players/Denver Prime/Incubus.md"
+      },
+      {
+        "link": "Spectre",
+        "relativePath": "Players/Denver Prime/Spectre.md"
+      },
+      {
+        "link": "Swiss",
+        "relativePath": "Players/Denver Prime/Swiss.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Denver Prime",
+        "link": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md",
+        "displayText": "Denver Team"
+      }
+    ]
+  },
+  {
+    "fileName": "Front Range Consulting",
+    "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Arcane",
+        "relativePath": "Players/Front Range Consulting/Arcane.md"
+      },
+      {
+        "link": "Marshal",
+        "relativePath": "Players/Front Range Consulting/Marshal.md"
+      },
+      {
+        "link": "Walker",
+        "relativePath": "Players/Front Range Consulting/Walker.md"
+      },
+      {
+        "link": "Security",
+        "relativePath": "Players/Front Range Consulting/Security.md"
+      },
+      {
+        "link": "Dharavi",
+        "relativePath": "Players/Front Range Consulting/Dharavi.md"
+      },
+      {
+        "link": "Spectre",
+        "relativePath": "Players/Denver Prime/Spectre.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Blood and Chrome",
+    "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Blood and Chrome.md",
+    "tags": [
+      "seattle"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Litehouse Production",
+        "link": "Blood and Chrome",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Litehouse Manufacturing",
+    "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Arms Manufacturing",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Manufacturing",
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Troy",
+        "link": "Litehouse Manufacturing",
+        "relativePath": "NPCs/Friendly/Denver/Troy.md"
+      },
+      {
+        "fileName": "Litehouse Brand",
+        "link": "Litehouse Manufacturing",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Litehouse Construction",
+    "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Construction.md",
+    "tags": [
+      "denver"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Litehouse Brand",
+        "link": "Litehouse Construction",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Litehouse Aerospace",
+    "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Aerospace.md",
+    "tags": [
+      "denver"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Litehouse Brand",
+        "link": "Litehouse Aerospace",
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Incubus Club",
+    "relativePath": "AA Corps/Litehouse Industries/Incubus Club.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Incubus",
+        "relativePath": "Players/Denver Prime/Incubus.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Valentina Kwan",
+        "link": "Incubus Club",
+        "relativePath": "NPCs/Friendly/Denver/Valentina Kwan.md"
+      },
+      {
+        "fileName": "Litehouse Industries",
+        "link": "Incubus Club",
+        "relativePath": "AA Corps/Litehouse Industries.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Genesis Medical",
+    "relativePath": "AA Corps/Litehouse Industries/Genesis Medical.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Costs",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Sperm Banks",
+        "relativePath": "AA Corps/Litehouse Industries/Genesis Medical/Sperm Banks.md"
+      },
+      {
+        "link": "Genesis Avista Hospital",
+        "relativePath": "AA Corps/Litehouse Industries/Genesis Medical/Genesis Avista Hospital.md"
+      },
+      {
+        "link": "Genesis Medical Clinic Aurora",
+        "relativePath": "AA Corps/Litehouse Industries/Genesis Medical/Genesis Medical Clinic Aurora.md"
+      },
+      {
+        "link": "Genesis Medical Hospital",
+        "relativePath": "AA Corps/Litehouse Industries/Genesis Medical/Genesis Medical Hospital.md"
+      },
+      {
+        "link": "Genesis Summit Medical Clinic",
+        "relativePath": "AA Corps/Litehouse Industries/Genesis Medical/Genesis Summit Medical Clinic.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Litehouse Industries",
+        "link": "Genesis Medical",
+        "relativePath": "AA Corps/Litehouse Industries.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Incubus Club Teams",
+    "relativePath": "AA Corps/Litehouse Industries/Incubus Club/Incubus Club Teams.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Incubus",
+        "relativePath": "Players/Denver Prime/Incubus.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Genesis Medical Hospital",
+    "relativePath": "AA Corps/Litehouse Industries/Genesis Medical/Genesis Medical Hospital.md",
+    "tags": [
+      "denver"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Genesis Medical",
+        "link": "Genesis Medical Hospital",
+        "relativePath": "AA Corps/Litehouse Industries/Genesis Medical.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sperm Banks",
+    "relativePath": "AA Corps/Litehouse Industries/Genesis Medical/Sperm Banks.md",
+    "tags": [
+      "seattle"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Genesis Medical",
+        "link": "Sperm Banks",
+        "relativePath": "AA Corps/Litehouse Industries/Genesis Medical.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Genesis Summit Medical Clinic",
+    "relativePath": "AA Corps/Litehouse Industries/Genesis Medical/Genesis Summit Medical Clinic.md",
+    "tags": [
+      "denver"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Genesis Medical",
+        "link": "Genesis Summit Medical Clinic",
+        "relativePath": "AA Corps/Litehouse Industries/Genesis Medical.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Genesis Medical Clinic Aurora",
+    "relativePath": "AA Corps/Litehouse Industries/Genesis Medical/Genesis Medical Clinic Aurora.md",
+    "tags": [
+      "denver"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Genesis Medical",
+        "link": "Genesis Medical Clinic Aurora",
+        "relativePath": "AA Corps/Litehouse Industries/Genesis Medical.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Genesis Avista Hospital",
+    "relativePath": "AA Corps/Litehouse Industries/Genesis Medical/Genesis Avista Hospital.md",
+    "tags": [
+      "denver"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Genesis Medical",
+        "link": "Genesis Avista Hospital",
+        "relativePath": "AA Corps/Litehouse Industries/Genesis Medical.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Denver School for Advanced Learning",
+    "relativePath": "AA Corps/Litehouse Industries/Denver School for Advanced Learning.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Cat",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      },
+      {
+        "link": "Incubus",
+        "relativePath": "Players/Denver Prime/Incubus.md"
+      }
+    ]
+  },
+  {
+    "fileName": "1UP!",
+    "relativePath": "AA Corps/Litehouse Industries/1UP!.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Founder",
+        "level": 5
+      },
+      {
+        "heading": "Locations",
+        "level": 5
+      },
+      {
+        "heading": "Bar Tenders",
+        "level": 5
+      },
+      {
+        "heading": "Costs",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Cat",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      },
+      {
+        "link": "1UP! Lo-Bo",
+        "relativePath": "AA Corps/Litehouse Industries/1UP!/1UP! Lo-Bo.md"
+      },
+      {
+        "link": "1UP! Colfax",
+        "relativePath": "AA Corps/Litehouse Industries/1UP!/1UP! Colfax.md"
+      },
+      {
+        "link": "Jess",
+        "relativePath": "NPCs/Friendly/Denver/Jess.md"
+      },
+      {
+        "link": "Steve",
+        "relativePath": "NPCs/Friendly/Denver/Steve.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Steve",
+        "link": "1UP!",
+        "relativePath": "NPCs/Friendly/Denver/Steve.md"
+      },
+      {
+        "fileName": "Merlin",
+        "link": "1UP!",
+        "relativePath": "NPCs/Friendly/Denver/Merlin.md"
+      },
+      {
+        "fileName": "Jess",
+        "link": "1UP!",
+        "relativePath": "NPCs/Friendly/Denver/Jess.md"
+      },
+      {
+        "fileName": "Litehouse Industries",
+        "link": "1UP!",
+        "relativePath": "AA Corps/Litehouse Industries.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Toyota Gopher",
+    "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/Toyota Gopher.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Cat",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cat",
+        "link": "Toyota Gopher",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      },
+      {
+        "fileName": "Cheyenne Mountain",
+        "link": "Toyota Gopher",
+        "relativePath": "Locations/FRFZ/Cheyenne Mountain.md"
+      }
+    ]
+  },
+  {
+    "fileName": "SU-41 'Fixer'",
+    "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Cat",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cat",
+        "link": "SU-41 'Fixer'",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      },
+      {
+        "fileName": "Cheyenne Mountain",
+        "link": "SU-41 'Fixer'",
+        "relativePath": "Locations/FRFZ/Cheyenne Mountain.md"
+      }
+    ]
+  },
+  {
+    "fileName": "SKA-008",
+    "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/SKA-008.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Cat",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cat",
+        "link": "SKA-008",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      },
+      {
+        "fileName": "Cheyenne Mountain",
+        "link": "SKA-008",
+        "relativePath": "Locations/FRFZ/Cheyenne Mountain.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Lear-Cessna Platinum",
+    "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Cat",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cat",
+        "link": "Lear-Cessna Platinum",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      },
+      {
+        "fileName": "Cheyenne Mountain",
+        "link": "Lear-Cessna Platinum",
+        "relativePath": "Locations/FRFZ/Cheyenne Mountain.md"
+      }
+    ]
+  },
+  {
+    "fileName": "C-260",
+    "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain/C-260.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Cat",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cat",
+        "link": "C-260",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      },
+      {
+        "fileName": "Cheyenne Mountain",
+        "link": "C-260",
+        "relativePath": "Locations/FRFZ/Cheyenne Mountain.md"
+      }
+    ]
+  },
+  {
+    "fileName": "1UP! Lo-Bo",
+    "relativePath": "AA Corps/Litehouse Industries/1UP!/1UP! Lo-Bo.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Layout",
+        "level": 5
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "1UP!",
+        "link": "1UP! Lo-Bo",
+        "relativePath": "AA Corps/Litehouse Industries/1UP!.md"
+      }
+    ]
+  },
+  {
+    "fileName": "1UP! Colfax",
+    "relativePath": "AA Corps/Litehouse Industries/1UP!/1UP! Colfax.md",
+    "tags": [
+      "denver"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Salena Boisvert",
+        "link": "1UP! Colfax",
+        "relativePath": "NPCs/Friendly/Denver/Salena Boisvert.md"
+      },
+      {
+        "fileName": "1UP!",
+        "link": "1UP! Colfax",
+        "relativePath": "AA Corps/Litehouse Industries/1UP!.md"
+      }
+    ]
+  },
+  {
     "fileName": "Yoyo Dine",
     "relativePath": "AA Corps/Yoyo Dine.md",
     "tags": [
@@ -16747,20 +16939,6 @@
       {
         "link": "Ares",
         "relativePath": "AAA Corps/Ares.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Spinrad Global",
-    "relativePath": "AA Corps/Spinrad Global.md",
-    "tags": [
-      "aa_corporation"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Roman Torchwick",
-        "link": "Spinrad Global",
-        "relativePath": "NPCs/Unfriendly/Roman Torchwick.md"
       }
     ]
   },
@@ -16868,19 +17046,19 @@
       },
       {
         "link": "1UP!",
-        "relativePath": "Litehouse Industries/1UP!.md"
+        "relativePath": "AA Corps/Litehouse Industries/1UP!.md"
       },
       {
         "link": "Litehouse Brand",
-        "relativePath": "Litehouse Industries/Litehouse Brand.md"
+        "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand.md"
       },
       {
         "link": "Genesis Medical",
-        "relativePath": "Litehouse Industries/Genesis Medical.md"
+        "relativePath": "AA Corps/Litehouse Industries/Genesis Medical.md"
       },
       {
         "link": "The Apollo Group",
-        "relativePath": "Litehouse Industries/The Apollo Group.md"
+        "relativePath": "AA Corps/Litehouse Industries/The Apollo Group.md"
       },
       {
         "link": "Incubus",
@@ -16888,7 +17066,7 @@
       },
       {
         "link": "Incubus Club",
-        "relativePath": "Litehouse Industries/Incubus Club.md"
+        "relativePath": "AA Corps/Litehouse Industries/Incubus Club.md"
       },
       {
         "link": "Nightowl",
@@ -16896,11 +17074,11 @@
       },
       {
         "link": "Mercea Conglomerate",
-        "relativePath": "Litehouse Industries/Mercea Conglomerate.md"
+        "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate.md"
       },
       {
         "link": "Rainbow Corp",
-        "relativePath": "Litehouse Industries/Rainbow Corp.md"
+        "relativePath": "AA Corps/Litehouse Industries/Rainbow Corp.md"
       }
     ],
     "backlinks": [
@@ -16973,6 +17151,57 @@
         "relativePath": "NPCs/Friendly/Seattle/Canis.md"
       }
     ]
+  },
+  {
+    "fileName": "Serenity Medical Corporation",
+    "relativePath": "A Corps/Serenity Medical Corporation.md"
+  },
+  {
+    "fileName": "Nexus Research Group",
+    "relativePath": "A Corps/Nexus Research Group.md"
+  },
+  {
+    "fileName": "OmniTech Solutions",
+    "relativePath": "A Corps/Omni Corp/OmniTech Solutions.md"
+  },
+  {
+    "fileName": "OmniCorp Security Solutions",
+    "relativePath": "A Corps/Omni Corp/OmniCorp Security Solutions.md"
+  },
+  {
+    "fileName": "Aegis Accounting Services",
+    "relativePath": "A Corps/Aegis/Aegis Accounting Services.md"
+  },
+  {
+    "fileName": "Aegis Corporation",
+    "relativePath": "A Corps/Aegis/Aegis Corporation.md"
+  },
+  {
+    "fileName": "WardSecure Magical Security Systems",
+    "relativePath": "A Corps/WardSecure Magical Security Systems.md"
+  },
+  {
+    "fileName": "Thompson Security Solutions",
+    "relativePath": "A Corps/Thompson Security Solutions.md"
+  },
+  {
+    "fileName": "Blackwood Technologies",
+    "relativePath": "A Corps/Blackwood Technologies.md"
+  },
+  {
+    "fileName": "Azimuth Corporation",
+    "relativePath": "A Corps/Azimuth Corporation.md",
+    "backlinks": [
+      {
+        "fileName": "Miramar",
+        "link": "Azimuth Corporation",
+        "relativePath": "Locations/South Florida/Miramar.md"
+      }
+    ]
+  },
+  {
+    "fileName": "GlobalTech Enterprises",
+    "relativePath": "A Corps/GlobalTech Enterprises.md"
   },
   {
     "fileName": "Ardat-Lili Cyberware",

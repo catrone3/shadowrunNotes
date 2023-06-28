@@ -102,14 +102,14 @@
       "NPCs/Neutral/Horizon/Livia Davis.md",
       "NPCs/Friendly/London/Siri.md",
       "Locations/London.md",
-      "Litehouse Industries/Mercea Conglomerate.md",
-      "Litehouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md",
-      "Litehouse Industries/Mercea Conglomerate/Twilight Medical Services.md",
-      "Litehouse Industries/Mercea Conglomerate/Manufacturing.md",
-      "Litehouse Industries/Mercea Conglomerate/Manufacturing/Project Ideas.md",
-      "Litehouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md",
-      "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md",
-      "AAA Corps/Horizon/Horizon-London.md"
+      "AAA Corps/Horizon/Horizon-London.md",
+      "AA Corps/Litehouse Industries/Mercea Conglomerate.md",
+      "AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.md",
+      "AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services.md",
+      "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing.md",
+      "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing/Project Ideas.md",
+      "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md",
+      "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md"
     ]
   },
   {
@@ -235,31 +235,6 @@
       "NPCs/Friendly/Denver/Angelica Quinn.md",
       "Locations/FRFZ/Cheyenne Mountain.md",
       "Locations/FRFZ/Denver Nexus.md",
-      "Litehouse Industries/Litehouse Brand.md",
-      "Litehouse Industries/Litehouse Brand/Litehouse Production.md",
-      "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md",
-      "Litehouse Industries/Litehouse Brand/Litehouse Production/Litehouse news.md",
-      "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md",
-      "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md",
-      "Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md",
-      "Litehouse Industries/Litehouse Brand/Litehouse Construction.md",
-      "Litehouse Industries/Litehouse Brand/Litehouse Aerospace.md",
-      "Litehouse Industries/Incubus Club.md",
-      "Litehouse Industries/Genesis Medical.md",
-      "Litehouse Industries/Incubus Club/Incubus Club Teams.md",
-      "Litehouse Industries/Genesis Medical/Genesis Medical Hospital.md",
-      "Litehouse Industries/Genesis Medical/Genesis Summit Medical Clinic.md",
-      "Litehouse Industries/Genesis Medical/Genesis Medical Clinic Aurora.md",
-      "Litehouse Industries/Genesis Medical/Genesis Avista Hospital.md",
-      "Litehouse Industries/Denver School for Advanced Learning.md",
-      "Litehouse Industries/1UP!.md",
-      "Litehouse Industries/Cheyenne Mountain/Toyota Gopher.md",
-      "Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'.md",
-      "Litehouse Industries/Cheyenne Mountain/SKA-008.md",
-      "Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md",
-      "Litehouse Industries/Cheyenne Mountain/C-260.md",
-      "Litehouse Industries/1UP!/1UP! Lo-Bo.md",
-      "Litehouse Industries/1UP!/1UP! Colfax.md",
       "Denver Game notes/23-2-23.md",
       "Denver Game notes/23-2-11.md",
       "Denver Game notes/23-1-28.md",
@@ -294,6 +269,31 @@
       "Denver Game notes/21-11-20.md",
       "Denver Game notes/21-11-6.md",
       "Denver Game notes/21-10-23.md",
+      "AA Corps/Litehouse Industries/Litehouse Brand.md",
+      "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production.md",
+      "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md",
+      "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Litehouse news.md",
+      "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md",
+      "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md",
+      "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md",
+      "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Construction.md",
+      "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Aerospace.md",
+      "AA Corps/Litehouse Industries/Incubus Club.md",
+      "AA Corps/Litehouse Industries/Genesis Medical.md",
+      "AA Corps/Litehouse Industries/Incubus Club/Incubus Club Teams.md",
+      "AA Corps/Litehouse Industries/Genesis Medical/Genesis Medical Hospital.md",
+      "AA Corps/Litehouse Industries/Genesis Medical/Genesis Summit Medical Clinic.md",
+      "AA Corps/Litehouse Industries/Genesis Medical/Genesis Medical Clinic Aurora.md",
+      "AA Corps/Litehouse Industries/Genesis Medical/Genesis Avista Hospital.md",
+      "AA Corps/Litehouse Industries/Denver School for Advanced Learning.md",
+      "AA Corps/Litehouse Industries/1UP!.md",
+      "AA Corps/Litehouse Industries/Cheyenne Mountain/Toyota Gopher.md",
+      "AA Corps/Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'.md",
+      "AA Corps/Litehouse Industries/Cheyenne Mountain/SKA-008.md",
+      "AA Corps/Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.md",
+      "AA Corps/Litehouse Industries/Cheyenne Mountain/C-260.md",
+      "AA Corps/Litehouse Industries/1UP!/1UP! Lo-Bo.md",
+      "AA Corps/Litehouse Industries/1UP!/1UP! Colfax.md",
       "AA Corps/Litehouse Industries.md"
     ]
   },
@@ -410,18 +410,18 @@
       "NPCs/Friendly/Seattle/Vixen.md",
       "NPCs/Friendly/Seattle/Hitsuki Cho.md",
       "NPCs/Friendly/Seattle/Canis.md",
-      "Litehouse Industries/The Apollo Group.md",
-      "Litehouse Industries/The Apollo Group/Security Programs.md",
-      "Litehouse Industries/The Apollo Group/Original Office.md",
-      "Litehouse Industries/The Apollo Group/Office 1.md",
-      "Litehouse Industries/The Apollo Group/Office 2.md",
-      "Litehouse Industries/The Apollo Group/IC Designs.md",
-      "Litehouse Industries/The Apollo Group/Host Upgrades.md",
-      "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md",
-      "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Seattle Site.md",
-      "Litehouse Industries/Litehouse Brand/Litehouse Production/The Guanxi Gambit.md",
-      "Litehouse Industries/Litehouse Brand/Litehouse Production/Blood and Chrome.md",
-      "Litehouse Industries/Genesis Medical/Sperm Banks.md"
+      "AA Corps/Litehouse Industries/The Apollo Group.md",
+      "AA Corps/Litehouse Industries/The Apollo Group/Security Programs.md",
+      "AA Corps/Litehouse Industries/The Apollo Group/Original Office.md",
+      "AA Corps/Litehouse Industries/The Apollo Group/Office 1.md",
+      "AA Corps/Litehouse Industries/The Apollo Group/Office 2.md",
+      "AA Corps/Litehouse Industries/The Apollo Group/IC Designs.md",
+      "AA Corps/Litehouse Industries/The Apollo Group/Host Upgrades.md",
+      "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md",
+      "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Seattle Site.md",
+      "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/The Guanxi Gambit.md",
+      "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Blood and Chrome.md",
+      "AA Corps/Litehouse Industries/Genesis Medical/Sperm Banks.md"
     ]
   },
   {
@@ -522,27 +522,6 @@
     ]
   },
   {
-    "tag": "aa_corporation",
-    "tagCount": 7,
-    "relativePaths": [
-      "Litehouse Industries/Rainbow Corp.md",
-      "Litehouse Industries/Litehouse Brand.md",
-      "AA Corps/Yoyo Dine.md",
-      "AA Corps/Spinrad Global.md",
-      "AA Corps/Litehouse Industries.md",
-      "AA Corps/Draco Foundation.md",
-      "AA Corps/Blue Steel Industries.md"
-    ]
-  },
-  {
-    "tag": "atlanta",
-    "tagCount": 2,
-    "relativePaths": [
-      "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md",
-      "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Atlanta Factory.md"
-    ]
-  },
-  {
     "tag": "explodingdice",
     "tagCount": 1,
     "relativePaths": [
@@ -601,6 +580,19 @@
     ]
   },
   {
+    "tag": "aa_corporation",
+    "tagCount": 7,
+    "relativePaths": [
+      "AAA Corps/Spinrad Global.md",
+      "AA Corps/Litehouse Industries/Rainbow Corp.md",
+      "AA Corps/Litehouse Industries/Litehouse Brand.md",
+      "AA Corps/Yoyo Dine.md",
+      "AA Corps/Litehouse Industries.md",
+      "AA Corps/Draco Foundation.md",
+      "AA Corps/Blue Steel Industries.md"
+    ]
+  },
+  {
     "tag": "aaa_corporation",
     "tagCount": 9,
     "relativePaths": [
@@ -613,6 +605,14 @@
       "AAA Corps/Evo.md",
       "AAA Corps/Aztechnology.md",
       "AAA Corps/Ares.md"
+    ]
+  },
+  {
+    "tag": "atlanta",
+    "tagCount": 2,
+    "relativePaths": [
+      "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.md",
+      "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Atlanta Factory.md"
     ]
   },
   {

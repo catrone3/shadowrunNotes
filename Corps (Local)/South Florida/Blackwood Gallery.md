@@ -1,0 +1,1 @@
+Blackwood Gallery is an art gallery that showcases a wide range of contemporary artworks from local and international artists. They exhibit various forms of artistic expression, including paintings, sculptures, installations, and digital art. Blackwood Gallery aims to promote artistic diversity and foster a vibrant art scene in the region.

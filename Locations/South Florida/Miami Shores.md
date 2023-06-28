@@ -25,3 +25,6 @@ A large Muslim community has grown up around the university.
 #### Roving Bands of Birds
 
 El Portal, once a sleepy municipality, has become a small densely packed jungle not navigable by vehicle.  Attempts to cut through it are met by vicious attacks by flocks of birds, led by overgrown, aggressive peacocks. Despite the clear danger the animals pose, conservation groups have put pressure on the city to keep them officially protected.
+
+### Known Companies
+[[../../Corps (Local)/South Florida/Blackfire Arms & Armory|Blackfire Arms & Armory]]

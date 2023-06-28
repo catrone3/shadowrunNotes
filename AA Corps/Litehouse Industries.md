@@ -23,20 +23,20 @@
 - [[../Players/London/Nightowl|Nightowl]]
 
 #### Corporate Layout
-![[../Litehouse Industries/Litehouse Industries.canvas]]
+![[Litehouse Industries/Litehouse Industries.canvas]]
 
 #### [[../Players/Denver Prime/Cat| Cat]] Owns
-- [[../Litehouse Industries/1UP!|1UP!]]
-- [[../Litehouse Industries/Litehouse Brand|Litehouse Brand]]
--  [[../Litehouse Industries/Genesis Medical|Genesis Medical]]
--  [[../Litehouse Industries/The Apollo Group|The Apollo Group]]
+- [[Litehouse Industries/1UP!|1UP!]]
+- [[Litehouse Industries/Litehouse Brand|Litehouse Brand]]
+-  [[Litehouse Industries/Genesis Medical|Genesis Medical]]
+-  [[Litehouse Industries/The Apollo Group|The Apollo Group]]
 -  Yearly Profit 19.42 Mil nuyen
 
 
 #### [[../Players/Denver Prime/Incubus|Incubus]] Owns
-- [[../Litehouse Industries/Incubus Club|Incubus Club]]
+- [[Litehouse Industries/Incubus Club|Incubus Club]]
 - 
 
 #### [[../Players/London/Nightowl|Nightowl]] Owns
-- [[../Litehouse Industries/Mercea Conglomerate|Mercea Conglomerate]]
-- [[../Litehouse Industries/Rainbow Corp|Rainbow Corp]]
+- [[Litehouse Industries/Mercea Conglomerate|Mercea Conglomerate]]
+- [[Litehouse Industries/Rainbow Corp|Rainbow Corp]]

@@ -1,0 +1,1 @@
+Mindscape Therapy Center is a mental health facility that offers counseling, therapy, and psychiatric services. They provide support and treatment for individuals dealing with mental health challenges, emotional issues, and personal development. Mindscape Therapy Center is known for its qualified therapists, compassionate care, and dedication to promoting mental well-being.

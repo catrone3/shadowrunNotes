@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Miami/companies.md",
+                "file": "Corps (Local)/South Florida/Clean Sweep Cleaning Services.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68b774e91a7f649f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/South Florida/Miami Shores.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f76fa2f1d1e9945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/South Florida.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Info/Miami/companies.md",
+                "file": "Corps (Local)/South Florida/Clean Sweep Cleaning Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,34 +185,37 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "1f10f11620172366",
   "lastOpenFiles": [
-    "GM Info/Miami/npc descriptors.md",
-    "GM Info/Miami/companies.md",
-    "GM Info/Miami/crime orgs.md",
-    "GM Info/Miami/NPCs.md",
-    "GM Info/Miami/Temp document.md",
-    "NPCs/Neutral/South Florida/Chuck Finley.md",
-    "Factions/Southern Florida/Crime Orgs/Stiltsville.md",
-    "Locations/South Florida.md",
-    "Factions/Southern Florida/Crime Orgs/War Pigs Bike Gang.md",
-    "Factions/Southern Florida/Crime Orgs/Tom Swift Gang.md",
-    "Factions/Southern Florida/Crime Orgs/The Horde Bike Gang.md",
-    "Factions/Southern Florida/Crime Orgs/The Great Palace of Ra-Osiris.md",
-    "Factions/Southern Florida/Crime Orgs/The Barbers.md",
-    "Factions/Southern Florida/Crime Orgs/Silver Caesars Camp.md",
-    "Factions/Southern Florida/Crime Orgs/Red School House.md",
-    "Factions/Southern Florida/Crime Orgs/Humanis Policlub.md",
-    "Factions/Southern Florida/Crime Orgs/Hatuey Gang.md",
-    "Factions/Southern Florida/Crime Orgs/Cienfuegos Gang.md",
-    "Factions/Southern Florida/Crime Orgs/Braseros Gang.md",
-    "Factions/Southern Florida/Crime Orgs/786 Beach.md",
-    "Factions/Southern Florida/Crime Orgs/305 Gang.md",
-    "Homepage.md",
-    "Players/London.md",
-    "How to Use Foundry.md",
-    "Players/Denver Prime/Cat.md",
-    "NPCs/Friendly/Denver/Telenov.md",
+    "Corps (Local)/South Florida/Turner Couture.md",
+    "Corps (Local)/South Florida/Clean Sweep Cleaning Services.md",
+    "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
+    "AA Corps/Litehouse Industries/Litehouse Brand.md",
+    "AA Corps/Litehouse Industries.md",
+    "Corps (Local)/South Florida/The Neon Lounge.md",
+    "Corps (Local)/South Florida/Serenity Spa & Massage.md",
+    "Corps (Local)/South Florida/Santos' Culinary Haven.md",
+    "Corps (Local)/South Florida/Santos Mortuary Services.md",
+    "Corps (Local)/South Florida/Santos Dental Clinic.md",
+    "Corps (Local)/South Florida/Saint Michael's Church.md",
+    "Corps (Local)/South Florida/Ramirez Auto Repair Shop.md",
+    "Corps (Local)/South Florida/Mitchell's Emporium.md",
+    "Corps (Local)/South Florida/Mindscape Therapy Center.md",
+    "Corps (Local)/South Florida/Miami Sports Network.md",
+    "Corps (Local)/South Florida/Miami Daily.md",
+    "Corps (Local)/South Florida/Miami City Morgue.md",
+    "AAA Corps/Horizon/Horizon Aviation Maintenance.md",
+    "Corps (Local)/South Florida/Blackwood Gallery.md",
+    "Corps (Local)/South Florida/Urban Development Solutions.md",
+    "Corps (Local)/South Florida/Turner Realty.md",
+    "Corps (Local)/South Florida/Turner & Mitchell Law Firm.md",
+    "Corps (Local)/South Florida/Thompson Investigations.md",
+    "Corps (Local)/South Florida/The Nightshade Club.md",
+    "Corps (Local)/South Florida/The Inferno Club.md",
+    "Corps (Local)/South Florida/The Fixer's Den.md",
+    "AAA Corps/Ares",
+    "A Corps/Omni Corp",
+    "A Corps/Aegis",
     "Images/shadowrun characters/Pasted image 20230520180338.png",
     "Images/shadowrun characters/Pasted image 20230520135324.png",
     "Images/shadowrun characters/Pasted image 20230520180307.png",
@@ -202,13 +231,9 @@
     "Locations/South Florida/South Beach",
     "Locations/South Florida/Shiawase Exclusion Zone",
     "Locations/South Florida/Relief Center 3",
-    "Locations/South Florida/Relief Center 2",
-    "Locations/South Florida/Relief Center 1 AKA The Reef",
-    "Locations/South Florida/Redland Agricultural Area",
     "Images/shadowrun characters/Marcus Krieger.png",
     "Images/attachments/catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f 1.png",
     "Canvas.canvas",
-    "Litehouse Industries/Litehouse Industries.canvas",
     "Untitled.canvas"
   ]
 }

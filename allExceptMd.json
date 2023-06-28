@@ -45,10 +45,6 @@
       "relativePath": "Images"
     },
     {
-      "name": "Litehouse Industries",
-      "relativePath": "Litehouse Industries"
-    },
-    {
       "name": "Locations",
       "relativePath": "Locations"
     },
@@ -145,38 +141,6 @@
       "relativePath": "Images/shadowrun characters"
     },
     {
-      "name": "1UP!",
-      "relativePath": "Litehouse Industries/1UP!"
-    },
-    {
-      "name": "Cheyenne Mountain",
-      "relativePath": "Litehouse Industries/Cheyenne Mountain"
-    },
-    {
-      "name": "Genesis Medical",
-      "relativePath": "Litehouse Industries/Genesis Medical"
-    },
-    {
-      "name": "Incubus Club",
-      "relativePath": "Litehouse Industries/Incubus Club"
-    },
-    {
-      "name": "Litehouse Brand",
-      "relativePath": "Litehouse Industries/Litehouse Brand"
-    },
-    {
-      "name": "Mercea Conglomerate",
-      "relativePath": "Litehouse Industries/Mercea Conglomerate"
-    },
-    {
-      "name": "The Apollo Group",
-      "relativePath": "Litehouse Industries/The Apollo Group"
-    },
-    {
-      "name": "Rainbow Corp",
-      "relativePath": "Litehouse Industries/Rainbow Corp"
-    },
-    {
       "name": "Black Monkey Syndicate",
       "relativePath": "Locations/Black Monkey Syndicate"
     },
@@ -267,30 +231,6 @@
     {
       "name": "4th world Spells",
       "relativePath": "House Rules and Clarifications/Magic/4th world Spells"
-    },
-    {
-      "name": "Litehouse Production",
-      "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production"
-    },
-    {
-      "name": "Litehouse Construction",
-      "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Construction"
-    },
-    {
-      "name": "M.H. Institue of Neuroscience Sites",
-      "relativePath": "Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites"
-    },
-    {
-      "name": "Litehouse Manufacturing",
-      "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Manufacturing"
-    },
-    {
-      "name": "Manufacturing",
-      "relativePath": "Litehouse Industries/Mercea Conglomerate/Manufacturing"
-    },
-    {
-      "name": "Twilight Medical Services",
-      "relativePath": "Litehouse Industries/Mercea Conglomerate/Twilight Medical Services"
     },
     {
       "name": "Attica",
@@ -389,10 +329,6 @@
       "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer"
     },
     {
-      "name": "Special Interests Department",
-      "relativePath": "Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department"
-    },
-    {
       "name": "1st Circle",
       "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer/1st Circle"
     },
@@ -423,6 +359,82 @@
     {
       "name": "8th Circle",
       "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer/8th Circle"
+    },
+    {
+      "name": "Aegis",
+      "relativePath": "A Corps/Aegis"
+    },
+    {
+      "name": "Omni Corp",
+      "relativePath": "A Corps/Omni Corp"
+    },
+    {
+      "name": "Ares",
+      "relativePath": "AAA Corps/Ares"
+    },
+    {
+      "name": "Litehouse Industries",
+      "relativePath": "AA Corps/Litehouse Industries"
+    },
+    {
+      "name": "1UP!",
+      "relativePath": "AA Corps/Litehouse Industries/1UP!"
+    },
+    {
+      "name": "Cheyenne Mountain",
+      "relativePath": "AA Corps/Litehouse Industries/Cheyenne Mountain"
+    },
+    {
+      "name": "Genesis Medical",
+      "relativePath": "AA Corps/Litehouse Industries/Genesis Medical"
+    },
+    {
+      "name": "Incubus Club",
+      "relativePath": "AA Corps/Litehouse Industries/Incubus Club"
+    },
+    {
+      "name": "Litehouse Brand",
+      "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand"
+    },
+    {
+      "name": "Mercea Conglomerate",
+      "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate"
+    },
+    {
+      "name": "The Apollo Group",
+      "relativePath": "AA Corps/Litehouse Industries/The Apollo Group"
+    },
+    {
+      "name": "Rainbow Corp",
+      "relativePath": "AA Corps/Litehouse Industries/Rainbow Corp"
+    },
+    {
+      "name": "Litehouse Production",
+      "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production"
+    },
+    {
+      "name": "Litehouse Construction",
+      "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Construction"
+    },
+    {
+      "name": "M.H. Institue of Neuroscience Sites",
+      "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites"
+    },
+    {
+      "name": "Litehouse Manufacturing",
+      "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Manufacturing"
+    },
+    {
+      "name": "Manufacturing",
+      "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing"
+    },
+    {
+      "name": "Twilight Medical Services",
+      "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services"
+    },
+    {
+      "name": "Special Interests Department",
+      "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department"
     }
   ],
   "nonMdFiles": [
@@ -450,11 +462,6 @@
       "name": "tags.json",
       "basename": "tags",
       "relativePath": "tags.json"
-    },
-    {
-      "name": "Litehouse Industries.canvas",
-      "basename": "Litehouse Industries",
-      "relativePath": "Litehouse Industries/Litehouse Industries.canvas"
     },
     {
       "name": "catrone3_Council_of_Attica_logo_with_no_words_2da43de6-734a-4cb5-9bbe-52b9795b9b54.png",
@@ -1275,6 +1282,11 @@
       "name": "Zoe.png",
       "basename": "Zoe",
       "relativePath": "Images/shadowrun characters/Zoe.png"
+    },
+    {
+      "name": "Litehouse Industries.canvas",
+      "basename": "Litehouse Industries",
+      "relativePath": "AA Corps/Litehouse Industries/Litehouse Industries.canvas"
     }
   ]
 }

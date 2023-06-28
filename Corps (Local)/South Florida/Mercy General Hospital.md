@@ -1,0 +1,1 @@
+Mercy General Hospital is a leading medical facility that provides comprehensive healthcare services to the community. They offer state-of-the-art medical equipment, advanced treatments, and a skilled medical staff. Mercy General Hospital is renowned for its quality patient care, specialized departments, and commitment to advancing medical knowledge and practices.

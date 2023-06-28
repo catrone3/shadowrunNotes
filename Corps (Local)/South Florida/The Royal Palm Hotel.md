@@ -1,0 +1,1 @@
+The Royal Palm Hotel is a luxurious five-star hotel known for its opulent accommodations, impeccable service, and upscale amenities. It caters to affluent guests seeking a sophisticated and indulgent experience. The Royal Palm Hotel offers world-class hospitality, fine dining options, spa services, and exclusive event venues.

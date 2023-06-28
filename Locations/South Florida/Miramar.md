@@ -9,3 +9,7 @@ Rating A area mostly. Law enforcement in these areas is basically a call-and-res
 #### Calder Racetrack and Casino
 
 Thoroughbred horses, greyhounds, and hellhounds are raced here, betting on international events, slot machines, high stakes poker, and all other forms of gambling can be found here. The actual owners are well concealed behind shell companies.
+
+### Known Companies
+[[../../A Corps/Azimuth Corporation|Azimuth Corporation]]
+[[../../Corps (Local)/South Florida/Blackfire Arms & Armory|Blackfire Arms & Armory]]
