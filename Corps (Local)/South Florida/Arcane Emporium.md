@@ -1,0 +1,3 @@
+- Type: Magical Equipment Shop
+
+This mystical store is run by a knowledgeable mage who specializes in magical artifacts, foci, reagents, and spellcasting supplies. It offers a wide range of enchanted items, from protective amulets to potent ritual components.

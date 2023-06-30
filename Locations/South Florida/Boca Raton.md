@@ -3,3 +3,7 @@ Due to being a border district with money Boca Raton has transformed into a fort
 Population: 200,000
 
 Security is rating AA. Patrols cover the area 24 hours a day, but are less frequent than AAA. Astral patrols take place on an irregular schedule, and there may not be a security rigger system set up. Drones and spirits may guard certain areas in place of humans. Response is prompt.
+
+## Geographic Notes
+
+### Town Center

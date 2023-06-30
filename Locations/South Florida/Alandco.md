@@ -3,3 +3,13 @@ An industrial and business district, There are no houses or living quarters here
 Population: 0
 
 Security is rating B which is usual for areas comprised primarily of commercial properties rather than residential, such as industrial parks, office complexes and suburban manufacturing
+
+## Companies
+![[../../AAA Corps/Horizon/Horizon Express Delivery|Horizon Express Delivery]]
+
+### Clean Energy Ceneter
+
+
+### Japanese Car Hub
+
+### Shipping Center
