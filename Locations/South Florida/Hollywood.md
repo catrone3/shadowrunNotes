@@ -5,3 +5,18 @@ Security is rating C and D. Infrequent patrols and poorly maintained PanicButton
 Population: 270,000  
   
 Coastal business and residences have higher rating security, expect rating B.
+
+## Geographic Notes
+
+#### Miami Sports Network
+![[../../Corps (Local)/South Florida/Miami Sports Network|Miami Sports Network]]
+
+#### Mitchell's Emporium
+![[../../Corps (Local)/South Florida/Mitchell's Emporium|Mitchell's Emporium]]
+
+#### Turner Couture
+![[../../Corps (Local)/South Florida/Turner Couture|Turner Couture]]
+
+#### Young Combat Sports Arena
+
+The Young arena is dedicated to combat biking, the 21st century's favorite motor sport. The arena and the major league Miami team, "The Marauders," are owned by the Gambione crime family. Gambling, drinking, and drug use are encouraged as the house always takes a cut.

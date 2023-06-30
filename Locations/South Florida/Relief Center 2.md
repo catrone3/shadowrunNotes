@@ -5,3 +5,5 @@ Relief Center 2 functions, more or less, as an anarchist commune with community 
 Estimated population 100,000-200,000.  
   
 E Rating security. This area is considered a slum. Security will respond if the victim has a SIN and calls in a complaint himself, or if the violence makes the headlines or threatens to spill over into more “important” areas.
+
+## Geographic Notes

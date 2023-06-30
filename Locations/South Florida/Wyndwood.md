@@ -16,6 +16,15 @@ It is often rented as space for artists and temporary gallery exhibits.
 
 Originally built as a temporary dock for relief work during the aftermath of the Meistersinger Massacre, this area has become a minor shipping hub and marina, where official supervision is quite lax.
 
+#### The Fixer's Den
+![[../../Corps (Local)/South Florida/The Fixer's Den|The Fixer's Den]]
+
+#### The Inferno Club
+![[../../Corps (Local)/South Florida/The Inferno Club|The Inferno Club]]
+
+#### Miami Central Library
+![[../../Corps (Local)/South Florida/Miami Central Library|Miami Central Library]]
+
 #### Midtown Shops
 
 A veritable island of familiar franchise commercial serenity this is highest traffic part of Wynwood. Expect to be bombarded with advisement and people from all walks of life, locals and tourists alike. Violence is swiftly dealt with by Lone Star security, but as long as your ID passes a cursory inspection and you have money to spend, everyone is welcome. Horizon is the landlord for the entire mall.

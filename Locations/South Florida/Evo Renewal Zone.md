@@ -14,6 +14,18 @@ Security is rating D. Infrequent patrols and poorly maintained PanicButton booth
 
 EVO's main shipping hub in the area.
 
+#### Santos' Culinary Haven
+![[../../Corps (Local)/South Florida/Santos' Culinary Haven|Santos' Culinary Haven]]
+
+#### Santos Dental Clinic
+![[../../Corps (Local)/South Florida/Santos Dental Clinic|Santos Dental Clinic]]
+
+#### Santos Mortuary Services
+![[../../Corps (Local)/South Florida/Santos Mortuary Services|Santos Mortuary Services]]
+
+#### Ramirez Auto Repair Shop
+![[../../Corps (Local)/South Florida/Ramirez Auto Repair Shop|Ramirez Auto Repair Shop]]
+
 #### Zoo Miami
 
 Evo's proudest rehabilitation accomplishment has been the acquisition and rehabilitation of the Zoo, where they showcase the latest in nature simulation for exhibited animals. VIP tours in person and in Virtual Reality are available.

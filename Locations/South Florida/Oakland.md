@@ -3,3 +3,5 @@ Oakland Park has transformed into a diverse and bustling urban neighborhood. The
 Population: 100,000
 
 Security is rating AA. Patrols cover the area 24 hours a day, but are less frequent than AAA. Astral patrols take place on an irregular schedule, and there may not be a security rigger system set up. Drones and spirits may guard certain areas in place of humans. Response is prompt.
+
+## Geographic Notes

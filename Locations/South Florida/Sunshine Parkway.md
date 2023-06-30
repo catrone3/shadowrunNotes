@@ -3,3 +3,15 @@ Sunshine Parkway has evolved into a technologically advanced research and develo
 Population: 150,000
 
 Security is rating AA. Patrols cover the area 24 hours a day, but are less frequent than AAA. Astral patrols take place on an irregular schedule, and there may not be a security rigger system set up. Drones and spirits may guard certain areas in place of humans. Response is prompt.
+
+## Geographic Notes
+
+#### Boca Dunes Golf & Country Club
+#### Boca Grove Golf Course
+#### Boca Lago Golf Course
+#### Boca West Country Club
+#### Boca Woods Country Club
+#### The Club at Boca Pointe
+#### Osprey Point Golf Course
+#### Southwinds Golf Course
+#### Woodfield Country Club

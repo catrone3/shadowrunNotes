@@ -6,14 +6,23 @@ This area is rating C and D. Infrequent patrols and poorly maintained PanicButto
 
 ## Geographic Notes
 
-#### The Top
+#### Blackwood Gallery
+![[../../Corps (Local)/South Florida/Blackwood Gallery|Blackwood Gallery]]
 
-A strip club for cybernetically enhanced humans and metahumans.  Known for its impressive acrobatics, wild antics, and exotic enhancements.
+#### Churchill's Pub
+
+A favorite hangout for locals, where numerous rock, punk, and thrash bands have gotten their starts.
+
+#### Miami Daily
+![[../../Corps (Local)/South Florida/Miami Daily|Miami Daily]]
 
 #### Miami Jewish Health Systems
 
 This medical center is a comprehensive medical facility that will provide any  care you require,for cash up front. Charity can be applied for and is awarded fairly often, but requires a National or Corporate SIN. Owned by the Evo Corporation.
 
-#### Churchill's Pub
+#### The Neon Lounge
+![[../../Corps (Local)/South Florida/The Neon Lounge|The Neon Lounge]]
 
-A favorite hangout for locals, where numerous rock, punk, and thrash bands have gotten their starts.
+#### The Top
+
+A strip club for cybernetically enhanced humans and metahumans.  Known for its impressive acrobatics, wild antics, and exotic enhancements.

@@ -3,3 +3,5 @@ Fort Lauderdale has emerged as a bustling metropolis, teeming with a blend of co
 Population: 100,000
 
 Security is rating AAA, representing the highest quality law enforcement and response time money can buy.
+
+## Geographic Notes

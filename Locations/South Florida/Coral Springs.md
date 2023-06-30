@@ -3,3 +3,12 @@ Coral Springs emerges as a thriving enclave known for its commitment to sustaina
 Population: 130,000
 
 Security is rating B which is usual for areas comprised primarily of commercial properties rather than residential, such as industrial parks, office complexes and suburban manufacturing
+
+## Geographic Notes
+
+#### Butterfly World
+Vibrant venue featuring a botanical garden with butterflies & birds plus an insect museum & more.
+
+#### Calypso Cove Aquatic Facility
+
+#### Florida Northwest Hospital

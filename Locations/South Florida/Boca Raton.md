@@ -7,3 +7,8 @@ Security is rating AA. Patrols cover the area 24 hours a day, but are less frequ
 ## Geographic Notes
 
 ### Town Center
+
+## Runner Notes
+
+#### DocWagon Medical Supplites
+![[../../AA Corps/DocWagon/DocWagon Medical Supplies|DocWagon Medical Supplies]]

@@ -6,9 +6,14 @@ Rating A area mostly. Law enforcement in these areas is basically a call-and-res
 
 ## Geographic Notes
 
-#### Hard Rock Hotel
+#### Banū Mūsā University
 
-The Hard Rock corporation is a wholly owned subsidiary of the Seminole tribe, and to this day represents one of their largest sources of income and their unofficial ambassador to the consumer oriented world economy. This hotel and casino enjoys extraterritoriality and doubles (or triples) as an embassy.
+Built on site of a Catholic University that went bankrupt, Muslim investors established an Islamic university that offers STEM degrees, Magical degrees, as well as undergraduate and graduate programs in fine and performing arts.  
+  
+A large Muslim community has grown up around the university.
+
+#### Blackfire Arms & Armory
+![[../../Corps (Local)/South Florida/Blackfire Arms & Armory|Blackfire Arms & Armory]]
 
 #### Callo de Reyes
 
@@ -16,15 +21,6 @@ Rosa and Reyna are an aging set of human twins whose eclectic and colorful style
   
 Despite the allure of Wynwood these older fashionistas cater to clientele of all budgets in a shopping center where each store front is targeted to specific markets, but all the stores are owned by this pair of entrepreneurs.
 
-#### Banū Mūsā University
-
-Built on site of a Catholic University that went bankrupt, Muslim investors established an Islamic university that offers STEM degrees, Magical degrees, as well as undergraduate and graduate programs in fine and performing arts.  
-  
-A large Muslim community has grown up around the university.
-
 #### Roving Bands of Birds
 
 El Portal, once a sleepy municipality, has become a small densely packed jungle not navigable by vehicle.  Attempts to cut through it are met by vicious attacks by flocks of birds, led by overgrown, aggressive peacocks. Despite the clear danger the animals pose, conservation groups have put pressure on the city to keep them officially protected.
-
-### Known Companies
-[[../../Corps (Local)/South Florida/Blackfire Arms & Armory|Blackfire Arms & Armory]]

@@ -8884,12 +8884,38 @@
         "level": 4
       },
       {
+        "heading": "The Fixer's Den",
+        "level": 4
+      },
+      {
+        "heading": "The Inferno Club",
+        "level": 4
+      },
+      {
+        "heading": "Miami Central Library",
+        "level": 4
+      },
+      {
         "heading": "Midtown Shops",
         "level": 4
       },
       {
         "heading": "Stuffer Shack Grande",
         "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "The Fixer's Den",
+        "relativePath": "Corps (Local)/South Florida/The Fixer's Den.md"
+      },
+      {
+        "link": "The Inferno Club",
+        "relativePath": "Corps (Local)/South Florida/The Inferno Club.md"
+      },
+      {
+        "link": "Miami Central Library",
+        "relativePath": "Corps (Local)/South Florida/Miami Central Library.md"
       }
     ],
     "backlinks": [
@@ -8944,8 +8970,34 @@
         "level": 2
       },
       {
+        "heading": "Blackwood Technologies",
+        "level": 4
+      },
+      {
+        "heading": "Flamingo Gardens",
+        "level": 4
+      },
+      {
+        "heading": "GlobalTech Enterprises",
+        "level": 4
+      },
+      {
+        "heading": "Runner Notes",
+        "level": 2
+      },
+      {
         "heading": "Statue of Major Lauderdale",
         "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Blackwood Technologies",
+        "relativePath": "A Corps/Blackwood Technologies.md"
+      },
+      {
+        "link": "GlobalTech Enterprises",
+        "relativePath": "A Corps/GlobalTech Enterprises.md"
       }
     ],
     "backlinks": [
@@ -8959,6 +9011,48 @@
   {
     "fileName": "Sunshine Parkway",
     "relativePath": "Locations/South Florida/Sunshine Parkway.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Boca Dunes Golf & Country Club",
+        "level": 4
+      },
+      {
+        "heading": "Boca Grove Golf Course",
+        "level": 4
+      },
+      {
+        "heading": "Boca Lago Golf Course",
+        "level": 4
+      },
+      {
+        "heading": "Boca West Country Club",
+        "level": 4
+      },
+      {
+        "heading": "Boca Woods Country Club",
+        "level": 4
+      },
+      {
+        "heading": "The Club at Boca Pointe",
+        "level": 4
+      },
+      {
+        "heading": "Osprey Point Golf Course",
+        "level": 4
+      },
+      {
+        "heading": "Southwinds Golf Course",
+        "level": 4
+      },
+      {
+        "heading": "Woodfield Country Club",
+        "level": 4
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9025,6 +9119,20 @@
       {
         "heading": "Rennweg Shopping and Finance",
         "level": 4
+      },
+      {
+        "heading": "Runner Notes",
+        "level": 2
+      },
+      {
+        "heading": "Carlito's Bar",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Carlito's Bar",
+        "relativePath": "Corps (Local)/South Florida/Carlito's Bar.md"
       }
     ],
     "backlinks": [
@@ -9038,6 +9146,12 @@
   {
     "fileName": "Port Everglades",
     "relativePath": "Locations/South Florida/Port Everglades.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9049,6 +9163,12 @@
   {
     "fileName": "Relief Center 2",
     "relativePath": "Locations/South Florida/Relief Center 2.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9195,6 +9315,20 @@
   {
     "fileName": "Plantation",
     "relativePath": "Locations/South Florida/Plantation.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Fort Lauderdale Country Club",
+        "level": 4
+      },
+      {
+        "heading": "Jacaranda Golf Club",
+        "level": 4
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9206,6 +9340,16 @@
   {
     "fileName": "Pompano Beach",
     "relativePath": "Locations/South Florida/Pompano Beach.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Pompano Beach Airpark",
+        "level": 4
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9217,6 +9361,20 @@
   {
     "fileName": "Oakridge",
     "relativePath": "Locations/South Florida/Oakridge.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Half Price Cutter",
+        "level": 4
+      },
+      {
+        "heading": "Hard Rock Hotel",
+        "level": 4
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9228,6 +9386,12 @@
   {
     "fileName": "Oakland",
     "relativePath": "Locations/South Florida/Oakland.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9281,6 +9445,62 @@
   {
     "fileName": "North Lauderdale",
     "relativePath": "Locations/South Florida/North Lauderdale.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Elysium",
+        "level": 4
+      },
+      {
+        "heading": "Nexus Research Group",
+        "level": 4
+      },
+      {
+        "heading": "Silverstone Investments",
+        "level": 4
+      },
+      {
+        "heading": "Swift Delivery Services",
+        "level": 4
+      },
+      {
+        "heading": "Thompson Investigations",
+        "level": 4
+      },
+      {
+        "heading": "Urban Development Solutions",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Elysium",
+        "relativePath": "Corps (Local)/South Florida/Elysium.md"
+      },
+      {
+        "link": "Nexus Research Group",
+        "relativePath": "A Corps/Nexus Research Group.md"
+      },
+      {
+        "link": "Silverstone Investments",
+        "relativePath": "Corps (Local)/South Florida/Silverstone Investments.md"
+      },
+      {
+        "link": "Swift Delivery Services",
+        "relativePath": "Corps (Local)/South Florida/Swift Delivery Services.md"
+      },
+      {
+        "link": "Thompson Investigations",
+        "relativePath": "Corps (Local)/South Florida/Thompson Investigations.md"
+      },
+      {
+        "link": "Urban Development Solutions",
+        "relativePath": "Corps (Local)/South Florida/Urban Development Solutions.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9313,6 +9533,38 @@
   {
     "fileName": "Miami Springs",
     "relativePath": "Locations/South Florida/Miami Springs.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Aegis Accounting Services",
+        "level": 4
+      },
+      {
+        "heading": "Knight Industries",
+        "level": 4
+      },
+      {
+        "heading": "Serenity Medical Corporation",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Aegis Accounting Services",
+        "relativePath": "A Corps/Aegis/Aegis Accounting Services.md"
+      },
+      {
+        "link": "Knight Industries",
+        "relativePath": "A Corps/Knight Industries.md"
+      },
+      {
+        "link": "Serenity Medical Corporation",
+        "relativePath": "A Corps/Serenity Medical Corporation.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9335,12 +9587,24 @@
         "level": 2
       },
       {
+        "heading": "Azimuth Corporation",
+        "level": 4
+      },
+      {
+        "heading": "Blackfire Arms & Armory Plant",
+        "level": 4
+      },
+      {
         "heading": "Calder Racetrack and Casino",
         "level": 4
       },
       {
-        "heading": "Known Companies",
-        "level": 3
+        "heading": "Horizon Aviation Maintenance",
+        "level": 4
+      },
+      {
+        "heading": "OmnitTech Solutions",
+        "level": 4
       }
     ],
     "links": [
@@ -9351,6 +9615,14 @@
       {
         "link": "Blackfire Arms & Armory",
         "relativePath": "Corps (Local)/South Florida/Blackfire Arms & Armory.md"
+      },
+      {
+        "link": "Horizon Aviation Maintenance",
+        "relativePath": "AAA Corps/Horizon/Horizon Aviation Maintenance.md"
+      },
+      {
+        "link": "OmniTech Solutions",
+        "relativePath": "A Corps/Omni Corp/OmniTech Solutions.md"
       }
     ],
     "backlinks": [
@@ -9375,7 +9647,11 @@
         "level": 2
       },
       {
-        "heading": "Hard Rock Hotel",
+        "heading": "Banū Mūsā University",
+        "level": 4
+      },
+      {
+        "heading": "Blackfire Arms & Armory",
         "level": 4
       },
       {
@@ -9383,16 +9659,8 @@
         "level": 4
       },
       {
-        "heading": "Banū Mūsā University",
-        "level": 4
-      },
-      {
         "heading": "Roving Bands of Birds",
         "level": 4
-      },
-      {
-        "heading": "Known Companies",
-        "level": 3
       }
     ],
     "links": [
@@ -9437,6 +9705,22 @@
   {
     "fileName": "Medley Industrial Park",
     "relativePath": "Locations/South Florida/Medley Industrial Park.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Saint Michael's Church",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Saint Michael's Church",
+        "relativePath": "Corps (Local)/South Florida/Saint Michael's Church.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9466,6 +9750,16 @@
       {
         "heading": "Bill Baggs Historic Lighthouse",
         "level": 4
+      },
+      {
+        "heading": "Serenity Spa & Massage",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Serenity Spa & Massage",
+        "relativePath": "Corps (Local)/South Florida/Serenity Spa & Massage.md"
       }
     ],
     "backlinks": [
@@ -9490,7 +9784,15 @@
         "level": 2
       },
       {
-        "heading": "The Top",
+        "heading": "Blackwood Gallery",
+        "level": 4
+      },
+      {
+        "heading": "Churchill's Pub",
+        "level": 4
+      },
+      {
+        "heading": "Miami Daily",
         "level": 4
       },
       {
@@ -9498,8 +9800,26 @@
         "level": 4
       },
       {
-        "heading": "Churchill's Pub",
+        "heading": "The Neon Lounge",
         "level": 4
+      },
+      {
+        "heading": "The Top",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Blackwood Gallery",
+        "relativePath": "Corps (Local)/South Florida/Blackwood Gallery.md"
+      },
+      {
+        "link": "Miami Daily",
+        "relativePath": "Corps (Local)/South Florida/Miami Daily.md"
+      },
+      {
+        "link": "The Neon Lounge",
+        "relativePath": "Corps (Local)/South Florida/The Neon Lounge.md"
       }
     ],
     "backlinks": [
@@ -9559,6 +9879,12 @@
   {
     "fileName": "Idlewyld",
     "relativePath": "Locations/South Florida/Idlewyld.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9577,10 +9903,6 @@
       },
       {
         "heading": "Miami Executive Airport",
-        "level": 4
-      },
-      {
-        "heading": "Sharks!",
         "level": 4
       }
     ],
@@ -9612,12 +9934,30 @@
         "level": 2
       },
       {
-        "heading": "Opa-locka Exective Airport",
+        "heading": "Aegis Corporation",
         "level": 4
       },
       {
         "heading": "Hialeah Flea Market",
         "level": 4
+      },
+      {
+        "heading": "OmniCorp Security Solutions",
+        "level": 4
+      },
+      {
+        "heading": "Opa-locka Exective Airport",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Aegis Corporation",
+        "relativePath": "A Corps/Aegis/Aegis Corporation.md"
+      },
+      {
+        "link": "OmniCorp Security Solutions",
+        "relativePath": "A Corps/Omni Corp/OmniCorp Security Solutions.md"
       }
     ],
     "backlinks": [
@@ -9636,6 +9976,42 @@
   {
     "fileName": "Hollywood",
     "relativePath": "Locations/South Florida/Hollywood.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Miami Sports Network",
+        "level": 4
+      },
+      {
+        "heading": "Mitchell's Emporium",
+        "level": 4
+      },
+      {
+        "heading": "Turner Couture",
+        "level": 4
+      },
+      {
+        "heading": "Young Combat Sports Arena",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Miami Sports Network",
+        "relativePath": "Corps (Local)/South Florida/Miami Sports Network.md"
+      },
+      {
+        "link": "Mitchell's Emporium",
+        "relativePath": "Corps (Local)/South Florida/Mitchell's Emporium.md"
+      },
+      {
+        "link": "Turner Couture",
+        "relativePath": "Corps (Local)/South Florida/Turner Couture.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9647,6 +10023,30 @@
   {
     "fileName": "Grapeland",
     "relativePath": "Locations/South Florida/Grapeland.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Miami City Morgue",
+        "level": 4
+      },
+      {
+        "heading": "Mindscape Therapy Center",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Miami City Morgue",
+        "relativePath": "Corps (Local)/South Florida/Miami City Morgue.md"
+      },
+      {
+        "link": "Mindscape Therapy Center",
+        "relativePath": "Corps (Local)/South Florida/Mindscape Therapy Center.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9718,6 +10118,12 @@
   {
     "fileName": "Fort Lauderdale",
     "relativePath": "Locations/South Florida/Fort Lauderdale.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9729,6 +10135,12 @@
   {
     "fileName": "Fort Lauderdale Airport",
     "relativePath": "Locations/South Florida/Fort Lauderdale Airport.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9750,8 +10162,42 @@
         "level": 4
       },
       {
+        "heading": "Santos' Culinary Haven",
+        "level": 4
+      },
+      {
+        "heading": "Santos Dental Clinic",
+        "level": 4
+      },
+      {
+        "heading": "Santos Mortuary Services",
+        "level": 4
+      },
+      {
+        "heading": "Ramirez Auto Repair Shop",
+        "level": 4
+      },
+      {
         "heading": "Zoo Miami",
         "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Santos' Culinary Haven",
+        "relativePath": "Corps (Local)/South Florida/Santos' Culinary Haven.md"
+      },
+      {
+        "link": "Santos Dental Clinic",
+        "relativePath": "Corps (Local)/South Florida/Santos Dental Clinic.md"
+      },
+      {
+        "link": "Santos Mortuary Services",
+        "relativePath": "Corps (Local)/South Florida/Santos Mortuary Services.md"
+      },
+      {
+        "link": "Ramirez Auto Repair Shop",
+        "relativePath": "Corps (Local)/South Florida/Ramirez Auto Repair Shop.md"
       }
     ],
     "backlinks": [
@@ -9765,6 +10211,12 @@
   {
     "fileName": "Edgewood",
     "relativePath": "Locations/South Florida/Edgewood.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9866,6 +10318,38 @@
   {
     "fileName": "Deerfield Beach",
     "relativePath": "Locations/South Florida/Deerfield Beach.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "The Nightshade Club",
+        "level": 4
+      },
+      {
+        "heading": "Turner Realty",
+        "level": 4
+      },
+      {
+        "heading": "Turner & Mitchell Law Firm",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "The Nightshade Club",
+        "relativePath": "Corps (Local)/South Florida/The Nightshade Club.md"
+      },
+      {
+        "link": "Turner Realty",
+        "relativePath": "Corps (Local)/South Florida/Turner Realty.md"
+      },
+      {
+        "link": "Turner & Mitchell Law Firm",
+        "relativePath": "Corps (Local)/South Florida/Turner & Mitchell Law Firm.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9903,6 +10387,24 @@
   {
     "fileName": "Coral Springs",
     "relativePath": "Locations/South Florida/Coral Springs.md",
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Butterfly World",
+        "level": 4
+      },
+      {
+        "heading": "Calypso Cove Aquatic Facility",
+        "level": 4
+      },
+      {
+        "heading": "Florida Northwest Hospital",
+        "level": 4
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida",
@@ -9928,6 +10430,10 @@
         "level": 4
       },
       {
+        "heading": "Mercy General Hospital",
+        "level": 4
+      },
+      {
         "heading": "The Miami Circle",
         "level": 4
       },
@@ -9936,7 +10442,19 @@
         "level": 4
       },
       {
+        "heading": "The Royal Palm Hotel",
+        "level": 4
+      },
+      {
+        "heading": "Secure Solutions Corporation",
+        "level": 4
+      },
+      {
         "heading": "The Splendiferous Omniplex",
+        "level": 4
+      },
+      {
+        "heading": "Thompson Security Solutions",
         "level": 4
       },
       {
@@ -9952,56 +10470,34 @@
         "level": 4
       },
       {
-        "heading": "Secure Solutions Corporation",
-        "level": 4
-      },
-      {
-        "heading": "The Royal Palm Hotel",
-        "level": 4
-      },
-      {
-        "heading": "Mercy General Hospital",
-        "level": 4
-      },
-      {
         "heading": "WardSecure Magical Security Systems",
-        "level": 4
-      },
-      {
-        "heading": "Thompson Security Solutions",
         "level": 4
       }
     ],
     "links": [
       {
-        "link": "Miami Dockyards",
-        "displayText": "../../Corps (Local)/South Florida/Miami Dockyards",
-        "relativePath": "Corps (Local)/South Florida/Miami Dockyards.md"
-      },
-      {
-        "link": "Secure Solutions Corporation",
-        "displayText": "../../Corps (Local)/South Florida/Secure Solutions Corporation",
-        "relativePath": "Corps (Local)/South Florida/Secure Solutions Corporation.md"
-      },
-      {
-        "link": "The Royal Palm Hotel",
-        "displayText": "../../Corps (Local)/South Florida/The Royal Palm Hotel",
-        "relativePath": "Corps (Local)/South Florida/The Royal Palm Hotel.md"
-      },
-      {
         "link": "Mercy General Hospital",
-        "displayText": "../../Corps (Local)/South Florida/Mercy General Hospital",
         "relativePath": "Corps (Local)/South Florida/Mercy General Hospital.md"
       },
       {
-        "link": "WardSecure Magical Security Systems",
-        "displayText": "../../A Corps/WardSecure Magical Security Systems",
-        "relativePath": "A Corps/WardSecure Magical Security Systems.md"
+        "link": "Miami Dockyards",
+        "relativePath": "Corps (Local)/South Florida/Miami Dockyards.md"
+      },
+      {
+        "link": "The Royal Palm Hotel",
+        "relativePath": "Corps (Local)/South Florida/The Royal Palm Hotel.md"
+      },
+      {
+        "link": "Secure Solutions Corporation",
+        "relativePath": "Corps (Local)/South Florida/Secure Solutions Corporation.md"
       },
       {
         "link": "Thompson Security Solutions",
-        "displayText": "../../A Corps/Thompson Security Solutions",
         "relativePath": "A Corps/Thompson Security Solutions.md"
+      },
+      {
+        "link": "WardSecure Magical Security Systems",
+        "relativePath": "A Corps/WardSecure Magical Security Systems.md"
       }
     ],
     "backlinks": [
@@ -10066,6 +10562,20 @@
       {
         "heading": "Town Center",
         "level": 3
+      },
+      {
+        "heading": "Runner Notes",
+        "level": 2
+      },
+      {
+        "heading": "DocWagon Medical Supplites",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "DocWagon Medical Supplies",
+        "relativePath": "AA Corps/DocWagon/DocWagon Medical Supplies.md"
       }
     ],
     "backlinks": [
@@ -14558,23 +15068,58 @@
   },
   {
     "fileName": "Urban Development Solutions",
-    "relativePath": "Corps (Local)/South Florida/Urban Development Solutions.md"
+    "relativePath": "Corps (Local)/South Florida/Urban Development Solutions.md",
+    "backlinks": [
+      {
+        "fileName": "North Lauderdale",
+        "link": "Urban Development Solutions",
+        "relativePath": "Locations/South Florida/North Lauderdale.md"
+      }
+    ]
   },
   {
     "fileName": "Turner Realty",
-    "relativePath": "Corps (Local)/South Florida/Turner Realty.md"
+    "relativePath": "Corps (Local)/South Florida/Turner Realty.md",
+    "backlinks": [
+      {
+        "fileName": "Deerfield Beach",
+        "link": "Turner Realty",
+        "relativePath": "Locations/South Florida/Deerfield Beach.md"
+      }
+    ]
   },
   {
     "fileName": "Turner Couture",
-    "relativePath": "Corps (Local)/South Florida/Turner Couture.md"
+    "relativePath": "Corps (Local)/South Florida/Turner Couture.md",
+    "backlinks": [
+      {
+        "fileName": "Hollywood",
+        "link": "Turner Couture",
+        "relativePath": "Locations/South Florida/Hollywood.md"
+      }
+    ]
   },
   {
     "fileName": "Turner & Mitchell Law Firm",
-    "relativePath": "Corps (Local)/South Florida/Turner & Mitchell Law Firm.md"
+    "relativePath": "Corps (Local)/South Florida/Turner & Mitchell Law Firm.md",
+    "backlinks": [
+      {
+        "fileName": "Deerfield Beach",
+        "link": "Turner & Mitchell Law Firm",
+        "relativePath": "Locations/South Florida/Deerfield Beach.md"
+      }
+    ]
   },
   {
     "fileName": "Thompson Investigations",
-    "relativePath": "Corps (Local)/South Florida/Thompson Investigations.md"
+    "relativePath": "Corps (Local)/South Florida/Thompson Investigations.md",
+    "backlinks": [
+      {
+        "fileName": "North Lauderdale",
+        "link": "Thompson Investigations",
+        "relativePath": "Locations/South Florida/North Lauderdale.md"
+      }
+    ]
   },
   {
     "fileName": "The Royal Palm Hotel",
@@ -14583,38 +15128,86 @@
       {
         "fileName": "City of Miami",
         "link": "The Royal Palm Hotel",
-        "relativePath": "Locations/South Florida/City of Miami.md",
-        "displayText": "../../Corps (Local)/South Florida/The Royal Palm Hotel"
+        "relativePath": "Locations/South Florida/City of Miami.md"
       }
     ]
   },
   {
     "fileName": "The Nightshade Club",
-    "relativePath": "Corps (Local)/South Florida/The Nightshade Club.md"
+    "relativePath": "Corps (Local)/South Florida/The Nightshade Club.md",
+    "backlinks": [
+      {
+        "fileName": "Deerfield Beach",
+        "link": "The Nightshade Club",
+        "relativePath": "Locations/South Florida/Deerfield Beach.md"
+      }
+    ]
   },
   {
     "fileName": "The Inferno Club",
-    "relativePath": "Corps (Local)/South Florida/The Inferno Club.md"
+    "relativePath": "Corps (Local)/South Florida/The Inferno Club.md",
+    "backlinks": [
+      {
+        "fileName": "Wyndwood",
+        "link": "The Inferno Club",
+        "relativePath": "Locations/South Florida/Wyndwood.md"
+      }
+    ]
   },
   {
     "fileName": "The Fixer's Den",
-    "relativePath": "Corps (Local)/South Florida/The Fixer's Den.md"
+    "relativePath": "Corps (Local)/South Florida/The Fixer's Den.md",
+    "backlinks": [
+      {
+        "fileName": "Wyndwood",
+        "link": "The Fixer's Den",
+        "relativePath": "Locations/South Florida/Wyndwood.md"
+      }
+    ]
   },
   {
     "fileName": "The Neon Lounge",
-    "relativePath": "Corps (Local)/South Florida/The Neon Lounge.md"
+    "relativePath": "Corps (Local)/South Florida/The Neon Lounge.md",
+    "backlinks": [
+      {
+        "fileName": "Little Haiti",
+        "link": "The Neon Lounge",
+        "relativePath": "Locations/South Florida/Little Haiti.md"
+      }
+    ]
   },
   {
     "fileName": "Swift Delivery Services",
-    "relativePath": "Corps (Local)/South Florida/Swift Delivery Services.md"
+    "relativePath": "Corps (Local)/South Florida/Swift Delivery Services.md",
+    "backlinks": [
+      {
+        "fileName": "North Lauderdale",
+        "link": "Swift Delivery Services",
+        "relativePath": "Locations/South Florida/North Lauderdale.md"
+      }
+    ]
   },
   {
     "fileName": "Silverstone Investments",
-    "relativePath": "Corps (Local)/South Florida/Silverstone Investments.md"
+    "relativePath": "Corps (Local)/South Florida/Silverstone Investments.md",
+    "backlinks": [
+      {
+        "fileName": "North Lauderdale",
+        "link": "Silverstone Investments",
+        "relativePath": "Locations/South Florida/North Lauderdale.md"
+      }
+    ]
   },
   {
     "fileName": "Serenity Spa & Massage",
-    "relativePath": "Corps (Local)/South Florida/Serenity Spa & Massage.md"
+    "relativePath": "Corps (Local)/South Florida/Serenity Spa & Massage.md",
+    "backlinks": [
+      {
+        "fileName": "Key Biscayne",
+        "link": "Serenity Spa & Massage",
+        "relativePath": "Locations/South Florida/Key Biscayne.md"
+      }
+    ]
   },
   {
     "fileName": "Secure Solutions Corporation",
@@ -14623,22 +15216,42 @@
       {
         "fileName": "City of Miami",
         "link": "Secure Solutions Corporation",
-        "relativePath": "Locations/South Florida/City of Miami.md",
-        "displayText": "../../Corps (Local)/South Florida/Secure Solutions Corporation"
+        "relativePath": "Locations/South Florida/City of Miami.md"
       }
     ]
   },
   {
     "fileName": "Santos' Culinary Haven",
-    "relativePath": "Corps (Local)/South Florida/Santos' Culinary Haven.md"
+    "relativePath": "Corps (Local)/South Florida/Santos' Culinary Haven.md",
+    "backlinks": [
+      {
+        "fileName": "Evo Renewal Zone",
+        "link": "Santos' Culinary Haven",
+        "relativePath": "Locations/South Florida/Evo Renewal Zone.md"
+      }
+    ]
   },
   {
     "fileName": "Santos Mortuary Services",
-    "relativePath": "Corps (Local)/South Florida/Santos Mortuary Services.md"
+    "relativePath": "Corps (Local)/South Florida/Santos Mortuary Services.md",
+    "backlinks": [
+      {
+        "fileName": "Evo Renewal Zone",
+        "link": "Santos Mortuary Services",
+        "relativePath": "Locations/South Florida/Evo Renewal Zone.md"
+      }
+    ]
   },
   {
     "fileName": "Santos Dental Clinic",
-    "relativePath": "Corps (Local)/South Florida/Santos Dental Clinic.md"
+    "relativePath": "Corps (Local)/South Florida/Santos Dental Clinic.md",
+    "backlinks": [
+      {
+        "fileName": "Evo Renewal Zone",
+        "link": "Santos Dental Clinic",
+        "relativePath": "Locations/South Florida/Evo Renewal Zone.md"
+      }
+    ]
   },
   {
     "fileName": "Nutrilunch",
@@ -14658,7 +15271,14 @@
   },
   {
     "fileName": "Saint Michael's Church",
-    "relativePath": "Corps (Local)/South Florida/Saint Michael's Church.md"
+    "relativePath": "Corps (Local)/South Florida/Saint Michael's Church.md",
+    "backlinks": [
+      {
+        "fileName": "Medley Industrial Park",
+        "link": "Saint Michael's Church",
+        "relativePath": "Locations/South Florida/Medley Industrial Park.md"
+      }
+    ]
   },
   {
     "fileName": "River Cove Marina",
@@ -14678,19 +15298,47 @@
   },
   {
     "fileName": "Ramirez Auto Repair Shop",
-    "relativePath": "Corps (Local)/South Florida/Ramirez Auto Repair Shop.md"
+    "relativePath": "Corps (Local)/South Florida/Ramirez Auto Repair Shop.md",
+    "backlinks": [
+      {
+        "fileName": "Evo Renewal Zone",
+        "link": "Ramirez Auto Repair Shop",
+        "relativePath": "Locations/South Florida/Evo Renewal Zone.md"
+      }
+    ]
   },
   {
     "fileName": "Mitchell's Emporium",
-    "relativePath": "Corps (Local)/South Florida/Mitchell's Emporium.md"
+    "relativePath": "Corps (Local)/South Florida/Mitchell's Emporium.md",
+    "backlinks": [
+      {
+        "fileName": "Hollywood",
+        "link": "Mitchell's Emporium",
+        "relativePath": "Locations/South Florida/Hollywood.md"
+      }
+    ]
   },
   {
     "fileName": "Mindscape Therapy Center",
-    "relativePath": "Corps (Local)/South Florida/Mindscape Therapy Center.md"
+    "relativePath": "Corps (Local)/South Florida/Mindscape Therapy Center.md",
+    "backlinks": [
+      {
+        "fileName": "Grapeland",
+        "link": "Mindscape Therapy Center",
+        "relativePath": "Locations/South Florida/Grapeland.md"
+      }
+    ]
   },
   {
     "fileName": "Miami Sports Network",
-    "relativePath": "Corps (Local)/South Florida/Miami Sports Network.md"
+    "relativePath": "Corps (Local)/South Florida/Miami Sports Network.md",
+    "backlinks": [
+      {
+        "fileName": "Hollywood",
+        "link": "Miami Sports Network",
+        "relativePath": "Locations/South Florida/Hollywood.md"
+      }
+    ]
   },
   {
     "fileName": "Miami Dockyards",
@@ -14699,22 +15347,42 @@
       {
         "fileName": "City of Miami",
         "link": "Miami Dockyards",
-        "relativePath": "Locations/South Florida/City of Miami.md",
-        "displayText": "../../Corps (Local)/South Florida/Miami Dockyards"
+        "relativePath": "Locations/South Florida/City of Miami.md"
       }
     ]
   },
   {
     "fileName": "Miami Daily",
-    "relativePath": "Corps (Local)/South Florida/Miami Daily.md"
+    "relativePath": "Corps (Local)/South Florida/Miami Daily.md",
+    "backlinks": [
+      {
+        "fileName": "Little Haiti",
+        "link": "Miami Daily",
+        "relativePath": "Locations/South Florida/Little Haiti.md"
+      }
+    ]
   },
   {
     "fileName": "Miami Central Library",
-    "relativePath": "Corps (Local)/South Florida/Miami Central Library.md"
+    "relativePath": "Corps (Local)/South Florida/Miami Central Library.md",
+    "backlinks": [
+      {
+        "fileName": "Wyndwood",
+        "link": "Miami Central Library",
+        "relativePath": "Locations/South Florida/Wyndwood.md"
+      }
+    ]
   },
   {
     "fileName": "Miami City Morgue",
-    "relativePath": "Corps (Local)/South Florida/Miami City Morgue.md"
+    "relativePath": "Corps (Local)/South Florida/Miami City Morgue.md",
+    "backlinks": [
+      {
+        "fileName": "Grapeland",
+        "link": "Miami City Morgue",
+        "relativePath": "Locations/South Florida/Grapeland.md"
+      }
+    ]
   },
   {
     "fileName": "Mercy General Hospital",
@@ -14723,8 +15391,7 @@
       {
         "fileName": "City of Miami",
         "link": "Mercy General Hospital",
-        "relativePath": "Locations/South Florida/City of Miami.md",
-        "displayText": "../../Corps (Local)/South Florida/Mercy General Hospital"
+        "relativePath": "Locations/South Florida/City of Miami.md"
       }
     ]
   },
@@ -14826,7 +15493,14 @@
   },
   {
     "fileName": "Elysium",
-    "relativePath": "Corps (Local)/South Florida/Elysium.md"
+    "relativePath": "Corps (Local)/South Florida/Elysium.md",
+    "backlinks": [
+      {
+        "fileName": "North Lauderdale",
+        "link": "Elysium",
+        "relativePath": "Locations/South Florida/North Lauderdale.md"
+      }
+    ]
   },
   {
     "fileName": "Clean Sweep Cleaning Services",
@@ -14834,11 +15508,25 @@
   },
   {
     "fileName": "Carlito's Bar",
-    "relativePath": "Corps (Local)/South Florida/Carlito's Bar.md"
+    "relativePath": "Corps (Local)/South Florida/Carlito's Bar.md",
+    "backlinks": [
+      {
+        "fileName": "South Beach",
+        "link": "Carlito's Bar",
+        "relativePath": "Locations/South Florida/South Beach.md"
+      }
+    ]
   },
   {
     "fileName": "Blackwood Gallery",
-    "relativePath": "Corps (Local)/South Florida/Blackwood Gallery.md"
+    "relativePath": "Corps (Local)/South Florida/Blackwood Gallery.md",
+    "backlinks": [
+      {
+        "fileName": "Little Haiti",
+        "link": "Blackwood Gallery",
+        "relativePath": "Locations/South Florida/Little Haiti.md"
+      }
+    ]
   },
   {
     "fileName": "Blackfire Arms & Armory",
@@ -15676,7 +16364,14 @@
   },
   {
     "fileName": "Horizon Aviation Maintenance",
-    "relativePath": "AAA Corps/Horizon/Horizon Aviation Maintenance.md"
+    "relativePath": "AAA Corps/Horizon/Horizon Aviation Maintenance.md",
+    "backlinks": [
+      {
+        "fileName": "Miramar",
+        "link": "Horizon Aviation Maintenance",
+        "relativePath": "Locations/South Florida/Miramar.md"
+      }
+    ]
   },
   {
     "fileName": "Ares",
@@ -15850,16 +16545,32 @@
     ]
   },
   {
-    "fileName": "Knight Industries",
-    "relativePath": "AAA Corps/Ares/Knight Industries.md"
-  },
-  {
     "fileName": "DocWagon Medical Supplies",
-    "relativePath": "AA Corps/DocWagon/DocWagon Medical Supplies.md"
+    "relativePath": "AA Corps/DocWagon/DocWagon Medical Supplies.md",
+    "links": [
+      {
+        "link": "DocWagon",
+        "relativePath": "AA Corps/DocWagon.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Boca Raton",
+        "link": "DocWagon Medical Supplies",
+        "relativePath": "Locations/South Florida/Boca Raton.md"
+      }
+    ]
   },
   {
     "fileName": "DocWagon",
-    "relativePath": "AA Corps/DocWagon.md"
+    "relativePath": "AA Corps/DocWagon.md",
+    "backlinks": [
+      {
+        "fileName": "DocWagon Medical Supplies",
+        "link": "DocWagon",
+        "relativePath": "AA Corps/DocWagon/DocWagon Medical Supplies.md"
+      }
+    ]
   },
   {
     "fileName": "Yoyo Dine",
@@ -17328,14 +18039,24 @@
     ]
   },
   {
+    "fileName": "Knight Industries",
+    "relativePath": "A Corps/Knight Industries.md",
+    "backlinks": [
+      {
+        "fileName": "Miami Springs",
+        "link": "Knight Industries",
+        "relativePath": "Locations/South Florida/Miami Springs.md"
+      }
+    ]
+  },
+  {
     "fileName": "WardSecure Magical Security Systems",
     "relativePath": "A Corps/WardSecure Magical Security Systems.md",
     "backlinks": [
       {
         "fileName": "City of Miami",
         "link": "WardSecure Magical Security Systems",
-        "relativePath": "Locations/South Florida/City of Miami.md",
-        "displayText": "../../A Corps/WardSecure Magical Security Systems"
+        "relativePath": "Locations/South Florida/City of Miami.md"
       }
     ]
   },
@@ -17346,34 +18067,75 @@
       {
         "fileName": "City of Miami",
         "link": "Thompson Security Solutions",
-        "relativePath": "Locations/South Florida/City of Miami.md",
-        "displayText": "../../A Corps/Thompson Security Solutions"
+        "relativePath": "Locations/South Florida/City of Miami.md"
       }
     ]
   },
   {
     "fileName": "Serenity Medical Corporation",
-    "relativePath": "A Corps/Serenity Medical Corporation.md"
+    "relativePath": "A Corps/Serenity Medical Corporation.md",
+    "backlinks": [
+      {
+        "fileName": "Miami Springs",
+        "link": "Serenity Medical Corporation",
+        "relativePath": "Locations/South Florida/Miami Springs.md"
+      }
+    ]
   },
   {
     "fileName": "Nexus Research Group",
-    "relativePath": "A Corps/Nexus Research Group.md"
+    "relativePath": "A Corps/Nexus Research Group.md",
+    "backlinks": [
+      {
+        "fileName": "North Lauderdale",
+        "link": "Nexus Research Group",
+        "relativePath": "Locations/South Florida/North Lauderdale.md"
+      }
+    ]
   },
   {
     "fileName": "GlobalTech Enterprises",
-    "relativePath": "A Corps/GlobalTech Enterprises.md"
+    "relativePath": "A Corps/GlobalTech Enterprises.md",
+    "backlinks": [
+      {
+        "fileName": "Sunshine Acres",
+        "link": "GlobalTech Enterprises",
+        "relativePath": "Locations/South Florida/Sunshine Acres.md"
+      }
+    ]
   },
   {
     "fileName": "Blackwood Technologies",
-    "relativePath": "A Corps/Blackwood Technologies.md"
+    "relativePath": "A Corps/Blackwood Technologies.md",
+    "backlinks": [
+      {
+        "fileName": "Sunshine Acres",
+        "link": "Blackwood Technologies",
+        "relativePath": "Locations/South Florida/Sunshine Acres.md"
+      }
+    ]
   },
   {
     "fileName": "OmniTech Solutions",
-    "relativePath": "A Corps/Omni Corp/OmniTech Solutions.md"
+    "relativePath": "A Corps/Omni Corp/OmniTech Solutions.md",
+    "backlinks": [
+      {
+        "fileName": "Miramar",
+        "link": "OmniTech Solutions",
+        "relativePath": "Locations/South Florida/Miramar.md"
+      }
+    ]
   },
   {
     "fileName": "OmniCorp Security Solutions",
-    "relativePath": "A Corps/Omni Corp/OmniCorp Security Solutions.md"
+    "relativePath": "A Corps/Omni Corp/OmniCorp Security Solutions.md",
+    "backlinks": [
+      {
+        "fileName": "Hialeah",
+        "link": "OmniCorp Security Solutions",
+        "relativePath": "Locations/South Florida/Hialeah.md"
+      }
+    ]
   },
   {
     "fileName": "Azimuth Corporation",
@@ -17414,10 +18176,24 @@
   },
   {
     "fileName": "Aegis Accounting Services",
-    "relativePath": "A Corps/Aegis/Aegis Accounting Services.md"
+    "relativePath": "A Corps/Aegis/Aegis Accounting Services.md",
+    "backlinks": [
+      {
+        "fileName": "Miami Springs",
+        "link": "Aegis Accounting Services",
+        "relativePath": "Locations/South Florida/Miami Springs.md"
+      }
+    ]
   },
   {
     "fileName": "Aegis Corporation",
-    "relativePath": "A Corps/Aegis/Aegis Corporation.md"
+    "relativePath": "A Corps/Aegis/Aegis Corporation.md",
+    "backlinks": [
+      {
+        "fileName": "Hialeah",
+        "link": "Aegis Corporation",
+        "relativePath": "Locations/South Florida/Hialeah.md"
+      }
+    ]
   }
 ]

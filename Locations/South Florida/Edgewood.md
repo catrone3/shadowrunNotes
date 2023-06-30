@@ -3,3 +3,5 @@ A once vibrant community, now exists as a decaying and lawless district. Economi
 Population: 7,000
 
 Security is rating D. Infrequent patrols and poorly maintained PanicButton booths mean that crime here is reported less often and therefore enforced less often. The security services in these areas make no real effort to prevent crimes before they happen.
+
+## Geographic Notes

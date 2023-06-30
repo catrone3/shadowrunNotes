@@ -3,3 +3,10 @@ Plantation has transformed into a fortified enclave, protected by advanced secur
 Population: 280,000
 
 Security is rating AA. Patrols cover the area 24 hours a day, but are less frequent than AAA. Astral patrols take place on an irregular schedule, and there may not be a security rigger system set up. Drones and spirits may guard certain areas in place of humans. Response is prompt.
+
+## Geographic Notes
+
+#### Fort Lauderdale Country Club
+
+#### Jacaranda Golf Club
+18-hole golf course featuring a practice area plus a pro shop, driving range & restaurants.

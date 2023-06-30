@@ -9,7 +9,3 @@ Security is rating B which is usual for areas comprised primarily of commercial 
 #### Miami Executive Airport
 
 This airport's runways are full of potholes, clumps of vegetation, and much of the area is flooded. The buildings are in ruins, but locals swear they sometimes see aircraft take off and land.
-
-#### Sharks!
-
-The brackish, flooded ruins of suburbs are plagued by bull sharks with an appreciation for metahuman flesh. Locals rarely go swimming.

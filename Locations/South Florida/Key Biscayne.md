@@ -7,3 +7,6 @@ This area is rating D. Infrequent patrols and poorly maintained PanicButton boot
 #### Bill Baggs Historic Lighthouse
 
 This historic building used to be a minor tourist draw. Now it serves as a way point for smugglers cutting through the bay without electronic navigation.
+
+#### Serenity Spa & Massage
+![[../../Corps (Local)/South Florida/Serenity Spa & Massage|Serenity Spa & Massage]]

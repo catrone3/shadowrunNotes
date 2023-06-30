@@ -3,3 +3,23 @@ North Lauderdale stands as a fortified residential community, protected by advan
 Population: 110,000
 
 Security is rating B which is usual for areas comprised primarily of commercial properties rather than residential, such as industrial parks, office complexes and suburban manufacturing
+
+## Geographic Notes
+
+#### Elysium
+![[../../Corps (Local)/South Florida/Elysium|Elysium]]
+
+#### Nexus Research Group
+![[../../A Corps/Nexus Research Group|Nexus Research Group]]
+
+#### Silverstone Investments
+![[../../Corps (Local)/South Florida/Silverstone Investments|Silverstone Investments]]
+
+#### Swift Delivery Services
+![[../../Corps (Local)/South Florida/Swift Delivery Services|Swift Delivery Services]]
+
+#### Thompson Investigations
+![[../../Corps (Local)/South Florida/Thompson Investigations|Thompson Investigations]]
+
+#### Urban Development Solutions
+![[../../Corps (Local)/South Florida/Urban Development Solutions|Urban Development Solutions]]

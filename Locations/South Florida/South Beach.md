@@ -11,3 +11,8 @@ Security is rating AAA, representing the highest quality law enforcement and res
 #### Rennweg Shopping and Finance
 
 The highest of high end banking services as well as boutique shopping and bespoke craft services are available to top clientele, all owned by Seader-Krup.
+
+## Runner Notes
+
+#### Carlito's Bar
+![[../../Corps (Local)/South Florida/Carlito's Bar|Carlito's Bar]]

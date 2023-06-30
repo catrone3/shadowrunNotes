@@ -6,7 +6,17 @@ Rating A area mostly. Law enforcement in these areas is basically a call-and-res
 
 ## Geographic Notes
 
+#### Blackwood Technologies
+![[../../A Corps/Blackwood Technologies|Blackwood Technologies]]
+
+#### Flamingo Gardens
+A botanical Garden that has a large amount of spirits and awakened critters. The area has a low background count. There is a small fee to enter the garden. If you wish to do any magical research here it will require even more money.
+
+#### GlobalTech Enterprises
+![[../../A Corps/GlobalTech Enterprises|GlobalTech Enterprises]]
+
+## Runner Notes
 
 #### Statue of Major Lauderdale
 
-A bronze equestrian statue, and a common focus for gatherings in this refugee camp. Most gatherings here are anti-government, anti-corporate, and often a locus for gang conflicts.
+A bronze equestrian statue, and a common focus for gatherings. Most gatherings here are anti-government or anti-corporate.
