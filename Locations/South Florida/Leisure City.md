@@ -1,3 +1,4 @@
+#miami
 Full of short term loan offices, pawn shops, gun stores, fast food, bars, pay by the hour hotels, and other amenities the business in this area mostly cater to Caribbean League military personnel on leave, as well as the comparatively few laborers who work on the automated farms to the west.   
   
 Population: 270,000  

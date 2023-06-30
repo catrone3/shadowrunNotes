@@ -1,3 +1,4 @@
+#miami
 Comprised of rich and well watered soil this whole area is classified as agricultural. Fleets of drones farm monoculture fields or tend miles long greenhouses. A few independently and family owned farms cling to the land, but are constantly harassed by their corporate neighbors.  
   
 The worst places in Redland are the prison farms, where people serve hard time in the hot sun growing fruits and vegetables they will never be able to afford to eat.   

@@ -1,3 +1,4 @@
+#miami
 Idlewyld has transformed into an exclusive residential enclave for the ultra-rich and influential. Lavish mansions, surrounded by fortified walls and high-tech security systems, dot the landscape. The neighborhood exudes an aura of privilege and seclusion, catering to the elite who seek refuge from the turmoil and dangers of the outside world.
 
 population: 10,000

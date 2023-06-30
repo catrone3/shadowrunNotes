@@ -1,1 +1,2 @@
+#miami
 The Neon Lounge is a popular nightlife establishment known for its vibrant atmosphere, live music performances, and specialty cocktails. It attracts a diverse crowd seeking entertainment, relaxation, and socializing. The Neon Lounge offers a range of events, from DJ nights to live band performances, making it a go-to destination for those looking for a memorable night out.

@@ -1,3 +1,4 @@
+#miami
 The City of Miami proper has a wide variety of apartments and condos available, but detached single family homes are a thing of the past. Culturally and ethnically diverse, the city functions and has mostly rebuilt from the storms nearly two decades ago.   
   
 Population: 1.4 million.  

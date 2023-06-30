@@ -1,3 +1,4 @@
+#miami
 A once vibrant community, now exists as a decaying and lawless district. Economic decline and neglect have turned the neighborhood into a haven for criminal syndicates and street gangs, where violence and vice run rampant. Shadowrunners navigate its dangerous streets, dealing with ruthless gangs, corrupt officials, and the constant threat of violence in their pursuit of jobs and survival.
 
 Population: 7,000

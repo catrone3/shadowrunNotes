@@ -1,3 +1,4 @@
+#miami
 This is as much as many tourists will see of the Miami Sprawl, most never even catching sight of the Ork Town between the airport and the art district. This area is filled almost entirely with upscale galleries, artists workshops, and restaurants.  
   
 Lone Star provides extremely tight security (rating AA) and drives away riffraff during "Art Walk" events that bring the rich and famous to Miami, but at other times the area is almost dead (rating B). There are innumerable bars, popup businesses, art installations, and all manner of temporary things to see and do. The people who live nearby have to contend with horrible traffic.  

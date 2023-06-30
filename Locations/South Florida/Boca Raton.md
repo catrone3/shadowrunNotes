@@ -1,3 +1,4 @@
+#miami
 Due to being a border district with money Boca Raton has transformed into a fortified haven for the wealthy, shielded from the turmoil of the Sixth World. The city boasts opulent gated communities, extravagant estates, and exclusive country clubs, creating an enclave of privilege and luxury. Amidst the manicured landscapes and high-tech security systems, shadowrunners navigate discreetly, hired by the elite or seeking to expose the dark secrets that lurk beneath the polished surface.
 
 Population: 200,000

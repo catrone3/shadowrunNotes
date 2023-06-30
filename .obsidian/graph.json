@@ -132,6 +132,13 @@
         "a": 1,
         "rgb": 5395121
       }
+    },
+    {
+      "query": "tag:#miami",
+      "color": {
+        "a": 1,
+        "rgb": 1048816
+      }
     }
   ],
   "collapse-display": true,
@@ -145,5 +152,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.2588386562181735,
-  "close": false
+  "close": true
 }

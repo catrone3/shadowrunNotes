@@ -11,14 +11,6 @@
             "id": "68b774e91a7f649f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7f76fa2f1d1e9945",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Locations/South Florida.md",
@@ -27,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "133457ffccda9e71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Southern Florida/Crime Orgs/War Pigs Bike Gang.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f76fa2f1d1e9945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Corps (Local)/South Florida/Carlito's Bar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Corps (Local)/South Florida/Carlito's Bar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,32 +188,32 @@
   },
   "active": "17c028d156c8c8c7",
   "lastOpenFiles": [
-    "Locations/South Florida/Sunshine Acres.md",
-    "Locations/South Florida/Boca Raton.md",
-    "AA Corps/DocWagon/DocWagon Medical Supplies.md",
-    "AA Corps/DocWagon.md",
-    "Locations/South Florida/Hialeah.md",
-    "Locations/South Florida/Relief Center 1 AKA The Reef.md",
-    "Locations/South Florida/Wyndwood.md",
-    "Locations/South Florida/Little Haiti.md",
-    "Locations/South Florida/Wuxing Eastern Shores.md",
-    "Locations/South Florida/Key Biscayne.md",
-    "Locations/South Florida/Kendall.md",
-    "Locations/South Florida/Virginia Key.md",
-    "Locations/South Florida/Sunshine Parkway.md",
-    "Locations/South Florida/Sun Key.md",
-    "Locations/South Florida/South Beach.md",
-    "Locations/South Florida/Shiawase Exclusion Zone.md",
-    "Locations/South Florida/Port Everglades.md",
-    "Locations/South Florida/Pompano Beach.md",
-    "Locations/South Florida/Plantation.md",
-    "Locations/South Florida/Palatine Bank.md",
-    "Locations/South Florida/Oakridge.md",
-    "Locations/South Florida/Oakland.md",
-    "Locations/South Florida/North Miami Beach.md",
-    "Locations/South Florida/North Lauderdale.md",
-    "Locations/South Florida/Normandy Ghost Town.md",
-    "Locations/South Florida/Miramar.md",
+    "NPCs/Neutral/South Florida/Chuck Finley.md",
+    "Locations/South Florida.md",
+    "Factions/Southern Florida/Crime Orgs/War Pigs Bike Gang.md",
+    "Factions/Southern Florida/Crime Orgs/Tom Swift Gang.md",
+    "Factions/Southern Florida/Crime Orgs/The Horde Bike Gang.md",
+    "Factions/Southern Florida/Crime Orgs/The Great Palace of Ra-Osiris.md",
+    "Factions/Southern Florida/Crime Orgs/The Barbers.md",
+    "Factions/Southern Florida/Crime Orgs/Silver Caesars Camp.md",
+    "Factions/Southern Florida/Crime Orgs/Red School House.md",
+    "Factions/Southern Florida/Crime Orgs/Humanis Policlub.md",
+    "Factions/Southern Florida/Crime Orgs/Hatuey Gang.md",
+    "Factions/Southern Florida/Crime Orgs/Cienfuegos Gang.md",
+    "Factions/Southern Florida/Crime Orgs/Braseros Gang.md",
+    "Factions/Southern Florida/Crime Orgs/786 Beach.md",
+    "Factions/Southern Florida/Crime Orgs/305 Gang.md",
+    "AAA Corps/Horizon/Horizon Aviation Maintenance.md",
+    "AAA Corps/Horizon/Horizon Express Delivery.md",
+    "A Corps/Omni Corp/OmniTech Solutions.md",
+    "A Corps/Omni Corp/OmniCorp Security Solutions.md",
+    "A Corps/WardSecure Magical Security Systems.md",
+    "A Corps/Thompson Security Solutions.md",
+    "A Corps/Serenity Medical Corporation.md",
+    "A Corps/Nexus Research Group.md",
+    "A Corps/Knight Industries.md",
+    "A Corps/Azimuth Corporation.md",
+    "A Corps/Blackwood Technologies.md",
     "AA Corps/DocWagon",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
     "AAA Corps/Ares",

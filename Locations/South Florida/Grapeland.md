@@ -1,3 +1,4 @@
+#miami
 Business catering to travelers and locals mingle with low rent housing. No one is really happy to live here, but everyone counts their lucky stars that they don't live in The Reef across the river. A few of the riverside businesses are much higher value, but the fortunes of such business rise and fall with local and global finances.  
   
 Population: 65,000.  

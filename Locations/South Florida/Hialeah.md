@@ -1,4 +1,5 @@
-eeeeeeeeeeeeEven in the late 21st century, this Latino enclave is a world unto itself. This city-within-a-city maintains its own police force, fire fighters, hospital, and prison. Spanish is the official language of the city and most residents speak any other language poorly, though the younger generations tend to be bilingual. Latin American businesses, especially media production companies, are based here, but they cede government control to locals. Note that a corporate-free government is not corruption-free.  
+#miami
+Even in the late 21st century, this Latino enclave is a world unto itself. This city-within-a-city maintains its own police force, fire fighters, hospital, and prison. Spanish is the official language of the city and most residents speak any other language poorly, though the younger generations tend to be bilingual. Latin American businesses, especially media production companies, are based here, but they cede government control to locals. Note that a corporate-free government is not corruption-free.  
   
 Approximately 420,000 residents.   
   

@@ -1,3 +1,4 @@
+#miami
 A once thriving suburban neighborhood, now stands as a rundown district plagued by neglect and decay. Economic downturn and corporate neglect have left its infrastructure crumbling and its residents struggling to make ends meet. Shadowy elements thrive in the shadows, taking advantage of the area's desperation and operating clandestine operations amidst the dilapidated buildings and forgotten streets.
 
 Population: 8,000

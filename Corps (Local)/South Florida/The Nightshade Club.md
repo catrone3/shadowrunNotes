@@ -1,1 +1,2 @@
+#miami
 The Nightshade Club is an exclusive underground venue that caters to individuals seeking secretive gatherings, clandestine meetings, and unique entertainment experiences. Known for its mysterious allure, The Nightshade Club hosts themed events, private parties, and immersive performances, creating an atmosphere of intrigue and excitement.

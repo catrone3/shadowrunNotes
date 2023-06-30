@@ -1,1 +1,2 @@
+#miami
 Blackwood Technologies is a cutting-edge technology company specializing in research and development of advanced software solutions, artificial intelligence, and data analytics. They provide innovative technology products and services to various industries, including finance, healthcare, and telecommunications. Blackwood Technologies is known for its expertise in emerging technologies, its focus on research-driven solutions, and its commitment to delivering reliable and efficient software applications.

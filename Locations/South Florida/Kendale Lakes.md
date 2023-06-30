@@ -1,3 +1,4 @@
+#miami
 Kendale Lakes stands as a vibrant suburban community enriched by cultural diversity and technological advancements. The neighborhood boasts a harmonious blend of residential areas, high-tech industries, and recreational spaces. Shadowrunners navigate its streets, encountering a mix of cutting-edge corporations, community-driven initiatives, and a vibrant social scene amidst the backdrop of a rapidly evolving world.
   
 Population estimated at 150,000  

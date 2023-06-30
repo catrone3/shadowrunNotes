@@ -1,1 +1,2 @@
+#miami
 Thompson Security Solutions is a highly regarded security firm that provides comprehensive security services to individuals, businesses, and organizations. They offer a wide range of solutions, including security consulting, risk assessments, surveillance systems, and trained security personnel. Thompson Security Solutions is committed to maintaining a safe and secure environment for their clients.

@@ -1,1 +1,2 @@
+#miami
 Miami Sports Network is a prominent media organization dedicated to covering local and international sports events. They provide comprehensive sports news coverage, live broadcasts, and analysis across various sports disciplines. Miami Sports Network is known for its engaging sports commentary, in-depth reporting, and its contribution to the sports community.

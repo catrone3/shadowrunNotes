@@ -1,3 +1,4 @@
+#miami
 Sleepy suburbs full of working wageslaves, franchise restaurants, and prefabricated cheapness. Entire neighborhoods are wholly owned housing associations run by specific megacorpoations as housing for their own employees. Low to middle class housing is available for conformist and obedient workers. A fate worse than death.   
   
 Approximately 190,000 residents.   

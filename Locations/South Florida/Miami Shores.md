@@ -1,3 +1,4 @@
+#miami
 Mixed residential and commercial areas, with low to middle class living available. The most exciting things that happen here are when security has to chase out undesirables.  
   
 Population: 260,000  

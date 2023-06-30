@@ -1,1 +1,2 @@
+#miami
 Thompson Investigations is a reputable private investigation agency that provides professional investigative services for various purposes, including legal, corporate, and personal matters. They specialize in gathering evidence, conducting surveillance, and uncovering information to support investigations. Thompson Investigations is known for its experienced investigators, discretion, and commitment to delivering reliable results.

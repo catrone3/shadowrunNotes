@@ -1,1 +1,2 @@
+#miami
 Serenity Medical Corporation is a reputable healthcare organization that operates medical facilities, clinics, and hospitals in the region. They offer a wide range of medical services, including specialized treatments, diagnostics, and patient care. Serenity Medical Corporation is dedicated to providing high-quality healthcare services and improving the well-being of the community.

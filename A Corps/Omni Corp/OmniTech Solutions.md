@@ -1,1 +1,2 @@
+#miami
 OmniTech Solutions is a leading technology company that provides comprehensive IT solutions, software development, and technological consulting services. They specialize in designing and implementing advanced systems, cybersecurity solutions, and innovative software applications. OmniTech Solutions is known for their expertise, reliability, and commitment to delivering cutting-edge technology solutions.

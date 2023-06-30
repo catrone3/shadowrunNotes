@@ -1,3 +1,4 @@
+#miami
 As other megacorps bought land in South Florida, Wuxing decided not to be left behind. This whole area is owned by Wuxing and serves as commercial areas, including magical goods and services. Many vacation, medical, and financial services for Wuxing in the region are based here.   
   
 Population: 240,000.  

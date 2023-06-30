@@ -1,1 +1,2 @@
+#miami
 Turner Realty is a respected real estate agency that specializes in buying, selling, and leasing residential and commercial properties. They provide expert guidance, market analysis, and personalized assistance to clients in their real estate transactions. Turner Realty is known for its professionalism, extensive property listings, and commitment to client satisfaction.

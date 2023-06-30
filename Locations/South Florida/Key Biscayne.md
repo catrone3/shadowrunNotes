@@ -1,3 +1,4 @@
+#miami
 Like many natural barrier islands in Florida in 2075, this island is poorly maintained as it has minor flooding anytime high tide comes in. This has caused all of the wealth houses that used to be here to get sold for dirt cheap or abandoned  
   
 This area is rating D. Infrequent patrols and poorly maintained PanicButton booths mean that crime here is reported less often and therefore enforced less often. The security services in these areas make no real effort to prevent crimes before they happen.

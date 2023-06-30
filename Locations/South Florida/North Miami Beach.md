@@ -1,3 +1,4 @@
+#miami
 This region of the beach was badly damaged by the Meistersinger Massacre. It has since been totally rebuilt as an enclave of the privileged of the Caribbean League and various corporate partners in glistening skyrakers that block the view of the sunrise for mainland residents. Heavily patrolled by Knight Errant. Residents live and play here, mostly in secure luxury, though the prestige of the northern end of the island is a bit less than the more famous South Beach.  
   
 Population 70,000  
