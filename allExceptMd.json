@@ -439,6 +439,14 @@
     {
       "name": "DocWagon",
       "relativePath": "AA Corps/DocWagon"
+    },
+    {
+      "name": "Shiawase",
+      "relativePath": "AAA Corps/Shiawase"
+    },
+    {
+      "name": "South Florida",
+      "relativePath": "NPCs/Friendly/South Florida"
     }
   ],
   "nonMdFiles": [
@@ -1291,6 +1299,36 @@
       "name": "Zoe.png",
       "basename": "Zoe",
       "relativePath": "Images/shadowrun characters/Zoe.png"
+    },
+    {
+      "name": "stock-photo-female-doctor-or-nurse-working-at-her-job-in-the-hospital-1625881963-transformed.jpeg",
+      "basename": "stock-photo-female-doctor-or-nurse-working-at-her-job-in-the-hospital-1625881963-transformed",
+      "relativePath": "Images/shadowrun characters/stock-photo-female-doctor-or-nurse-working-at-her-job-in-the-hospital-1625881963-transformed.jpeg"
+    },
+    {
+      "name": "Pasted image 20230630160321.png",
+      "basename": "Pasted image 20230630160321",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230630160321.png"
+    },
+    {
+      "name": "Pasted image 20230630214257.png",
+      "basename": "Pasted image 20230630214257",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230630214257.png"
+    },
+    {
+      "name": "Pasted image 20230630215635.png",
+      "basename": "Pasted image 20230630215635",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230630215635.png"
+    },
+    {
+      "name": "Pasted image 20230630215635 1.png",
+      "basename": "Pasted image 20230630215635 1",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230630215635 1.png"
+    },
+    {
+      "name": "Pasted image 20230630215644.png",
+      "basename": "Pasted image 20230630215644",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230630215644.png"
     }
   ]
 }

@@ -11,5 +11,5 @@ Security is rating AA. Patrols cover the area 24 hours a day, but are less frequ
 
 ## Runner Notes
 
-#### DocWagon Medical Supplites
-![[../../AA Corps/DocWagon/DocWagon Medical Supplies|DocWagon Medical Supplies]]
+#### [[../../AA Corps/DocWagon/DocWagon Medical Supplies|DocWagon Medical Supplies]]
+DocWagon is a trusted name in medical services and their supply store offers a wide range of medical gear, trauma kits, stimulants, and healing supplies. Runners can stock up on first aid essentials to tend to injuries sustained during runs.

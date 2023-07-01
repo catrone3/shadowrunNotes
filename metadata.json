@@ -3513,7 +3513,16 @@
   },
   {
     "fileName": "Chuck Finley",
-    "relativePath": "NPCs/Neutral/South Florida/Chuck Finley.md"
+    "relativePath": "NPCs/Neutral/South Florida/Chuck Finley.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "Carlito's Bar",
+        "relativePath": "Corps (Local)/South Florida/Carlito's Bar.md"
+      }
+    ]
   },
   {
     "fileName": "Noemi Lombardo",
@@ -5164,6 +5173,154 @@
         "fileName": "22-9-24",
         "link": "Ailbhn",
         "relativePath": "Denver Game notes/22-9-24.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Nexus",
+    "relativePath": "NPCs/Friendly/South Florida/Nexus.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "Cyberscape Nexus",
+        "relativePath": "Corps (Local)/South Florida/Cyberscape Nexus.md"
+      },
+      {
+        "link": "Cyberscape Nexus",
+        "relativePath": "Corps (Local)/South Florida/Cyberscape Nexus.md"
+      },
+      {
+        "link": "Cyberscape Nexus",
+        "relativePath": "Corps (Local)/South Florida/Cyberscape Nexus.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Dusk",
+    "relativePath": "NPCs/Friendly/South Florida/Dusk.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "Midnight Exchange",
+        "relativePath": "Corps (Local)/South Florida/Midnight Exchange.md"
+      },
+      {
+        "link": "Midnight Exchange",
+        "relativePath": "Corps (Local)/South Florida/Midnight Exchange.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Whisper",
+    "relativePath": "NPCs/Friendly/South Florida/Whisper.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "The Shadow's Stash",
+        "relativePath": "Corps (Local)/South Florida/The Shadow's Stash.md"
+      },
+      {
+        "link": "The Shadow's Stash",
+        "relativePath": "Corps (Local)/South Florida/The Shadow's Stash.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Madame Seraphina",
+    "relativePath": "NPCs/Friendly/South Florida/Madame Seraphina.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "Mystique Emporium",
+        "relativePath": "Corps (Local)/South Florida/Mystique Emporium.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Max (Wired) Rodriguez",
+    "relativePath": "NPCs/Friendly/South Florida/Max (Wired) Rodriguez.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "Rigger's Paradise",
+        "relativePath": "Corps (Local)/South Florida/Rigger's Paradise.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Maelys Shadowthorn",
+    "relativePath": "NPCs/Friendly/South Florida/Maelys Shadowthorn.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "Arcane Emporium",
+        "relativePath": "Corps (Local)/South Florida/Arcane Emporium.md"
+      },
+      {
+        "link": "Arcane Emporium",
+        "relativePath": "Corps (Local)/South Florida/Arcane Emporium.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Isabella Stone",
+    "relativePath": "NPCs/Friendly/South Florida/Isabella Stone.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "Armadillo Armory",
+        "relativePath": "Corps (Local)/South Florida/Armadillo Armory.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Dr. Ava Ramirez",
+    "relativePath": "NPCs/Friendly/South Florida/Dr. Ava Ramirez.md",
+    "tags": [
+      "miami"
+    ]
+  },
+  {
+    "fileName": "Dex Thompson",
+    "relativePath": "NPCs/Friendly/South Florida/Dex Thompson.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "Gearhead Garage",
+        "relativePath": "Corps (Local)/South Florida/Gearhead Garage.md"
+      },
+      {
+        "link": "Gearhead Garage",
+        "relativePath": "Corps (Local)/South Florida/Gearhead Garage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Viktor Ironforge",
+    "relativePath": "NPCs/Friendly/South Florida/Viktor Ironforge.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "Ironworks Arsenal",
+        "relativePath": "Corps (Local)/South Florida/Ironworks Arsenal.md"
       }
     ]
   },
@@ -9274,6 +9431,20 @@
       {
         "heading": "VA Medical Center",
         "level": 4
+      },
+      {
+        "heading": "Runner Notes",
+        "level": 2
+      },
+      {
+        "heading": "[[../../Corps (Local)/South Florida/WARN Guerrila Boadcasting|WARN Guerrila Boadcasting]]",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "WARN Guerrila Boadcasting",
+        "relativePath": "Corps (Local)/South Florida/WARN Guerrila Boadcasting.md"
       }
     ],
     "backlinks": [
@@ -10571,7 +10742,7 @@
         "level": 4
       },
       {
-        "heading": "Mercy General Hospital",
+        "heading": "[[Mercy General Hospital]]",
         "level": 4
       },
       {
@@ -10579,15 +10750,15 @@
         "level": 4
       },
       {
-        "heading": "Miami Dockyards",
+        "heading": "[[../../Corps (Local)/South Florida/Miami Dockyards|Miami Dockyards]]",
         "level": 4
       },
       {
-        "heading": "The Royal Palm Hotel",
+        "heading": "[[The Royal Palm Hotel]]",
         "level": 4
       },
       {
-        "heading": "Secure Solutions Corporation",
+        "heading": "[[../../Corps (Local)/South Florida/Secure Solutions Corporation|Secure Solutions Corporation]]",
         "level": 4
       },
       {
@@ -10595,7 +10766,7 @@
         "level": 4
       },
       {
-        "heading": "Thompson Security Solutions",
+        "heading": "[[../../A Corps/Thompson Security Solutions|Thompson Security Solutions]]",
         "level": 4
       },
       {
@@ -10611,7 +10782,7 @@
         "level": 4
       },
       {
-        "heading": "WardSecure Magical Security Systems",
+        "heading": "[[../../A Corps/WardSecure Magical Security Systems|WardSecure Magical Security Systems]]",
         "level": 4
       }
     ],
@@ -10715,7 +10886,7 @@
         "level": 2
       },
       {
-        "heading": "DocWagon Medical Supplites",
+        "heading": "[[../../AA Corps/DocWagon/DocWagon Medical Supplies|DocWagon Medical Supplies]]",
         "level": 4
       }
     ],
@@ -10794,16 +10965,20 @@
         "level": 2
       },
       {
+        "heading": "[[../../AAA Corps/Horizon/Horizon Express Delivery|Horizon Express Delivery]]",
+        "level": 4
+      },
+      {
         "heading": "Clean Energy Ceneter",
-        "level": 3
+        "level": 4
       },
       {
         "heading": "Japanese Car Hub",
-        "level": 3
+        "level": 4
       },
       {
         "heading": "Shipping Center",
-        "level": 3
+        "level": 4
       }
     ],
     "links": [
@@ -12911,10 +13086,6 @@
     "relativePath": "GM Info/shadowrun json editor.md"
   },
   {
-    "fileName": "temp",
-    "relativePath": "GM Info/temp.md"
-  },
-  {
     "fileName": "helpful sites",
     "relativePath": "GM Info/helpful sites.md",
     "backlinks": [
@@ -12932,10 +13103,6 @@
   {
     "fileName": "Temp document",
     "relativePath": "GM Info/Miami/Temp document.md"
-  },
-  {
-    "fileName": "runner shops",
-    "relativePath": "GM Info/Miami/runner shops.md"
   },
   {
     "fileName": "Joes character",
@@ -12958,10 +13125,6 @@
   {
     "fileName": "crime orgs",
     "relativePath": "GM Info/Miami/crime orgs.md"
-  },
-  {
-    "fileName": "companies",
-    "relativePath": "GM Info/Miami/companies.md"
   },
   {
     "fileName": "GM Pages",
@@ -13214,6 +13377,13 @@
         "relativePath": "GM Info/GM Pages.md",
         "displayText": "NPC Skill Ranges"
       }
+    ]
+  },
+  {
+    "fileName": "The Crimson Serpents",
+    "relativePath": "Factions/Southern Florida/Crime Orgs/The Crimson Serpents.md",
+    "tags": [
+      "miami"
     ]
   },
   {
@@ -15195,17 +15365,79 @@
     ]
   },
   {
-    "fileName": "Talismonger's Trove",
-    "relativePath": "Corps (Local)/South Florida/Talismonger's Trove.md",
+    "fileName": "Mystique Emporium",
+    "relativePath": "Corps (Local)/South Florida/Mystique Emporium.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Madame Seraphina",
+        "link": "Mystique Emporium",
+        "relativePath": "NPCs/Friendly/South Florida/Madame Seraphina.md"
+      }
     ]
   },
   {
-    "fileName": "Street Peddler",
-    "relativePath": "Corps (Local)/South Florida/Street Peddler.md",
+    "fileName": "Midnight Exchange",
+    "relativePath": "Corps (Local)/South Florida/Midnight Exchange.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Dusk",
+        "link": "Midnight Exchange",
+        "relativePath": "NPCs/Friendly/South Florida/Dusk.md"
+      },
+      {
+        "fileName": "Dusk",
+        "link": "Midnight Exchange",
+        "relativePath": "NPCs/Friendly/South Florida/Dusk.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Shadow's Stash",
+    "relativePath": "Corps (Local)/South Florida/The Shadow's Stash.md",
+    "tags": [
+      "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Whisper",
+        "link": "The Shadow's Stash",
+        "relativePath": "NPCs/Friendly/South Florida/Whisper.md"
+      },
+      {
+        "fileName": "Whisper",
+        "link": "The Shadow's Stash",
+        "relativePath": "NPCs/Friendly/South Florida/Whisper.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Cyberscape Nexus",
+    "relativePath": "Corps (Local)/South Florida/Cyberscape Nexus.md",
+    "tags": [
+      "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Nexus",
+        "link": "Cyberscape Nexus",
+        "relativePath": "NPCs/Friendly/South Florida/Nexus.md"
+      },
+      {
+        "fileName": "Nexus",
+        "link": "Cyberscape Nexus",
+        "relativePath": "NPCs/Friendly/South Florida/Nexus.md"
+      },
+      {
+        "fileName": "Nexus",
+        "link": "Cyberscape Nexus",
+        "relativePath": "NPCs/Friendly/South Florida/Nexus.md"
+      }
     ]
   },
   {
@@ -15213,20 +15445,13 @@
     "relativePath": "Corps (Local)/South Florida/Rigger's Paradise.md",
     "tags": [
       "miami"
-    ]
-  },
-  {
-    "fileName": "Technomancer's Haven",
-    "relativePath": "Corps (Local)/South Florida/Technomancer's Haven.md",
-    "tags": [
-      "miami"
-    ]
-  },
-  {
-    "fileName": "Shadow Market",
-    "relativePath": "Corps (Local)/South Florida/Shadow Market.md",
-    "tags": [
-      "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Max (Wired) Rodriguez",
+        "link": "Rigger's Paradise",
+        "relativePath": "NPCs/Friendly/South Florida/Max (Wired) Rodriguez.md"
+      }
     ]
   },
   {
@@ -15234,6 +15459,18 @@
     "relativePath": "Corps (Local)/South Florida/Gearhead Garage.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Dex Thompson",
+        "link": "Gearhead Garage",
+        "relativePath": "NPCs/Friendly/South Florida/Dex Thompson.md"
+      },
+      {
+        "fileName": "Dex Thompson",
+        "link": "Gearhead Garage",
+        "relativePath": "NPCs/Friendly/South Florida/Dex Thompson.md"
+      }
     ]
   },
   {
@@ -15241,6 +15478,13 @@
     "relativePath": "Corps (Local)/South Florida/Armadillo Armory.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Isabella Stone",
+        "link": "Armadillo Armory",
+        "relativePath": "NPCs/Friendly/South Florida/Isabella Stone.md"
+      }
     ]
   },
   {
@@ -15248,6 +15492,13 @@
     "relativePath": "Corps (Local)/South Florida/Ironworks Arsenal.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Viktor Ironforge",
+        "link": "Ironworks Arsenal",
+        "relativePath": "NPCs/Friendly/South Florida/Viktor Ironforge.md"
+      }
     ]
   },
   {
@@ -15265,6 +15516,13 @@
     "links": [
       {
         "link": "Relief Center 1 AKA The Reef",
+        "relativePath": "Locations/South Florida/Relief Center 1 AKA The Reef.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Relief Center 1 AKA The Reef",
+        "link": "WARN Guerrila Boadcasting",
         "relativePath": "Locations/South Florida/Relief Center 1 AKA The Reef.md"
       }
     ]
@@ -15847,6 +16105,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "Chuck Finley",
+        "link": "Carlito's Bar",
+        "relativePath": "NPCs/Neutral/South Florida/Chuck Finley.md"
+      },
+      {
         "fileName": "South Beach",
         "link": "Carlito's Bar",
         "relativePath": "Locations/South Florida/South Beach.md"
@@ -15891,6 +16154,18 @@
     "relativePath": "Corps (Local)/South Florida/Arcane Emporium.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Maelys Shadowthorn",
+        "link": "Arcane Emporium",
+        "relativePath": "NPCs/Friendly/South Florida/Maelys Shadowthorn.md"
+      },
+      {
+        "fileName": "Maelys Shadowthorn",
+        "link": "Arcane Emporium",
+        "relativePath": "NPCs/Friendly/South Florida/Maelys Shadowthorn.md"
+      }
     ]
   },
   {
@@ -16353,6 +16628,17 @@
     ]
   },
   {
+    "fileName": "Fuchi Electronics",
+    "relativePath": "AAA Corps/Shiawase/Fuchi Electronics.md",
+    "backlinks": [
+      {
+        "fileName": "Shiawase",
+        "link": "Fuchi Electronics",
+        "relativePath": "AAA Corps/Shiawase.md"
+      }
+    ]
+  },
+  {
     "fileName": "Spinrad Global",
     "relativePath": "AAA Corps/Spinrad Global.md",
     "tags": [
@@ -16390,6 +16676,18 @@
     "relativePath": "AAA Corps/Shiawase.md",
     "tags": [
       "aaa_corporation"
+    ],
+    "headings": [
+      {
+        "heading": "Major Divisions and Associated Subsidiaries and Brands",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Fuchi Electronics",
+        "relativePath": "AAA Corps/Shiawase/Fuchi Electronics.md"
+      }
     ],
     "backlinks": [
       {

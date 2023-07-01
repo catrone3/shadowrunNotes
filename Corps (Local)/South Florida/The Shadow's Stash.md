@@ -1,0 +1,4 @@
+#miami
+- Type: Street Vendor
+
+This shady street vendor operates from a makeshift stall in a dimly lit alley. Though their goods may be of questionable origin, The Shadow's Stash offers a variety of miscellaneous gear such as "Whisper's Touch" lockpicks, "Ghost ID" fake IDs, "Shadow Veil" stealth tools, and "Survivor's Refuge" survival supplies.

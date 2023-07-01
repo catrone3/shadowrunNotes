@@ -1,0 +1,12 @@
+#miami
+
+
+Connection Rating: 8
+
+Madame Seraphina, a charismatic and elegant elven talismonger, presides over the mystical realm of [[../../../Corps (Local)/South Florida/Mystique Emporium|Mystique Emporium]]. With flowing silver hair and a voice that seems to carry an otherworldly melody, she exudes an aura of wisdom and enchantment. Madame Seraphina possesses a deep understanding of magical artifacts, ancient rituals, and the intricate world of astral energies. She carefully selects each talisman, jewelry, and reagent in her shop, imbuing them with her own magical touch. Runners seeking magical assistance or wanting to explore the hidden depths of the astral plane find solace and guidance in the presence of Madame Seraphina.
+
+Madame Seraphina's deep understanding of the magical arts and her involvement in mystical circles have granted her access to a network of talismongers, magical researchers, and influential figures within the magical community. Her connections extend to magical organizations, rare spellcasters, and even powerful spirits. Through her network, Madame Seraphina can provide runners with a range of magical services, such as spellcasting, enchantments, or divination. Additionally, her contacts can offer valuable insights into astral phenomena, astral travel, and the manipulation of magical energies.
+
+For runners seeking unique magical artifacts, Madame Seraphina's connections can be invaluable. Her network includes individuals with knowledge of hidden mystical treasures, collectors of rare spellcasting materials, and artisans specializing in crafting magical items. Whether it's a specific enchanted item, a rare reagent, or information on the history and properties of magical artifacts, Madame Seraphina's contacts can help fulfill the arcane needs of runners.
+
+In the presence of Madame Seraphina, runners not only gain access to her vast knowledge and carefully curated selection of magical items but also tap into a network of magical practitioners, researchers, and organizations. Her connections can facilitate the acquisition of magical services, deepen understanding of astral phenomena, and provide access to unique mystical resources.

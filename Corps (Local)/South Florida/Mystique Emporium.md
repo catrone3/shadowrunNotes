@@ -1,0 +1,4 @@
+#miami
+- Type: Talismonger's Shop
+
+Mystique Emporium is a shop specializing in magical talismans, enchanted jewelry, mystical reagents, and spell formulae. The eccentric proprietor, often a talismonger themselves, possesses extensive knowledge of magical traditions and can provide advice to runners seeking magical assistance. Step into the mystical realm of Mystique Emporium to unlock the secrets of the astral plane.

@@ -40,3 +40,10 @@ This is one of the most common ways in and out of The Reef, but is a hazardous j
 #### VA Medical Center
 
 This facility has been converted many times in its existence. No longer a teaching hospital, it has no central authority, and hundreds of different grey and black market medical shops have opened in the corridors of this building. Open any door, and you might find a street doc installing cyberware, a squatter family, or a dark secret you won't live to share.
+
+## Runner Notes
+
+#### [[../../Corps (Local)/South Florida/WARN Guerrila Boadcasting|WARN Guerrila Boadcasting]]
+WARN is currently based in an apartment somewhere on this block. They specialize in up-to-the-minute breaking news in The Reef and conspiracy ravings. Numerous contributors compete for dirt on governments, corporations, and businesses that exploit the residents of the Reef. 
+
+Lights out, guerrilla radio.

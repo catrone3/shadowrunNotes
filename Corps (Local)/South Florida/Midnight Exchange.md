@@ -1,0 +1,4 @@
+#miami
+- Type: Black Market Supplier
+
+Operating discreetly in the shadows, Midnight Exchange deals in restricted and illicit gear. Runners can find "Ghostline" restricted cyberware, "Nightfall" illegal explosives, and "Prototype Edge" rare prototype equipment here, though acquiring such items may come at a steep price or with additional risks. The darkest secrets await those who dare to venture into the clandestine world of Midnight Exchange.

@@ -17,8 +17,9 @@ Crowds are usually joyful, but occasional fights break out when when religious o
 
 With Cuba the dominant economy of the region, this Cuban majority community is a thriving business hub. Businesses here speak English, Spanish, Creole, Sperethiel, French, Portuguese, German, and Dutch, either through language training or linguasoft implants. Multilingual retail employees are always in high demand and can assist you via telepressence if a fluent speaker for your native language cannot be found on location.
 
-#### Mercy General Hospital
-![[../../Corps (Local)/South Florida/Mercy General Hospital|Mercy General Hospital]]
+#### [[Mercy General Hospital]]
+
+Mercy General Hospital is a leading medical facility that provides comprehensive healthcare services to the community. They offer state-of-the-art medical equipment, advanced treatments, and a skilled medical staff. Mercy General Hospital is renowned for its quality patient care, specialized departments, and commitment to advancing medical knowledge and practices.
 
 #### The Miami Circle
 
@@ -26,22 +27,26 @@ A mysterious archaeological site unearthed before the turn of the century. Littl
   
 There is an inexplicable background count in this location that spikes high and drops low in cycles that have not been decoded. The awakened are advised not to visit.
 
-#### Miami Dockyards
-![[../../Corps (Local)/South Florida/Miami Dockyards|Miami Dockyards]]
+#### [[../../Corps (Local)/South Florida/Miami Dockyards|Miami Dockyards]]
 
-#### The Royal Palm Hotel
-![[../../Corps (Local)/South Florida/The Royal Palm Hotel|The Royal Palm Hotel]]
+Miami Dockyards is a major shipbuilding and repair facility catering to various maritime needs. They specialize in constructing, repairing, and maintaining a wide range of vessels, from commercial ships to naval vessels. Miami Dockyards is known for its state-of-the-art facilities, skilled workforce, and adherence to rigorous quality standards in the maritime industry.
 
-#### Secure Solutions Corporation
-![[../../Corps (Local)/South Florida/Secure Solutions Corporation|Secure Solutions Corporation]]
+#### [[The Royal Palm Hotel]]
+
+The Royal Palm Hotel is a luxurious five-star hotel known for its opulent accommodations, impeccable service, and upscale amenities. It caters to affluent guests seeking a sophisticated and indulgent experience. The Royal Palm Hotel offers world-class hospitality, fine dining options, spa services, and exclusive event venues.
+
+#### [[../../Corps (Local)/South Florida/Secure Solutions Corporation|Secure Solutions Corporation]]
+
+Secure Solutions Corporation is a prominent security firm that specializes in providing tailored security solutions for businesses, government agencies, and high-profile individuals. They offer a range of services, including risk assessment, security consulting, personnel training, and advanced security systems. Secure Solutions Corporation is known for its professionalism, expertise, and ability to mitigate security risks effectively.
+
 
 #### The Splendiferous Omniplex
 
 What a wondrous place this should have been? The ridiculous idea of an oligarch, now a rotting diamond-shaped flophouse full of druggies, sad sacks, and the usual detritus of non-metahuman society.
 
-#### Thompson Security Solutions
-![[../../A Corps/Thompson Security Solutions|Thompson Security Solutions]]
+#### [[../../A Corps/Thompson Security Solutions|Thompson Security Solutions]]
 
+Thompson Security Solutions is a highly regarded security firm that provides comprehensive security services to individuals, businesses, and organizations. They offer a wide range of solutions, including security consulting, risk assessments, surveillance systems, and trained security personnel. Thompson Security Solutions is committed to maintaining a safe and secure environment for their clients.
 
 #### University of Miami
 
@@ -54,6 +59,6 @@ A landmark of the city, this luxurious pool is a popular hangout. It's one of th
 
 A landmark of the city, this mansion and attached gardens are an uncanny imitation of Italian old world luxury. The museum and gardens regularly host weddings, festivals, and magical outreach programs. Purchased in 2057 with money from Dunkelzahn's will, the Dunkelkahn Institute for Magical research conducts their business here.
 
-#### WardSecure Magical Security Systems
-![[../../A Corps/WardSecure Magical Security Systems|WardSecure Magical Security Systems]]
+#### [[../../A Corps/WardSecure Magical Security Systems|WardSecure Magical Security Systems]]
+WardSecure Magical Security Systems is a leading provider of magical security solutions and enchantments. They specialize in designing and installing magical wards, protective barriers, and detection systems to safeguard properties from magical threats and intrusions. WardSecure Magical Security Systems is known for its expertise in magical security and its commitment to providing effective and reliable solutions.
 
