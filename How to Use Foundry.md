@@ -11,7 +11,7 @@ This handout is intended to provide a step-by-step guide on how to get started w
 
 ## Logging In
 
--   Go to my [Foundry VTT](http://shadowrun.catrone3.com) instance.
+-   Go to my [Foundry VTT](https://shadowrun.catrone3.com/join) instance.
 -   Log in to the game by selecting your character name from the dropdown menu. Only the GM should require a password, so you should be able to log in fairly easily.
 -   If you want to set a password for your user, let me know. I will need to set it manually.
 

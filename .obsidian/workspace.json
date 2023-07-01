@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/South Florida/Palatine Bank.md",
+                "file": "NPCs/Neutral/Ma-u.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/South Florida/Palatine Bank.md",
+                "file": "NPCs/Neutral/Ma-u.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,8 +186,10 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "7f76fa2f1d1e9945",
   "lastOpenFiles": [
+    "How to Use Foundry.md",
+    "Locations/South Florida/Palatine Bank.md",
     "NPCs/Friendly/South Florida/Nexus.md",
     "NPCs/Friendly/South Florida/Maelys Shadowthorn.md",
     "NPCs/Friendly/South Florida/Max (Wired) Rodriguez.md",
@@ -218,8 +220,6 @@
     "Corps (Local)/South Florida/Carlito's Bar.md",
     "Corps (Local)/South Florida/Clean Sweep Cleaning Services.md",
     "Corps (Local)/South Florida/Club Pythia.md",
-    "Corps (Local)/South Florida/Cyberscape Nexus.md",
-    "Corps (Local)/South Florida/Elysium.md",
     "Images/shadowrun characters/Pasted image 20230630160321.png",
     "NPCs/Friendly/South Florida",
     "AAA Corps/Shiawase",
