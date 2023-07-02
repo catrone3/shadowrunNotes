@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68b774e91a7f649f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/South Florida.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "133457ffccda9e71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Southern Florida/Crime Orgs/War Pigs Bike Gang.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f76fa2f1d1e9945",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "House Rules.md",
+                "file": "GM Info/Miami/NPCs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "House Rules.md",
+                "file": "GM Info/Miami/NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,8 +159,25 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "7f76fa2f1d1e9945",
+  "active": "133457ffccda9e71",
   "lastOpenFiles": [
+    "GM Info/Miami/npc descriptors.md",
+    "GM Info/Miami/Joes character.md",
+    "New Orleans Game Notes/23-7-1.md",
+    "New Orleans Game Notes/23-5-20.md",
+    "Players/New Orleans/Jester.md",
+    "Images/Pasted image 20230701142209.png",
+    "Images/Pasted image 20230701141836.png",
+    "New Orleans Game Notes/23-4-8-MSI.md",
+    "New Orleans Game Notes/23-4-8.md",
+    "House Rules and Clarifications/Magic/Quickend Spells.md",
+    "Berlin Crew/23-5-8.md",
+    "Berlin Crew/23-2-26.md",
+    "Berlin Crew/23-3-12.md",
+    "Berlin Crew/23-3-26.md",
+    "Berlin Crew/23-4-23.md",
+    "GM Info/Miami/NPCs.md",
+    "House Rules.md",
     "How to Use Foundry.md",
     "NPCs/Neutral/Ma-u.md",
     "Locations/South Florida/Palatine Bank.md",
@@ -198,28 +188,12 @@
     "NPCs/Friendly/South Florida/Whisper.md",
     "NPCs/Friendly/South Florida/Madame Seraphina.md",
     "NPCs/Friendly/South Florida/Isabella Stone.md",
-    "NPCs/Friendly/South Florida/Dusk.md",
-    "NPCs/Friendly/South Florida/Dr. Ava Ramirez.md",
-    "NPCs/Friendly/South Florida/Dex Thompson.md",
-    "Corps (Local)/South Florida/Arcane Emporium.md",
-    "Locations/South Florida.md",
-    "Corps (Local)/South Florida/Ironworks Arsenal.md",
-    "Corps (Local)/South Florida/James Bonds.md",
-    "Corps (Local)/South Florida/Mystique Emporium.md",
-    "Corps (Local)/South Florida/Rigger's Paradise.md",
-    "Corps (Local)/South Florida/Midnight Exchange.md",
     "Images/shadowrun characters/stock-photo-female-doctor-or-nurse-working-at-her-job-in-the-hospital-1625881963-transformed.jpeg",
     "Images/stock-photo-female-doctor-or-nurse-working-at-her-job-in-the-hospital-1625881963.jpg",
     "Images/shadowrun characters/Pasted image 20230630215644.png",
     "Images/shadowrun characters/Pasted image 20230630215635 1.png",
     "Images/shadowrun characters/Pasted image 20230630215635.png",
     "Images/shadowrun characters/Pasted image 20230630214257.png",
-    "Corps (Local)/South Florida/Gearhead Garage.md",
-    "Corps (Local)/South Florida/Armadillo Armory.md",
-    "Corps (Local)/South Florida/Blackfire Arms & Armory.md",
-    "Corps (Local)/South Florida/Blackwood Gallery.md",
-    "Corps (Local)/South Florida/Carlito's Bar.md",
-    "Corps (Local)/South Florida/Clean Sweep Cleaning Services.md",
     "Images/shadowrun characters/Pasted image 20230630160321.png",
     "NPCs/Friendly/South Florida",
     "AAA Corps/Shiawase",
@@ -229,8 +203,6 @@
     "A Corps/Omni Corp",
     "A Corps/Aegis",
     "Images/shadowrun characters/Pasted image 20230520180338.png",
-    "Images/shadowrun characters/Pasted image 20230520135324.png",
-    "Images/shadowrun characters/Pasted image 20230520180307.png",
     "NPCs/Neutral/South Florida",
     "Factions/Southern Florida/Crime Orgs",
     "Locations/South Florida/Virginia Key",
