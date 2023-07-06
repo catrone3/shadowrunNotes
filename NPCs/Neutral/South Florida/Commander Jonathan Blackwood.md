@@ -1,2 +1,2 @@
 #miami 
-Security Commander: Commander Jonathan Blackwood, a high-ranking security officer with access to advanced security measures and knowledge of countermeasures, providing assistance in security planning and operations. - Connection Rating: 4 - Leads the security team at Aegis Corporation.
+Security Commander: Commander Jonathan Blackwood, a high-ranking security officer with access to advanced security measures and knowledge of countermeasures, providing assistance in security planning and operations. - Connection Rating: 4 - Leads the security team at [[../../../A Corps/Aegis/Aegis Corporation|Aegis Corporation]].

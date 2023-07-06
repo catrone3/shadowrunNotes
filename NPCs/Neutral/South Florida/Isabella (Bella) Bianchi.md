@@ -1,2 +1,2 @@
 #miami 
-Fashion Designer: Isabella (Bella) Bianchi, a talented and influential fashion designer with connections to high-profile clients and knowledge of the city's fashion elite. - Connection Rating: 4 - Runs Turner Couture.
+Fashion Designer: Isabella (Bella) Bianchi, a talented and influential fashion designer with connections to high-profile clients and knowledge of the city's fashion elite. - Connection Rating: 4 - Runs [[../../../Corps (Local)/South Florida/Turner Couture|Turner Couture]].

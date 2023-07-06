@@ -1,2 +1,2 @@
 #miami 
-Reporter: Michael Turner, an intrepid reporter dedicated to uncovering the truth, offering exposure through media channels and information on current events. - Connection Rating: 3 - Investigative reporter for Miami Daily.
+Reporter: Michael Turner, an intrepid reporter dedicated to uncovering the truth, offering exposure through media channels and information on current events. - Connection Rating: 3 - Investigative reporter for [[../../../Corps (Local)/South Florida/Miami Daily|Miami Daily]].

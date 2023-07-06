@@ -1,2 +1,2 @@
 #miami 
-Hotel Manager: Isabelle Laurent, a knowledgeable and discreet hotel manager with access to guest information and a network of employees, offering information on visitors and potential leads. - Connection Rating: 4 - Manages The Royal Palm Hotel.
+Hotel Manager: Isabelle Laurent, a knowledgeable and discreet hotel manager with access to guest information and a network of employees, offering information on visitors and potential leads. - Connection Rating: 4 - Manages [[../../../Corps (Local)/South Florida/The Royal Palm Hotel|The Royal Palm Hotel]].

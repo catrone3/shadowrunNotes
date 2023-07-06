@@ -1,2 +1,2 @@
 #miami 
-Research Assistant: Emily Jenkins, a diligent and resourceful research assistant with access to academic databases and information resources, providing research assistance and knowledge in various fields. - Connection Rating: 3 - Works at Nexus Research Group.
+Research Assistant: Emily Jenkins, a diligent and resourceful research assistant with access to academic databases and information resources, providing research assistance and knowledge in various fields. - Connection Rating: 3 - Works at [[../../../A Corps/Nexus Research Group|Nexus Research Group]].

@@ -1,2 +1,2 @@
 #miami 
-Mortician: Dr. Sophia Clarke, a compassionate and knowledgeable mortician who handles the deceased, providing insights into recent deaths and connections to the shadow world. - Connection Rating: 3 - Owns Santos Mortuary Services.
+Mortician: Dr. Sophia Clarke, a compassionate and knowledgeable mortician who handles the deceased, providing insights into recent deaths and connections to the shadow world. - Connection Rating: 3 - Owns [[../../../Corps (Local)/South Florida/Santos Mortuary Services|Santos Mortuary Services]].

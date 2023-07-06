@@ -1,2 +1,2 @@
 #miami 
-Researcher: Dr. Benjamin Turner, a respected researcher with expertise in a specific field, offering valuable insights and information based on extensive studies and experiments. - Connection Rating: 3 - Conducts research for Blackwood Technologies.
+Researcher: Dr. Benjamin Turner, a respected researcher with expertise in a specific field, offering valuable insights and information based on extensive studies and experiments. - Connection Rating: 3 - Conducts research for [[../../../A Corps/Blackwood Technologies|Blackwood Technologies]].

@@ -1,2 +1,2 @@
 #miami 
-Sports Reporter: Olivia Bennett, a passionate sports reporter with access to athletes, coaches, and sports events, offering information on the sports world and potential scandals. - Connection Rating: 3 - Covers sports news for Miami Sports Network.
+Sports Reporter: Olivia Bennett, a passionate sports reporter with access to athletes, coaches, and sports events, offering information on the sports world and potential scandals. - Connection Rating: 3 - Covers sports news for [[../../../Corps (Local)/South Florida/Miami Sports Network|Miami Sports Network]].

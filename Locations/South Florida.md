@@ -22,59 +22,33 @@
 
 ### Districts
 
-| Districts                                                                                            |  Synopsis  |
-|:---------------------------------------------------------------------------------------------------- |:----------:|
-| [[South Florida/Alandco\|Alandco]]                                                                   |   B Zone   |
-| [[South Florida/Awakened Everglades\|Awakened Everglades]]                                           |   W Zone   |
-| [[South Florida/Belle Meade Erosion Zone\|Belle Meade Erosion Zone]]                                 |   E Zone   |
-| [[South Florida/Boca Raton\|Boca Raton]]                                                             |  AA Zone   |
-| [[South Florida/City of Miami\|City of Miami]]                                                       |   A Zone   |
-| [[South Florida/Coral Springs\|Coral Springs]]                                                       |   B Zone   |
-| [[South Florida/Deerfield Beach\|Deerfield Beach]]                                                   |   B Zone   |
-| [[South Florida/Deering Bay\|Deering Bay]]                                                           |  AAA Zone  |
-| [[South Florida/Doral\|Doral]]                                                                       |  AA Zone   |
-| [[South Florida/Downtown Miami\|Downtown Miami]]                                                     |  AA Zone   |
-| [[South Florida/Edgewood\|Edgewood]]                                                                 |   D Zone   |
-| [[South Florida/Evo Renewal Zone\|Evo Renewal Zone]]                                                 |   D Zone   |
-| [[South Florida/Fort Lauderdale\|Fort Lauderdale]]                                                   |  AAA Zone  |
-| [[South Florida/Fort Lauderdale Airport\|Fort Lauderdale Airport]]                                   |  AA Zone   |
-| [[South Florida/Gladeview\|Gladeview]]                                                               |   Z Zone   |
-| [[South Florida/Grapeland\|Grapeland]]                                                               |   D Zone   |
-| [[South Florida/Gunderson Airport and Hospitality Center\|Gunderson Airport and Hospitality Center]] |  AA Zone   |
-| [[South Florida/Hialeah\|Hialeah]]                                                                   |  AA Zone   |
-| [[South Florida/Hollywood\|Hollywood]]                                                               |   B Zone   |
-| [[South Florida/Homestead Airbase and Naval Port\|Homestead Airbase and Naval Port]]                 |  Military  |
-| [[South Florida/Idlewyld\|Idlewyld]]                                                                 |   AA Zone   |
-| [[South Florida/Kendale Lakes\|Kendale Lakes]]                                                       |   B Zone   |
-| [[South Florida/Kendall\|Kendall]]                                                                   |   A Zone   |
-| [[South Florida/Key Biscayne\|Key Biscayne]]                                                         |   D Zone   |
-| [[South Florida/Leisure City\|Leisure City]]                                                         |   C Zone   |
-| [[South Florida/Little Haiti\|Little Haiti]]                                                         |   D Zone   |
-| [[South Florida/Medley Industrial Park\|Medley Industrial Park]]                                     |   D Zone   |
-| [[South Florida/Miami City Cemetery\|Miami City Cemetery]]                                           |   Z Zone   |
-| [[South Florida/Miami Shores\|Miami Shores]]                                                         |   A Zone   |
-| [[South Florida/Miami Springs\|Miami Springs]]                                                       |  B Rating  |
-| [[South Florida/Miramar\|Miramar]]                                                                   |   A Zone   |
-| [[South Florida/Normandy Ghost Town\|Normandy Ghost Town]]                                           |   Z Zone   |
-| [[South Florida/North Lauderdale\|North Lauderdale]]                                                 |   B Zone   |
-| [[South Florida/North Miami Beach\|North Miami Beach]]                                               |  AA Zone   |
-| [[South Florida/Oakland\|Oakland]]                                                                   |  AA Zone   |
-| [[South Florida/Oakridge\|Oakridge]]                                                                 |   D Zone   |
-| [[South Florida/Palatine Bank\|Palatine Bank]]                                                       |  AAA Zone  |
-| [[South Florida/Plantation\|Plantation]]                                                             |   AA Zone   |
-| [[South Florida/Pompano Beach\|Pompano Beach]]                                                       |   A Zone   |
-| [[South Florida/Port Everglades\|Port Everglades]]                                                   |   A Zone   |
-| [[South Florida/Redland Agricultural Area\|Redland Agricultural Area]]                               |  D/E Zone  |
-| [[South Florida/Relief Center 1 AKA The Reef\|Relief Center 1 AKA The Reef]]                         |   E Zone   |
-| [[South Florida/Relief Center 2\|Relief Center 2]]                                                   |   E Zone   |
-| [[South Florida/Shiawase Exclusion Zone\|Shiawase Exclusion Zone]]                                   | AAA/Z Zone |
-| [[South Florida/South Beach\|South Beach]]                                                           |  AAA Zone  |
-| [[South Florida/Sun Key\|Sun Key]]                                                                   |  AAA Zone  |
-| [[South Florida/Sunshine Acres\|Sunshine Acres]]                                                     |   A Zone   |
-| [[South Florida/Sunshine Parkway\|Sunshine Parkway]]                                                 |  AA Zone   |
-| [[South Florida/Virginia Key\|Virginia Key]]                                                         |   D Zone   |
-| [[South Florida/Wuxing Eastern Shores\|Wuxing Eastern Shores]]                                       |  AA Zone   |
-| [[South Florida/Wyndwood\|Wyndwood]]                                                                 | AA/B Zone  |
+| Districts                                                                                            |  Security Rating  |Districts                                                                                            |  Security Rating  |
+|:---------------------------------------------------------------------------------------------------- |:----------:|:---------------------------------------------------------------------------------------------------- |:----------:|
+| [[South Florida/Alandco\|Alandco]]                                                                   |   B Zone   | [[South Florida/Awakened Everglades\|Awakened Everglades]]                                           |   W Zone   |
+| [[South Florida/Belle Meade Erosion Zone\|Belle Meade Erosion Zone]]                                 |   E Zone   | [[South Florida/Boca Raton\|Boca Raton]]                                                             |  AA Zone   |
+| [[South Florida/City of Miami\|City of Miami]]                                                       |   A Zone   | [[South Florida/Coral Springs\|Coral Springs]]                                                       |   B Zone   |
+| [[South Florida/Deerfield Beach\|Deerfield Beach]]                                                   |   B Zone   | [[South Florida/Deering Bay\|Deering Bay]]                                                           |  AAA Zone  |
+| [[South Florida/Doral\|Doral]]                                                                       |  AA Zone   | [[South Florida/Downtown Miami\|Downtown Miami]]                                                     |  AA Zone   |
+| [[South Florida/Edgewood\|Edgewood]]                                                                 |   D Zone   | [[South Florida/Evo Renewal Zone\|Evo Renewal Zone]]                                                 |   D Zone   |
+| [[South Florida/Fort Lauderdale\|Fort Lauderdale]]                                                   |  AAA Zone  | [[South Florida/Fort Lauderdale Airport\|Fort Lauderdale Airport]]                                   |  AA Zone   |
+| [[South Florida/Gladeview\|Gladeview]]                                                               |   Z Zone   | [[South Florida/Grapeland\|Grapeland]]                                                               |   D Zone   |
+| [[South Florida/Gunderson Airport and Hospitality Center\|Gunderson Airport and Hospitality Center]] |  AA Zone   | [[South Florida/Hialeah\|Hialeah]]                                                                   |  AA Zone   |
+| [[South Florida/Hollywood\|Hollywood]]                                                               |   B Zone   | [[South Florida/Homestead Airbase and Naval Port\|Homestead Airbase and Naval Port]]                 |  Military  |
+| [[South Florida/Idlewyld\|Idlewyld]]                                                                 |   AA Zone   | [[South Florida/Kendale Lakes\|Kendale Lakes]]                                                       |   B Zone   |
+| [[South Florida/Kendall\|Kendall]]                                                                   |   A Zone   | [[South Florida/Key Biscayne\|Key Biscayne]]                                                         |   D Zone   |
+| [[South Florida/Leisure City\|Leisure City]]                                                         |   C Zone   | [[South Florida/Little Haiti\|Little Haiti]]                                                         |   D Zone   |
+| [[South Florida/Medley Industrial Park\|Medley Industrial Park]]                                     |   D Zone   | [[South Florida/Miami City Cemetery\|Miami City Cemetery]]                                           |   Z Zone   |
+| [[South Florida/Miami Shores\|Miami Shores]]                                                         |   A Zone   | [[South Florida/Miami Springs\|Miami Springs]]                                                       |  B Rating  |
+| [[South Florida/Miramar\|Miramar]]                                                                   |   A Zone   | [[South Florida/Normandy Ghost Town\|Normandy Ghost Town]]                                           |   Z Zone   |
+| [[South Florida/North Lauderdale\|North Lauderdale]]                                                 |   B Zone   | [[South Florida/North Miami Beach\|North Miami Beach]]                                               |  AA Zone   | [[South Florida/Oakland\|Oakland]]                                                                   |  AA Zone   |
+| [[South Florida/Oakridge\|Oakridge]]                                                                 |   D Zone   | [[South Florida/Palatine Bank\|Palatine Bank]]                                                       |  AAA Zone  |
+| [[South Florida/Plantation\|Plantation]]                                                             |   AA Zone   | [[South Florida/Pompano Beach\|Pompano Beach]]                                                       |   A Zone   |
+| [[South Florida/Port Everglades\|Port Everglades]]                                                   |   A Zone   | [[South Florida/Redland Agricultural Area\|Redland Agricultural Area]]                               |  D/E Zone  |
+| [[South Florida/Relief Center 1 AKA The Reef\|Relief Center 1 AKA The Reef]]                         |   E Zone   | [[South Florida/Relief Center 2\|Relief Center 2]]                                                   |   E Zone   |
+| [[South Florida/Shiawase Exclusion Zone\|Shiawase Exclusion Zone]]                                   | AAA/Z Zone | [[South Florida/South Beach\|South Beach]]                                                           |  AAA Zone  |
+| [[South Florida/Sun Key\|Sun Key]]                                                                   |  AAA Zone  | [[South Florida/Sunshine Acres\|Sunshine Acres]]                                                     |   A Zone   |
+| [[South Florida/Sunshine Parkway\|Sunshine Parkway]]                                                 |  AA Zone   | [[South Florida/Virginia Key\|Virginia Key]]                                                         |   D Zone   |
+| [[South Florida/Wuxing Eastern Shores\|Wuxing Eastern Shores]]                                       |  AA Zone   | [[South Florida/Wyndwood\|Wyndwood]]                                                                 | AA/B Zone  |
 
 ## Geographic Notes
 
@@ -123,3 +97,6 @@ After the formation of the new South Florida Government, thousands of A level co
 
 #### Modern Miami
 Miami as a whole is ridden with crime, although you wouldn't know this as a tourist. Lone star does a 
+
+
+## NPCs

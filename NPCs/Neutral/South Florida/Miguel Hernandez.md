@@ -1,2 +1,2 @@
 #miami 
-Dock Worker: Miguel Hernandez, a hardworking and well-connected dock worker who handles shipping and receiving, providing information about smuggling operations and illegal shipments. - Connection Rating: 2 - Employed at Miami Dockyards.
+Dock Worker: Miguel Hernandez, a hardworking and well-connected dock worker who handles shipping and receiving, providing information about smuggling operations and illegal shipments. - Connection Rating: 2 - Employed at [[../../../Corps (Local)/South Florida/Miami Dockyards|Miami Dockyards]].
