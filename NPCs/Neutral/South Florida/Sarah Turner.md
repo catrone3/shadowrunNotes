@@ -1,0 +1,2 @@
+#miami 
+School Teacher: Sarah Turner, a dedicated and insightful school teacher with knowledge of students and their families, providing information on youth activities and potential leads. - Connection Rating: 3 - Teaches English at Miami High School.

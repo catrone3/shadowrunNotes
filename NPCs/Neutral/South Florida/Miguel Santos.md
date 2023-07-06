@@ -1,0 +1,2 @@
+#miami 
+Maintenance Worker: Miguel Santos, a reliable and observant maintenance worker with access to secure areas, providing information on building layouts and potential vulnerabilities. - Connection Rating: 2 - Works in building maintenance for a corporate tower.

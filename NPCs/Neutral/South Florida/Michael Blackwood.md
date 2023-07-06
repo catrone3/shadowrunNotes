@@ -1,0 +1,2 @@
+#miami 
+Trid Cybersnoop: Michael Blackwood, a tech-savvy individual specialized in monitoring trid broadcasts and uncovering hidden information, providing access to trid archives and insights into media manipulation. - Connection Rating: 4 - Skilled in trid surveillance and investigation.

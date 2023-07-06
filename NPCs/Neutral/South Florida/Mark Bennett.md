@@ -1,0 +1,2 @@
+#miami 
+ Parole Officer: Mark Bennett, a dedicated parole officer responsible for supervising individuals released from prison, providing information on parolees and potential leads. - Connection Rating: 4 - Supervises parolees for the Miami Department of Corrections.

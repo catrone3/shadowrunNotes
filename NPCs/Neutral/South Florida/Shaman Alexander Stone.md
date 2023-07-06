@@ -1,0 +1,2 @@
+#miami 
+Shaman: Shaman Alexander Stone, a wise and experienced shaman with a deep connection to the spirit world, offering magical guidance, rituals, and access to the shamanic community. - Connection Rating: 3 - Provides magical and spiritual services to the community.

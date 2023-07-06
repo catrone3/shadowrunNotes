@@ -1,0 +1,2 @@
+#miami 
+Trid Editor: Olivia Turner, a skilled trid editor responsible for crafting narratives and manipulating visuals, offering access to trid networks and information on media production. - Connection Rating: 4 - Directs and produces trid films and shows.

@@ -1,0 +1,2 @@
+#miami 
+Loan Shark: Victor (Viper) Russo, a ruthless loan shark known for his persuasive tactics and connections to organized crime, providing loans and information on debtors. - Connection Rating: 4 - Runs a loan-sharking operation.

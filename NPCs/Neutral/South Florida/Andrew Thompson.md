@@ -1,0 +1,2 @@
+#miami 
+Manager: Andrew Thompson, a competent and well-connected manager overseeing various businesses or operations, providing access to resources and influential contacts. - Connection Rating: 3 - Manages a high-end nightclub, Elysium.

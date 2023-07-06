@@ -1,0 +1,2 @@
+#miami 
+Media Personality: Victoria Stone, a charismatic and influential media personality who knows how to shape public opinion, providing access to media platforms and information on public figures. - Connection Rating: 4 - Hosts a popular trid talk show, "The Mitchell Report."

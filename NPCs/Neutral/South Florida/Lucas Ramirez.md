@@ -1,0 +1,2 @@
+#miami 
+Street Cleaner: Lucas Ramirez, an attentive street cleaner who witnesses the city's daily happenings, providing information on street-level activities and potential leads. - Connection Rating: 2 - Works for Miami City Sanitation Department.

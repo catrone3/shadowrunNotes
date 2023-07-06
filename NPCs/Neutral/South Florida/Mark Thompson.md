@@ -1,0 +1,2 @@
+#miami 
+Sports Official: Mark Thompson, an experienced sports official responsible for overseeing fair play and rules compliance, providing insights into sports events and access to athletes. - Connection Rating: 3 - Officiates various sports events in Miami.

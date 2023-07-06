@@ -1,0 +1,2 @@
+#miami 
+Former Military Officer: Colonel Jonathan Mitchell, a retired military officer with a wealth of tactical knowledge and access to military-grade equipment and contacts. - Connection Rating: 4 - Retired military officer.

@@ -1,0 +1,2 @@
+#miami 
+Street Mage: Marcus (Shadowcaster) Blackwood, a resourceful street mage skilled in urban magic and surviving in the shadows, offering magical advice and connections to the magical community. - Connection Rating: 3 - Practices magic as a self-taught street mage.

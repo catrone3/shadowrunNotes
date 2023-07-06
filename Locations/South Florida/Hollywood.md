@@ -9,6 +9,10 @@ Coastal business and residences have higher rating security, expect rating B.
 
 ## Geographic Notes
 
+#### [[../../Corps (Local)/South Florida/Ironworks Arsenal|Ironworks Arsenal]]
+
+Known for its reputation among shadowrunners, Ironworks Arsenal provides a diverse selection of firearms, melee weapons, and ammunition. They offer both conventional and cutting-edge weapons, catering to various combat styles and preferences.
+
 #### Miami Sports Network
 ![[../../Corps (Local)/South Florida/Miami Sports Network|Miami Sports Network]]
 

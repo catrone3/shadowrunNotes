@@ -1,0 +1,2 @@
+#miami 
+Personnel Security Specialist: Rebecca Turner, a skilled personnel security specialist responsible for protecting high-profile individuals, offering insight into personal security measures and potential threats. - Connection Rating: 4 - Works for Secure Solutions Corporation.

@@ -1,0 +1,2 @@
+#miami 
+Rocker: Mia (Raven) Bennett, a charismatic and talented rocker with a rebellious spirit, offering access to the music scene and information on the underground music industry. - Connection Rating: 3 - Lead vocalist and guitarist for )Crimson Rage) band.

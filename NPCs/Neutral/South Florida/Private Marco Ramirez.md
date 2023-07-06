@@ -1,0 +1,2 @@
+#miami 
+Military Soldier: Private Marco Ramirez, a skilled and disciplined military soldier with combat experience, offering tactical advice and information on military operations. - Connection Rating: 3 - Serves in the Miami Military Garrison.

@@ -1,0 +1,2 @@
+#miami 
+Private Investigator: Veronica (Ronnie) Bennett, a tenacious private investigator skilled in gathering evidence and uncovering secrets, providing investigative services and information on various cases. - Connection Rating: 4 - Runs Thompson Investigations.

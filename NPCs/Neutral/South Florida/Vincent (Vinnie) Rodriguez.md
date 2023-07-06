@@ -1,0 +1,2 @@
+#miami 
+Pimp: Vincent (Vinnie) Rodriguez, a smooth-talking and well-connected pimp operating in the underworld, providing access to illicit services and information on the sex trade. - Connection Rating: 3 - Manages a network of escorts and prostitutes.

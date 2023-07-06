@@ -1,0 +1,2 @@
+#miami 
+Real Estate Agent: Jessica Mitchell, a knowledgeable and well-connected real estate agent with information on property ownership, hidden properties, and influential clients. - Connection Rating: 3 - Works for Turner Realty.

@@ -1,0 +1,2 @@
+#miami 
+Government Official: Senator Robert Thompson, a cunning and influential government official with ties to shadowy organizations, offering political insights and access to classified information. - Connection Rating: 5 - Holds a high-ranking position in the Miami Government.

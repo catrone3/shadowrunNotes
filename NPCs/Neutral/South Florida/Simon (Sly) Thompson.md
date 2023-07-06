@@ -1,0 +1,2 @@
+#miami 
+Fence: Simon (Sly) Thompson, a discreet and resourceful fence who specializes in buying and selling stolen goods, providing access to black market items and information on the criminal underworld. - Connection Rating: 4 - Operates a black-market fencing operation.

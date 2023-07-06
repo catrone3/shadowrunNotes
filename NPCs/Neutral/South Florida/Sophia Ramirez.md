@@ -1,0 +1,2 @@
+#miami 
+Street Shaman: Sophia Ramirez, a charismatic street shaman with a deep connection to the urban spirits, offering spiritual guidance, rituals, and access to the shamanic community. - Connection Rating: 3 - Practices shamanic magic in the streets.

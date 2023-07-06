@@ -1,0 +1,2 @@
+#miami 
+Sound Technician: Sophia Cooper, a skilled sound technician with knowledge of audio surveillance and manipulation, offering technical assistance and access to audio-related information. - Connection Rating: 3 - Manages sound and audio for concerts and events.

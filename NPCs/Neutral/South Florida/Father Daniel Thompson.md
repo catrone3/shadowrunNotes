@@ -1,0 +1,2 @@
+#miami 
+Priest: Father Daniel Thompson, a compassionate and wise priest with a strong moral compass, offering spiritual guidance and knowledge of hidden sins and secrets. - Connection Rating: 3 - Serves at Saint Michael's Church.

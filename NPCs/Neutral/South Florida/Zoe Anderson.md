@@ -1,0 +1,2 @@
+#miami 
+Decker: Zoe Anderson, a talented decker with exceptional hacking skills, capable of breaching even the most secure systems, retrieving valuable data, and countering rival deckers. - Connection Rating: 3 - Operates as a freelance decker.

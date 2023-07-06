@@ -1,0 +1,2 @@
+#miami 
+Student: Emily Thompson, a curious and resourceful student with access to academic resources and connections to the youth community, providing information on student activities and potential leads. - Connection Rating: 2 - Attends Miami University.

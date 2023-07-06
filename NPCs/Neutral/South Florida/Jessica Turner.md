@@ -1,0 +1,2 @@
+#miami 
+Lawyer: Jessica Turner, a skilled and resourceful lawyer specializing in criminal defense, corporate law, or shadow contracts, offering legal advice and connections to influential figures. - Connection Rating: 5 - Partner at Turner & Mitchell Law Firm.

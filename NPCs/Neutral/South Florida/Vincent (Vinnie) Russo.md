@@ -1,0 +1,2 @@
+#miami 
+Fixer: Vincent (Vinnie) Russo, a well-connected fixer with an extensive network of contacts and information on various shadow dealings, providing valuable resources and connections. - Connection Rating: 4 - Runs The Fixer's Den, a reputable fixer service.

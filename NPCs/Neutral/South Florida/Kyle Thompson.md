@@ -1,0 +1,2 @@
+#miami 
+Corporate Security Guard: Kyle Thompson, a former military veteran and skilled corporate security guard, providing insight into corporate security protocols and access to restricted areas. - Connection Rating: 2 - Employed by [[../../../A Corps/Omni Corp/OmniCorp Security Solutions|OmniCorp Security Solutions]].

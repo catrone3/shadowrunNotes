@@ -1,0 +1,2 @@
+#miami 
+Street Kid: Isabella (Izzy) Thompson, a resilient and street-smart orphan who navigates the city's underworld, offering insights into the street life, hidden networks, and survival skills. - Connection Rating: 2 - Survives on the streets of Miami.

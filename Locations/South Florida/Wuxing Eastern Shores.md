@@ -7,6 +7,10 @@ Security is rating AA. Patrols cover the area 24 hours a day, but are less frequ
 
 ## Geographic Notes
 
+#### [[../../Corps (Local)/South Florida/Cyberscape Nexus|Cyberscape Nexus]]
+
+Cyberscape Nexus caters to deckers and technomancers, providing cutting-edge Fuchi cyberdecks, Aztech commlinks, "CodeBreaker" software, and "NetSurge" hacking tools. They also offer services such as "Resonance Recovery" data recovery, "System Insight" system analysis, and expert advice for runners operating in the digital realm. Immerse yourself in the ever-expanding virtual realm of Cyberscape Nexus.
+
 #### Greynold's Park
 
 One of the only free public recreational spaces in this Wuxing controlled area, picnicking, kayaking, and other outdoors activities are enjoyed by corp wage slaves on their day off.

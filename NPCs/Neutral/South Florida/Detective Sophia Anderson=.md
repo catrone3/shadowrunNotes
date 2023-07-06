@@ -1,0 +1,2 @@
+#miami 
+Mage Detective: Detective Sophia Anderson, a skilled mage detective with knowledge of magical crimes and a network of contacts in the magical community, providing magical insights into investigations. - Connection Rating: 4 - Works for Miami Metro Police Department's Paranormal Division.

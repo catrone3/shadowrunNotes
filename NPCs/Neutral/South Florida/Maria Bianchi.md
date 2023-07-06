@@ -1,0 +1,2 @@
+#miami 
+Hairdresser: Maria Bianchi, a talented hairdresser who hears gossip and secrets from her clients, making her an unexpected source of information on various individuals and events. - Connection Rating: 2 - Works at (The Cutting Edge) salon.

@@ -1,0 +1,2 @@
+#miami 
+Metroplex Guardsman: Sergeant Lucas (Guardian) Thompson, a dedicated and vigilant metroplex guardsman responsible for maintaining law and order, offering insight into law enforcement operations and access to restricted areas. - Connection Rating: 3 - Serves in the Metroplex Guard.

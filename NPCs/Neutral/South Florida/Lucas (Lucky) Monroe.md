@@ -1,0 +1,2 @@
+#miami 
+Dealer (Mercenary Fixer): Lucas (Lucky) Monroe, a well-connected dealer and fixer specializing in mercenaries and shadow operatives, connecting clients with the right talent for their needs. - Connection Rating: 4 - Operates as an independent fixer.

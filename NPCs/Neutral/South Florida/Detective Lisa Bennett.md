@@ -1,0 +1,2 @@
+#miami 
+Forensic Cop: Detective Lisa Bennett, a meticulous and detail-oriented forensic cop who specializes in gathering evidence and analyzing crime scenes, providing critical insights for investigations. - Connection Rating: 4 - Works for Miami Metro Police Department's Forensic Division.

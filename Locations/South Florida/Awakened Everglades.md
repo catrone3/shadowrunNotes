@@ -6,6 +6,8 @@ This is a W zone, classified as complete wildness. Security forces will not come
 
 ## Geographic Notes
 
+#### Dade-Collier Training and Transition Airport
+
 #### Dinosaur Sightings
 
 Rumors swirl around Lake Okeechobee of awakened dinosaurs. Many missing persons reported. To date, no evidence has been found to support these claims.
@@ -14,11 +16,15 @@ Rumors swirl around Lake Okeechobee of awakened dinosaurs. Many missing persons 
 
 Some tourists come by to see people feed and wrestle alligators, but most of this area is a farm for thousands of gators raised for meat and leather.
 
+#### Historic Popenhager Camp
+
 #### HM69 Nike Missile Base
 
 A former american missile base this location consists of 22 remaining buildings and the remains of a military operation.   
   
 Groups of survivalists and squatters have made this a trading hub for those who try to live deep in the Everglades.
+
+#### Immokalee Regional Airport
 
 #### Krome Prison
 
@@ -29,6 +35,8 @@ There is unanimous agreement among jailbirds that escape into the Miccosukee res
 #### Miccosukee Resort and Gaming
 
 The Miccosukee tribe, while more traditional than their Seminole allies and cousins, maintain a thriving resort and gaming hall which functions as an extraterritorial embassy. They host frequent hunting expeditions for Everglades critters from this location. On occasion hunting guides have been hired as bounty hunters by the Krome Prison to hunt down escapees.
+
+#### Oasis Ranger Station Airstrip
 
 #### Snakes!
 

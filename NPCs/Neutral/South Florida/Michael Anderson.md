@@ -1,0 +1,2 @@
+#miami 
+Former Company Man: Michael Anderson, a former corporate operative who left the life of intrigue and now possesses valuable knowledge about corporate secrets and hidden agendas. - Connection Rating: 4 - Retired from Aegis Corporation.

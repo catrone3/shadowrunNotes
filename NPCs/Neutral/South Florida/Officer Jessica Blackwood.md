@@ -1,0 +1,2 @@
+#miami 
+Street Cop: Officer Jessica Blackwood, a dedicated street cop familiar with the city's neighborhoods and criminal elements, providing information on street-level crimes and connections to the police force. - Connection Rating: 3 - Serves as a beat cop in a rough neighborhood.

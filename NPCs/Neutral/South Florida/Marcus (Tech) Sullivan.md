@@ -1,0 +1,2 @@
+#miami 
+Rigger: Marcus (Tech) Sullivan, a skilled rigger who can control drones, vehicles, and other remote-operated devices, providing transportation, surveillance, and technical expertise. - Connection Rating: 3 - Controls a fleet of drones for various purposes.

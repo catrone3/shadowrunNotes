@@ -1,0 +1,2 @@
+#miami 
+Former Wage Mage: Emily Collins, a former corporate mage who left the corporate world, offering insight into magical practices, astral space, and shadowy magical organizations. - Connection Rating: 4 - Former wage mage who left the corporate system.

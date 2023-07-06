@@ -1,0 +1,2 @@
+#miami 
+Gambler: Marcus (Lucky) Thompson, a seasoned gambler with an uncanny ability to read people and spot opportunities, providing valuable information on underground gambling circuits and rigged games. - Connection Rating: 3 - Regular at underground gambling establishments.

@@ -1,0 +1,2 @@
+#miami 
+Mercenary: Viktor (Viper) Volkov, a highly skilled and ruthless mercenary for hire, known for completing dangerous tasks with efficiency, while offering combat expertise and information on the mercenary underworld. - Connection Rating: 4 - Freelance mercenary and combat specialist.

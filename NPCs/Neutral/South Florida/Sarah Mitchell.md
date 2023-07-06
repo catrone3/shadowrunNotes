@@ -1,0 +1,2 @@
+#miami 
+Landlord: Sarah Mitchell, a well-connected and observant landlord with knowledge of her tenants' activities, providing information on shadowy dealings within her properties. - Connection Rating: 3 - Owns multiple rental properties in Miami.

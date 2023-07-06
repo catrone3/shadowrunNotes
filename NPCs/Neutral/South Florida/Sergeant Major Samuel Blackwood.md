@@ -1,0 +1,2 @@
+#miami 
+Military Quartermaster: Sergeant Major Samuel Blackwood, a knowledgeable military quartermaster responsible for supplying troops and managing equipment, providing access to military-grade gear and logistics information. - Connection Rating: 3 - Handles military supply logistics.

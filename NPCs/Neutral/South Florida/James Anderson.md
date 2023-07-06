@@ -1,0 +1,2 @@
+#miami 
+Newsman: James Anderson, a seasoned newsman with a nose for breaking stories, providing information on current events and access to media networks. - Connection Rating: 3 - Works for Miami News Network as a reporter.

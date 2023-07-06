@@ -1,0 +1,2 @@
+#miami 
+Former Mage Detective: Gabriel (Gabe) Ramirez, a former mage detective who retired from the force but still maintains connections and knowledge about magical crimes and the underworld. - Connection Rating: 4 - Retired from Miami Metro Police Department.

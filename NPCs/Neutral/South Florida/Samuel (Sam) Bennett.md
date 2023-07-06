@@ -1,0 +1,2 @@
+#miami 
+Investigator: Samuel (Sam) Bennett, a seasoned investigator skilled in uncovering secrets and conducting thorough research, offering his services to those seeking the truth. - Connection Rating: 4 - Freelance investigator and private eye.

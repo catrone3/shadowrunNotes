@@ -1,0 +1,2 @@
+#miami 
+Gang Member: Javier (Spike) Ramirez, a loyal and street-smart gang member known for his connections within the criminal underworld, providing information on gang activities and rivalries. - Connection Rating: 2 - Member of The Dead Suns gang.

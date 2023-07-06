@@ -55,6 +55,10 @@ This esteemed private school is one of the best in the hemisphere in the areas o
 
 A landmark of the city, this luxurious pool is a popular hangout. It's one of the few upscale places in the upscale neighborhood where all metas are always welcome. Expect to see fashion shoots and even filming done here on a regular basis.
 
+#### [[../../Corps (Local)/South Florida/Versailles Restaurant|Versailles Restaurant]]
+
+For the truly rich cuban metahuman - this is the place to be.  Originally not much more than a decent restaurant. Versailles restaurant now takes up much of two city blocks - and looks like a mini-Versailles. Private dining areas for secure meets are available.
+
 #### Viscaya Gardens: Dunkelzahn Institute for Magical Research
 
 A landmark of the city, this mansion and attached gardens are an uncanny imitation of Italian old world luxury. The museum and gardens regularly host weddings, festivals, and magical outreach programs. Purchased in 2057 with money from Dunkelzahn's will, the Dunkelkahn Institute for Magical research conducts their business here.

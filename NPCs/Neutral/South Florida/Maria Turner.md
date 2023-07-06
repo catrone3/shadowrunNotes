@@ -1,0 +1,2 @@
+#miami 
+Store Owner: Maria Turner, a knowledgeable and observant store owner with information on customers, local activities, and potential leads. - Connection Rating: 3 - Owns and operates Mitchell's Emporium.

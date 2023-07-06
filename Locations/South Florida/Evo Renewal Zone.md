@@ -15,17 +15,24 @@ Security is rating D. Infrequent patrols and poorly maintained PanicButton booth
 
 EVO's main shipping hub in the area.
 
-#### Santos' Culinary Haven
-![[../../Corps (Local)/South Florida/Santos' Culinary Haven|Santos' Culinary Haven]]
+#### [[../../Corps (Local)/South Florida/Santos' Culinary Haven|Santos' Culinary Haven]]
 
-#### Santos Dental Clinic
-![[../../Corps (Local)/South Florida/Santos Dental Clinic|Santos Dental Clinic]]
+Santos Dental Clinic is a reputable dental practice providing comprehensive dental care and oral health services. They offer a range of treatments, including general dentistry, cosmetic dentistry, and specialized procedures. Santos Dental Clinic is known for its skilled dentists, advanced equipment, and commitment to delivering personalized and high-quality dental care.
 
-#### Santos Mortuary Services
-![[../../Corps (Local)/South Florida/Santos Mortuary Services|Santos Mortuary Services]]
 
-#### Ramirez Auto Repair Shop
-![[../../Corps (Local)/South Florida/Ramirez Auto Repair Shop|Ramirez Auto Repair Shop]]
+#### [[../../Corps (Local)/South Florida/Santos Dental Clinic|Santos Dental Clinic]]
+
+Santos Dental Clinic is a reputable dental practice providing comprehensive dental care and oral health services. They offer a range of treatments, including general dentistry, cosmetic dentistry, and specialized procedures. Santos Dental Clinic is known for its skilled dentists, advanced equipment, and commitment to delivering personalized and high-quality dental care.
+
+
+#### [[../../Corps (Local)/South Florida/Santos Mortuary Services|Santos Mortuary Services]]
+
+Santos Mortuary Services is a trusted funeral home that provides compassionate and professional services to assist families in their time of loss. They offer funeral arrangements, embalming, cremation services, and grief support. Santos Mortuary Services is known for their empathy, attention to detail, and respectful handling of funeral proceedings.
+
+
+#### [[../../Corps (Local)/South Florida/Ramirez Auto Repair Shop|Ramirez Auto Repair Shop]]
+
+Ramirez Auto Repair Shop is a reputable automotive service center that specializes in repairing and maintaining vehicles. They offer a wide range of services, including mechanical repairs, diagnostics, and routine maintenance. Ramirez Auto Repair Shop is known for its experienced technicians, quality workmanship, and commitment to ensuring the optimal performance of vehicles.
 
 #### Zoo Miami
 

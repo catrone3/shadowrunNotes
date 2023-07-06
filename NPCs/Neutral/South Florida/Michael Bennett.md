@@ -1,0 +1,2 @@
+#miami 
+Media Producer: Michael Bennett, a creative and well-connected media producer responsible for producing news segments or trid shows, offering exposure and access to media resources. - Connection Rating: 4 - Produces investigative journalism documentaries.

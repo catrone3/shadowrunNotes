@@ -1,0 +1,2 @@
+#miami 
+Forensic Mage: William (Will) Blackwood, a skilled forensic mage who can uncover magical traces and provide insights into magical crimes and the workings of the astral plane. - Connection Rating: 4 - Employed by Miami Magical Investigations Unit.

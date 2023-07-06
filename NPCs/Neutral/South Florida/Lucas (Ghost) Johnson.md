@@ -1,0 +1,2 @@
+#miami 
+Saboteur: Lucas (Ghost) Johnson, a skilled saboteur specializing in discreet operations, offering his services for targeted sabotage and information on rival organizations. - Connection Rating: 4 - Specializes in covert sabotage operations.

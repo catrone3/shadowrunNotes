@@ -1,0 +1,2 @@
+#miami 
+Magical Security Engineer: Dr. Daniel Blackwood, a talented magical security engineer responsible for developing and maintaining magical defenses, offering insight into astral security and countermeasures. - Connection Rating: 4 - Works for WardSecure Magical Security Systems.

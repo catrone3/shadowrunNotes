@@ -1,0 +1,2 @@
+#miami 
+Technician: Miguel Clarke, a skilled technician proficient in various technical fields, offering repairs, modifications, and information on technological systems. - Connection Rating: 3 - Skilled in repairing and maintaining electronic devices.

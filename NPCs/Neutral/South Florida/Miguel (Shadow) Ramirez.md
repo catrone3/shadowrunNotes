@@ -1,0 +1,2 @@
+#miami 
+Smuggler: Miguel (Shadow) Ramirez, a resourceful and discreet smuggler with expertise in bypassing security measures and transporting contraband, offering smuggling services and information on smuggling routes. - Connection Rating: 4 - Operates covert smuggling operations.

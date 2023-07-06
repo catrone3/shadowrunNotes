@@ -1,0 +1,2 @@
+#miami 
+Meta Rights Activist: Dr. Rebecca Anderson, a passionate meta rights activist fighting for equality and justice, providing information on metahuman-related issues and connections to activist networks. - Connection Rating: 4 - Involved in metahuman rights advocacy.
