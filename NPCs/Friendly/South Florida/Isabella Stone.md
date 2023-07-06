@@ -1,5 +1,5 @@
 #miami
-
+![[../../../Images/shadowrun characters/Pasted image 20230706161427.png|500]]
 
 Connection Rating: 6
 

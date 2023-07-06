@@ -1,5 +1,5 @@
 #miami
-![[../../../Images/shadowrun characters/stock-photo-female-doctor-or-nurse-working-at-her-job-in-the-hospital-1625881963-transformed.jpeg]]
+![[../../../Images/shadowrun characters/stock-photo-female-doctor-or-nurse-working-at-her-job-in-the-hospital-1625881963-transformed.jpeg|500]]
 
 Connection Rating: 6
 

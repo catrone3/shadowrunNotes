@@ -99,4 +99,7 @@ After the formation of the new South Florida Government, thousands of A level co
 Miami as a whole is ridden with crime, although you wouldn't know this as a tourist. Lone star does a 
 
 
+### Near by Locations
+#### [[Cuba]]
+
 ## NPCs

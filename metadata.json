@@ -1,5 +1,464 @@
 [
   {
+    "fileName": "23-5-8",
+    "relativePath": "Berlin Crew Game Notes/23-5-8.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "links": [
+      {
+        "link": "Athens",
+        "relativePath": "Players/Athens.md"
+      },
+      {
+        "link": "Athens",
+        "relativePath": "Locations/Greece/Attica/Athens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "23-2-26",
+    "relativePath": "Berlin Crew Game Notes/23-2-26.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "links": [
+      {
+        "link": "Berlin Game",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Game.md"
+      }
+    ]
+  },
+  {
+    "fileName": "23-4-23",
+    "relativePath": "Berlin Crew Game Notes/23-4-23.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "links": [
+      {
+        "link": "Athens",
+        "relativePath": "Players/Athens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "23-3-26",
+    "relativePath": "Berlin Crew Game Notes/23-3-26.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "links": [
+      {
+        "link": "Athens",
+        "relativePath": "Players/Athens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "23-3-12",
+    "relativePath": "Berlin Crew Game Notes/23-3-12.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "links": [
+      {
+        "link": "Athens",
+        "relativePath": "Players/Athens.md"
+      },
+      {
+        "link": "Attica",
+        "relativePath": "Locations/Attica.md"
+      },
+      {
+        "link": "Attica",
+        "relativePath": "Locations/Attica.md"
+      }
+    ]
+  },
+  {
+    "fileName": "23-2-12",
+    "relativePath": "Berlin Crew Game Notes/23-2-12.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Fast and Furious",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Berlin Game",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Game.md"
+      },
+      {
+        "link": "Meatball",
+        "relativePath": "NPCs/Neutral/Germany/Meatball.md"
+      }
+    ]
+  },
+  {
+    "fileName": "23-1-15",
+    "relativePath": "Berlin Crew Game Notes/23-1-15.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "links": [
+      {
+        "link": "Berlin Game",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Game.md"
+      },
+      {
+        "link": "Leo Alliance",
+        "relativePath": "NPCs/Neutral/Organizations/Leo Alliance.md"
+      },
+      {
+        "link": "Immo Mauer",
+        "displayText": "Immo",
+        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
+      },
+      {
+        "link": "Leo Alliance",
+        "relativePath": "NPCs/Neutral/Organizations/Leo Alliance.md"
+      },
+      {
+        "link": "Immo Mauer",
+        "displayText": "Immo",
+        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
+      },
+      {
+        "link": "Immo Mauer",
+        "displayText": "Immo",
+        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
+      }
+    ]
+  },
+  {
+    "fileName": "23-1-29",
+    "relativePath": "Berlin Crew Game Notes/23-1-29.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "links": [
+      {
+        "link": "Berlin Game",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Game.md"
+      },
+      {
+        "link": "Immo Mauer",
+        "displayText": "Immo",
+        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
+      },
+      {
+        "link": "Reinhart (Templar) Gärtner",
+        "displayText": "Templar",
+        "relativePath": "NPCs/Friendly/Germany/Reinhart (Templar) Gärtner.md"
+      },
+      {
+        "link": "Immo Mauer",
+        "displayText": "Immo",
+        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
+      }
+    ]
+  },
+  {
+    "fileName": "23-01-01",
+    "relativePath": "Berlin Crew Game Notes/23-01-01.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Save the Team",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Berlin Game",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Game.md"
+      },
+      {
+        "link": "Immo Mauer",
+        "displayText": "Immo",
+        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-9-25",
+    "relativePath": "Berlin Crew Game Notes/22-9-25.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "No Angel left behind",
+        "level": 1
+      },
+      {
+        "heading": "Game actions",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Berlin Game",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Game.md"
+      },
+      {
+        "link": "Jericho",
+        "relativePath": "Players/Germany(Sunday)/Jericho.md"
+      },
+      {
+        "link": "Glitch",
+        "relativePath": "Players/Germany(Sunday)/Glitch.md"
+      },
+      {
+        "link": "Ardat-Lili Cyberware",
+        "relativePath": "A Corps/Ardat-Lili Cyberware.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-9-11",
+    "relativePath": "Berlin Crew Game Notes/22-9-11.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Attack on Ardat-Lili",
+        "level": 1
+      },
+      {
+        "heading": "Game actions",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Berlin Game",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Game.md"
+      },
+      {
+        "link": "Immo Mauer",
+        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
+      },
+      {
+        "link": "Ardat-Lili Cyberware",
+        "displayText": "ARDAT-LILI CYBERWARE",
+        "relativePath": "A Corps/Ardat-Lili Cyberware.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-8-14",
+    "relativePath": "Berlin Crew Game Notes/22-8-14.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Diederich's secret",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Berlin Game",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Game.md"
+      },
+      {
+        "link": "Immo Mauer",
+        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-7-17",
+    "relativePath": "Berlin Crew Game Notes/22-7-17.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Overblown",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Berlin Game",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Game.md"
+      },
+      {
+        "link": "Evangelia Kaufmann",
+        "relativePath": "NPCs/Friendly/Germany/Evangelia Kaufmann.md"
+      },
+      {
+        "link": "Glitch",
+        "relativePath": "Players/Germany(Sunday)/Glitch.md"
+      },
+      {
+        "link": "Glitch",
+        "relativePath": "Players/Germany(Sunday)/Glitch.md"
+      },
+      {
+        "link": "Immo Mauer",
+        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-7-3",
+    "relativePath": "Berlin Crew Game Notes/22-7-3.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "What comes around goes around",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Berlin Game",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Game.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-6-19",
+    "relativePath": "Berlin Crew Game Notes/22-6-19.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "links": [
+      {
+        "link": "Berlin Game",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Game.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-11-20",
+    "relativePath": "Berlin Crew Game Notes/22-11-20.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "[[../../NPCs/Friendly/Germany/Heidi Nagel|Heidi Nagel]]",
+        "level": 5
+      },
+      {
+        "heading": "End stats",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Berlin Game",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Game.md"
+      },
+      {
+        "link": "Evangelia Kaufmann",
+        "relativePath": "NPCs/Friendly/Germany/Evangelia Kaufmann.md"
+      },
+      {
+        "link": "Heidi Nagel",
+        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-11-06",
+    "relativePath": "Berlin Crew Game Notes/22-11-06.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "links": [
+      {
+        "link": "Berlin Game",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Game.md"
+      },
+      {
+        "link": "22-10-23",
+        "displayText": "Angel needs rehab",
+        "relativePath": "Berlin Crew Game Notes/22-10-23.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-10-9",
+    "relativePath": "Berlin Crew Game Notes/22-10-9.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Simple does not mean easy",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Berlin Game",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Game.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-10-23",
+    "relativePath": "Berlin Crew Game Notes/22-10-23.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Angel needs rehab",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Berlin Game",
+        "displayText": "Berlin Crew",
+        "relativePath": "Players/Berlin Game.md"
+      },
+      {
+        "link": "Evangelia Kaufmann",
+        "relativePath": "NPCs/Friendly/Germany/Evangelia Kaufmann.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "22-11-06",
+        "link": "22-10-23",
+        "relativePath": "Berlin Crew Game Notes/22-11-06.md",
+        "displayText": "Angel needs rehab"
+      }
+    ]
+  },
+  {
     "fileName": "Working with Github",
     "relativePath": "Working with Github.md",
     "headings": [
@@ -37,6 +496,637 @@
         "fileName": "Homepage",
         "link": "Working with Github",
         "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "South Florida Game",
+    "relativePath": "Players/South Florida Game.md",
+    "tags": [
+      "miami"
+    ],
+    "headings": [
+      {
+        "heading": "[[../Locations/South Florida|South Florida]]",
+        "level": 1
+      },
+      {
+        "heading": "Players",
+        "level": 1
+      },
+      {
+        "heading": "NPCs",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "South Florida",
+        "relativePath": "Locations/South Florida.md"
+      },
+      {
+        "link": "Agent Rebecca Sullivan",
+        "relativePath": "NPCs/Neutral/South Florida/Agent Rebecca Sullivan.md"
+      },
+      {
+        "link": "Edward Collins",
+        "relativePath": "NPCs/Neutral/South Florida/Edward Collins.md"
+      },
+      {
+        "link": "Michael Santos",
+        "relativePath": "NPCs/Neutral/South Florida/Michael Santos.md"
+      },
+      {
+        "link": "Aiyana Blackfeather",
+        "relativePath": "NPCs/Neutral/South Florida/Aiyana Blackfeather.md"
+      },
+      {
+        "link": "Elizabeth Morgan",
+        "relativePath": "NPCs/Neutral/South Florida/Elizabeth Morgan.md"
+      },
+      {
+        "link": "Michael Turner",
+        "relativePath": "NPCs/Neutral/South Florida/Michael Turner.md"
+      },
+      {
+        "link": "Alejandro (El Jefe) Hernandez",
+        "relativePath": "NPCs/Neutral/South Florida/Alejandro (El Jefe) Hernandez.md"
+      },
+      {
+        "link": "Emily Collins",
+        "relativePath": "NPCs/Neutral/South Florida/Emily Collins.md"
+      },
+      {
+        "link": "Miguel (Shadow) Ramirez",
+        "relativePath": "NPCs/Neutral/South Florida/Miguel (Shadow) Ramirez.md"
+      },
+      {
+        "link": "Alessandro (Alex) Rossi",
+        "relativePath": "NPCs/Neutral/South Florida/Alessandro (Alex) Rossi.md"
+      },
+      {
+        "link": "Emily Jenkins",
+        "relativePath": "NPCs/Neutral/South Florida/Emily Jenkins.md"
+      },
+      {
+        "link": "Miguel Clarke",
+        "relativePath": "NPCs/Neutral/South Florida/Miguel Clarke.md"
+      },
+      {
+        "link": "Alex Mitchell",
+        "relativePath": "NPCs/Neutral/South Florida/Alex Mitchell.md"
+      },
+      {
+        "link": "Emily Ramirez",
+        "relativePath": "NPCs/Neutral/South Florida/Emily Ramirez.md"
+      },
+      {
+        "link": "Miguel Hernandez",
+        "relativePath": "NPCs/Neutral/South Florida/Miguel Hernandez.md"
+      },
+      {
+        "link": "Alex Sullivan",
+        "relativePath": "NPCs/Neutral/South Florida/Alex Sullivan.md"
+      },
+      {
+        "link": "Emily Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Emily Thompson.md"
+      },
+      {
+        "link": "Miguel Santos",
+        "relativePath": "NPCs/Neutral/South Florida/Miguel Santos.md"
+      },
+      {
+        "link": "Alexander Blackwood",
+        "relativePath": "NPCs/Neutral/South Florida/Alexander Blackwood.md"
+      },
+      {
+        "link": "Evelyn (Evie) Carter",
+        "relativePath": "NPCs/Neutral/South Florida/Evelyn (Evie) Carter.md"
+      },
+      {
+        "link": "Officer Jessica Blackwood",
+        "relativePath": "NPCs/Neutral/South Florida/Officer Jessica Blackwood.md"
+      },
+      {
+        "link": "Alexander Cooper",
+        "relativePath": "NPCs/Neutral/South Florida/Alexander Cooper.md"
+      },
+      {
+        "link": "Father Daniel Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Father Daniel Thompson.md"
+      },
+      {
+        "link": "Officer Michael Sullivan",
+        "relativePath": "NPCs/Neutral/South Florida/Officer Michael Sullivan.md"
+      },
+      {
+        "link": "Alexander Turner",
+        "relativePath": "NPCs/Neutral/South Florida/Alexander Turner.md"
+      },
+      {
+        "link": "Franklin Barnes",
+        "relativePath": "NPCs/Neutral/South Florida/Franklin Barnes.md"
+      },
+      {
+        "link": "Olivia Bennett",
+        "relativePath": "NPCs/Neutral/South Florida/Olivia Bennett.md"
+      },
+      {
+        "link": "Ambassador Isabella Rossi",
+        "relativePath": "NPCs/Neutral/South Florida/Ambassador Isabella Rossi.md"
+      },
+      {
+        "link": "Gabriel (Gabe) Ramirez",
+        "relativePath": "NPCs/Neutral/South Florida/Gabriel (Gabe) Ramirez.md"
+      },
+      {
+        "link": "Olivia Blackwood",
+        "relativePath": "NPCs/Neutral/South Florida/Olivia Blackwood.md"
+      },
+      {
+        "link": "Amelia Rodriguez",
+        "relativePath": "NPCs/Neutral/South Florida/Amelia Rodriguez.md"
+      },
+      {
+        "link": "Gavin Mitchell",
+        "relativePath": "NPCs/Neutral/South Florida/Gavin Mitchell.md"
+      },
+      {
+        "link": "Olivia Chen",
+        "relativePath": "NPCs/Neutral/South Florida/Olivia Chen.md"
+      },
+      {
+        "link": "Andrew Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Andrew Thompson.md"
+      },
+      {
+        "link": "Isabella (Bella) Bianchi",
+        "relativePath": "NPCs/Neutral/South Florida/Isabella (Bella) Bianchi.md"
+      },
+      {
+        "link": "Olivia Cooper",
+        "relativePath": "NPCs/Neutral/South Florida/Olivia Cooper.md"
+      },
+      {
+        "link": "Angelina (Angel) Ramirez",
+        "relativePath": "NPCs/Neutral/South Florida/Angelina (Angel) Ramirez.md"
+      },
+      {
+        "link": "Isabella (Bella) Turner",
+        "relativePath": "NPCs/Neutral/South Florida/Isabella (Bella) Turner.md"
+      },
+      {
+        "link": "Olivia Mitchell",
+        "relativePath": "NPCs/Neutral/South Florida/Olivia Mitchell.md"
+      },
+      {
+        "link": "Arthur Jenkins",
+        "relativePath": "NPCs/Neutral/South Florida/Arthur Jenkins.md"
+      },
+      {
+        "link": "Isabella (Belle) Rodriguez",
+        "relativePath": "NPCs/Neutral/South Florida/Isabella (Belle) Rodriguez.md"
+      },
+      {
+        "link": "Olivia Stone",
+        "relativePath": "NPCs/Neutral/South Florida/Olivia Stone.md"
+      },
+      {
+        "link": "Benjamin Cooper",
+        "relativePath": "NPCs/Neutral/South Florida/Benjamin Cooper.md"
+      },
+      {
+        "link": "Isabella (Izzy) Martinez",
+        "relativePath": "NPCs/Neutral/South Florida/Isabella (Izzy) Martinez.md"
+      },
+      {
+        "link": "Olivia Turner",
+        "relativePath": "NPCs/Neutral/South Florida/Olivia Turner.md"
+      },
+      {
+        "link": "Benjamin Santos",
+        "relativePath": "NPCs/Neutral/South Florida/Benjamin Santos.md"
+      },
+      {
+        "link": "Isabella (Izzy) Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Isabella (Izzy) Thompson.md"
+      },
+      {
+        "link": "Private Marco Ramirez",
+        "relativePath": "NPCs/Neutral/South Florida/Private Marco Ramirez.md"
+      },
+      {
+        "link": "Benjamin Sullivan",
+        "relativePath": "NPCs/Neutral/South Florida/Benjamin Sullivan.md"
+      },
+      {
+        "link": "Isabella Santos",
+        "relativePath": "NPCs/Neutral/South Florida/Isabella Santos.md"
+      },
+      {
+        "link": "Rebecca Turner",
+        "relativePath": "NPCs/Neutral/South Florida/Rebecca Turner.md"
+      },
+      {
+        "link": "Captain Emily Johnson",
+        "relativePath": "NPCs/Neutral/South Florida/Captain Emily Johnson.md"
+      },
+      {
+        "link": "Isabella Turner",
+        "relativePath": "NPCs/Neutral/South Florida/Isabella Turner.md"
+      },
+      {
+        "link": "Riley Jacobs",
+        "relativePath": "NPCs/Neutral/South Florida/Riley Jacobs.md"
+      },
+      {
+        "link": "Carlos (Fish) Rodriguez",
+        "relativePath": "NPCs/Neutral/South Florida/Carlos (Fish) Rodriguez.md"
+      },
+      {
+        "link": "Isabelle Laurent",
+        "relativePath": "NPCs/Neutral/South Florida/Isabelle Laurent.md"
+      },
+      {
+        "link": "Salvatore (Don Salvatore) Bianchi",
+        "relativePath": "NPCs/Neutral/South Florida/Salvatore (Don Salvatore) Bianchi.md"
+      },
+      {
+        "link": "Carlos (Shadow) Rodriguez",
+        "relativePath": "NPCs/Neutral/South Florida/Carlos (Shadow) Rodriguez.md"
+      },
+      {
+        "link": "Jackson (Jack) Ramirez",
+        "relativePath": "NPCs/Neutral/South Florida/Jackson (Jack) Ramirez.md"
+      },
+      {
+        "link": "Samuel (Sam) Bennett",
+        "relativePath": "NPCs/Neutral/South Florida/Samuel (Sam) Bennett.md"
+      },
+      {
+        "link": "Carlos (Whisper) Santos",
+        "relativePath": "NPCs/Neutral/South Florida/Carlos (Whisper) Santos.md"
+      },
+      {
+        "link": "Jacob (Ironhand) Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Jacob (Ironhand) Thompson.md"
+      },
+      {
+        "link": "Samuel Johnson",
+        "relativePath": "NPCs/Neutral/South Florida/Samuel Johnson.md"
+      },
+      {
+        "link": "Carlos Bennett",
+        "relativePath": "NPCs/Neutral/South Florida/Carlos Bennett.md"
+      },
+      {
+        "link": "Jacob (Jake) Sullivan",
+        "relativePath": "NPCs/Neutral/South Florida/Jacob (Jake) Sullivan.md"
+      },
+      {
+        "link": "Sarah Cooper",
+        "relativePath": "NPCs/Neutral/South Florida/Sarah Cooper.md"
+      },
+      {
+        "link": "Carlos Blackwood",
+        "relativePath": "NPCs/Neutral/South Florida/Carlos Blackwood.md"
+      },
+      {
+        "link": "James Anderson",
+        "relativePath": "NPCs/Neutral/South Florida/James Anderson.md"
+      },
+      {
+        "link": "Sarah Mitchell",
+        "relativePath": "NPCs/Neutral/South Florida/Sarah Mitchell.md"
+      },
+      {
+        "link": "Carlos Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Carlos Thompson.md"
+      },
+      {
+        "link": "Javier (Spike) Ramirez",
+        "relativePath": "NPCs/Neutral/South Florida/Javier (Spike) Ramirez.md"
+      },
+      {
+        "link": "Sarah Turner",
+        "relativePath": "NPCs/Neutral/South Florida/Sarah Turner.md"
+      },
+      {
+        "link": "Cassandra (Cass) Reynolds",
+        "relativePath": "NPCs/Neutral/South Florida/Cassandra (Cass) Reynolds.md"
+      },
+      {
+        "link": "Jessica Cooper",
+        "relativePath": "NPCs/Neutral/South Florida/Jessica Cooper.md"
+      },
+      {
+        "link": "Senator Robert Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Senator Robert Thompson.md"
+      },
+      {
+        "link": "Chuck Finley",
+        "relativePath": "NPCs/Neutral/South Florida/Chuck Finley.md"
+      },
+      {
+        "link": "Jessica Mitchell",
+        "relativePath": "NPCs/Neutral/South Florida/Jessica Mitchell.md"
+      },
+      {
+        "link": "Sergeant Lucas (Guardian) Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Sergeant Lucas (Guardian) Thompson.md"
+      },
+      {
+        "link": "Colonel Jonathan Mitchell",
+        "relativePath": "NPCs/Neutral/South Florida/Colonel Jonathan Mitchell.md"
+      },
+      {
+        "link": "Jessica Turner",
+        "relativePath": "NPCs/Neutral/South Florida/Jessica Turner.md"
+      },
+      {
+        "link": "Sergeant Major Samuel Blackwood",
+        "relativePath": "NPCs/Neutral/South Florida/Sergeant Major Samuel Blackwood.md"
+      },
+      {
+        "link": "Commander Jonathan Blackwood",
+        "relativePath": "NPCs/Neutral/South Florida/Commander Jonathan Blackwood.md"
+      },
+      {
+        "link": "Kyle Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Kyle Thompson.md"
+      },
+      {
+        "link": "Shaman Alexander Stone",
+        "relativePath": "NPCs/Neutral/South Florida/Shaman Alexander Stone.md"
+      },
+      {
+        "link": "Daniel Turner",
+        "relativePath": "NPCs/Neutral/South Florida/Daniel Turner.md"
+      },
+      {
+        "link": "Leo Ramirez",
+        "relativePath": "NPCs/Neutral/South Florida/Leo Ramirez.md"
+      },
+      {
+        "link": "Simon (Sly) Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Simon (Sly) Thompson.md"
+      },
+      {
+        "link": "Deena Ruiz",
+        "relativePath": "NPCs/Neutral/South Florida/Deena Ruiz.md"
+      },
+      {
+        "link": "Lucas (Ghost) Johnson",
+        "relativePath": "NPCs/Neutral/South Florida/Lucas (Ghost) Johnson.md"
+      },
+      {
+        "link": "Sister Margaret Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Sister Margaret Thompson.md"
+      },
+      {
+        "link": "Detective Ethan Harris",
+        "relativePath": "NPCs/Neutral/South Florida/Detective Ethan Harris.md"
+      },
+      {
+        "link": "Lucas (Lucky) Monroe",
+        "relativePath": "NPCs/Neutral/South Florida/Lucas (Lucky) Monroe.md"
+      },
+      {
+        "link": "Sofia Rodriguez",
+        "relativePath": "NPCs/Neutral/South Florida/Sofia Rodriguez.md"
+      },
+      {
+        "link": "Detective Lisa Bennett",
+        "relativePath": "NPCs/Neutral/South Florida/Detective Lisa Bennett.md"
+      },
+      {
+        "link": "Lucas Ramirez",
+        "relativePath": "NPCs/Neutral/South Florida/Lucas Ramirez.md"
+      },
+      {
+        "link": "Sophia Cooper",
+        "relativePath": "NPCs/Neutral/South Florida/Sophia Cooper.md"
+      },
+      {
+        "link": "Detective Sophia Anderson",
+        "relativePath": "NPCs/Neutral/South Florida/Detective Sophia Anderson.md"
+      },
+      {
+        "link": "Marco (Mugsy) Ramirez",
+        "relativePath": "NPCs/Neutral/South Florida/Marco (Mugsy) Ramirez.md"
+      },
+      {
+        "link": "Sophia Ramirez",
+        "relativePath": "NPCs/Neutral/South Florida/Sophia Ramirez.md"
+      },
+      {
+        "link": "Diego Morales",
+        "relativePath": "NPCs/Neutral/South Florida/Diego Morales.md"
+      },
+      {
+        "link": "Marcus (Lucky) Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Marcus (Lucky) Thompson.md"
+      },
+      {
+        "link": "Valentina (Val) Blackwood",
+        "relativePath": "NPCs/Neutral/South Florida/Valentina (Val) Blackwood.md"
+      },
+      {
+        "link": "Dmitri (Dima) Petrov",
+        "relativePath": "NPCs/Neutral/South Florida/Dmitri (Dima) Petrov.md"
+      },
+      {
+        "link": "Marcus (Shadowcaster) Blackwood",
+        "relativePath": "NPCs/Neutral/South Florida/Marcus (Shadowcaster) Blackwood.md"
+      },
+      {
+        "link": "Veronica (Ronnie) Bennett",
+        "relativePath": "NPCs/Neutral/South Florida/Veronica (Ronnie) Bennett.md"
+      },
+      {
+        "link": "Dmitri Volkov",
+        "relativePath": "NPCs/Neutral/South Florida/Dmitri Volkov.md"
+      },
+      {
+        "link": "Marcus (Tech) Sullivan",
+        "relativePath": "NPCs/Neutral/South Florida/Marcus (Tech) Sullivan.md"
+      },
+      {
+        "link": "Victor (Blade) Turner",
+        "relativePath": "NPCs/Neutral/South Florida/Victor (Blade) Turner.md"
+      },
+      {
+        "link": "Dr. Benjamin Blackwood",
+        "relativePath": "NPCs/Neutral/South Florida/Dr. Benjamin Blackwood.md"
+      },
+      {
+        "link": "Marcus (Wheels) Johnson",
+        "relativePath": "NPCs/Neutral/South Florida/Marcus (Wheels) Johnson.md"
+      },
+      {
+        "link": "Victor (Brick) Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Victor (Brick) Thompson.md"
+      },
+      {
+        "link": "Dr. Benjamin Santos",
+        "relativePath": "NPCs/Neutral/South Florida/Dr. Benjamin Santos.md"
+      },
+      {
+        "link": "Marcus Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Marcus Thompson.md"
+      },
+      {
+        "link": "Victor (Brute) Johnson",
+        "relativePath": "NPCs/Neutral/South Florida/Victor (Brute) Johnson.md"
+      },
+      {
+        "link": "Dr. Benjamin Sullivan",
+        "relativePath": "NPCs/Neutral/South Florida/Dr. Benjamin Sullivan.md"
+      },
+      {
+        "link": "Maria Bianchi",
+        "relativePath": "NPCs/Neutral/South Florida/Maria Bianchi.md"
+      },
+      {
+        "link": "Victor (Viper) Russo",
+        "relativePath": "NPCs/Neutral/South Florida/Victor (Viper) Russo.md"
+      },
+      {
+        "link": "Dr. Benjamin Turner",
+        "relativePath": "NPCs/Neutral/South Florida/Dr. Benjamin Turner.md"
+      },
+      {
+        "link": "Maria Sanchez",
+        "relativePath": "NPCs/Neutral/South Florida/Maria Sanchez.md"
+      },
+      {
+        "link": "Victoria Morgan",
+        "relativePath": "NPCs/Neutral/South Florida/Victoria Morgan.md"
+      },
+      {
+        "link": "Dr. Daniel Blackwood",
+        "relativePath": "NPCs/Neutral/South Florida/Dr. Daniel Blackwood.md"
+      },
+      {
+        "link": "Maria Turner",
+        "relativePath": "NPCs/Neutral/South Florida/Maria Turner.md"
+      },
+      {
+        "link": "Victoria Stone",
+        "relativePath": "NPCs/Neutral/South Florida/Victoria Stone.md"
+      },
+      {
+        "link": "Dr. Emily Sullivan",
+        "relativePath": "NPCs/Neutral/South Florida/Dr. Emily Sullivan.md"
+      },
+      {
+        "link": "Mark Bennett",
+        "relativePath": "NPCs/Neutral/South Florida/Mark Bennett.md"
+      },
+      {
+        "link": "Viktor (Viper) Volkov",
+        "relativePath": "NPCs/Neutral/South Florida/Viktor (Viper) Volkov.md"
+      },
+      {
+        "link": "Dr. Evelyn Clarke",
+        "relativePath": "NPCs/Neutral/South Florida/Dr. Evelyn Clarke.md"
+      },
+      {
+        "link": "Mark Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Mark Thompson.md"
+      },
+      {
+        "link": "Viktor Petrov",
+        "relativePath": "NPCs/Neutral/South Florida/Viktor Petrov.md"
+      },
+      {
+        "link": "Dr. Isabella Clarke",
+        "relativePath": "NPCs/Neutral/South Florida/Dr. Isabella Clarke.md"
+      },
+      {
+        "link": "Mason (Brick) Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Mason (Brick) Thompson.md"
+      },
+      {
+        "link": "Vincent (Vinnie) Rodriguez",
+        "relativePath": "NPCs/Neutral/South Florida/Vincent (Vinnie) Rodriguez.md"
+      },
+      {
+        "link": "Dr. Michael Santos",
+        "relativePath": "NPCs/Neutral/South Florida/Dr. Michael Santos.md"
+      },
+      {
+        "link": "Max Sullivan",
+        "relativePath": "NPCs/Neutral/South Florida/Max Sullivan.md"
+      },
+      {
+        "link": "Vincent (Vinnie) Russo",
+        "relativePath": "NPCs/Neutral/South Florida/Vincent (Vinnie) Russo.md"
+      },
+      {
+        "link": "Dr. Rebecca Anderson",
+        "relativePath": "NPCs/Neutral/South Florida/Dr. Rebecca Anderson.md"
+      },
+      {
+        "link": "Mayor Emily Patterson",
+        "relativePath": "NPCs/Neutral/South Florida/Mayor Emily Patterson.md"
+      },
+      {
+        "link": "Warden Robert Mitchell",
+        "relativePath": "NPCs/Neutral/South Florida/Warden Robert Mitchell.md"
+      },
+      {
+        "link": "Dr. Rebecca Thompson",
+        "relativePath": "NPCs/Neutral/South Florida/Dr. Rebecca Thompson.md"
+      },
+      {
+        "link": "Mia (Raven) Bennett",
+        "relativePath": "NPCs/Neutral/South Florida/Mia (Raven) Bennett.md"
+      },
+      {
+        "link": "William (Will) Blackwood",
+        "relativePath": "NPCs/Neutral/South Florida/William (Will) Blackwood.md"
+      },
+      {
+        "link": "Dr. Samuel Collins",
+        "relativePath": "NPCs/Neutral/South Florida/Dr. Samuel Collins.md"
+      },
+      {
+        "link": "Mia Sullivan",
+        "relativePath": "NPCs/Neutral/South Florida/Mia Sullivan.md"
+      },
+      {
+        "link": "Xavier (X) Morgan",
+        "relativePath": "NPCs/Neutral/South Florida/Xavier (X) Morgan.md"
+      },
+      {
+        "link": "Dr. Sophia Clarke",
+        "relativePath": "NPCs/Neutral/South Florida/Dr. Sophia Clarke.md"
+      },
+      {
+        "link": "Michael Anderson",
+        "relativePath": "NPCs/Neutral/South Florida/Michael Anderson.md"
+      },
+      {
+        "link": "Zoe Anderson",
+        "relativePath": "NPCs/Neutral/South Florida/Zoe Anderson.md"
+      },
+      {
+        "link": "Dr. Valerie Anderson",
+        "relativePath": "NPCs/Neutral/South Florida/Dr. Valerie Anderson.md"
+      },
+      {
+        "link": "Michael Bennett",
+        "relativePath": "NPCs/Neutral/South Florida/Michael Bennett.md"
+      },
+      {
+        "link": "Dr. Victor Clarke",
+        "relativePath": "NPCs/Neutral/South Florida/Dr. Victor Clarke.md"
+      },
+      {
+        "link": "Michael Blackwood",
+        "relativePath": "NPCs/Neutral/South Florida/Michael Blackwood.md"
       }
     ]
   },
@@ -231,10 +1321,6 @@
       "neworleans"
     ],
     "headings": [
-      {
-        "heading": "New Orleans Map",
-        "level": 3
-      },
       {
         "heading": "Player Characters",
         "level": 3
@@ -1685,24 +2771,24 @@
     ],
     "backlinks": [
       {
+        "fileName": "22-9-25",
+        "link": "Glitch",
+        "relativePath": "Berlin Crew Game Notes/22-9-25.md"
+      },
+      {
+        "fileName": "22-7-17",
+        "link": "Glitch",
+        "relativePath": "Berlin Crew Game Notes/22-7-17.md"
+      },
+      {
+        "fileName": "22-7-17",
+        "link": "Glitch",
+        "relativePath": "Berlin Crew Game Notes/22-7-17.md"
+      },
+      {
         "fileName": "Berlin Game",
         "link": "Glitch",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "22-9-25",
-        "link": "Glitch",
-        "relativePath": "Berlin Crew/22-9-25.md"
-      },
-      {
-        "fileName": "22-7-17",
-        "link": "Glitch",
-        "relativePath": "Berlin Crew/22-7-17.md"
-      },
-      {
-        "fileName": "22-7-17",
-        "link": "Glitch",
-        "relativePath": "Berlin Crew/22-7-17.md"
       }
     ]
   },
@@ -1742,14 +2828,14 @@
     ],
     "backlinks": [
       {
+        "fileName": "22-9-25",
+        "link": "Jericho",
+        "relativePath": "Berlin Crew Game Notes/22-9-25.md"
+      },
+      {
         "fileName": "Berlin Game",
         "link": "Jericho",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "22-9-25",
-        "link": "Jericho",
-        "relativePath": "Berlin Crew/22-9-25.md"
       }
     ]
   },
@@ -2124,100 +3210,100 @@
     ],
     "backlinks": [
       {
-        "fileName": "Homepage",
-        "link": "Berlin Game",
-        "relativePath": "Homepage.md",
-        "displayText": "Berlin"
-      },
-      {
         "fileName": "23-2-26",
         "link": "Berlin Game",
-        "relativePath": "Berlin Crew/23-2-26.md",
+        "relativePath": "Berlin Crew Game Notes/23-2-26.md",
         "displayText": "Berlin Crew"
       },
       {
         "fileName": "23-2-12",
         "link": "Berlin Game",
-        "relativePath": "Berlin Crew/23-2-12.md",
+        "relativePath": "Berlin Crew Game Notes/23-2-12.md",
         "displayText": "Berlin Crew"
       },
       {
         "fileName": "23-1-15",
         "link": "Berlin Game",
-        "relativePath": "Berlin Crew/23-1-15.md",
+        "relativePath": "Berlin Crew Game Notes/23-1-15.md",
         "displayText": "Berlin Crew"
       },
       {
         "fileName": "23-1-29",
         "link": "Berlin Game",
-        "relativePath": "Berlin Crew/23-1-29.md",
+        "relativePath": "Berlin Crew Game Notes/23-1-29.md",
         "displayText": "Berlin Crew"
       },
       {
         "fileName": "23-01-01",
         "link": "Berlin Game",
-        "relativePath": "Berlin Crew/23-01-01.md",
+        "relativePath": "Berlin Crew Game Notes/23-01-01.md",
         "displayText": "Berlin Crew"
       },
       {
         "fileName": "22-9-25",
         "link": "Berlin Game",
-        "relativePath": "Berlin Crew/22-9-25.md",
+        "relativePath": "Berlin Crew Game Notes/22-9-25.md",
         "displayText": "Berlin Crew"
       },
       {
         "fileName": "22-9-11",
         "link": "Berlin Game",
-        "relativePath": "Berlin Crew/22-9-11.md",
+        "relativePath": "Berlin Crew Game Notes/22-9-11.md",
         "displayText": "Berlin Crew"
       },
       {
         "fileName": "22-8-14",
         "link": "Berlin Game",
-        "relativePath": "Berlin Crew/22-8-14.md",
+        "relativePath": "Berlin Crew Game Notes/22-8-14.md",
         "displayText": "Berlin Crew"
       },
       {
         "fileName": "22-7-17",
         "link": "Berlin Game",
-        "relativePath": "Berlin Crew/22-7-17.md",
+        "relativePath": "Berlin Crew Game Notes/22-7-17.md",
         "displayText": "Berlin Crew"
       },
       {
         "fileName": "22-7-3",
         "link": "Berlin Game",
-        "relativePath": "Berlin Crew/22-7-3.md",
+        "relativePath": "Berlin Crew Game Notes/22-7-3.md",
         "displayText": "Berlin Crew"
       },
       {
         "fileName": "22-6-19",
         "link": "Berlin Game",
-        "relativePath": "Berlin Crew/22-6-19.md",
+        "relativePath": "Berlin Crew Game Notes/22-6-19.md",
         "displayText": "Berlin Crew"
       },
       {
         "fileName": "22-11-20",
         "link": "Berlin Game",
-        "relativePath": "Berlin Crew/22-11-20.md",
+        "relativePath": "Berlin Crew Game Notes/22-11-20.md",
         "displayText": "Berlin Crew"
       },
       {
         "fileName": "22-11-06",
         "link": "Berlin Game",
-        "relativePath": "Berlin Crew/22-11-06.md",
+        "relativePath": "Berlin Crew Game Notes/22-11-06.md",
         "displayText": "Berlin Crew"
       },
       {
         "fileName": "22-10-9",
         "link": "Berlin Game",
-        "relativePath": "Berlin Crew/22-10-9.md",
+        "relativePath": "Berlin Crew Game Notes/22-10-9.md",
         "displayText": "Berlin Crew"
       },
       {
         "fileName": "22-10-23",
         "link": "Berlin Game",
-        "relativePath": "Berlin Crew/22-10-23.md",
+        "relativePath": "Berlin Crew Game Notes/22-10-23.md",
         "displayText": "Berlin Crew"
+      },
+      {
+        "fileName": "Homepage",
+        "link": "Berlin Game",
+        "relativePath": "Homepage.md",
+        "displayText": "Berlin"
       }
     ]
   },
@@ -3077,6 +4163,26 @@
     ],
     "backlinks": [
       {
+        "fileName": "23-5-8",
+        "link": "Athens",
+        "relativePath": "Berlin Crew Game Notes/23-5-8.md"
+      },
+      {
+        "fileName": "23-4-23",
+        "link": "Athens",
+        "relativePath": "Berlin Crew Game Notes/23-4-23.md"
+      },
+      {
+        "fileName": "23-3-26",
+        "link": "Athens",
+        "relativePath": "Berlin Crew Game Notes/23-3-26.md"
+      },
+      {
+        "fileName": "23-3-12",
+        "link": "Athens",
+        "relativePath": "Berlin Crew Game Notes/23-3-12.md"
+      },
+      {
         "fileName": "Attica",
         "link": "Athens",
         "relativePath": "Locations/Attica.md"
@@ -3095,26 +4201,6 @@
         "fileName": "The Chimera Alliance",
         "link": "Athens",
         "relativePath": "Factions/Attica/Crime Orgs/The Chimera Alliance.md"
-      },
-      {
-        "fileName": "23-5-8",
-        "link": "Athens",
-        "relativePath": "Berlin Crew/23-5-8.md"
-      },
-      {
-        "fileName": "23-4-23",
-        "link": "Athens",
-        "relativePath": "Berlin Crew/23-4-23.md"
-      },
-      {
-        "fileName": "23-3-26",
-        "link": "Athens",
-        "relativePath": "Berlin Crew/23-3-26.md"
-      },
-      {
-        "fileName": "23-3-12",
-        "link": "Athens",
-        "relativePath": "Berlin Crew/23-3-12.md"
       }
     ]
   },
@@ -3831,10 +4917,31 @@
     ]
   },
   {
+    "fileName": "Detective Sophia Anderson",
+    "relativePath": "NPCs/Neutral/South Florida/Detective Sophia Anderson.md",
+    "tags": [
+      "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Detective Sophia Anderson",
+        "relativePath": "Players/South Florida Game.md"
+      }
+    ]
+  },
+  {
     "fileName": "Deena Ruiz",
     "relativePath": "NPCs/Neutral/South Florida/Deena Ruiz.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Deena Ruiz",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3842,6 +4949,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Carlos Blackwood.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Carlos Blackwood",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3849,6 +4963,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Michael Santos.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Michael Santos",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3856,6 +4977,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Isabella Turner.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Isabella Turner",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3863,6 +4991,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Alexander Blackwood.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Alexander Blackwood",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3870,6 +5005,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Benjamin Santos.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Benjamin Santos",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3877,6 +5019,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Olivia Mitchell.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Olivia Mitchell",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3884,6 +5033,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Dr. Isabella Clarke.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dr. Isabella Clarke",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3891,6 +5047,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Carlos Bennett.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Carlos Bennett",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3898,6 +5061,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Victor (Brick) Thompson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Victor (Brick) Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3905,6 +5075,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Alexander Cooper.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Alexander Cooper",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3912,6 +5089,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Xavier (X) Morgan.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Xavier (X) Morgan",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3919,6 +5103,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Zoe Anderson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Zoe Anderson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3926,6 +5117,13 @@
     "relativePath": "NPCs/Neutral/South Florida/William (Will) Blackwood.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "William (Will) Blackwood",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3933,6 +5131,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Warden Robert Mitchell.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Warden Robert Mitchell",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3946,6 +5151,13 @@
         "link": "The Fixer's Den",
         "relativePath": "Corps (Local)/South Florida/The Fixer's Den.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Vincent (Vinnie) Russo",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3953,6 +5165,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Vincent (Vinnie) Rodriguez.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Vincent (Vinnie) Rodriguez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3966,6 +5185,13 @@
         "link": "Blackfire Arms & Armory",
         "relativePath": "Corps (Local)/South Florida/Blackfire Arms & Armory.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Viktor Petrov",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3973,6 +5199,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Victoria Stone.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Victoria Stone",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3980,6 +5213,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Viktor (Viper) Volkov.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Viktor (Viper) Volkov",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -3987,6 +5227,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Victor (Viper) Russo.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Victor (Viper) Russo",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4000,6 +5247,13 @@
         "link": "Aegis Corporation",
         "relativePath": "A Corps/Aegis/Aegis Corporation.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Victoria Morgan",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4007,6 +5261,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Victor (Brute) Johnson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Victor (Brute) Johnson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4020,6 +5281,13 @@
         "link": "Thompson Investigations",
         "relativePath": "Corps (Local)/South Florida/Thompson Investigations.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Veronica (Ronnie) Bennett",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4027,6 +5295,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Victor (Blade) Turner.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Victor (Blade) Turner",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4034,6 +5309,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Valentina (Val) Blackwood.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Valentina (Val) Blackwood",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4041,6 +5323,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Sophia Ramirez.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Sophia Ramirez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4048,6 +5337,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Sophia Cooper.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Sophia Cooper",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4061,6 +5357,13 @@
         "link": "The Neon Lounge",
         "relativePath": "Corps (Local)/South Florida/The Neon Lounge.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Sofia Rodriguez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4068,6 +5371,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Sister Margaret Thompson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Sister Margaret Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4075,6 +5385,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Simon (Sly) Thompson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Simon (Sly) Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4082,6 +5399,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Shaman Alexander Stone.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Shaman Alexander Stone",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4089,6 +5413,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Sergeant Major Samuel Blackwood.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Sergeant Major Samuel Blackwood",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4096,6 +5427,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Sergeant Lucas (Guardian) Thompson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Sergeant Lucas (Guardian) Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4103,6 +5441,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Senator Robert Thompson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Senator Robert Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4110,6 +5455,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Sarah Turner.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Sarah Turner",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4117,6 +5469,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Sarah Mitchell.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Sarah Mitchell",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4124,6 +5483,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Sarah Cooper.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Sarah Cooper",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4131,6 +5497,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Samuel Johnson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Samuel Johnson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4138,6 +5511,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Samuel (Sam) Bennett.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Samuel (Sam) Bennett",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4151,6 +5531,13 @@
         "link": "Swift Delivery Services",
         "relativePath": "Corps (Local)/South Florida/Swift Delivery Services.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Riley Jacobs",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4158,6 +5545,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Salvatore (Don Salvatore) Bianchi.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Salvatore (Don Salvatore) Bianchi",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4171,6 +5565,13 @@
         "link": "Secure Solutions Corporation",
         "relativePath": "Corps (Local)/South Florida/Secure Solutions Corporation.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Rebecca Turner",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4178,6 +5579,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Private Marco Ramirez.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Private Marco Ramirez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4185,6 +5593,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Olivia Turner.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Olivia Turner",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4192,6 +5607,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Olivia Stone.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Olivia Stone",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4199,6 +5621,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Olivia Cooper.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Olivia Cooper",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4212,6 +5641,13 @@
         "link": "Horizon Express Delivery",
         "relativePath": "AAA Corps/Horizon/Horizon Express Delivery.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Olivia Chen",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4219,6 +5655,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Olivia Blackwood.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Olivia Blackwood",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4232,6 +5675,13 @@
         "link": "Miami Sports Network",
         "relativePath": "Corps (Local)/South Florida/Miami Sports Network.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Olivia Bennett",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4239,6 +5689,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Officer Michael Sullivan.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Officer Michael Sullivan",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4246,6 +5703,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Miguel Santos.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Miguel Santos",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4253,6 +5717,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Officer Jessica Blackwood.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Officer Jessica Blackwood",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4265,6 +5736,13 @@
       {
         "link": "Miami Dockyards",
         "relativePath": "Corps (Local)/South Florida/Miami Dockyards.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Miguel Hernandez",
+        "relativePath": "Players/South Florida Game.md"
       }
     ]
   },
@@ -4279,6 +5757,13 @@
         "link": "Miami Daily",
         "relativePath": "Corps (Local)/South Florida/Miami Daily.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Michael Turner",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4286,6 +5771,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Miguel Clarke.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Miguel Clarke",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4293,6 +5785,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Miguel (Shadow) Ramirez.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Miguel (Shadow) Ramirez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4300,6 +5799,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Michael Blackwood.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Michael Blackwood",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4313,6 +5819,13 @@
         "link": "Aegis Corporation",
         "relativePath": "A Corps/Aegis/Aegis Corporation.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Michael Anderson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4320,6 +5833,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Michael Bennett.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Michael Bennett",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4327,6 +5847,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Mia (Raven) Bennett.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Mia (Raven) Bennett",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4340,6 +5867,13 @@
         "link": "Blackwood Gallery",
         "relativePath": "Corps (Local)/South Florida/Blackwood Gallery.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Mia Sullivan",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4347,6 +5881,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Mayor Emily Patterson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Mayor Emily Patterson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4359,6 +5900,13 @@
       {
         "link": "OmniTech Solutions",
         "relativePath": "A Corps/Omni Corp/OmniTech Solutions.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Max Sullivan",
+        "relativePath": "Players/South Florida Game.md"
       }
     ]
   },
@@ -4373,6 +5921,13 @@
         "link": "The Inferno Club",
         "relativePath": "Corps (Local)/South Florida/The Inferno Club.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Mason (Brick) Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4380,6 +5935,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Mark Thompson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Mark Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4393,6 +5955,13 @@
         "link": "Mitchell's Emporium",
         "relativePath": "Corps (Local)/South Florida/Mitchell's Emporium.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Maria Turner",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4400,6 +5969,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Maria Sanchez.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Maria Sanchez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4407,6 +5983,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Mark Bennett.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Mark Bennett",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4414,6 +5997,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Maria Bianchi.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Maria Bianchi",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4427,6 +6017,13 @@
         "link": "Turner & Mitchell Law Firm",
         "relativePath": "Corps (Local)/South Florida/Turner & Mitchell Law Firm.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Marcus Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4434,6 +6031,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Marcus (Wheels) Johnson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Marcus (Wheels) Johnson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4441,6 +6045,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Marcus (Tech) Sullivan.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Marcus (Tech) Sullivan",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4448,6 +6059,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Marcus (Lucky) Thompson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Marcus (Lucky) Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4455,6 +6073,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Marcus (Shadowcaster) Blackwood.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Marcus (Shadowcaster) Blackwood",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4462,6 +6087,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Marco (Mugsy) Ramirez.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Marco (Mugsy) Ramirez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4469,6 +6101,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Lucas Ramirez.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Lucas Ramirez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4476,6 +6115,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Lucas (Lucky) Monroe.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Lucas (Lucky) Monroe",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4483,6 +6129,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Lucas (Ghost) Johnson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Lucas (Ghost) Johnson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4495,6 +6148,13 @@
       {
         "link": "Azimuth Corporation",
         "relativePath": "A Corps/Azimuth Corporation.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Leo Ramirez",
+        "relativePath": "Players/South Florida Game.md"
       }
     ]
   },
@@ -4509,6 +6169,13 @@
         "link": "OmniCorp Security Solutions",
         "relativePath": "A Corps/Omni Corp/OmniCorp Security Solutions.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Kyle Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4521,6 +6188,13 @@
       {
         "link": "Turner & Mitchell Law Firm",
         "relativePath": "Corps (Local)/South Florida/Turner & Mitchell Law Firm.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Jessica Turner",
+        "relativePath": "Players/South Florida Game.md"
       }
     ]
   },
@@ -4535,6 +6209,13 @@
         "link": "Turner Realty",
         "relativePath": "Corps (Local)/South Florida/Turner Realty.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Jessica Mitchell",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4547,6 +6228,13 @@
       {
         "link": "GlobalTech Enterprises",
         "relativePath": "A Corps/GlobalTech Enterprises.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Jessica Cooper",
+        "relativePath": "Players/South Florida Game.md"
       }
     ]
   },
@@ -4561,6 +6249,13 @@
         "link": "Horizon Aviation Maintenance",
         "relativePath": "AAA Corps/Horizon/Horizon Aviation Maintenance.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Jackson (Jack) Ramirez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4568,6 +6263,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Javier (Spike) Ramirez.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Javier (Spike) Ramirez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4575,6 +6277,13 @@
     "relativePath": "NPCs/Neutral/South Florida/James Anderson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "James Anderson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4588,6 +6297,13 @@
         "link": "Ramirez Auto Repair Shop",
         "relativePath": "Corps (Local)/South Florida/Ramirez Auto Repair Shop.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Jacob (Jake) Sullivan",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4595,6 +6311,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Jacob (Ironhand) Thompson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Jacob (Ironhand) Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4602,6 +6325,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Isabella Santos.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Isabella Santos",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4615,6 +6345,13 @@
         "link": "The Royal Palm Hotel",
         "relativePath": "Corps (Local)/South Florida/The Royal Palm Hotel.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Isabelle Laurent",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4622,6 +6359,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Isabella (Izzy) Thompson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Isabella (Izzy) Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4629,6 +6373,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Isabella (Izzy) Martinez.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Isabella (Izzy) Martinez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4641,6 +6392,13 @@
       {
         "link": "Serenity Spa & Massage",
         "relativePath": "Corps (Local)/South Florida/Serenity Spa & Massage.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Isabella (Belle) Rodriguez",
+        "relativePath": "Players/South Florida Game.md"
       }
     ]
   },
@@ -4655,6 +6413,13 @@
         "link": "Turner Couture",
         "relativePath": "Corps (Local)/South Florida/Turner Couture.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Isabella (Bella) Bianchi",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4662,6 +6427,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Isabella (Bella) Turner.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Isabella (Bella) Turner",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4675,6 +6447,13 @@
         "link": "Knight Industries",
         "relativePath": "A Corps/Knight Industries.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Gavin Mitchell",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4682,6 +6461,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Gabriel (Gabe) Ramirez.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Gabriel (Gabe) Ramirez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4694,6 +6480,13 @@
       {
         "link": "Aegis Accounting Services",
         "relativePath": "A Corps/Aegis/Aegis Accounting Services.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Franklin Barnes",
+        "relativePath": "Players/South Florida Game.md"
       }
     ]
   },
@@ -4708,6 +6501,13 @@
         "link": "Saint Michael's Church",
         "relativePath": "Corps (Local)/South Florida/Saint Michael's Church.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Father Daniel Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4720,6 +6520,13 @@
       {
         "link": "Mercy General Hospital",
         "relativePath": "Corps (Local)/South Florida/Mercy General Hospital.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Emily Ramirez",
+        "relativePath": "Players/South Florida Game.md"
       }
     ]
   },
@@ -4734,6 +6541,13 @@
         "link": "Clean Sweep Cleaning Services",
         "relativePath": "Corps (Local)/South Florida/Clean Sweep Cleaning Services.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Evelyn (Evie) Carter",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4741,6 +6555,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Emily Thompson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Emily Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4754,6 +6575,13 @@
         "link": "Nexus Research Group",
         "relativePath": "A Corps/Nexus Research Group.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Emily Jenkins",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4761,6 +6589,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Emily Collins.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Emily Collins",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4768,6 +6603,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Elizabeth Morgan.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Elizabeth Morgan",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4781,6 +6623,13 @@
         "link": "Aegis Corporation",
         "relativePath": "A Corps/Aegis/Aegis Corporation.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Edward Collins",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4788,6 +6637,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Dr. Victor Clarke.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dr. Victor Clarke",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4800,6 +6656,13 @@
       {
         "link": "Serenity Medical Corporation",
         "relativePath": "A Corps/Serenity Medical Corporation.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dr. Valerie Anderson",
+        "relativePath": "Players/South Florida Game.md"
       }
     ]
   },
@@ -4814,6 +6677,13 @@
         "link": "Santos Mortuary Services",
         "relativePath": "Corps (Local)/South Florida/Santos Mortuary Services.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dr. Sophia Clarke",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4827,6 +6697,13 @@
         "link": "Mindscape Therapy Center",
         "relativePath": "Corps (Local)/South Florida/Mindscape Therapy Center.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dr. Samuel Collins",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4834,6 +6711,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Dr. Rebecca Anderson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dr. Rebecca Anderson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4847,6 +6731,13 @@
         "link": "Miami City Morgue",
         "relativePath": "Corps (Local)/South Florida/Miami City Morgue.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dr. Rebecca Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4854,6 +6745,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Dr. Michael Santos.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dr. Michael Santos",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4861,6 +6759,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Dr. Emily Sullivan.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dr. Emily Sullivan",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4873,6 +6778,13 @@
       {
         "link": "Nexus Research Group",
         "relativePath": "A Corps/Nexus Research Group.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dr. Evelyn Clarke",
+        "relativePath": "Players/South Florida Game.md"
       }
     ]
   },
@@ -4887,6 +6799,13 @@
         "link": "WardSecure Magical Security Systems",
         "relativePath": "A Corps/WardSecure Magical Security Systems.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dr. Daniel Blackwood",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4900,6 +6819,13 @@
         "link": "Blackwood Technologies",
         "relativePath": "A Corps/Blackwood Technologies.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dr. Benjamin Turner",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4907,6 +6833,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Dr. Benjamin Santos.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dr. Benjamin Santos",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4920,6 +6853,13 @@
         "link": "Santos Dental Clinic",
         "relativePath": "Corps (Local)/South Florida/Santos Dental Clinic.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dr. Benjamin Sullivan",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4927,6 +6867,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Dr. Benjamin Blackwood.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dr. Benjamin Blackwood",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4939,6 +6886,13 @@
       {
         "link": "Thompson Security Solutions",
         "relativePath": "A Corps/Thompson Security Solutions.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dmitri Volkov",
+        "relativePath": "Players/South Florida Game.md"
       }
     ]
   },
@@ -4953,6 +6907,13 @@
         "link": "The Nightshade Club",
         "relativePath": "Corps (Local)/South Florida/The Nightshade Club.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Dmitri (Dima) Petrov",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4966,6 +6927,13 @@
         "link": "Urban Development Solutions",
         "relativePath": "Corps (Local)/South Florida/Urban Development Solutions.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Diego Morales",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4973,6 +6941,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Detective Lisa Bennett.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Detective Lisa Bennett",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4980,13 +6955,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Detective Ethan Harris.md",
     "tags": [
       "miami"
-    ]
-  },
-  {
-    "fileName": "Detective Sophia Anderson=",
-    "relativePath": "NPCs/Neutral/South Florida/Detective Sophia Anderson=.md",
-    "tags": [
-      "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Detective Ethan Harris",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -4994,6 +6969,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Daniel Turner.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Daniel Turner",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5001,6 +6983,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Colonel Jonathan Mitchell.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Colonel Jonathan Mitchell",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5013,6 +7002,13 @@
       {
         "link": "Aegis Corporation",
         "relativePath": "A Corps/Aegis/Aegis Corporation.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Commander Jonathan Blackwood",
+        "relativePath": "Players/South Florida Game.md"
       }
     ]
   },
@@ -5027,6 +7023,18 @@
         "link": "Carlito's Bar",
         "relativePath": "Corps (Local)/South Florida/Carlito's Bar.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Chuck Finley",
+        "relativePath": "Players/South Florida Game.md"
+      },
+      {
+        "fileName": "Carlito's Bar",
+        "link": "Chuck Finley",
+        "relativePath": "Corps (Local)/South Florida/Carlito's Bar.md"
+      }
     ]
   },
   {
@@ -5034,6 +7042,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Cassandra (Cass) Reynolds.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Cassandra (Cass) Reynolds",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5041,6 +7056,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Carlos Thompson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Carlos Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5048,6 +7070,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Carlos (Whisper) Santos.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Carlos (Whisper) Santos",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5055,6 +7084,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Carlos (Shadow) Rodriguez.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Carlos (Shadow) Rodriguez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5068,6 +7104,13 @@
         "link": "Miami Central Library",
         "relativePath": "Corps (Local)/South Florida/Miami Central Library.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Arthur Jenkins",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5075,6 +7118,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Carlos (Fish) Rodriguez.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Carlos (Fish) Rodriguez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5082,6 +7132,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Captain Emily Johnson.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Captain Emily Johnson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5095,6 +7152,13 @@
         "link": "Silverstone Investments",
         "relativePath": "Corps (Local)/South Florida/Silverstone Investments.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Benjamin Sullivan",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5102,6 +7166,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Benjamin Cooper.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Benjamin Cooper",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5109,6 +7180,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Angelina (Angel) Ramirez.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Angelina (Angel) Ramirez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5122,6 +7200,13 @@
         "link": "Elysium",
         "relativePath": "Corps (Local)/South Florida/Elysium.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Andrew Thompson",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5129,6 +7214,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Amelia Rodriguez.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Amelia Rodriguez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5136,6 +7228,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Ambassador Isabella Rossi.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Ambassador Isabella Rossi",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5143,6 +7242,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Alexander Turner.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Alexander Turner",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5150,6 +7256,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Alex Mitchell.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Alex Mitchell",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5157,6 +7270,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Alex Sullivan.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Alex Sullivan",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5164,6 +7284,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Aiyana Blackfeather.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Aiyana Blackfeather",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5171,6 +7298,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Alejandro (El Jefe) Hernandez.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Alejandro (El Jefe) Hernandez",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5184,6 +7318,13 @@
         "link": "Santos' Culinary Haven",
         "relativePath": "Corps (Local)/South Florida/Santos' Culinary Haven.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Alessandro (Alex) Rossi",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5191,6 +7332,13 @@
     "relativePath": "NPCs/Neutral/South Florida/Agent Rebecca Sullivan.md",
     "tags": [
       "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Agent Rebecca Sullivan",
+        "relativePath": "Players/South Florida Game.md"
+      }
     ]
   },
   {
@@ -5399,12 +7547,12 @@
       {
         "fileName": "23-1-15",
         "link": "Leo Alliance",
-        "relativePath": "Berlin Crew/23-1-15.md"
+        "relativePath": "Berlin Crew Game Notes/23-1-15.md"
       },
       {
         "fileName": "23-1-15",
         "link": "Leo Alliance",
-        "relativePath": "Berlin Crew/23-1-15.md"
+        "relativePath": "Berlin Crew Game Notes/23-1-15.md"
       }
     ]
   },
@@ -5640,7 +7788,7 @@
       {
         "fileName": "23-2-12",
         "link": "Meatball",
-        "relativePath": "Berlin Crew/23-2-12.md"
+        "relativePath": "Berlin Crew Game Notes/23-2-12.md"
       }
     ]
   },
@@ -7707,6 +9855,12 @@
     ],
     "backlinks": [
       {
+        "fileName": "23-1-29",
+        "link": "Reinhart (Templar) Gärtner",
+        "relativePath": "Berlin Crew Game Notes/23-1-29.md",
+        "displayText": "Templar"
+      },
+      {
         "fileName": "Berlin Game",
         "link": "Reinhart (Templar) Gärtner",
         "relativePath": "Players/Berlin Game.md",
@@ -7717,12 +9871,6 @@
         "link": "Reinhart (Templar) Gärtner",
         "relativePath": "GM Info/Germany/information.md",
         "displayText": "Reinhart \"Templar\" Gärtner"
-      },
-      {
-        "fileName": "23-1-29",
-        "link": "Reinhart (Templar) Gärtner",
-        "relativePath": "Berlin Crew/23-1-29.md",
-        "displayText": "Templar"
       }
     ]
   },
@@ -7950,6 +10098,57 @@
     ],
     "backlinks": [
       {
+        "fileName": "23-1-15",
+        "link": "Immo Mauer",
+        "relativePath": "Berlin Crew Game Notes/23-1-15.md",
+        "displayText": "Immo"
+      },
+      {
+        "fileName": "23-1-15",
+        "link": "Immo Mauer",
+        "relativePath": "Berlin Crew Game Notes/23-1-15.md",
+        "displayText": "Immo"
+      },
+      {
+        "fileName": "23-1-15",
+        "link": "Immo Mauer",
+        "relativePath": "Berlin Crew Game Notes/23-1-15.md",
+        "displayText": "Immo"
+      },
+      {
+        "fileName": "23-1-29",
+        "link": "Immo Mauer",
+        "relativePath": "Berlin Crew Game Notes/23-1-29.md",
+        "displayText": "Immo"
+      },
+      {
+        "fileName": "23-1-29",
+        "link": "Immo Mauer",
+        "relativePath": "Berlin Crew Game Notes/23-1-29.md",
+        "displayText": "Immo"
+      },
+      {
+        "fileName": "23-01-01",
+        "link": "Immo Mauer",
+        "relativePath": "Berlin Crew Game Notes/23-01-01.md",
+        "displayText": "Immo"
+      },
+      {
+        "fileName": "22-9-11",
+        "link": "Immo Mauer",
+        "relativePath": "Berlin Crew Game Notes/22-9-11.md"
+      },
+      {
+        "fileName": "22-8-14",
+        "link": "Immo Mauer",
+        "relativePath": "Berlin Crew Game Notes/22-8-14.md"
+      },
+      {
+        "fileName": "22-7-17",
+        "link": "Immo Mauer",
+        "relativePath": "Berlin Crew Game Notes/22-7-17.md"
+      },
+      {
         "fileName": "Berlin Game",
         "link": "Immo Mauer",
         "relativePath": "Players/Berlin Game.md"
@@ -7958,57 +10157,6 @@
         "fileName": "information",
         "link": "Immo Mauer",
         "relativePath": "GM Info/Germany/information.md"
-      },
-      {
-        "fileName": "23-1-15",
-        "link": "Immo Mauer",
-        "relativePath": "Berlin Crew/23-1-15.md",
-        "displayText": "Immo"
-      },
-      {
-        "fileName": "23-1-15",
-        "link": "Immo Mauer",
-        "relativePath": "Berlin Crew/23-1-15.md",
-        "displayText": "Immo"
-      },
-      {
-        "fileName": "23-1-15",
-        "link": "Immo Mauer",
-        "relativePath": "Berlin Crew/23-1-15.md",
-        "displayText": "Immo"
-      },
-      {
-        "fileName": "23-1-29",
-        "link": "Immo Mauer",
-        "relativePath": "Berlin Crew/23-1-29.md",
-        "displayText": "Immo"
-      },
-      {
-        "fileName": "23-1-29",
-        "link": "Immo Mauer",
-        "relativePath": "Berlin Crew/23-1-29.md",
-        "displayText": "Immo"
-      },
-      {
-        "fileName": "23-01-01",
-        "link": "Immo Mauer",
-        "relativePath": "Berlin Crew/23-01-01.md",
-        "displayText": "Immo"
-      },
-      {
-        "fileName": "22-9-11",
-        "link": "Immo Mauer",
-        "relativePath": "Berlin Crew/22-9-11.md"
-      },
-      {
-        "fileName": "22-8-14",
-        "link": "Immo Mauer",
-        "relativePath": "Berlin Crew/22-8-14.md"
-      },
-      {
-        "fileName": "22-7-17",
-        "link": "Immo Mauer",
-        "relativePath": "Berlin Crew/22-7-17.md"
       }
     ]
   },
@@ -8019,6 +10167,11 @@
       "berlin"
     ],
     "backlinks": [
+      {
+        "fileName": "22-11-20",
+        "link": "Heidi Nagel",
+        "relativePath": "Berlin Crew Game Notes/22-11-20.md"
+      },
       {
         "fileName": "Tanka",
         "link": "Heidi Nagel",
@@ -8053,11 +10206,6 @@
         "fileName": "Angel",
         "link": "Heidi Nagel",
         "relativePath": "Players/Athens/Angel.md"
-      },
-      {
-        "fileName": "22-11-20",
-        "link": "Heidi Nagel",
-        "relativePath": "Berlin Crew/22-11-20.md"
       }
     ]
   },
@@ -8166,6 +10314,21 @@
     ],
     "backlinks": [
       {
+        "fileName": "22-7-17",
+        "link": "Evangelia Kaufmann",
+        "relativePath": "Berlin Crew Game Notes/22-7-17.md"
+      },
+      {
+        "fileName": "22-11-20",
+        "link": "Evangelia Kaufmann",
+        "relativePath": "Berlin Crew Game Notes/22-11-20.md"
+      },
+      {
+        "fileName": "22-10-23",
+        "link": "Evangelia Kaufmann",
+        "relativePath": "Berlin Crew Game Notes/22-10-23.md"
+      },
+      {
         "fileName": "Berlin Game",
         "link": "Evangelia Kaufmann",
         "relativePath": "Players/Berlin Game.md"
@@ -8174,21 +10337,6 @@
         "fileName": "information",
         "link": "Evangelia Kaufmann",
         "relativePath": "GM Info/Germany/information.md"
-      },
-      {
-        "fileName": "22-7-17",
-        "link": "Evangelia Kaufmann",
-        "relativePath": "Berlin Crew/22-7-17.md"
-      },
-      {
-        "fileName": "22-11-20",
-        "link": "Evangelia Kaufmann",
-        "relativePath": "Berlin Crew/22-11-20.md"
-      },
-      {
-        "fileName": "22-10-23",
-        "link": "Evangelia Kaufmann",
-        "relativePath": "Berlin Crew/22-10-23.md"
       }
     ]
   },
@@ -9929,6 +12077,18 @@
       {
         "heading": "Modern Miami",
         "level": 4
+      },
+      {
+        "heading": "Near by Locations",
+        "level": 3
+      },
+      {
+        "heading": "[[Cuba]]",
+        "level": 4
+      },
+      {
+        "heading": "NPCs",
+        "level": 2
       }
     ],
     "links": [
@@ -10135,9 +12295,18 @@
       {
         "link": "Wyndwood",
         "relativePath": "Locations/South Florida/Wyndwood.md"
+      },
+      {
+        "link": "Cuba",
+        "relativePath": "Locations/Cuba.md"
       }
     ],
     "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "South Florida",
+        "relativePath": "Players/South Florida Game.md"
+      },
       {
         "fileName": "Homepage",
         "link": "South Florida",
@@ -12277,6 +14446,12 @@
     "tags": [
       "neworleans"
     ],
+    "headings": [
+      {
+        "heading": "New Orleans Map",
+        "level": 3
+      }
+    ],
     "backlinks": [
       {
         "fileName": "Homepage",
@@ -13016,7 +15191,7 @@
       {
         "fileName": "23-5-8",
         "link": "Athens",
-        "relativePath": "Berlin Crew/23-5-8.md"
+        "relativePath": "Berlin Crew Game Notes/23-5-8.md"
       },
       {
         "fileName": "AZT-Athens",
@@ -13048,6 +15223,9 @@
   {
     "fileName": "Cuba",
     "relativePath": "Locations/Cuba.md",
+    "tags": [
+      "miami"
+    ],
     "headings": [
       {
         "heading": "Locations",
@@ -13056,6 +15234,13 @@
       {
         "heading": "Cay Sal",
         "level": 4
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida",
+        "link": "Cuba",
+        "relativePath": "Locations/South Florida.md"
       }
     ]
   },
@@ -13147,6 +15332,16 @@
     ],
     "backlinks": [
       {
+        "fileName": "23-3-12",
+        "link": "Attica",
+        "relativePath": "Berlin Crew Game Notes/23-3-12.md"
+      },
+      {
+        "fileName": "23-3-12",
+        "link": "Attica",
+        "relativePath": "Berlin Crew Game Notes/23-3-12.md"
+      },
+      {
         "fileName": "Athens",
         "link": "Attica",
         "relativePath": "Players/Athens.md"
@@ -13190,16 +15385,6 @@
         "fileName": "Athena's Owl",
         "link": "Attica",
         "relativePath": "Factions/Attica/Crime Orgs/Athena's Owl.md"
-      },
-      {
-        "fileName": "23-3-12",
-        "link": "Attica",
-        "relativePath": "Berlin Crew/23-3-12.md"
-      },
-      {
-        "fileName": "23-3-12",
-        "link": "Attica",
-        "relativePath": "Berlin Crew/23-3-12.md"
       }
     ]
   },
@@ -16828,6 +19013,12 @@
     "tags": [
       "miami"
     ],
+    "links": [
+      {
+        "link": "Chuck Finley",
+        "relativePath": "NPCs/Neutral/South Florida/Chuck Finley.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "Chuck Finley",
@@ -17833,465 +20024,6 @@
         "link": "Denver Prime",
         "displayText": "Denver Specials",
         "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "23-5-8",
-    "relativePath": "Berlin Crew/23-5-8.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "links": [
-      {
-        "link": "Athens",
-        "relativePath": "Players/Athens.md"
-      },
-      {
-        "link": "Athens",
-        "relativePath": "Locations/Greece/Attica/Athens.md"
-      }
-    ]
-  },
-  {
-    "fileName": "23-2-26",
-    "relativePath": "Berlin Crew/23-2-26.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "links": [
-      {
-        "link": "Berlin Game",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Game.md"
-      }
-    ]
-  },
-  {
-    "fileName": "23-4-23",
-    "relativePath": "Berlin Crew/23-4-23.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "links": [
-      {
-        "link": "Athens",
-        "relativePath": "Players/Athens.md"
-      }
-    ]
-  },
-  {
-    "fileName": "23-3-26",
-    "relativePath": "Berlin Crew/23-3-26.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "links": [
-      {
-        "link": "Athens",
-        "relativePath": "Players/Athens.md"
-      }
-    ]
-  },
-  {
-    "fileName": "23-3-12",
-    "relativePath": "Berlin Crew/23-3-12.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "links": [
-      {
-        "link": "Athens",
-        "relativePath": "Players/Athens.md"
-      },
-      {
-        "link": "Attica",
-        "relativePath": "Locations/Attica.md"
-      },
-      {
-        "link": "Attica",
-        "relativePath": "Locations/Attica.md"
-      }
-    ]
-  },
-  {
-    "fileName": "23-2-12",
-    "relativePath": "Berlin Crew/23-2-12.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Fast and Furious",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Berlin Game",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "link": "Meatball",
-        "relativePath": "NPCs/Neutral/Germany/Meatball.md"
-      }
-    ]
-  },
-  {
-    "fileName": "23-1-15",
-    "relativePath": "Berlin Crew/23-1-15.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "links": [
-      {
-        "link": "Berlin Game",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "link": "Leo Alliance",
-        "relativePath": "NPCs/Neutral/Organizations/Leo Alliance.md"
-      },
-      {
-        "link": "Immo Mauer",
-        "displayText": "Immo",
-        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
-      },
-      {
-        "link": "Leo Alliance",
-        "relativePath": "NPCs/Neutral/Organizations/Leo Alliance.md"
-      },
-      {
-        "link": "Immo Mauer",
-        "displayText": "Immo",
-        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
-      },
-      {
-        "link": "Immo Mauer",
-        "displayText": "Immo",
-        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
-      }
-    ]
-  },
-  {
-    "fileName": "23-1-29",
-    "relativePath": "Berlin Crew/23-1-29.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "links": [
-      {
-        "link": "Berlin Game",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "link": "Immo Mauer",
-        "displayText": "Immo",
-        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
-      },
-      {
-        "link": "Reinhart (Templar) Gärtner",
-        "displayText": "Templar",
-        "relativePath": "NPCs/Friendly/Germany/Reinhart (Templar) Gärtner.md"
-      },
-      {
-        "link": "Immo Mauer",
-        "displayText": "Immo",
-        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
-      }
-    ]
-  },
-  {
-    "fileName": "23-01-01",
-    "relativePath": "Berlin Crew/23-01-01.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Save the Team",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Berlin Game",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "link": "Immo Mauer",
-        "displayText": "Immo",
-        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-9-25",
-    "relativePath": "Berlin Crew/22-9-25.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "No Angel left behind",
-        "level": 1
-      },
-      {
-        "heading": "Game actions",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Berlin Game",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "link": "Jericho",
-        "relativePath": "Players/Germany(Sunday)/Jericho.md"
-      },
-      {
-        "link": "Glitch",
-        "relativePath": "Players/Germany(Sunday)/Glitch.md"
-      },
-      {
-        "link": "Ardat-Lili Cyberware",
-        "relativePath": "A Corps/Ardat-Lili Cyberware.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-9-11",
-    "relativePath": "Berlin Crew/22-9-11.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Attack on Ardat-Lili",
-        "level": 1
-      },
-      {
-        "heading": "Game actions",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Berlin Game",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "link": "Immo Mauer",
-        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
-      },
-      {
-        "link": "Ardat-Lili Cyberware",
-        "displayText": "ARDAT-LILI CYBERWARE",
-        "relativePath": "A Corps/Ardat-Lili Cyberware.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-8-14",
-    "relativePath": "Berlin Crew/22-8-14.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Diederich's secret",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Berlin Game",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "link": "Immo Mauer",
-        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-7-17",
-    "relativePath": "Berlin Crew/22-7-17.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Overblown",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Berlin Game",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "link": "Evangelia Kaufmann",
-        "relativePath": "NPCs/Friendly/Germany/Evangelia Kaufmann.md"
-      },
-      {
-        "link": "Glitch",
-        "relativePath": "Players/Germany(Sunday)/Glitch.md"
-      },
-      {
-        "link": "Glitch",
-        "relativePath": "Players/Germany(Sunday)/Glitch.md"
-      },
-      {
-        "link": "Immo Mauer",
-        "relativePath": "NPCs/Friendly/Germany/Immo Mauer.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-7-3",
-    "relativePath": "Berlin Crew/22-7-3.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "What comes around goes around",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Berlin Game",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Game.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-6-19",
-    "relativePath": "Berlin Crew/22-6-19.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "links": [
-      {
-        "link": "Berlin Game",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Game.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-11-20",
-    "relativePath": "Berlin Crew/22-11-20.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "[[../../NPCs/Friendly/Germany/Heidi Nagel|Heidi Nagel]]",
-        "level": 5
-      },
-      {
-        "heading": "End stats",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "Berlin Game",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "link": "Evangelia Kaufmann",
-        "relativePath": "NPCs/Friendly/Germany/Evangelia Kaufmann.md"
-      },
-      {
-        "link": "Heidi Nagel",
-        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-11-06",
-    "relativePath": "Berlin Crew/22-11-06.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "links": [
-      {
-        "link": "Berlin Game",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "link": "22-10-23",
-        "displayText": "Angel needs rehab",
-        "relativePath": "Berlin Crew/22-10-23.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-10-9",
-    "relativePath": "Berlin Crew/22-10-9.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Simple does not mean easy",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Berlin Game",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Game.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-10-23",
-    "relativePath": "Berlin Crew/22-10-23.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Angel needs rehab",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Berlin Game",
-        "displayText": "Berlin Crew",
-        "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "link": "Evangelia Kaufmann",
-        "relativePath": "NPCs/Friendly/Germany/Evangelia Kaufmann.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "22-11-06",
-        "link": "22-10-23",
-        "relativePath": "Berlin Crew/22-11-06.md",
-        "displayText": "Angel needs rehab"
       }
     ]
   },
@@ -20582,20 +22314,20 @@
     ],
     "backlinks": [
       {
-        "fileName": "information",
-        "link": "Ardat-Lili Cyberware",
-        "relativePath": "GM Info/Germany/information.md"
-      },
-      {
         "fileName": "22-9-25",
         "link": "Ardat-Lili Cyberware",
-        "relativePath": "Berlin Crew/22-9-25.md"
+        "relativePath": "Berlin Crew Game Notes/22-9-25.md"
       },
       {
         "fileName": "22-9-11",
         "link": "Ardat-Lili Cyberware",
-        "relativePath": "Berlin Crew/22-9-11.md",
+        "relativePath": "Berlin Crew Game Notes/22-9-11.md",
         "displayText": "ARDAT-LILI CYBERWARE"
+      },
+      {
+        "fileName": "information",
+        "link": "Ardat-Lili Cyberware",
+        "relativePath": "GM Info/Germany/information.md"
       }
     ]
   },

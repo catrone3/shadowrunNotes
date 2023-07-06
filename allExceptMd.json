@@ -17,10 +17,6 @@
       "relativePath": "AAA Corps"
     },
     {
-      "name": "Berlin Crew",
-      "relativePath": "Berlin Crew"
-    },
-    {
       "name": "Denver Game notes",
       "relativePath": "Denver Game notes"
     },
@@ -447,6 +443,18 @@
     {
       "name": "6th Circle",
       "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer/6th Circle"
+    },
+    {
+      "name": "Berlin Crew Game Notes",
+      "relativePath": "Berlin Crew Game Notes"
+    },
+    {
+      "name": "South Florida Game Notes",
+      "relativePath": "South Florida Game Notes"
+    },
+    {
+      "name": "unused images",
+      "relativePath": "Images/unused images"
     }
   ],
   "nonMdFiles": [
@@ -474,16 +482,6 @@
       "name": "tags.json",
       "basename": "tags",
       "relativePath": "tags.json"
-    },
-    {
-      "name": "Pasted image 20230701141836.png",
-      "basename": "Pasted image 20230701141836",
-      "relativePath": "Images/Pasted image 20230701141836.png"
-    },
-    {
-      "name": "Pasted image 20230701142209.png",
-      "basename": "Pasted image 20230701142209",
-      "relativePath": "Images/Pasted image 20230701142209.png"
     },
     {
       "name": "Litehouse Industries.canvas",
@@ -1339,6 +1337,51 @@
       "name": "Weagona.png",
       "basename": "Weagona",
       "relativePath": "Images/shadowrun characters/Weagona.png"
+    },
+    {
+      "name": "Pasted image 20230706161427.png",
+      "basename": "Pasted image 20230706161427",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230706161427.png"
+    },
+    {
+      "name": "Pasted image 20230701141836.png",
+      "basename": "Pasted image 20230701141836",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230701141836.png"
+    },
+    {
+      "name": "Pasted image 20230701142209.png",
+      "basename": "Pasted image 20230701142209",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230701142209.png"
+    },
+    {
+      "name": "Pasted image 20230706151441.png",
+      "basename": "Pasted image 20230706151441",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230706151441.png"
+    },
+    {
+      "name": "catrone3_female_elf_with_flowing_sulver_hair_equisite_jewelry_a_a2f7cec3-fb3a-410e-8adf-42bcb212ee60.png",
+      "basename": "catrone3_female_elf_with_flowing_sulver_hair_equisite_jewelry_a_a2f7cec3-fb3a-410e-8adf-42bcb212ee60",
+      "relativePath": "Images/unused images/catrone3_female_elf_with_flowing_sulver_hair_equisite_jewelry_a_a2f7cec3-fb3a-410e-8adf-42bcb212ee60.png"
+    },
+    {
+      "name": "Pasted image 20230706163125.png",
+      "basename": "Pasted image 20230706163125",
+      "relativePath": "Images/Pasted image 20230706163125.png"
+    },
+    {
+      "name": "Pasted image 20230706183238.png",
+      "basename": "Pasted image 20230706183238",
+      "relativePath": "Images/Pasted image 20230706183238.png"
+    },
+    {
+      "name": "Pasted image 20230706190942.png",
+      "basename": "Pasted image 20230706190942",
+      "relativePath": "Images/Pasted image 20230706190942.png"
+    },
+    {
+      "name": "Pasted image 20230706192032.png",
+      "basename": "Pasted image 20230706192032",
+      "relativePath": "Images/Pasted image 20230706192032.png"
     }
   ]
 }

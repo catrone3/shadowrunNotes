@@ -1,4 +1,6 @@
 #miami
+![[../../../Images/shadowrun characters/Pasted image 20230706183238.png|500]]
+
 Connection Rating: 7
 
 Max "Wired" Rodriguez, the charismatic and tech-savvy owner of [[../../../Corps (Local)/South Florida/Rigger's Paradise|Rigger's Paradise]], is a renowned figure within the rigger community and the underground drone racing scene. With his vibrant personality and unwavering passion for all things drones, he has established a haven for riggers and drone enthusiasts alike. Max, an orc with cybernetic enhancements and a mischievous grin, stands at the forefront of cutting-edge drone technology.
