@@ -1,5 +1,5 @@
 #miami
-![[../../../Images/shadowrun characters/Pasted image 20230630214257.png| 500]]
+![[../../../Images/shadowrun characters/Pasted image 20230630214257.png|500]]
 Connection Rating: 5
 
 Dex Thompson, the owner of [[../../../Corps (Local)/South Florida/Gearhead Garage|Gearhead Garage]], is a brilliant and charismatic mechanic with an unwavering passion for all things vehicular. Known for his punk aesthetic, complete with vibrant tattoos, Dex has garnered a reputation as a master of his craft.

@@ -11,9 +11,12 @@
             "id": "133457ffccda9e71",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/shadowrun characters/Pasted image 20230706163125.png"
+                "file": "NPCs/Friendly/South Florida/Dex Thompson.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/shadowrun characters/Pasted image 20230706163125.png",
+                "file": "NPCs/Friendly/South Florida/Dex Thompson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,13 +159,13 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "133457ffccda9e71",
   "lastOpenFiles": [
+    "Images/shadowrun characters/Pasted image 20230706163125.png",
     "Images/shadowrun characters/Pasted image 20230706192420.png",
     "Images/shadowrun characters/Pasted image 20230706192032.png",
     "Images/shadowrun characters/Pasted image 20230706190942.png",
     "Images/shadowrun characters/Pasted image 20230706183238.png",
-    "Images/shadowrun characters/Pasted image 20230706163125.png",
     "NPCs/Friendly/South Florida/Whisper.md",
     "NPCs/Friendly/South Florida/Viktor Ironforge.md",
     "NPCs/Friendly/South Florida/Nexus.md",
