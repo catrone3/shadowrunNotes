@@ -216,11 +216,11 @@
       },
       {
         "link": "Jericho",
-        "relativePath": "Players/Germany(Sunday)/Jericho.md"
+        "relativePath": "Players/Berlin Crew/Jericho.md"
       },
       {
         "link": "Glitch",
-        "relativePath": "Players/Germany(Sunday)/Glitch.md"
+        "relativePath": "Players/Berlin Crew/Glitch.md"
       },
       {
         "link": "Ardat-Lili Cyberware",
@@ -309,11 +309,11 @@
       },
       {
         "link": "Glitch",
-        "relativePath": "Players/Germany(Sunday)/Glitch.md"
+        "relativePath": "Players/Berlin Crew/Glitch.md"
       },
       {
         "link": "Glitch",
-        "relativePath": "Players/Germany(Sunday)/Glitch.md"
+        "relativePath": "Players/Berlin Crew/Glitch.md"
       },
       {
         "link": "Immo Mauer",
@@ -496,6 +496,351 @@
         "fileName": "Homepage",
         "link": "Working with Github",
         "relativePath": "Homepage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Tanka",
+    "relativePath": "Players/Berlin Crew/Tanka.md",
+    "tags": [
+      "berlin"
+    ],
+    "headings": [
+      {
+        "heading": "Corporate Ties",
+        "level": 3
+      },
+      {
+        "heading": "Status",
+        "level": 3
+      },
+      {
+        "heading": "Contacts",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Marko Wirth",
+        "relativePath": "NPCs/Friendly/Germany/Marko Wirth.md"
+      },
+      {
+        "link": "Reinhold Wulf",
+        "relativePath": "NPCs/Friendly/Germany/Reinhold Wulf.md"
+      },
+      {
+        "link": "Heidi Nagel",
+        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Berlin Game",
+        "link": "Tanka",
+        "relativePath": "Players/Berlin Game.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Maximilian",
+    "relativePath": "Players/Berlin Crew/Maximilian.md",
+    "tags": [
+      "berlin"
+    ],
+    "headings": [
+      {
+        "heading": "Corporate Ties",
+        "level": 3
+      },
+      {
+        "heading": "Status",
+        "level": 3
+      },
+      {
+        "heading": "Contacts",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Saeder Krupp",
+        "displayText": "Sader Krupp",
+        "relativePath": "AAA Corps/Saeder Krupp.md"
+      },
+      {
+        "link": "Dell' Inferno",
+        "relativePath": "NPCs/Friendly/Germany/Dell' Inferno.md"
+      },
+      {
+        "link": "Hans Gruber",
+        "relativePath": "NPCs/Friendly/Germany/Hans Gruber.md"
+      },
+      {
+        "link": "Hecate (Lillian Morgan)",
+        "relativePath": "NPCs/Friendly/Germany/Hecate (Lillian Morgan).md"
+      },
+      {
+        "link": "Reinald Ebersbacher",
+        "relativePath": "NPCs/Friendly/Germany/Reinald Ebersbacher.md"
+      },
+      {
+        "link": "Niklas Klause",
+        "relativePath": "NPCs/Friendly/Germany/Niklas Klause.md"
+      },
+      {
+        "link": "Heidi Nagel",
+        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Berlin Game",
+        "link": "Maximilian",
+        "relativePath": "Players/Berlin Game.md",
+        "displayText": "Max"
+      }
+    ]
+  },
+  {
+    "fileName": "Glitch",
+    "relativePath": "Players/Berlin Crew/Glitch.md",
+    "tags": [
+      "berlin"
+    ],
+    "headings": [
+      {
+        "heading": "Corporate Ties",
+        "level": 3
+      },
+      {
+        "heading": "Status",
+        "level": 3
+      },
+      {
+        "heading": "Contacts",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Caroline Krause",
+        "relativePath": "NPCs/Friendly/Germany/Caroline Krause.md"
+      },
+      {
+        "link": "Priska Probst",
+        "relativePath": "NPCs/Friendly/Germany/Priska Probst.md"
+      },
+      {
+        "link": "Marjan Decker",
+        "relativePath": "NPCs/Friendly/Germany/Marjan Decker.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "22-9-25",
+        "link": "Glitch",
+        "relativePath": "Berlin Crew Game Notes/22-9-25.md"
+      },
+      {
+        "fileName": "22-7-17",
+        "link": "Glitch",
+        "relativePath": "Berlin Crew Game Notes/22-7-17.md"
+      },
+      {
+        "fileName": "22-7-17",
+        "link": "Glitch",
+        "relativePath": "Berlin Crew Game Notes/22-7-17.md"
+      },
+      {
+        "fileName": "Berlin Game",
+        "link": "Glitch",
+        "relativePath": "Players/Berlin Game.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Jericho",
+    "relativePath": "Players/Berlin Crew/Jericho.md",
+    "tags": [
+      "berlin"
+    ],
+    "headings": [
+      {
+        "heading": "Corporate Ties",
+        "level": 3
+      },
+      {
+        "heading": "Status",
+        "level": 3
+      },
+      {
+        "heading": "Contacts",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Christof Hardt",
+        "relativePath": "NPCs/Friendly/Germany/Christof Hardt.md"
+      },
+      {
+        "link": "Pascal Fleming",
+        "relativePath": "NPCs/Friendly/Germany/Pascal Fleming.md"
+      },
+      {
+        "link": "Sascha Apfelbaum",
+        "relativePath": "NPCs/Friendly/Germany/Sascha Apfelbaum.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "22-9-25",
+        "link": "Jericho",
+        "relativePath": "Berlin Crew Game Notes/22-9-25.md"
+      },
+      {
+        "fileName": "Berlin Game",
+        "link": "Jericho",
+        "relativePath": "Players/Berlin Game.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Dok",
+    "relativePath": "Players/Berlin Crew/Dok.md",
+    "tags": [
+      "berlin"
+    ],
+    "headings": [
+      {
+        "heading": "Corporate Ties",
+        "level": 3
+      },
+      {
+        "heading": "Status",
+        "level": 3
+      },
+      {
+        "heading": "Contacts",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Salih Meier",
+        "relativePath": "NPCs/Friendly/Germany/Salih Meier.md"
+      },
+      {
+        "link": "Reinald Neudorf",
+        "relativePath": "NPCs/Friendly/Germany/Reinald Neudorf.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Berlin Game",
+        "link": "Dok",
+        "relativePath": "Players/Berlin Game.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Firestorm",
+    "relativePath": "Players/Berlin Crew/Firestorm.md",
+    "tags": [
+      "berlin"
+    ],
+    "headings": [
+      {
+        "heading": "Corporate Ties",
+        "level": 3
+      },
+      {
+        "heading": "Status",
+        "level": 3
+      },
+      {
+        "heading": "Contacts",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Anna Die Schone",
+        "relativePath": "NPCs/Friendly/Germany/Anna Die Schone.md"
+      },
+      {
+        "link": "Logan",
+        "relativePath": "NPCs/Friendly/Germany/Logan.md"
+      },
+      {
+        "link": "Max 'Erik' Eisenhardt",
+        "relativePath": "NPCs/Friendly/Germany/Max 'Erik' Eisenhardt.md"
+      },
+      {
+        "link": "Remy Etienne LeBeau",
+        "relativePath": "NPCs/Friendly/Germany/Remy Etienne LeBeau.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Berlin Game",
+        "link": "Firestorm",
+        "relativePath": "Players/Berlin Game.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Angel",
+    "relativePath": "Players/Berlin Crew/Angel.md",
+    "tags": [
+      "berlin"
+    ],
+    "headings": [
+      {
+        "heading": "Corporate Ties",
+        "level": 3
+      },
+      {
+        "heading": "Status",
+        "level": 3
+      },
+      {
+        "heading": "Contacts",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Saeder Krupp",
+        "displayText": "Sader Krupp",
+        "relativePath": "AAA Corps/Saeder Krupp.md"
+      },
+      {
+        "link": "Blue Feather",
+        "relativePath": "NPCs/Friendly/Germany/Blue Feather.md"
+      },
+      {
+        "link": "Giselle Von Ulbrecht",
+        "relativePath": "NPCs/Friendly/Germany/Giselle Von Ulbrecht.md"
+      },
+      {
+        "link": "Vikky Tainer",
+        "relativePath": "NPCs/Friendly/Germany/Vikky Tainer.md"
+      },
+      {
+        "link": "Walter Hogersmans",
+        "relativePath": "NPCs/Friendly/Germany/Walter Hogersmans.md"
+      },
+      {
+        "link": "Heidi Nagel",
+        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Berlin Game",
+        "link": "Angel",
+        "relativePath": "Players/Berlin Game.md"
       }
     ]
   },
@@ -737,8 +1082,8 @@
         "relativePath": "NPCs/Neutral/South Florida/Isabella Turner.md"
       },
       {
-        "link": "Riley Jacobs",
-        "relativePath": "NPCs/Neutral/South Florida/Riley Jacobs.md"
+        "link": "Ricardo (Don Santos) Santos",
+        "relativePath": "NPCs/Neutral/South Florida/Ricardo (Don Santos) Santos.md"
       },
       {
         "link": "Carlos (Fish) Rodriguez",
@@ -749,8 +1094,8 @@
         "relativePath": "NPCs/Neutral/South Florida/Isabelle Laurent.md"
       },
       {
-        "link": "Salvatore (Don Salvatore) Bianchi",
-        "relativePath": "NPCs/Neutral/South Florida/Salvatore (Don Salvatore) Bianchi.md"
+        "link": "Riley Jacobs",
+        "relativePath": "NPCs/Neutral/South Florida/Riley Jacobs.md"
       },
       {
         "link": "Carlos (Shadow) Rodriguez",
@@ -1681,6 +2026,13 @@
     "relativePath": "Players/New Orleans/Bullwark.md",
     "tags": [
       "neworleans"
+    ],
+    "links": [
+      {
+        "link": "Downtown",
+        "displayText": "downtown",
+        "relativePath": "Locations/New Orleans/Downtown.md"
+      }
     ],
     "backlinks": [
       {
@@ -2634,351 +2986,6 @@
     ]
   },
   {
-    "fileName": "Tanka",
-    "relativePath": "Players/Germany(Sunday)/Tanka.md",
-    "tags": [
-      "berlin"
-    ],
-    "headings": [
-      {
-        "heading": "Corporate Ties",
-        "level": 3
-      },
-      {
-        "heading": "Status",
-        "level": 3
-      },
-      {
-        "heading": "Contacts",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Marko Wirth",
-        "relativePath": "NPCs/Friendly/Germany/Marko Wirth.md"
-      },
-      {
-        "link": "Reinhold Wulf",
-        "relativePath": "NPCs/Friendly/Germany/Reinhold Wulf.md"
-      },
-      {
-        "link": "Heidi Nagel",
-        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Berlin Game",
-        "link": "Tanka",
-        "relativePath": "Players/Berlin Game.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Maximilian",
-    "relativePath": "Players/Germany(Sunday)/Maximilian.md",
-    "tags": [
-      "berlin"
-    ],
-    "headings": [
-      {
-        "heading": "Corporate Ties",
-        "level": 3
-      },
-      {
-        "heading": "Status",
-        "level": 3
-      },
-      {
-        "heading": "Contacts",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Saeder Krupp",
-        "displayText": "Sader Krupp",
-        "relativePath": "AAA Corps/Saeder Krupp.md"
-      },
-      {
-        "link": "Dell' Inferno",
-        "relativePath": "NPCs/Friendly/Germany/Dell' Inferno.md"
-      },
-      {
-        "link": "Hans Gruber",
-        "relativePath": "NPCs/Friendly/Germany/Hans Gruber.md"
-      },
-      {
-        "link": "Hecate (Lillian Morgan)",
-        "relativePath": "NPCs/Friendly/Germany/Hecate (Lillian Morgan).md"
-      },
-      {
-        "link": "Reinald Ebersbacher",
-        "relativePath": "NPCs/Friendly/Germany/Reinald Ebersbacher.md"
-      },
-      {
-        "link": "Niklas Klause",
-        "relativePath": "NPCs/Friendly/Germany/Niklas Klause.md"
-      },
-      {
-        "link": "Heidi Nagel",
-        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Berlin Game",
-        "link": "Maximilian",
-        "relativePath": "Players/Berlin Game.md",
-        "displayText": "Max"
-      }
-    ]
-  },
-  {
-    "fileName": "Glitch",
-    "relativePath": "Players/Germany(Sunday)/Glitch.md",
-    "tags": [
-      "berlin"
-    ],
-    "headings": [
-      {
-        "heading": "Corporate Ties",
-        "level": 3
-      },
-      {
-        "heading": "Status",
-        "level": 3
-      },
-      {
-        "heading": "Contacts",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Caroline Krause",
-        "relativePath": "NPCs/Friendly/Germany/Caroline Krause.md"
-      },
-      {
-        "link": "Priska Probst",
-        "relativePath": "NPCs/Friendly/Germany/Priska Probst.md"
-      },
-      {
-        "link": "Marjan Decker",
-        "relativePath": "NPCs/Friendly/Germany/Marjan Decker.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "22-9-25",
-        "link": "Glitch",
-        "relativePath": "Berlin Crew Game Notes/22-9-25.md"
-      },
-      {
-        "fileName": "22-7-17",
-        "link": "Glitch",
-        "relativePath": "Berlin Crew Game Notes/22-7-17.md"
-      },
-      {
-        "fileName": "22-7-17",
-        "link": "Glitch",
-        "relativePath": "Berlin Crew Game Notes/22-7-17.md"
-      },
-      {
-        "fileName": "Berlin Game",
-        "link": "Glitch",
-        "relativePath": "Players/Berlin Game.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Jericho",
-    "relativePath": "Players/Germany(Sunday)/Jericho.md",
-    "tags": [
-      "berlin"
-    ],
-    "headings": [
-      {
-        "heading": "Corporate Ties",
-        "level": 3
-      },
-      {
-        "heading": "Status",
-        "level": 3
-      },
-      {
-        "heading": "Contacts",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Christof Hardt",
-        "relativePath": "NPCs/Friendly/Germany/Christof Hardt.md"
-      },
-      {
-        "link": "Pascal Fleming",
-        "relativePath": "NPCs/Friendly/Germany/Pascal Fleming.md"
-      },
-      {
-        "link": "Sascha Apfelbaum",
-        "relativePath": "NPCs/Friendly/Germany/Sascha Apfelbaum.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "22-9-25",
-        "link": "Jericho",
-        "relativePath": "Berlin Crew Game Notes/22-9-25.md"
-      },
-      {
-        "fileName": "Berlin Game",
-        "link": "Jericho",
-        "relativePath": "Players/Berlin Game.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Dok",
-    "relativePath": "Players/Germany(Sunday)/Dok.md",
-    "tags": [
-      "berlin"
-    ],
-    "headings": [
-      {
-        "heading": "Corporate Ties",
-        "level": 3
-      },
-      {
-        "heading": "Status",
-        "level": 3
-      },
-      {
-        "heading": "Contacts",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Salih Meier",
-        "relativePath": "NPCs/Friendly/Germany/Salih Meier.md"
-      },
-      {
-        "link": "Reinald Neudorf",
-        "relativePath": "NPCs/Friendly/Germany/Reinald Neudorf.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Berlin Game",
-        "link": "Dok",
-        "relativePath": "Players/Berlin Game.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Firestorm",
-    "relativePath": "Players/Germany(Sunday)/Firestorm.md",
-    "tags": [
-      "berlin"
-    ],
-    "headings": [
-      {
-        "heading": "Corporate Ties",
-        "level": 3
-      },
-      {
-        "heading": "Status",
-        "level": 3
-      },
-      {
-        "heading": "Contacts",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Anna Die Schone",
-        "relativePath": "NPCs/Friendly/Germany/Anna Die Schone.md"
-      },
-      {
-        "link": "Logan",
-        "relativePath": "NPCs/Friendly/Germany/Logan.md"
-      },
-      {
-        "link": "Max 'Erik' Eisenhardt",
-        "relativePath": "NPCs/Friendly/Germany/Max 'Erik' Eisenhardt.md"
-      },
-      {
-        "link": "Remy Etienne LeBeau",
-        "relativePath": "NPCs/Friendly/Germany/Remy Etienne LeBeau.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Berlin Game",
-        "link": "Firestorm",
-        "relativePath": "Players/Berlin Game.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Angel",
-    "relativePath": "Players/Germany(Sunday)/Angel.md",
-    "tags": [
-      "berlin"
-    ],
-    "headings": [
-      {
-        "heading": "Corporate Ties",
-        "level": 3
-      },
-      {
-        "heading": "Status",
-        "level": 3
-      },
-      {
-        "heading": "Contacts",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Saeder Krupp",
-        "displayText": "Sader Krupp",
-        "relativePath": "AAA Corps/Saeder Krupp.md"
-      },
-      {
-        "link": "Blue Feather",
-        "relativePath": "NPCs/Friendly/Germany/Blue Feather.md"
-      },
-      {
-        "link": "Giselle Von Ulbrecht",
-        "relativePath": "NPCs/Friendly/Germany/Giselle Von Ulbrecht.md"
-      },
-      {
-        "link": "Vikky Tainer",
-        "relativePath": "NPCs/Friendly/Germany/Vikky Tainer.md"
-      },
-      {
-        "link": "Walter Hogersmans",
-        "relativePath": "NPCs/Friendly/Germany/Walter Hogersmans.md"
-      },
-      {
-        "link": "Heidi Nagel",
-        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Berlin Game",
-        "link": "Angel",
-        "relativePath": "Players/Berlin Game.md"
-      }
-    ]
-  },
-  {
     "fileName": "Walker",
     "relativePath": "Players/Front Range Consulting/Walker.md",
     "tags": [
@@ -3075,32 +3082,32 @@
     "links": [
       {
         "link": "Angel",
-        "relativePath": "Players/Germany(Sunday)/Angel.md"
+        "relativePath": "Players/Berlin Crew/Angel.md"
       },
       {
         "link": "Dok",
-        "relativePath": "Players/Germany(Sunday)/Dok.md"
+        "relativePath": "Players/Berlin Crew/Dok.md"
       },
       {
         "link": "Firestorm",
-        "relativePath": "Players/Germany(Sunday)/Firestorm.md"
+        "relativePath": "Players/Berlin Crew/Firestorm.md"
       },
       {
         "link": "Glitch",
-        "relativePath": "Players/Germany(Sunday)/Glitch.md"
+        "relativePath": "Players/Berlin Crew/Glitch.md"
       },
       {
         "link": "Jericho",
-        "relativePath": "Players/Germany(Sunday)/Jericho.md"
+        "relativePath": "Players/Berlin Crew/Jericho.md"
       },
       {
         "link": "Maximilian",
         "displayText": "Max",
-        "relativePath": "Players/Germany(Sunday)/Maximilian.md"
+        "relativePath": "Players/Berlin Crew/Maximilian.md"
       },
       {
         "link": "Tanka",
-        "relativePath": "Players/Germany(Sunday)/Tanka.md"
+        "relativePath": "Players/Berlin Crew/Tanka.md"
       },
       {
         "link": "Reinhart (Templar) Gärtner",
@@ -4248,20 +4255,6 @@
         "level": 3
       }
     ],
-    "links": [
-      {
-        "link": "Marko Wirth",
-        "relativePath": "NPCs/Friendly/Germany/Marko Wirth.md"
-      },
-      {
-        "link": "Reinhold Wulf",
-        "relativePath": "NPCs/Friendly/Germany/Reinhold Wulf.md"
-      },
-      {
-        "link": "Heidi Nagel",
-        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
-      }
-    ],
     "backlinks": [
       {
         "fileName": "Athens",
@@ -4296,30 +4289,6 @@
         "link": "Saeder Krupp",
         "displayText": "Sader Krupp",
         "relativePath": "AAA Corps/Saeder Krupp.md"
-      },
-      {
-        "link": "Dell' Inferno",
-        "relativePath": "NPCs/Friendly/Germany/Dell' Inferno.md"
-      },
-      {
-        "link": "Hans Gruber",
-        "relativePath": "NPCs/Friendly/Germany/Hans Gruber.md"
-      },
-      {
-        "link": "Hecate (Lillian Morgan)",
-        "relativePath": "NPCs/Friendly/Germany/Hecate (Lillian Morgan).md"
-      },
-      {
-        "link": "Reinald Ebersbacher",
-        "relativePath": "NPCs/Friendly/Germany/Reinald Ebersbacher.md"
-      },
-      {
-        "link": "Niklas Klause",
-        "relativePath": "NPCs/Friendly/Germany/Niklas Klause.md"
-      },
-      {
-        "link": "Heidi Nagel",
-        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
       }
     ],
     "backlinks": [
@@ -4351,20 +4320,6 @@
         "level": 3
       }
     ],
-    "links": [
-      {
-        "link": "Christof Hardt",
-        "relativePath": "NPCs/Friendly/Germany/Christof Hardt.md"
-      },
-      {
-        "link": "Pascal Fleming",
-        "relativePath": "NPCs/Friendly/Germany/Pascal Fleming.md"
-      },
-      {
-        "link": "Sascha Apfelbaum",
-        "relativePath": "NPCs/Friendly/Germany/Sascha Apfelbaum.md"
-      }
-    ],
     "backlinks": [
       {
         "fileName": "Athens",
@@ -4392,20 +4347,6 @@
       {
         "heading": "Contacts",
         "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Caroline Krause",
-        "relativePath": "NPCs/Friendly/Germany/Caroline Krause.md"
-      },
-      {
-        "link": "Priska Probst",
-        "relativePath": "NPCs/Friendly/Germany/Priska Probst.md"
-      },
-      {
-        "link": "Marjan Decker",
-        "relativePath": "NPCs/Friendly/Germany/Marjan Decker.md"
       }
     ],
     "backlinks": [
@@ -4437,24 +4378,6 @@
         "level": 3
       }
     ],
-    "links": [
-      {
-        "link": "Anna Die Schone",
-        "relativePath": "NPCs/Friendly/Germany/Anna Die Schone.md"
-      },
-      {
-        "link": "Logan",
-        "relativePath": "NPCs/Friendly/Germany/Logan.md"
-      },
-      {
-        "link": "Max 'Erik' Eisenhardt",
-        "relativePath": "NPCs/Friendly/Germany/Max 'Erik' Eisenhardt.md"
-      },
-      {
-        "link": "Remy Etienne LeBeau",
-        "relativePath": "NPCs/Friendly/Germany/Remy Etienne LeBeau.md"
-      }
-    ],
     "backlinks": [
       {
         "fileName": "Athens",
@@ -4482,16 +4405,6 @@
       {
         "heading": "Contacts",
         "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Salih Meier",
-        "relativePath": "NPCs/Friendly/Germany/Salih Meier.md"
-      },
-      {
-        "link": "Reinald Neudorf",
-        "relativePath": "NPCs/Friendly/Germany/Reinald Neudorf.md"
       }
     ],
     "backlinks": [
@@ -4528,26 +4441,6 @@
         "link": "Saeder Krupp",
         "displayText": "Sader Krupp",
         "relativePath": "AAA Corps/Saeder Krupp.md"
-      },
-      {
-        "link": "Blue Feather",
-        "relativePath": "NPCs/Friendly/Germany/Blue Feather.md"
-      },
-      {
-        "link": "Giselle Von Ulbrecht",
-        "relativePath": "NPCs/Friendly/Germany/Giselle Von Ulbrecht.md"
-      },
-      {
-        "link": "Vikky Tainer",
-        "relativePath": "NPCs/Friendly/Germany/Vikky Tainer.md"
-      },
-      {
-        "link": "Walter Hogersmans",
-        "relativePath": "NPCs/Friendly/Germany/Walter Hogersmans.md"
-      },
-      {
-        "link": "Heidi Nagel",
-        "relativePath": "NPCs/Friendly/Germany/Heidi Nagel.md"
       }
     ],
     "backlinks": [
@@ -4556,6 +4449,72 @@
         "link": "Angel",
         "relativePath": "Players/Athens.md",
         "displayText": "Athens/Angel"
+      }
+    ]
+  },
+  {
+    "fileName": "Sister Seraphina",
+    "relativePath": "NPCs/Unfriendly/South Florida/Sister Seraphina.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "The Sisters of Mercy",
+        "displayText": "the Sisters of Mercy",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Sisters of Mercy.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Isabella (The Black Widow) Santos",
+    "relativePath": "NPCs/Unfriendly/South Florida/Isabella (The Black Widow) Santos.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "The Santos Mafia Family",
+        "displayText": "the Santos Mafia Family",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Santos Mafia Family.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Reaper",
+    "relativePath": "NPCs/Unfriendly/South Florida/Reaper.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "The Dead Suns Gang",
+        "displayText": "Dead Suns",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Dead Suns Gang.md"
+      },
+      {
+        "link": "The Dead Suns Gang",
+        "displayText": "Dead Suns",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Dead Suns Gang.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Viper",
+    "relativePath": "NPCs/Unfriendly/South Florida/Viper.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "The Crimson Serpents",
+        "displayText": "the Crimson Serpents",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Crimson Serpents.md"
+      },
+      {
+        "link": "The Crimson Serpents",
+        "displayText": "the Crimson Serpents",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Crimson Serpents.md"
       }
     ]
   },
@@ -4913,6 +4872,27 @@
         "fileName": "22-11-5",
         "link": "Toby Walker",
         "relativePath": "Denver Game notes/22-11-5.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Ricardo (Don Santos) Santos",
+    "relativePath": "NPCs/Neutral/South Florida/Ricardo (Don Santos) Santos.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "The Santos Mafia Family",
+        "displayText": "the Santos Mafia Family",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Santos Mafia Family.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Ricardo (Don Santos) Santos",
+        "relativePath": "Players/South Florida Game.md"
       }
     ]
   },
@@ -5372,6 +5352,13 @@
     "tags": [
       "miami"
     ],
+    "links": [
+      {
+        "link": "The Sisters of Mercy",
+        "displayText": "the Sisters of Mercy",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Sisters of Mercy.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida Game",
@@ -5484,6 +5471,12 @@
     "tags": [
       "miami"
     ],
+    "links": [
+      {
+        "link": "Humanis Policlub",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/Humanis Policlub.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida Game",
@@ -5536,20 +5529,6 @@
       {
         "fileName": "South Florida Game",
         "link": "Riley Jacobs",
-        "relativePath": "Players/South Florida Game.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Salvatore (Don Salvatore) Bianchi",
-    "relativePath": "NPCs/Neutral/South Florida/Salvatore (Don Salvatore) Bianchi.md",
-    "tags": [
-      "miami"
-    ],
-    "backlinks": [
-      {
-        "fileName": "South Florida Game",
-        "link": "Salvatore (Don Salvatore) Bianchi",
         "relativePath": "Players/South Florida Game.md"
       }
     ]
@@ -6088,6 +6067,13 @@
     "tags": [
       "miami"
     ],
+    "links": [
+      {
+        "link": "The Santos Mafia Family",
+        "displayText": "the Santos Mafia Family",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Santos Mafia Family.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida Game",
@@ -6264,6 +6250,13 @@
     "tags": [
       "miami"
     ],
+    "links": [
+      {
+        "link": "The Dead Suns Gang",
+        "displayText": "The Dead Suns gang",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Dead Suns Gang.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "South Florida Game",
@@ -6311,6 +6304,12 @@
     "relativePath": "NPCs/Neutral/South Florida/Jacob (Ironhand) Thompson.md",
     "tags": [
       "miami"
+    ],
+    "links": [
+      {
+        "link": "Humanis Policlub",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/Humanis Policlub.md"
+      }
     ],
     "backlinks": [
       {
@@ -7298,6 +7297,12 @@
     "relativePath": "NPCs/Neutral/South Florida/Alejandro (El Jefe) Hernandez.md",
     "tags": [
       "miami"
+    ],
+    "links": [
+      {
+        "link": "The Crimson Serpents",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Crimson Serpents.md"
+      }
     ],
     "backlinks": [
       {
@@ -9180,6 +9185,16 @@
     "tags": [
       "neworleans"
     ],
+    "links": [
+      {
+        "link": "June Bug's Warehouse",
+        "relativePath": "Corps (Local)/New Orleans/June Bug's Warehouse.md"
+      },
+      {
+        "link": "Bayou",
+        "relativePath": "Locations/New Orleans/Bayou.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -9243,6 +9258,11 @@
         "fileName": "New Orleans",
         "link": "Jardis Balise",
         "relativePath": "Players/New Orleans.md"
+      },
+      {
+        "fileName": "Mid-City",
+        "link": "Jardis Balise",
+        "relativePath": "Locations/New Orleans/Mid-City.md"
       }
     ]
   },
@@ -9271,6 +9291,12 @@
     "tags": [
       "neworleans"
     ],
+    "links": [
+      {
+        "link": "Eddie's Emporium",
+        "relativePath": "Corps (Local)/New Orleans/Eddie's Emporium.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "New Orleans",
@@ -9284,6 +9310,12 @@
     "relativePath": "NPCs/Friendly/New Orleans/Dr Lester.md",
     "tags": [
       "neworleans"
+    ],
+    "links": [
+      {
+        "link": "Carity Hospital",
+        "relativePath": "Corps (Local)/New Orleans/Carity Hospital.md"
+      }
     ],
     "backlinks": [
       {
@@ -9356,6 +9388,11 @@
         "fileName": "New Orleans",
         "link": "ClicClac and Big Lou",
         "relativePath": "Players/New Orleans.md"
+      },
+      {
+        "fileName": "Garden District",
+        "link": "ClicClac and Big Lou",
+        "relativePath": "Locations/New Orleans/Garden District.md"
       }
     ]
   },
@@ -9622,17 +9659,12 @@
       {
         "fileName": "Angel",
         "link": "Walter Hogersmans",
-        "relativePath": "Players/Germany(Sunday)/Angel.md"
+        "relativePath": "Players/Berlin Crew/Angel.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Walter Hogersmans",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Angel",
-        "link": "Walter Hogersmans",
-        "relativePath": "Players/Athens/Angel.md"
       }
     ]
   },
@@ -9652,17 +9684,12 @@
       {
         "fileName": "Angel",
         "link": "Vikky Tainer",
-        "relativePath": "Players/Germany(Sunday)/Angel.md"
+        "relativePath": "Players/Berlin Crew/Angel.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Vikky Tainer",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Angel",
-        "link": "Vikky Tainer",
-        "relativePath": "Players/Athens/Angel.md"
       }
     ]
   },
@@ -9682,17 +9709,12 @@
       {
         "fileName": "Jericho",
         "link": "Sascha Apfelbaum",
-        "relativePath": "Players/Germany(Sunday)/Jericho.md"
+        "relativePath": "Players/Berlin Crew/Jericho.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Sascha Apfelbaum",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Jericho",
-        "link": "Sascha Apfelbaum",
-        "relativePath": "Players/Athens/Jericho.md"
       }
     ]
   },
@@ -9712,17 +9734,12 @@
       {
         "fileName": "Dok",
         "link": "Salih Meier",
-        "relativePath": "Players/Germany(Sunday)/Dok.md"
+        "relativePath": "Players/Berlin Crew/Dok.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Salih Meier",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Dok",
-        "link": "Salih Meier",
-        "relativePath": "Players/Athens/Dok.md"
       }
     ]
   },
@@ -9742,17 +9759,12 @@
       {
         "fileName": "Firestorm",
         "link": "Remy Etienne LeBeau",
-        "relativePath": "Players/Germany(Sunday)/Firestorm.md"
+        "relativePath": "Players/Berlin Crew/Firestorm.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Remy Etienne LeBeau",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Firestorm",
-        "link": "Remy Etienne LeBeau",
-        "relativePath": "Players/Athens/Firestorm.md"
       }
     ]
   },
@@ -9772,17 +9784,12 @@
       {
         "fileName": "Tanka",
         "link": "Reinhold Wulf",
-        "relativePath": "Players/Germany(Sunday)/Tanka.md"
+        "relativePath": "Players/Berlin Crew/Tanka.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Reinhold Wulf",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Tanka",
-        "link": "Reinhold Wulf",
-        "relativePath": "Players/Athens/Tanka.md"
       }
     ]
   },
@@ -9802,17 +9809,12 @@
       {
         "fileName": "Dok",
         "link": "Reinald Neudorf",
-        "relativePath": "Players/Germany(Sunday)/Dok.md"
+        "relativePath": "Players/Berlin Crew/Dok.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Reinald Neudorf",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Dok",
-        "link": "Reinald Neudorf",
-        "relativePath": "Players/Athens/Dok.md"
       }
     ]
   },
@@ -9826,12 +9828,7 @@
       {
         "fileName": "Maximilian",
         "link": "Reinald Ebersbacher",
-        "relativePath": "Players/Germany(Sunday)/Maximilian.md"
-      },
-      {
-        "fileName": "Maximilian",
-        "link": "Reinald Ebersbacher",
-        "relativePath": "Players/Athens/Maximilian.md"
+        "relativePath": "Players/Berlin Crew/Maximilian.md"
       },
       {
         "fileName": "information",
@@ -9890,17 +9887,12 @@
       {
         "fileName": "Glitch",
         "link": "Priska Probst",
-        "relativePath": "Players/Germany(Sunday)/Glitch.md"
+        "relativePath": "Players/Berlin Crew/Glitch.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Priska Probst",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Glitch",
-        "link": "Priska Probst",
-        "relativePath": "Players/Athens/Glitch.md"
       }
     ]
   },
@@ -9920,17 +9912,12 @@
       {
         "fileName": "Maximilian",
         "link": "Niklas Klause",
-        "relativePath": "Players/Germany(Sunday)/Maximilian.md"
+        "relativePath": "Players/Berlin Crew/Maximilian.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Niklas Klause",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Maximilian",
-        "link": "Niklas Klause",
-        "relativePath": "Players/Athens/Maximilian.md"
       }
     ]
   },
@@ -9950,17 +9937,12 @@
       {
         "fileName": "Jericho",
         "link": "Pascal Fleming",
-        "relativePath": "Players/Germany(Sunday)/Jericho.md"
+        "relativePath": "Players/Berlin Crew/Jericho.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Pascal Fleming",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Jericho",
-        "link": "Pascal Fleming",
-        "relativePath": "Players/Athens/Jericho.md"
       }
     ]
   },
@@ -9980,17 +9962,12 @@
       {
         "fileName": "Firestorm",
         "link": "Max 'Erik' Eisenhardt",
-        "relativePath": "Players/Germany(Sunday)/Firestorm.md"
+        "relativePath": "Players/Berlin Crew/Firestorm.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Max 'Erik' Eisenhardt",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Firestorm",
-        "link": "Max 'Erik' Eisenhardt",
-        "relativePath": "Players/Athens/Firestorm.md"
       }
     ]
   },
@@ -10010,17 +9987,12 @@
       {
         "fileName": "Tanka",
         "link": "Marko Wirth",
-        "relativePath": "Players/Germany(Sunday)/Tanka.md"
+        "relativePath": "Players/Berlin Crew/Tanka.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Marko Wirth",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Tanka",
-        "link": "Marko Wirth",
-        "relativePath": "Players/Athens/Tanka.md"
       }
     ]
   },
@@ -10040,17 +10012,12 @@
       {
         "fileName": "Glitch",
         "link": "Marjan Decker",
-        "relativePath": "Players/Germany(Sunday)/Glitch.md"
+        "relativePath": "Players/Berlin Crew/Glitch.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Marjan Decker",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Glitch",
-        "link": "Marjan Decker",
-        "relativePath": "Players/Athens/Glitch.md"
       }
     ]
   },
@@ -10070,17 +10037,12 @@
       {
         "fileName": "Firestorm",
         "link": "Logan",
-        "relativePath": "Players/Germany(Sunday)/Firestorm.md"
+        "relativePath": "Players/Berlin Crew/Firestorm.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Logan",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Firestorm",
-        "link": "Logan",
-        "relativePath": "Players/Athens/Firestorm.md"
       }
     ]
   },
@@ -10175,37 +10137,22 @@
       {
         "fileName": "Tanka",
         "link": "Heidi Nagel",
-        "relativePath": "Players/Germany(Sunday)/Tanka.md"
+        "relativePath": "Players/Berlin Crew/Tanka.md"
       },
       {
         "fileName": "Maximilian",
         "link": "Heidi Nagel",
-        "relativePath": "Players/Germany(Sunday)/Maximilian.md"
+        "relativePath": "Players/Berlin Crew/Maximilian.md"
       },
       {
         "fileName": "Angel",
         "link": "Heidi Nagel",
-        "relativePath": "Players/Germany(Sunday)/Angel.md"
+        "relativePath": "Players/Berlin Crew/Angel.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Heidi Nagel",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Tanka",
-        "link": "Heidi Nagel",
-        "relativePath": "Players/Athens/Tanka.md"
-      },
-      {
-        "fileName": "Maximilian",
-        "link": "Heidi Nagel",
-        "relativePath": "Players/Athens/Maximilian.md"
-      },
-      {
-        "fileName": "Angel",
-        "link": "Heidi Nagel",
-        "relativePath": "Players/Athens/Angel.md"
       }
     ]
   },
@@ -10225,17 +10172,12 @@
       {
         "fileName": "Maximilian",
         "link": "Hecate (Lillian Morgan)",
-        "relativePath": "Players/Germany(Sunday)/Maximilian.md"
+        "relativePath": "Players/Berlin Crew/Maximilian.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Hecate (Lillian Morgan)",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Maximilian",
-        "link": "Hecate (Lillian Morgan)",
-        "relativePath": "Players/Athens/Maximilian.md"
       }
     ]
   },
@@ -10255,17 +10197,12 @@
       {
         "fileName": "Maximilian",
         "link": "Hans Gruber",
-        "relativePath": "Players/Germany(Sunday)/Maximilian.md"
+        "relativePath": "Players/Berlin Crew/Maximilian.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Hans Gruber",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Maximilian",
-        "link": "Hans Gruber",
-        "relativePath": "Players/Athens/Maximilian.md"
       }
     ]
   },
@@ -10285,17 +10222,12 @@
       {
         "fileName": "Jericho",
         "link": "Christof Hardt",
-        "relativePath": "Players/Germany(Sunday)/Jericho.md"
+        "relativePath": "Players/Berlin Crew/Jericho.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Christof Hardt",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Jericho",
-        "link": "Christof Hardt",
-        "relativePath": "Players/Athens/Jericho.md"
       }
     ]
   },
@@ -10356,17 +10288,12 @@
       {
         "fileName": "Angel",
         "link": "Giselle Von Ulbrecht",
-        "relativePath": "Players/Germany(Sunday)/Angel.md"
+        "relativePath": "Players/Berlin Crew/Angel.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Giselle Von Ulbrecht",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Angel",
-        "link": "Giselle Von Ulbrecht",
-        "relativePath": "Players/Athens/Angel.md"
       }
     ]
   },
@@ -10386,17 +10313,12 @@
       {
         "fileName": "Maximilian",
         "link": "Dell' Inferno",
-        "relativePath": "Players/Germany(Sunday)/Maximilian.md"
+        "relativePath": "Players/Berlin Crew/Maximilian.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Dell' Inferno",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Maximilian",
-        "link": "Dell' Inferno",
-        "relativePath": "Players/Athens/Maximilian.md"
       }
     ]
   },
@@ -10416,17 +10338,12 @@
       {
         "fileName": "Glitch",
         "link": "Caroline Krause",
-        "relativePath": "Players/Germany(Sunday)/Glitch.md"
+        "relativePath": "Players/Berlin Crew/Glitch.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Caroline Krause",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Glitch",
-        "link": "Caroline Krause",
-        "relativePath": "Players/Athens/Glitch.md"
       }
     ]
   },
@@ -10446,17 +10363,12 @@
       {
         "fileName": "Angel",
         "link": "Blue Feather",
-        "relativePath": "Players/Germany(Sunday)/Angel.md"
+        "relativePath": "Players/Berlin Crew/Angel.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Blue Feather",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Angel",
-        "link": "Blue Feather",
-        "relativePath": "Players/Athens/Angel.md"
       },
       {
         "fileName": "information",
@@ -10481,17 +10393,12 @@
       {
         "fileName": "Firestorm",
         "link": "Anna Die Schone",
-        "relativePath": "Players/Germany(Sunday)/Firestorm.md"
+        "relativePath": "Players/Berlin Crew/Firestorm.md"
       },
       {
         "fileName": "Berlin Game",
         "link": "Anna Die Schone",
         "relativePath": "Players/Berlin Game.md"
-      },
-      {
-        "fileName": "Firestorm",
-        "link": "Anna Die Schone",
-        "relativePath": "Players/Athens/Firestorm.md"
       }
     ]
   },
@@ -11969,6 +11876,11 @@
       {
         "link": "New Orleans",
         "relativePath": "Players/New Orleans.md"
+      },
+      {
+        "link": "Garden District",
+        "displayText": "garden district",
+        "relativePath": "Locations/New Orleans/Garden District.md"
       }
     ]
   },
@@ -11986,6 +11898,16 @@
       {
         "link": "John Pau Morrell",
         "relativePath": "NPCs/Friendly/New Orleans/John Pau Morrell.md"
+      },
+      {
+        "link": "Barrens",
+        "displayText": "barrens",
+        "relativePath": "Locations/New Orleans/Barrens.md"
+      },
+      {
+        "link": "Barrens",
+        "displayText": "barrens",
+        "relativePath": "Locations/New Orleans/Barrens.md"
       }
     ]
   },
@@ -12012,6 +11934,796 @@
         "link": "Melissade DeBussy",
         "displayText": "Melissade Debussy",
         "relativePath": "NPCs/Friendly/New Orleans/Melissade DeBussy.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Algers point",
+    "relativePath": "Locations/New Orleans/Algers point.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "New Orleans",
+        "link": "Algers point",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "LUX",
+    "relativePath": "Locations/New Orleans/LUX.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "New Orleans",
+        "link": "LUX",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Barron",
+    "relativePath": "Locations/New Orleans/Barron.md",
+    "tags": [
+      "neworleans"
+    ],
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Gangs",
+        "level": 3
+      },
+      {
+        "heading": "[[../../Factions/New Orleans/Purgatory|Purgatory]]",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Purgatory",
+        "relativePath": "Factions/New Orleans/Purgatory.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "New Orleans",
+        "link": "Barron",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Rivers End",
+    "relativePath": "Locations/New Orleans/Rivers End.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "New Orleans",
+        "link": "Rivers End",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Bayou",
+    "relativePath": "Locations/New Orleans/Bayou.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "June Bug Reavers",
+        "link": "Bayou",
+        "relativePath": "NPCs/Friendly/New Orleans/June Bug Reavers.md"
+      },
+      {
+        "fileName": "New Orleans",
+        "link": "Bayou",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Cancer Alley",
+    "relativePath": "Locations/New Orleans/Cancer Alley.md",
+    "tags": [
+      "neworleans"
+    ],
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Factions",
+        "level": 3
+      },
+      {
+        "heading": "[[../../Factions/New Orleans/Abandoned|Abandoned]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Factions/New Orleans/Chiefs|Chiefs]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Factions/New Orleans/Death Krewe|Death Krewe]]",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Abandoned",
+        "relativePath": "Factions/New Orleans/Abandoned.md"
+      },
+      {
+        "link": "Chiefs",
+        "relativePath": "Factions/New Orleans/Chiefs.md"
+      },
+      {
+        "link": "Death Krewe",
+        "relativePath": "Factions/New Orleans/Death Krewe.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "New Orleans",
+        "link": "Cancer Alley",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Barrens",
+    "relativePath": "Locations/New Orleans/Barrens.md",
+    "tags": [
+      "neworleans"
+    ],
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Businesses",
+        "level": 3
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Rat Daddies|Rat Daddies]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Fang collectors|Fang collectors]]",
+        "level": 4
+      },
+      {
+        "heading": "People",
+        "level": 3
+      },
+      {
+        "heading": "Factions",
+        "level": 3
+      },
+      {
+        "heading": "[[../../Factions/New Orleans/G-strips|G-strips]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Factions/New Orleans/Halloweeners|Halloweeners]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Factions/New Orleans/The Silence|The Silence]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Factions/New Orleans/Takers|Takers]]",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Rat Daddies",
+        "relativePath": "Corps (Local)/New Orleans/Rat Daddies.md"
+      },
+      {
+        "link": "Fang collectors",
+        "relativePath": "Corps (Local)/New Orleans/Fang collectors.md"
+      },
+      {
+        "link": "G-strips",
+        "relativePath": "Factions/New Orleans/G-strips.md"
+      },
+      {
+        "link": "Halloweeners",
+        "displayText": "halloweeners",
+        "relativePath": "Factions/New Orleans/Halloweeners.md"
+      },
+      {
+        "link": "Halloweeners",
+        "relativePath": "Factions/New Orleans/Halloweeners.md"
+      },
+      {
+        "link": "The Silence",
+        "relativePath": "Factions/New Orleans/The Silence.md"
+      },
+      {
+        "link": "Takers",
+        "relativePath": "Factions/New Orleans/Takers.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "23-5-20",
+        "link": "Barrens",
+        "relativePath": "New Orleans Game Notes/23-5-20.md",
+        "displayText": "barrens"
+      },
+      {
+        "fileName": "23-5-20",
+        "link": "Barrens",
+        "relativePath": "New Orleans Game Notes/23-5-20.md",
+        "displayText": "barrens"
+      },
+      {
+        "fileName": "New Orleans",
+        "link": "Barrens",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "West Bank",
+    "relativePath": "Locations/New Orleans/West Bank.md",
+    "tags": [
+      "neworleans"
+    ],
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Factions",
+        "level": 3
+      },
+      {
+        "heading": "[[../../Factions/New Orleans/Brotherhood|Brotherhood]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Factions/New Orleans/Dragons Plantation|Dragons Plantation]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Factions/New Orleans/Wildlings|Wildlings]]",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Brotherhood",
+        "relativePath": "Factions/New Orleans/Brotherhood.md"
+      },
+      {
+        "link": "Dragons Plantation",
+        "relativePath": "Factions/New Orleans/Dragons Plantation.md"
+      },
+      {
+        "link": "Wildlings",
+        "relativePath": "Factions/New Orleans/Wildlings.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "New Orleans",
+        "link": "West Bank",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "East New Orleans Business District",
+    "relativePath": "Locations/New Orleans/East New Orleans Business District.md",
+    "tags": [
+      "neworleans"
+    ],
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Businesses",
+        "level": 3
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Blue Dog Tunes|Blue Dog Tunes]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Crescent Pharmaceuticals|Crescent Pharmaceuticals]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/The Star Tower|The Star Tower]]",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Blue Dog Tunes",
+        "relativePath": "Corps (Local)/New Orleans/Blue Dog Tunes.md"
+      },
+      {
+        "link": "Crescent Pharmaceuticals",
+        "relativePath": "Corps (Local)/New Orleans/Crescent Pharmaceuticals.md"
+      },
+      {
+        "link": "The Star Tower",
+        "relativePath": "Corps (Local)/New Orleans/The Star Tower.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "New Orleans",
+        "link": "East New Orleans Business District",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "City Outskirts 2",
+    "relativePath": "Locations/New Orleans/City Outskirts 2.md",
+    "tags": [
+      "neworleans"
+    ],
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Factions",
+        "level": 3
+      },
+      {
+        "heading": "[[../../Factions/New Orleans/Humanis Policlub|Humanis]]",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Humanis Policlub",
+        "displayText": "Humanis",
+        "relativePath": "Factions/New Orleans/Humanis Policlub.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "New Orleans",
+        "link": "City Outskirts 2",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Lakeveiw",
+    "relativePath": "Locations/New Orleans/Lakeveiw.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "New Orleans",
+        "link": "Lakeveiw",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Etheth",
+    "relativePath": "Locations/New Orleans/Etheth.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "New Orleans",
+        "link": "Etheth",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Downtown",
+    "relativePath": "Locations/New Orleans/Downtown.md",
+    "tags": [
+      "neworleans"
+    ],
+    "headings": [
+      {
+        "heading": "Businesses",
+        "level": 3
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Bayou Drawf|Bayou Drawf]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Dragon's Lair|Dragon's Lair]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Eddie's Emporium|Eddie's Emporium]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Evelynn Jazzers|Evelynn Jazzers]]",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Bayou Drawf",
+        "relativePath": "Corps (Local)/New Orleans/Bayou Drawf.md"
+      },
+      {
+        "link": "Dragon's Lair",
+        "relativePath": "Corps (Local)/New Orleans/Dragon's Lair.md"
+      },
+      {
+        "link": "Eddie's Emporium",
+        "relativePath": "Corps (Local)/New Orleans/Eddie's Emporium.md"
+      },
+      {
+        "link": "Evelynn Jazzers",
+        "relativePath": "Corps (Local)/New Orleans/Evelynn Jazzers.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Bullwark",
+        "link": "Downtown",
+        "relativePath": "Players/New Orleans/Bullwark.md",
+        "displayText": "downtown"
+      },
+      {
+        "fileName": "New Orleans",
+        "link": "Downtown",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Port of New Orleans",
+    "relativePath": "Locations/New Orleans/Port of New Orleans.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "New Orleans",
+        "link": "Port of New Orleans",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Garden District",
+    "relativePath": "Locations/New Orleans/Garden District.md",
+    "tags": [
+      "neworleans"
+    ],
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "Businesses",
+        "level": 3
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Paradox|Paradox]]",
+        "level": 4
+      },
+      {
+        "heading": "People",
+        "level": 3
+      },
+      {
+        "heading": "[[../../NPCs/Friendly/New Orleans/ClicClac and Big Lou|ClicClac and Big Lou]]",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Paradox",
+        "relativePath": "Corps (Local)/New Orleans/Paradox.md"
+      },
+      {
+        "link": "ClicClac and Big Lou",
+        "relativePath": "NPCs/Friendly/New Orleans/ClicClac and Big Lou.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "23-4-8",
+        "link": "Garden District",
+        "relativePath": "New Orleans Game Notes/23-4-8.md",
+        "displayText": "garden district"
+      },
+      {
+        "fileName": "New Orleans",
+        "link": "Garden District",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Mid-City",
+    "relativePath": "Locations/New Orleans/Mid-City.md",
+    "tags": [
+      "neworleans"
+    ],
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "People",
+        "level": 3
+      },
+      {
+        "heading": "[[../../NPCs/Friendly/New Orleans/Jardis Balise|Jardis Balise]]",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Jardis Balise",
+        "relativePath": "NPCs/Friendly/New Orleans/Jardis Balise.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "New Orleans",
+        "link": "Mid-City",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Central Business",
+    "relativePath": "Locations/New Orleans/Central Business.md",
+    "tags": [
+      "neworleans"
+    ],
+    "headings": [
+      {
+        "heading": "Businesses",
+        "level": 3
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Carity Hospital|Carity Hospital]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Entregy Tower|Entregy Tower]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/June Bug's Warehouse|June Bug's Warehouse]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/La Pavillion|La Pavillion]]",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Carity Hospital",
+        "relativePath": "Corps (Local)/New Orleans/Carity Hospital.md"
+      },
+      {
+        "link": "Entregy Tower",
+        "relativePath": "Corps (Local)/New Orleans/Entregy Tower.md"
+      },
+      {
+        "link": "June Bug's Warehouse",
+        "relativePath": "Corps (Local)/New Orleans/June Bug's Warehouse.md"
+      },
+      {
+        "link": "La Pavillion",
+        "relativePath": "Corps (Local)/New Orleans/La Pavillion.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "New Orleans",
+        "link": "Central Business",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Treme",
+    "relativePath": "Locations/New Orleans/Treme.md",
+    "tags": [
+      "neworleans"
+    ],
+    "headings": [
+      {
+        "heading": "Geographic Notes",
+        "level": 2
+      },
+      {
+        "heading": "People",
+        "level": 3
+      },
+      {
+        "heading": "[[[../../NPCs/Friendly/New Orleans/Mama Mawu|Mama Mawu]]",
+        "level": 4
+      },
+      {
+        "heading": "Gangs",
+        "level": 3
+      },
+      {
+        "heading": "[[../../Factions/New Orleans/Night Stalkers|Night Stalkers]]",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Mama Mawu"
+      },
+      {
+        "link": "Night Stalkers",
+        "relativePath": "Factions/New Orleans/Night Stalkers.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "New Orleans",
+        "link": "Treme",
+        "relativePath": "Locations/New Orleans.md"
+      }
+    ]
+  },
+  {
+    "fileName": "French Quarter",
+    "relativePath": "Locations/New Orleans/French Quarter.md",
+    "tags": [
+      "neworleans"
+    ],
+    "headings": [
+      {
+        "heading": "Businesses",
+        "level": 3
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Beautiful Dreams|Beautiful Dreams]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Club Vampre|Club Vampre]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Faulkners|Faulkners]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/The Jazz Playhouse|The Jazz Playhouse]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Lafitte's|Lafitte's]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Liberty Tattoo|Liberty Tattoo]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Midnight Flowers|Midnight Flowers]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Molly's|Molly's]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Old Absinthe|Old Absinthe]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Sally's Orkish Bar|Sally's Orkish Bar]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Sweet Sweet Janes|Sweet Sweet Janes]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../Corps (Local)/New Orleans/Winds|Winds]]",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Beautiful Dreams",
+        "relativePath": "Corps (Local)/New Orleans/Beautiful Dreams.md"
+      },
+      {
+        "link": "Club Vampre",
+        "relativePath": "Corps (Local)/New Orleans/Club Vampre.md"
+      },
+      {
+        "link": "Faulkners",
+        "relativePath": "Corps (Local)/New Orleans/Faulkners.md"
+      },
+      {
+        "link": "The Jazz Playhouse",
+        "relativePath": "Corps (Local)/New Orleans/The Jazz Playhouse.md"
+      },
+      {
+        "link": "Lafitte's",
+        "relativePath": "Corps (Local)/New Orleans/Lafitte's.md"
+      },
+      {
+        "link": "Liberty Tattoo",
+        "relativePath": "Corps (Local)/New Orleans/Liberty Tattoo.md"
+      },
+      {
+        "link": "Midnight Flowers",
+        "relativePath": "Corps (Local)/New Orleans/Midnight Flowers.md"
+      },
+      {
+        "link": "Molly's",
+        "relativePath": "Corps (Local)/New Orleans/Molly's.md"
+      },
+      {
+        "link": "Old Absinthe",
+        "relativePath": "Corps (Local)/New Orleans/Old Absinthe.md"
+      },
+      {
+        "link": "Sally's Orkish Bar",
+        "relativePath": "Corps (Local)/New Orleans/Sally's Orkish Bar.md"
+      },
+      {
+        "link": "Sweet Sweet Janes",
+        "relativePath": "Corps (Local)/New Orleans/Sweet Sweet Janes.md"
+      },
+      {
+        "link": "Winds",
+        "relativePath": "Corps (Local)/New Orleans/Winds.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "New Orleans",
+        "link": "French Quarter",
+        "relativePath": "Locations/New Orleans.md"
+      },
+      {
+        "fileName": "23-2-23",
+        "link": "French Quarter",
+        "relativePath": "Denver Game notes/23-2-23.md",
+        "displayText": "french quarter"
       }
     ]
   },
@@ -12311,6 +13023,11 @@
         "fileName": "Homepage",
         "link": "South Florida",
         "relativePath": "Homepage.md"
+      },
+      {
+        "fileName": "The Sisters of Mercy",
+        "link": "South Florida",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Sisters of Mercy.md"
       }
     ]
   },
@@ -13786,6 +14503,11 @@
         "fileName": "South Florida",
         "link": "Fort Lauderdale",
         "relativePath": "Locations/South Florida.md"
+      },
+      {
+        "fileName": "The Santos Mafia Family",
+        "link": "Fort Lauderdale",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Santos Mafia Family.md"
       }
     ]
   },
@@ -14199,6 +14921,11 @@
         "relativePath": "Locations/South Florida.md"
       },
       {
+        "fileName": "The Crimson Serpents",
+        "link": "City of Miami",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Crimson Serpents.md"
+      },
+      {
         "fileName": "305 Gang",
         "link": "City of Miami",
         "relativePath": "Factions/Southern Florida/Crime Orgs/305 Gang.md"
@@ -14365,6 +15092,11 @@
         "relativePath": "Locations/South Florida.md"
       },
       {
+        "fileName": "The Dead Suns Gang",
+        "link": "Awakened Everglades",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Dead Suns Gang.md"
+      },
+      {
         "fileName": "Silver Caesars Camp",
         "link": "Awakened Everglades",
         "relativePath": "Factions/Southern Florida/Crime Orgs/Silver Caesars Camp.md"
@@ -14450,6 +15182,88 @@
       {
         "heading": "New Orleans Map",
         "level": 3
+      },
+      {
+        "heading": "Districts",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Algers point",
+        "relativePath": "Locations/New Orleans/Algers point.md"
+      },
+      {
+        "link": "Barrens",
+        "relativePath": "Locations/New Orleans/Barrens.md"
+      },
+      {
+        "link": "Barron",
+        "relativePath": "Locations/New Orleans/Barron.md"
+      },
+      {
+        "link": "Bayou",
+        "relativePath": "Locations/New Orleans/Bayou.md"
+      },
+      {
+        "link": "Cancer Alley",
+        "relativePath": "Locations/New Orleans/Cancer Alley.md"
+      },
+      {
+        "link": "Central Business",
+        "relativePath": "Locations/New Orleans/Central Business.md"
+      },
+      {
+        "link": "City Outskirts 2",
+        "relativePath": "Locations/New Orleans/City Outskirts 2.md"
+      },
+      {
+        "link": "Downtown",
+        "relativePath": "Locations/New Orleans/Downtown.md"
+      },
+      {
+        "link": "East New Orleans Business District",
+        "relativePath": "Locations/New Orleans/East New Orleans Business District.md"
+      },
+      {
+        "link": "Etheth",
+        "relativePath": "Locations/New Orleans/Etheth.md"
+      },
+      {
+        "link": "French Quarter",
+        "relativePath": "Locations/New Orleans/French Quarter.md"
+      },
+      {
+        "link": "Garden District",
+        "relativePath": "Locations/New Orleans/Garden District.md"
+      },
+      {
+        "link": "Lakeveiw",
+        "relativePath": "Locations/New Orleans/Lakeveiw.md"
+      },
+      {
+        "link": "LUX",
+        "relativePath": "Locations/New Orleans/LUX.md"
+      },
+      {
+        "link": "Mid-City",
+        "relativePath": "Locations/New Orleans/Mid-City.md"
+      },
+      {
+        "link": "Port of New Orleans",
+        "relativePath": "Locations/New Orleans/Port of New Orleans.md"
+      },
+      {
+        "link": "Rivers End",
+        "relativePath": "Locations/New Orleans/Rivers End.md"
+      },
+      {
+        "link": "Treme",
+        "relativePath": "Locations/New Orleans/Treme.md"
+      },
+      {
+        "link": "West Bank",
+        "relativePath": "Locations/New Orleans/West Bank.md"
       }
     ],
     "backlinks": [
@@ -16742,16 +17556,8 @@
     "relativePath": "GM Info/Miami/Temp document.md"
   },
   {
-    "fileName": "Untitled",
-    "relativePath": "GM Info/Miami/Untitled.md"
-  },
-  {
     "fileName": "Joes character",
     "relativePath": "GM Info/Miami/Joes character.md"
-  },
-  {
-    "fileName": "crime orgs",
-    "relativePath": "GM Info/Miami/crime orgs.md"
   },
   {
     "fileName": "GM Pages",
@@ -17007,6 +17813,296 @@
     ]
   },
   {
+    "fileName": "Brotherhood",
+    "relativePath": "Factions/New Orleans/Brotherhood.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "West Bank",
+        "link": "Brotherhood",
+        "relativePath": "Locations/New Orleans/West Bank.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Wildlings",
+    "relativePath": "Factions/New Orleans/Wildlings.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "West Bank",
+        "link": "Wildlings",
+        "relativePath": "Locations/New Orleans/West Bank.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Dragons Plantation",
+    "relativePath": "Factions/New Orleans/Dragons Plantation.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "West Bank",
+        "link": "Dragons Plantation",
+        "relativePath": "Locations/New Orleans/West Bank.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Abandoned",
+    "relativePath": "Factions/New Orleans/Abandoned.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cancer Alley",
+        "link": "Abandoned",
+        "relativePath": "Locations/New Orleans/Cancer Alley.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Death Krewe",
+    "relativePath": "Factions/New Orleans/Death Krewe.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cancer Alley",
+        "link": "Death Krewe",
+        "relativePath": "Locations/New Orleans/Cancer Alley.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Chiefs",
+    "relativePath": "Factions/New Orleans/Chiefs.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cancer Alley",
+        "link": "Chiefs",
+        "relativePath": "Locations/New Orleans/Cancer Alley.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Takers",
+    "relativePath": "Factions/New Orleans/Takers.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Barrens",
+        "link": "Takers",
+        "relativePath": "Locations/New Orleans/Barrens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Silence",
+    "relativePath": "Factions/New Orleans/The Silence.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Barrens",
+        "link": "The Silence",
+        "relativePath": "Locations/New Orleans/Barrens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Halloweeners",
+    "relativePath": "Factions/New Orleans/Halloweeners.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Barrens",
+        "link": "Halloweeners",
+        "relativePath": "Locations/New Orleans/Barrens.md",
+        "displayText": "halloweeners"
+      },
+      {
+        "fileName": "Barrens",
+        "link": "Halloweeners",
+        "relativePath": "Locations/New Orleans/Barrens.md"
+      },
+      {
+        "fileName": "G-strips",
+        "link": "halloweeners",
+        "relativePath": "Factions/New Orleans/G-strips.md"
+      }
+    ]
+  },
+  {
+    "fileName": "G-strips",
+    "relativePath": "Factions/New Orleans/G-strips.md",
+    "tags": [
+      "neworleans"
+    ],
+    "links": [
+      {
+        "link": "halloweeners",
+        "relativePath": "Factions/New Orleans/Halloweeners.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Barrens",
+        "link": "G-strips",
+        "relativePath": "Locations/New Orleans/Barrens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Humanis Policlub",
+    "relativePath": "Factions/New Orleans/Humanis Policlub.md",
+    "backlinks": [
+      {
+        "fileName": "City Outskirts 2",
+        "link": "Humanis Policlub",
+        "relativePath": "Locations/New Orleans/City Outskirts 2.md",
+        "displayText": "Humanis"
+      }
+    ]
+  },
+  {
+    "fileName": "Purgatory",
+    "relativePath": "Factions/New Orleans/Purgatory.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Barron",
+        "link": "Purgatory",
+        "relativePath": "Locations/New Orleans/Barron.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Night Stalkers",
+    "relativePath": "Factions/New Orleans/Night Stalkers.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Treme",
+        "link": "Night Stalkers",
+        "relativePath": "Locations/New Orleans/Treme.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Sisters of Mercy",
+    "relativePath": "Factions/Southern Florida/Crime Orgs/The Sisters of Mercy.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "South Florida",
+        "relativePath": "Locations/South Florida.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sister Seraphina",
+        "link": "The Sisters of Mercy",
+        "relativePath": "NPCs/Unfriendly/South Florida/Sister Seraphina.md",
+        "displayText": "the Sisters of Mercy"
+      },
+      {
+        "fileName": "Sister Margaret Thompson",
+        "link": "The Sisters of Mercy",
+        "relativePath": "NPCs/Neutral/South Florida/Sister Margaret Thompson.md",
+        "displayText": "the Sisters of Mercy"
+      }
+    ]
+  },
+  {
+    "fileName": "The Santos Mafia Family",
+    "relativePath": "Factions/Southern Florida/Crime Orgs/The Santos Mafia Family.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "Fort Lauderdale",
+        "relativePath": "Locations/South Florida/Fort Lauderdale.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Isabella (The Black Widow) Santos",
+        "link": "The Santos Mafia Family",
+        "relativePath": "NPCs/Unfriendly/South Florida/Isabella (The Black Widow) Santos.md",
+        "displayText": "the Santos Mafia Family"
+      },
+      {
+        "fileName": "Ricardo (Don Santos) Santos",
+        "link": "The Santos Mafia Family",
+        "relativePath": "NPCs/Neutral/South Florida/Ricardo (Don Santos) Santos.md",
+        "displayText": "the Santos Mafia Family"
+      },
+      {
+        "fileName": "Marco (Mugsy) Ramirez",
+        "link": "The Santos Mafia Family",
+        "relativePath": "NPCs/Neutral/South Florida/Marco (Mugsy) Ramirez.md",
+        "displayText": "the Santos Mafia Family"
+      }
+    ]
+  },
+  {
+    "fileName": "The Dead Suns Gang",
+    "relativePath": "Factions/Southern Florida/Crime Orgs/The Dead Suns Gang.md",
+    "tags": [
+      "miami"
+    ],
+    "links": [
+      {
+        "link": "Awakened Everglades",
+        "relativePath": "Locations/South Florida/Awakened Everglades.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Reaper",
+        "link": "The Dead Suns Gang",
+        "relativePath": "NPCs/Unfriendly/South Florida/Reaper.md",
+        "displayText": "Dead Suns"
+      },
+      {
+        "fileName": "Reaper",
+        "link": "The Dead Suns Gang",
+        "relativePath": "NPCs/Unfriendly/South Florida/Reaper.md",
+        "displayText": "Dead Suns"
+      },
+      {
+        "fileName": "Javier (Spike) Ramirez",
+        "link": "The Dead Suns Gang",
+        "relativePath": "NPCs/Neutral/South Florida/Javier (Spike) Ramirez.md",
+        "displayText": "The Dead Suns gang"
+      }
+    ]
+  },
+  {
     "fileName": "War Pigs Bike Gang",
     "relativePath": "Factions/Southern Florida/Crime Orgs/War Pigs Bike Gang.md",
     "tags": [
@@ -17087,6 +18183,31 @@
     "relativePath": "Factions/Southern Florida/Crime Orgs/The Crimson Serpents.md",
     "tags": [
       "miami"
+    ],
+    "links": [
+      {
+        "link": "City of Miami",
+        "relativePath": "Locations/South Florida/City of Miami.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Viper",
+        "link": "The Crimson Serpents",
+        "relativePath": "NPCs/Unfriendly/South Florida/Viper.md",
+        "displayText": "the Crimson Serpents"
+      },
+      {
+        "fileName": "Viper",
+        "link": "The Crimson Serpents",
+        "relativePath": "NPCs/Unfriendly/South Florida/Viper.md",
+        "displayText": "the Crimson Serpents"
+      },
+      {
+        "fileName": "Alejandro (El Jefe) Hernandez",
+        "link": "The Crimson Serpents",
+        "relativePath": "NPCs/Neutral/South Florida/Alejandro (El Jefe) Hernandez.md"
+      }
     ]
   },
   {
@@ -17162,6 +18283,18 @@
       {
         "link": "Doral",
         "relativePath": "Locations/South Florida/Doral.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sarah Cooper",
+        "link": "Humanis Policlub",
+        "relativePath": "NPCs/Neutral/South Florida/Sarah Cooper.md"
+      },
+      {
+        "fileName": "Jacob (Ironhand) Thompson",
+        "link": "Humanis Policlub",
+        "relativePath": "NPCs/Neutral/South Florida/Jacob (Ironhand) Thompson.md"
       }
     ]
   },
@@ -18079,6 +19212,385 @@
         "fileName": "Andreas Kyriakopoulos",
         "link": "Athens Oligarchs",
         "relativePath": "NPCs/Neutral/Athens/Andreas Kyriakopoulos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Fang collectors",
+    "relativePath": "Corps (Local)/New Orleans/Fang collectors.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Barrens",
+        "link": "Fang collectors",
+        "relativePath": "Locations/New Orleans/Barrens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Rat Daddies",
+    "relativePath": "Corps (Local)/New Orleans/Rat Daddies.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Barrens",
+        "link": "Rat Daddies",
+        "relativePath": "Locations/New Orleans/Barrens.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Star Tower",
+    "relativePath": "Corps (Local)/New Orleans/The Star Tower.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "East New Orleans Business District",
+        "link": "The Star Tower",
+        "relativePath": "Locations/New Orleans/East New Orleans Business District.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Blue Dog Tunes",
+    "relativePath": "Corps (Local)/New Orleans/Blue Dog Tunes.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "East New Orleans Business District",
+        "link": "Blue Dog Tunes",
+        "relativePath": "Locations/New Orleans/East New Orleans Business District.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Crescent Pharmaceuticals",
+    "relativePath": "Corps (Local)/New Orleans/Crescent Pharmaceuticals.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "East New Orleans Business District",
+        "link": "Crescent Pharmaceuticals",
+        "relativePath": "Locations/New Orleans/East New Orleans Business District.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Paradox",
+    "relativePath": "Corps (Local)/New Orleans/Paradox.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Garden District",
+        "link": "Paradox",
+        "relativePath": "Locations/New Orleans/Garden District.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Eddie's Emporium",
+    "relativePath": "Corps (Local)/New Orleans/Eddie's Emporium.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Eddie Boussard",
+        "link": "Eddie's Emporium",
+        "relativePath": "NPCs/Friendly/New Orleans/Eddie Boussard.md"
+      },
+      {
+        "fileName": "Downtown",
+        "link": "Eddie's Emporium",
+        "relativePath": "Locations/New Orleans/Downtown.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Evelynn Jazzers",
+    "relativePath": "Corps (Local)/New Orleans/Evelynn Jazzers.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Downtown",
+        "link": "Evelynn Jazzers",
+        "relativePath": "Locations/New Orleans/Downtown.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Bayou Drawf",
+    "relativePath": "Corps (Local)/New Orleans/Bayou Drawf.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Downtown",
+        "link": "Bayou Drawf",
+        "relativePath": "Locations/New Orleans/Downtown.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Dragon's Lair",
+    "relativePath": "Corps (Local)/New Orleans/Dragon's Lair.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Downtown",
+        "link": "Dragon's Lair",
+        "relativePath": "Locations/New Orleans/Downtown.md"
+      }
+    ]
+  },
+  {
+    "fileName": "La Pavillion",
+    "relativePath": "Corps (Local)/New Orleans/La Pavillion.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Central Business",
+        "link": "La Pavillion",
+        "relativePath": "Locations/New Orleans/Central Business.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Entregy Tower",
+    "relativePath": "Corps (Local)/New Orleans/Entregy Tower.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Central Business",
+        "link": "Entregy Tower",
+        "relativePath": "Locations/New Orleans/Central Business.md"
+      }
+    ]
+  },
+  {
+    "fileName": "June Bug's Warehouse",
+    "relativePath": "Corps (Local)/New Orleans/June Bug's Warehouse.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "June Bug Reavers",
+        "link": "June Bug's Warehouse",
+        "relativePath": "NPCs/Friendly/New Orleans/June Bug Reavers.md"
+      },
+      {
+        "fileName": "Central Business",
+        "link": "June Bug's Warehouse",
+        "relativePath": "Locations/New Orleans/Central Business.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Carity Hospital",
+    "relativePath": "Corps (Local)/New Orleans/Carity Hospital.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Dr Lester",
+        "link": "Carity Hospital",
+        "relativePath": "NPCs/Friendly/New Orleans/Dr Lester.md"
+      },
+      {
+        "fileName": "Central Business",
+        "link": "Carity Hospital",
+        "relativePath": "Locations/New Orleans/Central Business.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Winds",
+    "relativePath": "Corps (Local)/New Orleans/Winds.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "French Quarter",
+        "link": "Winds",
+        "relativePath": "Locations/New Orleans/French Quarter.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sweet Sweet Janes",
+    "relativePath": "Corps (Local)/New Orleans/Sweet Sweet Janes.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "French Quarter",
+        "link": "Sweet Sweet Janes",
+        "relativePath": "Locations/New Orleans/French Quarter.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sally's Orkish Bar",
+    "relativePath": "Corps (Local)/New Orleans/Sally's Orkish Bar.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "French Quarter",
+        "link": "Sally's Orkish Bar",
+        "relativePath": "Locations/New Orleans/French Quarter.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Old Absinthe",
+    "relativePath": "Corps (Local)/New Orleans/Old Absinthe.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "French Quarter",
+        "link": "Old Absinthe",
+        "relativePath": "Locations/New Orleans/French Quarter.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Molly's",
+    "relativePath": "Corps (Local)/New Orleans/Molly's.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "French Quarter",
+        "link": "Molly's",
+        "relativePath": "Locations/New Orleans/French Quarter.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Midnight Flowers",
+    "relativePath": "Corps (Local)/New Orleans/Midnight Flowers.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "French Quarter",
+        "link": "Midnight Flowers",
+        "relativePath": "Locations/New Orleans/French Quarter.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Lafitte's",
+    "relativePath": "Corps (Local)/New Orleans/Lafitte's.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "French Quarter",
+        "link": "Lafitte's",
+        "relativePath": "Locations/New Orleans/French Quarter.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Jazz Playhouse",
+    "relativePath": "Corps (Local)/New Orleans/The Jazz Playhouse.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "French Quarter",
+        "link": "The Jazz Playhouse",
+        "relativePath": "Locations/New Orleans/French Quarter.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Faulkners",
+    "relativePath": "Corps (Local)/New Orleans/Faulkners.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "French Quarter",
+        "link": "Faulkners",
+        "relativePath": "Locations/New Orleans/French Quarter.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Club Vampre",
+    "relativePath": "Corps (Local)/New Orleans/Club Vampre.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "French Quarter",
+        "link": "Club Vampre",
+        "relativePath": "Locations/New Orleans/French Quarter.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Beautiful Dreams",
+    "relativePath": "Corps (Local)/New Orleans/Beautiful Dreams.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "French Quarter",
+        "link": "Beautiful Dreams",
+        "relativePath": "Locations/New Orleans/French Quarter.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Liberty Tattoo",
+    "relativePath": "Corps (Local)/New Orleans/Liberty Tattoo.md",
+    "tags": [
+      "neworleans"
+    ],
+    "backlinks": [
+      {
+        "fileName": "French Quarter",
+        "link": "Liberty Tattoo",
+        "relativePath": "Locations/New Orleans/French Quarter.md"
       }
     ]
   },
@@ -19151,6 +20663,11 @@
         "link": "Denver Prime",
         "displayText": "Denver Specials",
         "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "French Quarter",
+        "displayText": "french quarter",
+        "relativePath": "Locations/New Orleans/French Quarter.md"
       }
     ]
   },
@@ -20144,13 +21661,13 @@
       {
         "fileName": "Maximilian",
         "link": "Saeder Krupp",
-        "relativePath": "Players/Germany(Sunday)/Maximilian.md",
+        "relativePath": "Players/Berlin Crew/Maximilian.md",
         "displayText": "Sader Krupp"
       },
       {
         "fileName": "Angel",
         "link": "Saeder Krupp",
-        "relativePath": "Players/Germany(Sunday)/Angel.md",
+        "relativePath": "Players/Berlin Crew/Angel.md",
         "displayText": "Sader Krupp"
       },
       {

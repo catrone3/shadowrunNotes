@@ -197,10 +197,6 @@
       "relativePath": "Players/Front Range Consulting"
     },
     {
-      "name": "Germany(Sunday)",
-      "relativePath": "Players/Germany(Sunday)"
-    },
-    {
       "name": "London",
       "relativePath": "Players/London"
     },
@@ -455,6 +451,26 @@
     {
       "name": "unused images",
       "relativePath": "Images/unused images"
+    },
+    {
+      "name": "South Florida",
+      "relativePath": "NPCs/Unfriendly/South Florida"
+    },
+    {
+      "name": "New Orleans",
+      "relativePath": "Locations/New Orleans"
+    },
+    {
+      "name": "New Orleans",
+      "relativePath": "Factions/New Orleans"
+    },
+    {
+      "name": "New Orleans",
+      "relativePath": "Corps (Local)/New Orleans"
+    },
+    {
+      "name": "Berlin Crew",
+      "relativePath": "Players/Berlin Crew"
     }
   ],
   "nonMdFiles": [

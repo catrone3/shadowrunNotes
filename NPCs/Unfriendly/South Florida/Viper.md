@@ -1,0 +1,2 @@
+#miami 
+Viper is a high-ranking member of [[../../../Factions/Southern Florida/Crime Orgs/The Crimson Serpents|the Crimson Serpents]], known for her deadly precision and quick reflexes. With fiery red hair and a serpent tattoo winding up her arm, she strikes an intimidating figure. Viper is a skilled infiltrator and assassin, specializing in covert operations and silent takedowns. Her loyalty to [[../../../Factions/Southern Florida/Crime Orgs/The Crimson Serpents|the Crimson Serpents]] is unwavering, and she will stop at nothing to protect her gang's interests.

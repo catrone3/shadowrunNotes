@@ -7,26 +7,26 @@ Adept
 Back in Berlin
 
 ### Contacts
-[[../../NPCs/Friendly/Germany/Dell' Inferno|Dell' Inferno]]
+Dell' Inferno
 - All Elf Neo-Punk Band
 - Loyalty: 5
 
-[[../../NPCs/Friendly/Germany/Hans Gruber|Hans Gruber]]
+Hans Gruber
 - Arms Dealer
 - Loyalty: 1
 
-[[../../NPCs/Friendly/Germany/Hecate (Lillian Morgan)|Hecate (Lillian Morgan)]]
+Hecate (Lillian Morgan)
 - Fixer/Club Manager
 - Loyalty: 3
 
-[[../../NPCs/Friendly/Germany/Reinald Ebersbacher|Reinald Ebersbacher]]
+Reinald Ebersbacher
 - Laes Dealer
 - Loyalty: 1
 
-[[../../NPCs/Friendly/Germany/Niklas Klause|Niklas Klause]]
+Niklas Klause
 - Mercenary Alchemist
 - Loyalty: 2
 
-[[../../NPCs/Friendly/Germany/Heidi Nagel|Heidi Nagel]]
+Heidi Nagel
 - Higher up at Platte
 - loyalty 1 

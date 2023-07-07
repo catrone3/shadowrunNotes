@@ -1,0 +1,2 @@
+#miami 
+Reaper is a feared member of the [[../../../Factions/Southern Florida/Crime Orgs/The Dead Suns Gang|Dead Suns]], with a reputation as an unstoppable force on the battlefield. Covered in cybernetic enhancements and sporting a deathly white face paint, he strikes a menacing presence. Reaper's expertise lies in heavy weapons and demolitions. His cold, emotionless demeanor masks a fierce loyalty to the [[../../../Factions/Southern Florida/Crime Orgs/The Dead Suns Gang|Dead Suns]], and he is always ready to unleash devastation upon their enemies.

@@ -5,13 +5,13 @@
 #### Sunday
 ##### Berlin_Team
 
-[[Germany(Sunday)/Angel|Angel]]
-[[Germany(Sunday)/Dok|Dok]]
-[[Germany(Sunday)/Firestorm|Firestorm]]
-[[Germany(Sunday)/Glitch|Glitch]]
-[[Germany(Sunday)/Jericho|Jericho]]
-[[Germany(Sunday)/Maximilian|Max]]
-[[Germany(Sunday)/Tanka|Tanka]]
+[[Berlin Crew/Angel|Angel]]
+[[Berlin Crew/Dok|Dok]]
+[[Berlin Crew/Firestorm|Firestorm]]
+[[Berlin Crew/Glitch|Glitch]]
+[[Berlin Crew/Jericho|Jericho]]
+[[Berlin Crew/Maximilian|Max]]
+[[Berlin Crew/Tanka|Tanka]]
 
 ##### Contacts
 [[../NPCs/Friendly/Germany/Reinhart (Templar) Gärtner|Reinhart "Templar" Gärtner]]

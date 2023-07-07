@@ -10,17 +10,17 @@ Once a week sets off alarm on car back to back
 Captured
 
 ### Contacts
-[[../../NPCs/Friendly/Germany/Caroline Krause|Caroline Krause]]
+Caroline Krause
 - ID Manufacturer
 - Loyalty: 2
 - Connection: 5
 
-[[../../NPCs/Friendly/Germany/Priska Probst|Priska Probst]]
+Priska Probst
 - Mechanic
 - Loyalty: 2
 - Connection: 3
 
-[[../../NPCs/Friendly/Germany/Marjan Decker|Marjan Decker]]
+Marjan Decker
 - Script Kiddie
 - Loyalty: 1
 - Connection: 2

@@ -1,2 +1,2 @@
 #miami 
-Humanis Policlub Member: Sarah Cooper, a dedicated member of a Humanis policlub, possessing knowledge of their activities, agendas, and connections. - Connection Rating: 2 - Involved with a local poliitical club.
+[[../../../Factions/Southern Florida/Crime Orgs/Humanis Policlub|Humanis Policlub]] Member: Sarah Cooper, a dedicated member of a Humanis policlub, possessing knowledge of their activities, agendas, and connections. - Connection Rating: 2 - Involved with a local poliitical club.
