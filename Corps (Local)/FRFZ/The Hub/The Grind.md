@@ -1,0 +1,8 @@
+#Denver 
+A biker bar popular among the orks and trolls who were unfortunate enough to live in what was CAS territory, the Grind makes an ideal meeting place. There are enough patrons to discourage bad behavior but few enough to allow for discretion. Gibson, sometimes called “Sarge,” is the owner and operator of the Grind.  
+
+> Sarge is a really great guy. He was a sergeant for Lone Star and was forced to grind down his horns to fit in. After a while, he decided that the racism was too much to tolerate and left. Anyone affiliated with law enforcement will have a hard time in this bar, as will anyone with racist tendencies. Sarge still has friends from his days in Lone Star, which discourages organizations like Human Nation from trying to get rid of him. Still, Sarge is getting older and could use some help with idiots.  
+> 14er
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #6th

@@ -1,0 +1,16 @@
+#Denver 
+The trio of arcotowers that sprouted up in the 2070s are colloquially known as “The Good, the Bad, and the Ugly.” The tower in Arvada is known as “The Ugly” in part because it could have been good, but turned sour really quickly. Part of the reason why the Ugly became so awful has to do with its history.  
+  
+During the 2060s, the Pueblo Corporate Council was discovered to have been conducting illegal experiments on technomancers alongside its corporate partner, Horizon. Additionally, the PCC had a long-standing history of being exploitative toward changelings and metasapients, profiting off the backs – sometimes literally – of being such as centaurs and ogres.  
+  
+As punishment for these transgressions, Ghostwalker demanded that the PCC establish some affordable housing for those who were refugees from the PCC. The tower would be built in the PCC controlled district of Arvada, but would be under the jurisdiction of Ghostwalker.  
+  
+While the PCC followed the letter of the edict, they ignored the heart of it at every opportunity. Doors remain a little too narrow, ceilings a little too high, and that’s not counting the faulty elevators and escalators that sometimes will lock a series of floors down for weeks. Following the removal of the PCC from Denver, Ghostwalker made The Ugly into one of his properties where citizens could live rent-free. Unfortunately, the building was – and still is – mostly only appropriate for “standard” metahumans.  
+  
+What started out as a great idea for solving homelessness only made things worse. The building is now overcrowded, with many of the previously-homeless humans taking the space that was originally intended for metasapients.  
+  
+The Arvada Arcotower has 8,000 apartments and over 500 businesses. That’s only counting the registered residents and businesses. Each one-bedroom apartment is intended to house 2 residents (depending on metatype). However, overcrowding has resulted in several of these apartments holding up to 6 residents. Population estimates suggest that 30,000 people could be living in the Arvada Arcotower.  
+  
+As a result, the Arvada Arcotower is a hodgepodge of businesses and homes all crammed together in the least efficient way possible, escalating racial tensions and elevating crime. Turns out that when people don’t pay for their property, they tend to let it slide into disrepair and ruin.
+
+District: [[../../../Locations/FRFZ/Westminster|Westminster]]

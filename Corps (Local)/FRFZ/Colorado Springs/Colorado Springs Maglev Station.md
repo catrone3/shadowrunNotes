@@ -1,0 +1,4 @@
+#Denver 
+The southern tip of the FREZ Maglev route, this station is located centrally to Colorado Springs. Because of the connecting routes to Denver, anyone entering or leaving the station should assume that their every move is being heavily monitored.
+
+District: [[../../../Locations/FRFZ/Colorado Springs|Colorado Springs]]

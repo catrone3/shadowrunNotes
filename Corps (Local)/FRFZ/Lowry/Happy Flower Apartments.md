@@ -1,0 +1,4 @@
+#Denver 
+One of the better apartments in Chinatown, Happy Flower caters to well-to-do immigrants and those that want some discretion in their living conditions.
+
+District: [[../../../Locations/FRFZ/Lowry|Lowry]]

@@ -1,0 +1,6 @@
+#Denver 
+Grunt’s Orkish Delights is a restaurant specializing in orkish food. Grunt, a former Big Rhino cook and UCAS Army bomb tech, modeled his place off of The Big Rhino in Seattle. He really wants the place to just serve food, but he knows that’s not the market this street is in. He requires anyone who comes into his restaurant to order food, even the non-orks, and jacks up the price on anyone who doesn’t have the manners to eat with a smile on their face. He sends out anonymous orders as food deliveries with orkish pastries as a bonus.
+
+
+District: [[../../../Locations/FRFZ/Aurora Warrens|Aurora Warrens]]
+Source: #6th

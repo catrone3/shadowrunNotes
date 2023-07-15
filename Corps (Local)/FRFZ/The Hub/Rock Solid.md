@@ -1,0 +1,5 @@
+#Denver 
+
+With a name like Rock Solid. you might expect this dive to be a retro nightclub. Actually, It's a small tavern on Colfax that lives up to Its name by blasting rock of every class and ﬂavor through its killer sound system at a volume guaranteed to melt the fillings In your teeth and possibly cook off the rounds In your pistol. Despite this. or maybe because of it. lots of first-tier Denver runners hang here.
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]

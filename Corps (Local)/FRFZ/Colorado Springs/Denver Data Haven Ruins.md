@@ -1,0 +1,4 @@
+Housed in the McDermott Library of the former US Air Force Academy, the Denver Data Haven had access to the US Air Force’s cyberwarfare suite, extremely strong data connections to the whole world, and lots of redundant systems to ensure operation even in the event of a cataclysm. Unfortunately, no one could have built a site to withstand the attacks of Ghostwalker. When Ghostwalker razed the Denver Data Haven, all personnel were considered killed in action. (this is counter to what the timeline mentions in False Flag)
+
+District: [[../../../Locations/FRFZ/Colorado Springs|Colorado Springs]]
+Source: #6th #2nd #4th 

@@ -1,0 +1,5 @@
+#Denver 
+Alley Cats XXX is a strip club that doubles as a drug and chip dealer, both BTL and regular software. The shop’s owner is Allie, a former runner and before that bunraku puppet with a full skillwire package. She built up connections and some programming skills in her runner days and combines both to get just about any type of chip a runner could need. The club has a full bar and offers chip suites for clients looking to take a little trip. Her girls specialize in chip-enhanced performances. They slot a secondary chip to the users and blend real-world dancing with electronic feed stimulation. There are also a few private rooms for meetings, and a few area Johnsons have gotten Allie to program “meet” chips to give to a team and provide all the pertinent job info before burning out.
+
+District: [[../../../Locations/FRFZ/Aurora Warrens|Aurora Warrens]]
+Source: #6th

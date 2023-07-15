@@ -1,0 +1,7 @@
+The Red Rocks Amphitheater is one of the most amazing structures ever built. What started as a naturally occurring amphitheater was built up and perfected by the US Army Corps of Engineers. The amphitheater has hosted every major musical act from the Beatles to Maria Mercurial.  
+
+> Since the Awakening, the amphitheater gained a new following among the spirits who come to the area to witness the amazing astral performances that happen as a result of thousands of people grooving on a song together.  
+> Bifrost
+
+District: [[../../../Locations/FRFZ/Front Range|Front Range]]
+Source: #6th

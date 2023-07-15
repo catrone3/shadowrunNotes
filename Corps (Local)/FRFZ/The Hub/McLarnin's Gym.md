@@ -1,0 +1,4 @@
+#Denver 
+A great boxing gym, owned by a former welterweight boxing champion who claims to be able to trace his lineage back to Jimmy McLarnin, the greatest Irish boxer of all time. The current owner is named David Walsh, and his lineage is questionable. But his results are not – he trains some excellent boxers, and his trophy cabinet shines with the pride of someone who puts everything into his students. If you need training in hand-to-hand combat, McLarnin’s is a great place to do your learning.
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]

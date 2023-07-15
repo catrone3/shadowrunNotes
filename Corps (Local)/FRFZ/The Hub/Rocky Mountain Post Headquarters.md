@@ -1,0 +1,5 @@
+#Denver 
+The Rocky Mountain Post is a local media outlet that focuses on news related to Ghostwalker. Most people assume that it’s owned by Ghostwalker as his primary PR mechanism, but the staff and publishers insist they’re independent and any perceived slant is unintentional.
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #6th

@@ -1,0 +1,4 @@
+A local watering hole that has been around for a few years, Zeb’s Revenge is a favorite for the Colorado College students. There are rumors that the spirit of Zebulon Pike (not to be confused with Zebulon, the spirit that Ghostwalker fancied) wandered in one night and bought everyone a round of drinks before disappearing and leaving the bar tab unpaid. The stories grow more fantastic the longer one hangs around and the more drinks one has imbibed.
+
+District: [[../../../Locations/FRFZ/Colorado Springs|Colorado Springs]]
+Source: #6th

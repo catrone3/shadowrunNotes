@@ -11,11 +11,43 @@
             "id": "133457ffccda9e71",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Corps (Local)/FRFZ/Stapleton/Northwind Farmstead.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5776fae195a5eb82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Corps (Local)/FRFZ/The Hub/Tower of Babel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "242ebfd3c074b427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/FRFZ/The Hub.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,8 +76,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Seven Storm",
-                "matchingCase": true,
+                "query": "days inn",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -81,12 +113,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/FRFZ/The Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -155,36 +188,42 @@
   },
   "active": "17c028d156c8c8c7",
   "lastOpenFiles": [
-    "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md",
-    "Denver Game notes/23-2-23.md",
-    "Factions/Southern Florida/Crime Orgs/The Sisters of Mercy.md",
-    "NPCs/Unfriendly/South Florida/Sister Seraphina.md",
-    "Players/Athens/Tanka.md",
-    "Players/Athens/Maximilian.md",
-    "Players/Athens/Jericho.md",
-    "Players/Athens/Glitch.md",
-    "Players/Athens/Firestorm.md",
-    "Players/Athens/Dok.md",
-    "Players/Athens.md",
-    "Players/Athens/Angel.md",
-    "Players/Berlin Crew/Dok.md",
-    "Players/Berlin Crew/Angel.md",
-    "Factions/New Orleans/Brotherhood.md",
-    "Locations/New Orleans/West Bank.md",
-    "Factions/New Orleans/Wildlings.md",
-    "Factions/New Orleans/Dragons Plantation.md",
-    "Factions/New Orleans/Abandoned.md",
-    "Locations/New Orleans/Cancer Alley.md",
-    "Factions/New Orleans/Death Krewe.md",
-    "Factions/New Orleans/Chiefs.md",
-    "Factions/New Orleans/Takers.md",
-    "Locations/New Orleans/Barrens.md",
-    "Factions/New Orleans/The Silence.md",
-    "Factions/New Orleans/Halloweeners.md",
-    "Corps (Local)/New Orleans",
-    "Factions/New Orleans",
-    "Locations/New Orleans",
-    "NPCs/Unfriendly/South Florida",
+    "Corps (Local)/FRFZ/Arvada/Adirondack.md",
+    "Corps (Local)/FRFZ/Arvada/Arvada FRTA Station.md",
+    "Corps (Local)/FRFZ/Arvada/Mesametric Factory.md",
+    "Corps (Local)/FRFZ/Arvada/Atlantean Foundation Offices.md",
+    "Locations/FRFZ/Front Range.md",
+    "Corps (Local)/FRFZ/The Hub/Writers Row.md",
+    "Corps (Local)/FRFZ/The Hub/ZDF Headquarters.md",
+    "Corps (Local)/FRFZ/The Hub/Weekday Eclipse Memorial.md",
+    "Corps (Local)/FRFZ/The Hub/Webb Memorial Hospital.md",
+    "Corps (Local)/FRFZ/The Hub/Virtual Reality Center.md",
+    "Corps (Local)/FRFZ/The Hub/UnlimiTech Office.md",
+    "Corps (Local)/FRFZ/The Hub/Union Station.md",
+    "Corps (Local)/FRFZ/The Hub/Truman Tech Tower.md",
+    "Corps (Local)/FRFZ/The Hub/Tribal Meadows.md",
+    "Corps (Local)/FRFZ/The Hub/Tower of Babel.md",
+    "Corps (Local)/FRFZ/The Hub/The New Paramount Theater.md",
+    "Corps (Local)/FRFZ/The Hub/The Grind.md",
+    "Corps (Local)/FRFZ/The Hub/The Front Range.md",
+    "Corps (Local)/FRFZ/The Hub/The Church.md",
+    "Corps (Local)/FRFZ/The Hub/The Casey.md",
+    "Corps (Local)/FRFZ/The Hub/The 1up - LoDo.md",
+    "Corps (Local)/FRFZ/The Hub/Stouffer Concourse Hotel.md",
+    "Corps (Local)/FRFZ/The Hub/State Capitol Building.md",
+    "Corps (Local)/FRFZ/The Hub/St. Jude Cathedral.md",
+    "Corps (Local)/FRFZ/The Hub/Splatter Bar.md",
+    "Corps (Local)/FRFZ/The Hub/Spellweaver Consortium Office.md",
+    "Corps (Local)/FRFZ/The Gap",
+    "Corps (Local)/FRFZ/Colorado Springs/Untitled",
+    "GM Info/FRFZ/People",
+    "Locations/FRFZ/Metaplanes",
+    "GM Info/FRFZ/Ghostwalker",
+    "Corps (Local)/FRFZ/Westminster",
+    "Corps (Local)/FRFZ/Thornton",
+    "Corps (Local)/FRFZ/The Hub",
+    "Corps (Local)/FRFZ/Stapleton",
+    "Corps (Local)/FRFZ/Lowry",
     "Images/shadowrun characters/Pasted image 20230706163125.png",
     "Images/shadowrun characters/Pasted image 20230706192420.png",
     "Images/shadowrun characters/Pasted image 20230706192032.png",
@@ -192,16 +231,10 @@
     "Images/shadowrun characters/Pasted image 20230706183238.png",
     "Images/shadowrun characters/Pasted image 20230701141836.png",
     "Images/unused images/catrone3_female_elf_with_flowing_sulver_hair_equisite_jewelry_a_a2f7cec3-fb3a-410e-8adf-42bcb212ee60.png",
-    "Images/unused images",
     "Images/shadowrun characters/Pasted image 20230706161427.png",
     "Images/shadowrun characters/Pasted image 20230706151441.png",
-    "South Florida Game Notes",
     "Images/shadowrun characters/Pasted image 20230701142209.png",
-    "NPCs/Friendly/South Florida",
-    "AAA Corps/Shiawase",
-    "AA Corps/DocWagon",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
-    "AAA Corps/Ares",
     "Canvas.canvas",
     "Untitled.canvas"
   ]

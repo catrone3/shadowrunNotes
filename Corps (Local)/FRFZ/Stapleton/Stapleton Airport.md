@@ -1,0 +1,4 @@
+This is the oldest civilian airport in the sector. However, it was decommissioned in the 1990s when Denver International Airport was built. Stapleton was rebuilt when the sectors were divided, so the buildings relatively unused and in good shape despite being so old. With the increased funding going toward the Denver International Airport again, Stapleton is back on the bubble for closing. The only traffic they see is municipal short-range flights from commuters, skycabs, and helicopters.
+
+District: [[../../../Locations/FRFZ/Stapleton|Stapleton]]
+Source: #6th #4th #2nd

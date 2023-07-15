@@ -1,0 +1,6 @@
+#Denver 
+What was once a political arena built for the executives for each sector, Council Hall has been converted into a museum. A grotesque display of Ghostwalker’s power, the museum essentially taunts each of the former member nations of the FRFZ. Each of the nations that previously had a sector has a dedicated exhibit, with statues and art commemorating their failures as leaders, and exalting Ghostwalker as the savior the Zone needed.
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #6th #2nd #4th 
+

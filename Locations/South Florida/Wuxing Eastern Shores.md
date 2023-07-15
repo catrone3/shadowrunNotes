@@ -1,5 +1,5 @@
 #miami
-As other megacorps bought land in South Florida, Wuxing decided not to be left behind. This whole area is owned by Wuxing and serves as commercial areas, including magical goods and services. Many vacation, medical, and financial services for Wuxing in the region are based here.   
+As other megacorps bought land in South Florida, [[../../AAA Corps/Wuxing|Wuxing]] decided not to be left behind. This whole area is owned by [[../../AAA Corps/Wuxing|Wuxing]] and serves as commercial areas, including magical goods and services. Many vacation, medical, and financial services for [[../../AAA Corps/Wuxing|Wuxing]] in the region are based here.   
   
 Population: 240,000.  
   
@@ -13,7 +13,7 @@ Cyberscape Nexus caters to deckers and technomancers, providing cutting-edge Fuc
 
 #### Greynold's Park
 
-One of the only free public recreational spaces in this Wuxing controlled area, picnicking, kayaking, and other outdoors activities are enjoyed by corp wage slaves on their day off.
+One of the only free public recreational spaces in this [[../../AAA Corps/Wuxing|Wuxing]] controlled area, picnicking, kayaking, and other outdoors activities are enjoyed by corp wage slaves on their day off.
 
 #### Kowloon Tong Magic Academy
 

@@ -1,0 +1,8 @@
+#Denver 
+Following Ghostwalker’s Reclamation, he took on all the administrative responsibilities of the FRFZ, and the Denver Administration started hiring staff members in droves. It is home to offices for each of the district representatives, along with the bureaucracy needed to keep Denver operating efficiently. 
+
+> If the rumors are true, then Ghostwalker has taken and captured someone or something critically important to each of the leaders of the districts. Odds are that those items are stored here somewhere.  
+> Voxel
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #6th

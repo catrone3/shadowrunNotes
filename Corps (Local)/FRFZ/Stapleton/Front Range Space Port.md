@@ -1,0 +1,7 @@
+Ghostwalker poured some money into building a space port out in the far reaches of Stapleton, east of Denver International Airport. The idea is not a new one, but it’s impressive to see a dragon who cares about space flight. He’s trying to compete with places like the mass driver in Kenya. If successful, it could mean a new age of tech and business innovation for the FRFZ.  
+
+> The project is riddled with delays. They haven’t even broken ground yet. I think he’s more likely using this project to move assets around so that no one else can follow where they’re going.  
+> 14er
+
+District: [[../../../Locations/FRFZ/Stapleton|Stapleton]]
+Source: #6th

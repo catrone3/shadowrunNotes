@@ -1,0 +1,5 @@
+#Denver 
+One of the advantages to being in a massive, flat, rural plain is that you can open a solar farm. The Change the Range solar farm actually provides almost all the electricity requirements of both the Brighton and Stapleton districts. If something were to happen to the Castle Rock Fusion Plant, this solar farm is slated to provide power to the Hub at the expense of all other districts
+
+Disctrict: [[../../../Locations/FRFZ/Brighton|Brighton]]
+Source: #6th 

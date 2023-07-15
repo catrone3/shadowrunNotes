@@ -1,0 +1,4 @@
+#Denver 
+The best place for upscale living in Lakewood. This 15-story tower supports the nearby businesses and boasts a few of its own as amenities. There are two restaurants, including one on the roof that provides spectacular views of both the Rocky Mountains and The Hub
+
+District: [[../../../Locations/FRFZ/Lakewood|Lakewood]]

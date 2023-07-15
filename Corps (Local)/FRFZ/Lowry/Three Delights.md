@@ -1,0 +1,4 @@
+Three Delights is a perennial favorite to find authentic cuisine from Taiwan and Hong Kong. The ex-pats who live in the surrounding Chinatown neighborhood flood this restaurant nightly. If you don’t speak Mandarin or Cantonese, you won’t get service. If you can slot a linguasoft at the least, the drunken noodles are worth the effort.
+
+District: [[../../../Locations/FRFZ/Lowry|Lowry]]
+Source: #6th

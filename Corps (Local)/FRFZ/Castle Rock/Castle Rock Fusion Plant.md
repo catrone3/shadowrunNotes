@@ -1,0 +1,8 @@
+#Denver 
+Built inside the Castle Rock (in game author may have exagurated this a bit), the fusion plant is run by [[../../../AAA Corps/Shiawase|Shiawase]]’s Fuzion subsidiary. It serves as the primary source of electricity to the entire FRFZ. It provides clean, nuclear power for millions of homes and businesses, and the whole operation is primarily subsidized by Ghostwalker. [[../../../AAA Corps/Shiawase|Shiawase]] maintains a strong military presence here, given that the whole thing is a giant fusion bomb just waiting to go off (not how fusion power works).
+
+>[[../../../AAA Corps/Shiawase|Shiawase]] spends time every year trying to shed some of the bad mojo from the fusion plant. If you’re willing to take some of that bad mojo into yourself, [[../../../AAA Corps/Shiawase|Shiawase]] will pay you. You simply stand in the area and let the toxicity enter your aura. It takes about a year to go away, during which time you’re going to notice a toxic tint to your magic for at least a few months. They pay extremely well, but they also tend to keep a close eye on anyone that takes the job, lest that person become addicted to it.  
+> Bifrost
+
+Disctrict: [[../../../Locations/FRFZ/Castle Rock|Castle Rock]]
+Source: #6th

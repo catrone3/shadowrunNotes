@@ -1,0 +1,8 @@
+#Denver 
+The Holiday Inn is a tall, round building right next to Mile-High Stadium. Since the Denver Broncos franchise moved to the new Bracomania Stadium in UCAS territory. this stadium rarely sees use.
+
+Info: Average Hotel Archetype (7 ﬂoors)
+Bias: Moderate Bias against Non-Amerindians
+Address: 1975 Bryant St, Denver, CO 80211
+District: [[../../../Locations/FRFZ/Arvada|Arvada]]
+Source: #2nd

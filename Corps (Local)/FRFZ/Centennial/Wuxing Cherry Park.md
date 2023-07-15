@@ -1,0 +1,9 @@
+The [[../../../AAA Corps/Wuxing|Wuxing]], Inc. regional headquarters is finally constructed, after several attempts by rivals to sabotage it. With the support of their subsidiary, Ming Solutions, they have done a tremendous job of enhancing the natural landscape while expanding their buildings in a respectful way. The Cherry Park complex acts as the regional headquarters for the Malaysian Independent Bank and the Prosperity Development Corporation, both of which finance companies and startups in the region.  
+> [[../../../AAA Corps/Wuxing|Wuxing]] managed to build the whole facility on a confluence of ley lines. The buildings and landscaping actually move the ley lines to form the confluence, upon which is built a fountain. The fountain literally springs forth with magical potential.  
+> Bifrost  
+
+> They chose Cherry Park in part because of its connections with the nearby neighborhood of Chinatown, and their direct connections with the tech corridor. They have also subtly hidden antennas throughout their facility, allowing them to monitor and control the flow of data in the Resonance. I can’t say for sure that using geomantic principles on data has had an effect, but it’s calming and re-assuring nonetheless.  
+> Voxel
+
+District: [[../../../Locations/FRFZ/Centennial|Centennial]]
+Source: #6th

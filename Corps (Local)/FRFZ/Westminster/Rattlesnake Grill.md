@@ -1,0 +1,5 @@
+#Denver 
+The Rattlesnake Grill is a family-friendly southwestern food restaurant. The food is quite good, which keeps it high on the list for locals and tourists. While a family-friendly restaurant may not seem like a good place for a meet, the number of eyes around you will ensure that everything stays friendly.
+
+District: [[../../../Locations/FRFZ/Westminster|Westminster]]
+Source: #6th

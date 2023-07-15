@@ -1,0 +1,5 @@
+#Denver 
+Back before the Ute Nation was absorbed by the PCC, Boulder was in the Ute sector. The region boasts a tremendous amount of historical Ute sites and artifacts, most of which are housed in the Heritage Museum. The Heritage Museum also caters to other types of exhibits though, but they try to remain mainstream. For instance, you won’t see a single image of Daniel Howling Coyote here, because he’s considered too “edgy.”
+
+District: [[../../../Locations/FRFZ/Boulder|Boulder]]
+Source: #6th

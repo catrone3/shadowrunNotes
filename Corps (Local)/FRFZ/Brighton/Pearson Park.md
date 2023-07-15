@@ -1,0 +1,5 @@
+#Denver 
+Hoo-boy is this a crazy place. Only ever went there once, and I’m lucky I made it out alive. Story goes that the town of Fort Lupton used to be a suburb of Denver that did pretty well for itself. Following the Awakening, though, the town started to experience a bunch of weird phenomena. There was an unspecified “natural disaster” in the town that forced everyone to evacuate—this was around the time of the First Treaty of Denver, so it was sort of lumped in with the Anglos leaving the newly created Sioux Nation territory. Fast forward to today, and the place is overrun with flora of all kinds. It’s like nature did more than just reclaim the town, it devoured it whole. No one has been able to figure out what happened here exactly, but it’s extremely dangerous.
+
+Disctrict: [[../../../Locations/FRFZ/Brighton|Brighton]]
+Source: #6th

@@ -1,0 +1,5 @@
+#Denver 
+There is a small area on the eastern side of Boulder that is affectionately known as “Halferville.” It supports a large community of dwarves, and they lean hard into their communal identity. Every week they host a farmer’s market where you can buy dwarven-made arts and crafts, among other things, and generally participate in what they refer to as “Halfer culture.” By which I mean, everything is basically normal, but the prices are inflated in order to bilk the tourists.
+
+District: [[../../../Locations/FRFZ/Boulder|Boulder]]
+Source: #6th

@@ -1,0 +1,6 @@
+#Denver 
+Easily my favorite area in the Hub, [[../../../AAA Corps/Evo|Evo]] Gardens earned its name because of the greenery growing all over the buildings, especially on the roofs and bridges that connect the structures. [[../../../AAA Corps/Evo|Evo]] moved its North American headquarters to this campus, and the head of [[../../../AAA Corps/Evo|Evo]] North America, Mary Luce, often visits the area to check on local businesses. [[../../../AAA Corps/Evo|Evo]], through its MetaErgonomics subsidiary, secured many of the contracts to provide metahumans and sapient critters with comfortable residences, restaurants, and infrastructure. [[../../../AAA Corps/Evo|Evo]] Gardens also houses the local branch of MetaMatrix, the [[../../../AAA Corps/Evo|Evo]] subsidiary that provides electronics and equipment to get sapients of all types onto the Matrix. Other subsidiaries with offices in the Gardens include Shibata Construction and Engineering and Tsuruga International, which they hope to use to win construction contracts in the region.
+
+Offices, Shopping, Dining
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #6th #4th #2nd 

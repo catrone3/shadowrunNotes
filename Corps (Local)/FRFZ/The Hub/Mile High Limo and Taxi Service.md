@@ -1,0 +1,8 @@
+#Denver 
+Offering service across the Hub and nearby neighborhoods, the black-and-white Mile High taxis operating out of this garage are a common sight. The owner, Viktor Ivanov, is a middle-aged human Ukrainian ex-pat with suspected connections to the Vory. When Denver was a divided city, Viktor had an active smuggling network moving people and material across sectors, but these days he runs a mostly legitimate business. 
+
+> The second floor of the garage building is leased to Dr. Rutherford Kaine for his consulting office and the private residence. He’s a well-known arcanoarcheologist and specialist in ancient languages.  
+> Bifrost
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #6th

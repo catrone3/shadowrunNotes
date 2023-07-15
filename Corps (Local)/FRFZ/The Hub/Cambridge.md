@@ -1,0 +1,9 @@
+#Denver 
+A small. intimate place, and incredibly luxurious. (It should b. at the prices they charge: 255 ¥ and up.) The Cambridge only offers abut two dozen suites. which allows their personal service to be very attentive. In fact, the unstated motto of the Cambridge is, "If a service isn't listed. ask for it."
+
+Info: Luxury Hotel Archetype (3 ﬂoors)
+Address: 1560 Sherman St, Denver, CO 80203
+Bias: No Racial Bias
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #2nd 

@@ -1,0 +1,6 @@
+#### Watcher network
+The normal Drake rank that falls on the control of Ghostwalker.  They have to get permission from Ghostwalker when it comes to any kind of wetwork outside of the assigned task. These drakes are the bread and butter spies of any dragons hoard. They try to gain large amounts of knowledge where ever they go. They range from ones that monitor activity going on around the hoards location to undercover field agents. 
+
+#### Talons
+*Wording from the clutch of dragons*
+Thee Talons network is Ghostwalker’s most loyal and secret cadre of spies, and it was unknown to virtually anyone outside of the dragon’s already limited inner circle until Fianchetto accidentally uncovered its existence. All of the Talons are drakes or free spirits who have sworn magical oaths of loyalty and service to do Ghostwalker’s bidding by collecting intelligence and performing covert actions. Each Talon runs their own smaller, compartmentalized spy ring comprising mostly metahumans and spirits. Some also employ paranimals and non-metahuman sapients, and at least one Talon runs a synthetic intelligence (AI or free sprite) operative. they often use members of the larger Watcher network (a known entity in the intelligence world) and the Zone Defense Force as pawns in their machinations.

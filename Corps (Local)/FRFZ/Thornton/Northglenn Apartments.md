@@ -1,0 +1,4 @@
+#Denver 
+This area of Thornton is stereotypically Siouxan: xenophobic to outsiders, aggressively posturing, and no-nonsense blue-collar hard work is rewarded. The nearby apartment complex ensures that the residents have a cheap place to stay, even if it is spartan. Just don’t try to rent the place if you’re an Anglo.
+
+District: [[../../../Locations/FRFZ/Thornton|Thornton]]

@@ -1,0 +1,6 @@
+#Denver 
+Lakewood locals claim this used to be a comfortable, safe hostelry where you could get a clean room for a reasonable price. At least the price haven't changed. The Raintree seems to have fallen on bad times over the past few years. Apparently. cleaning and maintenance have reached an all-time low on the owner/manager's priority list. Go-gangers hang out In the back parking lot and get their yuks from hassling guests. and people lose all kinds of drek from lightfingers helping themselves into their rooms.
+
+Info: Average Hotel Archetype (4 floors)
+District: [[../../../Locations/FRFZ/Lakewood|Lakewood]]
+Source: #2nd 

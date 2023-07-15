@@ -1,0 +1,5 @@
+#Denver 
+“Second Hand” Pam is a sweet old ork with a heart of gold. She will pay you emotional value for your goods! Well, not really. She’s a tough-as-nails ork who has seen too much of the bulldrek you’re peddling. She is a savvy businesswoman who takes her job seriously. Pam’s Pawn provides a wide array of goods and armory services. If you get on her good side, she might show you the stock she keeps in the back which includes illegal firearms, explosives, and armor.
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #6th

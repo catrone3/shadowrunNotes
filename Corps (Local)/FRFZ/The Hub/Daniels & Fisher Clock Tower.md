@@ -1,0 +1,5 @@
+#Denver 
+Built in 1910 as part of the Daniels & Fisher department store, the clock tower was, at the time, the tallest building west of the Mississippi river. Since the department store’s closure, the tower traded ownership multiple times. The top five floors of the clock tower (which include the clock face) are available for rent, even potentially as a very unique residence. The bottom floors have been leased out for decades as a cabaret/bar. The remaining two floors of the building are used as office space by the owners.
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #6th #2nd

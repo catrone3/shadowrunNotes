@@ -1,0 +1,7 @@
+#Denver 
+It’s a local mage hangout, so I’m not really qualified to talk much about it. I’ll leave the description of the magical things to Bifrost. 
+
+Lunar Noctum is shrouded by an anchored Darkness spell. Astral perception is required to be able to navigate the club, which keeps the mundanes away. Once a month, generally the day before the New Moon, the bar shuts down to cover the surfaces with a thin layer of neutralized FAB, so mages can navigate properly. On the New Moon, a huge party draws massive crowds of spirits and mages alike. The club is owned by a dwarf mage named Brandi “Bam Bam” Bautista.
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #6th

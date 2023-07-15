@@ -1,0 +1,8 @@
+#Denver 
+The Denver office for this [[../../../AAA Corps/Renraku|Renraku]] subsidiary, Iris Firmware focuses on developing new software to operate cybernetic components. If you’re using some sort of optic cyberware, there’s a good chance the software was developed here. Iris is the leading supplier of software and firmware for optical devices. 
+
+> Which means that if you can get in here, you can get access to code before it’s released to market, and potentially find some zero-day exploits. That’s a tricky thing to do, so if you plan to do that sort of thing, bring a competent crew.  
+> Voxel
+
+District: [[../../../Locations/FRFZ/Westminster|Westminster]]
+Source: #6th

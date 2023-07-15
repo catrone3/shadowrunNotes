@@ -1,0 +1,5 @@
+#Denver 
+Back in the early 2060s, [[../../../AAA Corps/Renraku|Renraku]] bought out this homegrown simsense tech company and made it one of their subsidiaries. Since then, [[../../../AAA Corps/Renraku|Renraku]] has regularly pumped out upgrades to their simsense technology, constantly pushing boundaries and opening up new avenues of sensation. They owe it all to the work done in this building.
+
+Disctrict: [[../../../Locations/FRFZ/Broomfield|Broomfield]]
+Source: #6th

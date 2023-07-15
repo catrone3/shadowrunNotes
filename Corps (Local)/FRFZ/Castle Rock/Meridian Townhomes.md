@@ -1,0 +1,4 @@
+#Denver 
+Located near the CAS DMZ, the Meridian Townhomes have gotten an ill reputation for being a home to smugglers and ne’er-do-wells. The place is in constant flux, and people are lucky to have steady utilities.
+
+Disctrict: [[../../../Locations/FRFZ/Castle Rock|Castle Rock]]

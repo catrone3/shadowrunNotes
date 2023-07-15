@@ -8,7 +8,7 @@ Security is rating B which is usual for areas comprised primarily of commercial 
 ## Companies
 
 #### [[../../AAA Corps/Horizon/Horizon Express Delivery|Horizon Express Delivery]]
-Horizon Express Delivery is a reputable courier service that specializes in fast and secure delivery of packages, documents, and valuable goods. They offer efficient logistics solutions, tracking systems, and a reliable network of couriers. Horizon Express Delivery is known for its prompt and reliable service, catering to the time-sensitive needs of businesses and individuals.
+[[../../AAA Corps/Horizon|Horizon]] Express Delivery is a reputable courier service that specializes in fast and secure delivery of packages, documents, and valuable goods. They offer efficient logistics solutions, tracking systems, and a reliable network of couriers. [[../../AAA Corps/Horizon|Horizon]] Express Delivery is known for its prompt and reliable service, catering to the time-sensitive needs of businesses and individuals.
 
 #### Clean Energy Ceneter
 

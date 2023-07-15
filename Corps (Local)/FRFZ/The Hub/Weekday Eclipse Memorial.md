@@ -1,0 +1,5 @@
+#Denver 
+A memorial stands in the place where the most famous nightclub in Denver once stood. Weekday Eclipse, formerly owned by the dragon Perianwyr, was firebombed in 2076 by unknown assailants. In the ensuing blaze, seventy-four people lost their lives. Many assumed it was some draconic retribution for Perianwyr interfering with Ghostwalker’s plans several years earlier. The assailants were never captured, and Perianwyr set up this memorial.
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #6th

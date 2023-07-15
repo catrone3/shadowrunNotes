@@ -1,0 +1,5 @@
+#Denver 
+Known to locals as “the Rez”, the Quincy Reservoir is the only place where locals can find reliably clean water. Compared to the rest of the FRFZ, the water is toxic beyond compare—but for the rabbits of the Warrens, this is their best option. Distribution and collection are controlled exclusively by the Fronts, a gang that I’ll be covering in more detail later. Needless to say, there are constant fights as residents squabble over their share of the water.
+
+District: [[../../../Locations/FRFZ/Aurora Warrens|Aurora Warrens]]
+Source: #6th

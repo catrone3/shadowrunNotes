@@ -1,0 +1,10 @@
+#Denver 
+As the name suggests, this is the place to go if you need drones, drone parts, or advice on how to use your drone. They have bins full of parts, all of which are collected by drones and brought up to the counter. Their local riggers give great advice to anyone who has questions about which model can do what. Those same riggers will often provide after-hours support to people who are willing to pay a little extra, if you catch my meaning.  
+>If you want to find a little shell or body for your sprite friend, this  
+	is a great place to go. Talk to Candice Wise. She’s a deft hand at  
+	outfitting drones with all kinds of parts that you might not expect.  
+>Voxel
+
+
+District: [[../../../Locations/FRFZ/Centennial|Centennial]]
+Source: #6th

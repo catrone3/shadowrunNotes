@@ -1,0 +1,8 @@
+Rusty is an old-timer in the former CAS sector. He’s got that thick Southern drawl that one might expect and is missing several teeth that he should have replaced years ago. He’s also missing one of his arms, which has been replaced by what can best be described as a self-built cyberarm. Regardless, Rusty is still the best mechanic in the sector, and his drones help him keep up with the workload.  
+
+> Rusty is a Machinist technomancer, but he doesn’t seem to know it, or maybe he doesn’t care. His affinity for machinery has allowed him to do things that no other mechanic should be able to do, but he chalks it up to skill from his decades of experience.  
+> Voxel
+
+
+District: [[../../../Locations/FRFZ/Lowry|Lowry]]
+Source: #6th

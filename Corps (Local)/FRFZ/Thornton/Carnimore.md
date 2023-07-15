@@ -1,0 +1,7 @@
+This spot is part of a very popular chain of restaurants that cater to protein-rich diets and big appetites. The Carnimore franchise features a huge buffet specializing in meaty flavors and textures. They are tremendously successful in areas with heavy ork and troll populations, and the advertising reflects that. It’s not as obvious as places like the Big Rhino in Seattle, but it’s still pretty clear that this is where you can go if you have nine hungry kids and you’re on a budget. 
+
+> Their advertising is straight-up offensive. I was never raised in a “litter” with a bunch of other orks, and I absolutely knew my mother and father. That new ad where the single mother with six ork babies is wondering where father went off to, and decides to take the kids to Carnimore? Sickening. Though I will say that their brisket is almost worth it.  
+> 14er
+
+District: [[../../../Locations/FRFZ/Thornton]]
+Source: #6th

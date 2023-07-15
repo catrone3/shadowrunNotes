@@ -1,0 +1,4 @@
+#Denver 
+The 16th Street Mall is a pedestrian-only region of The Hub. Long the center of the Denver nightlife scene, the 16th Street Mall is also home to a number of stores, restaurants, and apartment buildings.
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]

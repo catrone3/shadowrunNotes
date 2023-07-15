@@ -1,0 +1,7 @@
+#Denver 
+If you're looking for a seedy. no-nonsnse watering hole,look no further than Hard Target In Lakewood. A stone's throw from the Lakewodd Correctional lnstitutionn ("The Can") and not much further from the Fort Logan Medical Center ("The Asylum"), this dive attract a eclectic mix of patrons. Nowhere else we know of can you find oﬀ-duty correctional officers drowning their sorrows sitting next to Fort Logan outpatients who look like they're one step ahead of a tight-fitting canvas coat with long arms and lot of buckles
+
+Info: Extreme Bias against Suits
+Address: 4200 S Wadsworth Blvd, Lakewood, CO 80226
+District: [[../../../Locations/FRFZ/Lakewood|Lakewood]]
+Source: #2nd 

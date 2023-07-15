@@ -1,0 +1,11 @@
+#Denver 
+
+|   |   |
+|---|---|
+|description|The Radisson recently changed its marketing pitch. Its main selling point used to be drop-dead luxury: now it's tight·hooped physical and magical security. Security guards. some of them combat mages or physical adepts, openly patrol the lobby and hallways. They're always polite. but you know exactly what they are and why they re there (the body armor tends to give It away). If you don't look like an upper-tier corporate suit. you'll get a cold reception at the front desk. The only way to change their attitude Is to show the receptionist a really fat cred stick|
+|Info|Luxury Hotel Archetype (11 ﬂoors)|
+|Address|1550 Court Pl, Denver, CO 80202|
+|Bias|Slight Bias against Amerinds, Orks and Trolls|
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #2nd 

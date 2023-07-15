@@ -1,0 +1,8 @@
+#Denver 
+When [[../../../AAA Corps/Horizon|Horizon]] gained control of the Truman Distribution Networks, they also gained possession of the Truman Tech Tower. [[../../../AAA Corps/Horizon|Horizon]] has given over some of the building to Pathfinder Multimedia, but most of the building is operated by [[../../../AAA Corps/Horizon|Horizon]] subsidiary Singularity.  
+
+> The merger between TDN and [[../../../AAA Corps/Horizon|Horizon]] hasn’t gone as smoothly as [[../../../AAA Corps/Horizon|Horizon]] would like. There are still elements of TDN that think that they should have gone private instead of being bought by [[../../../AAA Corps/Ares|Ares]], and they’re trying to leverage the merger as another opportunity to go private again. [[../../../AAA Corps/Horizon|Horizon]] will win in the end, but the question remains about what the leftovers will be.  
+> Mile High Mike
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #6th #2nd #4th 

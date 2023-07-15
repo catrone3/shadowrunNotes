@@ -1,0 +1,5 @@
+#Denver 
+Dartguns 2 Smartguns is a weapons shop with attached range. The owner, Rattler, is a former mercenary turned runner who loves all things deadly. He has a pair of custom cyberarms that are multi-jointed. Instead of just elbow, wrist and shoulder, his arms have eight ball joints with full directional motion. The arms make his shoulders look droopy, but they allow for some very interesting movements. The shop sells all kinds of mundane weapons as well as weapons designed to be enchanted. Rattler is a skilled armorer and can customize any kind of weapon. He sells his line of unique Enchanter Arms for runners to enchant themselves or take down to Trinkets by using pure materials and utilizing alchemical components in the process.
+
+District: [[../../../Locations/FRFZ/Aurora Warrens|Aurora Warrens]]
+Source: #6th

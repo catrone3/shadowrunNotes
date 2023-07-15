@@ -1,0 +1,4 @@
+The Children of the Dragon believe that Dunkelzahn was their messiah. Following the appearance of Ghostwalker, a splinter sect broke off and called itself the Church of the Dragon Reborn. The two churches have been at odds ever since. Given their proximity to each other, it’s not uncommon to see members of each church trying to poach each other’s members. It’s a very petty fight in the end, since we all know that Jibbers is our true lord and savior
+
+District: [[../../../Locations/FRFZ/Stapleton|Stapleton]]
+Source: #6th

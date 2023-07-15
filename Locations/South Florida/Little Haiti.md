@@ -19,7 +19,7 @@ A favorite hangout for locals, where numerous rock, punk, and thrash bands have 
 
 #### Miami Jewish Health Systems
 
-This medical center is a comprehensive medical facility that will provide any  care you require,for cash up front. Charity can be applied for and is awarded fairly often, but requires a National or Corporate SIN. Owned by the Evo Corporation.
+This medical center is a comprehensive medical facility that will provide any  care you require,for cash up front. Charity can be applied for and is awarded fairly often, but requires a National or Corporate SIN. Owned by the [[../../AAA Corps/Evo|Evo]] Corporation.
 
 #### The Neon Lounge
 ![[../../Corps (Local)/South Florida/The Neon Lounge|The Neon Lounge]]

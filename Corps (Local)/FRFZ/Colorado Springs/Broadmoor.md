@@ -1,0 +1,4 @@
+#Denver 
+A longtime staple of the district, the Broadmoor is a resort for the ultra-wealthy. The fact that it's now controlled by the PCC has only made the Broadmoor even more exclusive.
+
+District: [[../../../Locations/FRFZ/Colorado Springs|Colorado Springs]]

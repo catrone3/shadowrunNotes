@@ -1,0 +1,10 @@
+#Denver 
+The Anasazi Holding Company deserves its own entry because it is the only company (that we know of) to be wholly owned by Ghostwalker. The company holds his other properties and assets, none of which are reportable or public knowledge. There is a vault below ground that supposedly houses many artifacts that were recovered during the 2061 deposing of Aztlan. 
+
+> If the rumor is true, it’s very likely that those artifacts are tremendously powerful and dangerous. There are also supposedly a few artifacts that were recovered from Englewood there. It’s unclear why Ghostwalker would want to hold onto Aztec artifacts, but if I had to make a guess, he thinks that he’s protecting the world from the danger they represent.  
+> Bifrost  
+> I can tell you a lot more about the Matrix setup for Anasazi, which I’ve done in the section below about Matrix hotspots.  
+> Voxel
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #6th

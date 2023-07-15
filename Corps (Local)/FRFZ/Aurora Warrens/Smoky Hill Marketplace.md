@@ -1,0 +1,5 @@
+#Denver 
+The [[../../../Locations/FRFZ/Aurora Warrens|Aurora Warrens]]’ very own open-air souk! One can find almost anything here, provided that you’re okay with things that are previously used. And by “previously used,” I mean “still covered in the blood of the previous poor sap who bought the thing."
+
+District: [[../../../Locations/FRFZ/Aurora Warrens|Aurora Warrens]]
+Source: #6th

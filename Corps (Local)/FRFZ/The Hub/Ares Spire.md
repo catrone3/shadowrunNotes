@@ -1,0 +1,5 @@
+#Denver 
+[[../../../AAA Corps/Ares|Ares]] has a lot of manufacturing facilities in the region. Arthur Vogel wanted a way to make [[../../../AAA Corps/Ares|Ares]] really stand out in the FRFZ though, so he ordered construction of this narrow fifty-story skyscraper. Shortly after, [[../../../AAA Corps/Ares|Ares]] Consumer Products division moved its headquarters into the Spire. Because Aztechnology was ousted from the region, [[../../../AAA Corps/Ares|Ares]] Consumer Products decided to try to use Denver as a test bed for products from all the various nations. This strategy was working well until Ghostwalker’s Reclamation. The offices for [[../../../AAA Corps/Ares|Ares]] Consumer Products and other divisions are all above ground, and occasionally Vogel himself visited. The R&D labs are all below ground. [[../../../AAA Corps/Ares|Ares]] proudly recruits dwarves to work in the Spire, and they boast that they have more dwarfs on their payroll than any other business in the FRFZ.
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #6th

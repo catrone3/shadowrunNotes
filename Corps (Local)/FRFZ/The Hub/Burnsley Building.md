@@ -1,0 +1,4 @@
+#Denver 
+The Burnsley is one of the few remaining rent-controlled apartments in Old Downtown. Since Ghostwalker ousted everyone from Denver, the Burnsley Building has exploded in popularity. It’s far enough from the action of The Hub to avoid some of the loud noise and busy streets, but close enough to keep residents engaged with the local happenings. In essence, it’s an ideal location with few downsides – other than the waiting list to get in.
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]

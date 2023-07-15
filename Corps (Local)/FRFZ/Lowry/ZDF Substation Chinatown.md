@@ -1,0 +1,4 @@
+#Denver 
+While Chinatown isn't a district of its own, the Lowry division of the ZDF felt it necessary to assert its presence in the area with mostly Chinese-ethnic police forces, and to specialize in managing crimes related to the triads, such as smuggling, extortion, and trafficking.
+
+District: [[../../../Locations/FRFZ/Lowry|Lowry]]

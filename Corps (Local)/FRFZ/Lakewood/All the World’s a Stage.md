@@ -1,0 +1,5 @@
+#Denver 
+This place is an absolute drekhole of a bar. The only reason I’m even mentioning it is because it’s affiliated with the Ghost Riders go-gang, and they’re kind of odd. I’ll let Bifrost explain. The Ghost Riders are a go-gang that likes to roam 470 around town. What makes them unique is that they use magical effects to make their motorcycles look like flaming horses, or appear to be chased by thunderclouds that spark lightning, and things like that. If you see anything like that coming your way, get off the road. The Ghost Riders aren’t the most violent go-gang, but they’re definitely the most stylish. I cover them in a bit more detail in the … People to Meet section
+
+District: [[../../../Locations/FRFZ/Lakewood|Lakewood]]
+Source: #6th

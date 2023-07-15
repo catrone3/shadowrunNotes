@@ -1,0 +1,4 @@
+#Denver 
+Ignore the name. Nothing about this place is rosy. Sitting between the Apex Plasmids Complex and a sewage plant, the only advantage that the squats at Brighton Rose offers is that it’s close to Hardpan. If you visit or live here, bring a gas mask and some backup filters.
+
+District: [[../../../Locations/FRFZ/Thornton|Thornton]]

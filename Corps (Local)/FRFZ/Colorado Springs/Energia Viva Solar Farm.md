@@ -1,0 +1,4 @@
+When the US Air Force Academy was in use, this solar farm provided power to the entire academy. [[../../../AAA Corps/Aztechnology|Aztechnology]] subsidiary Energia Viva managed to acquire some of the infrastructure and arranged to purchase the land from the PCC prior to the Reclamation. Because of the importance to the infrastructure, they’ve been allowed to continue operations, albeit with a lot of oversight from Ghostwalker’s administration.
+
+District: [[../../../Locations/FRFZ/Colorado Springs|Colorado Springs]]
+Source: #6th

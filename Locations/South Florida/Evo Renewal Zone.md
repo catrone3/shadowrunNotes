@@ -1,9 +1,9 @@
 #miami
-Until ten years ago this area was abandoned, having been devastated by natural disasters, population decline, and neglect. The Evo corporation bargained with the Caribbean league to rehabilitate this are in return for exclusive property rights.   
+Until ten years ago this area was abandoned, having been devastated by natural disasters, population decline, and neglect. The [[../../AAA Corps/Evo|Evo]] corporation bargained with the Caribbean league to rehabilitate this are in return for exclusive property rights.   
   
-Many Evo environmental engineers, laborers, and other corporate workers live and work here, testing innovative ecological and developmental techniques but vast areas are in various states of ruin, neglect, or bear signs of half finished or failed projects.   
+Many [[../../AAA Corps/Evo|Evo]] environmental engineers, laborers, and other corporate workers live and work here, testing innovative ecological and developmental techniques but vast areas are in various states of ruin, neglect, or bear signs of half finished or failed projects.   
   
-Evo employees in unrelated fields, such as biofabrication, are beginning to move in and work here.   
+[[../../AAA Corps/Evo|Evo]] employees in unrelated fields, such as biofabrication, are beginning to move in and work here.   
   
 Population: 40,000.  
   
@@ -13,7 +13,7 @@ Security is rating D. Infrequent patrols and poorly maintained PanicButton booth
 
 #### Black Point Harbor
 
-EVO's main shipping hub in the area.
+[[../../AAA Corps/Evo|EVO]]'s main shipping hub in the area.
 
 #### [[../../Corps (Local)/South Florida/Santos' Culinary Haven|Santos' Culinary Haven]]
 
@@ -36,4 +36,4 @@ Ramirez Auto Repair Shop is a reputable automotive service center that specializ
 
 #### Zoo Miami
 
-Evo's proudest rehabilitation accomplishment has been the acquisition and rehabilitation of the Zoo, where they showcase the latest in nature simulation for exhibited animals. VIP tours in person and in Virtual Reality are available.
+[[../../AAA Corps/Evo|Evo]]'s proudest rehabilitation accomplishment has been the acquisition and rehabilitation of the Zoo, where they showcase the latest in nature simulation for exhibited animals. VIP tours in person and in Virtual Reality are available.

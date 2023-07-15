@@ -1,0 +1,8 @@
+#Denver   
+The Denver Marriott Wet Is owned by Marriott Hotels of Cheyenne, a wholly owned subsidiary of Marriott Hotels international--a not-s-subtle means of circumventing some of Ute's more arcane corporate-ownership laws. No matter whose name's on the data work, however, this is a Marriott. And that means god service, bland decor, and relatively high prices. Note that this place is in the 'burb of Golden.
+
+Info: Luxury Hotel Archetype (8 floors)
+Address: 1717 Denver West Marriott Blvd, Golden, CO 80401
+Bias: Strong Bias against Non-Amerindians
+District: [[../../../Locations/FRFZ/Arvada|Arvada]]
+Source: #2nd 

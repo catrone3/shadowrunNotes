@@ -1,0 +1,4 @@
+Formerly known as Denver Foodstuff's, Inc., Apex Plasmids was once the primary producer of dietary algae for Denver and surrounding areas. The facility was heavily damaged in the year of the comet and never fully rebuilt. This site is now a shell of its former self and all of the growth has moved up north. Processing of the algae still takes place on this 1/2 square mile facility
+
+District: [[../../../Locations/FRFZ/Commerce City|Commerce City]]
+Source: #2nd #4th

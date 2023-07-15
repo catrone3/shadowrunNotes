@@ -1,0 +1,4 @@
+Built on the former Peterson US Air Force base, Peterson Airport now caters almost exclusively to commercial travel. It’s one of the best ways to get into Colorado Springs, and even though it’s on the far eastern part of town, it’s well connected to all the major highways and roads.
+
+District: [[../../../Locations/FRFZ/Colorado Springs|Colorado Springs]]
+Source: #6th #4th #2nd

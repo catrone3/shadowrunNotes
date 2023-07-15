@@ -1,0 +1,5 @@
+#Denver 
+
+Corp Owner: [[../../../AA Corps/Litehouse Industries/Genesis Medical|Genesis Medical]]
+Address: 100 Health Park Dr, Louisville, CO 80027|
+Disctrict: [[../../../Locations/FRFZ/Broomfield|Broomfield]]

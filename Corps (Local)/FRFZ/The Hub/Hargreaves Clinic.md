@@ -1,0 +1,8 @@
+#Denver 
+Not the actual Hargreaves Clinic—that’s located in Philadelphia—but rather an extension of the clinic built to service Awakened patients in the Domain. Because it’s built in the Hub, anyone can get treatment. Awakened and non-human metasapients are given a free pass on all medical procedures with a valid (or convincing) SIN. Mundane humans can get treatment but have generally longer wait times as they are treated with lower priority. 
+
+> It’s easy enough to get a fake SIN that says you’re Awakened. They don’t check your aura, and they don’t really care much. It’s just that the subsidies they’re given from Ghostwalker require de-emphasizing treatment for mundane humans as part of an “equity” program.  
+> Mile High Mike
+
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #6th #4th #2nd 

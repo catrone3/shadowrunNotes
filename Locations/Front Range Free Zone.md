@@ -1,13 +1,36 @@
-### [FRFZ Map](https://www.google.com/maps/d/u/0/viewer?mid=1BrcfAzyifwU4Gk8I2KPeP9VoH8wz9w-K&ll=28.49634055143031%2C-83.41172544999999&z=5)
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BrcfAzyifwU4Gk8I2KPeP9VoH8wz9w-K&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=18lmSu1nRX-ExOfflEOZrtufM2F6KAo4&ehbc=2E312F" width="640" height="480"></iframe>
 
-### Locations
+### Districts
+##### [[../../Locations/FRFZ/Arvada|Arvada]]
+##### [[../../Locations/FRFZ/Aurora Warrens|Aurora Warrens]]
+##### [[../../Locations/FRFZ/Boulder|Boulder]]
+##### [[../../Locations/FRFZ/Brighton]]
+##### [[../../Locations/FRFZ/Broomfield]]
+##### [[../../Locations/FRFZ/Castle Rock]]
+##### [[../../Locations/FRFZ/Centennial]]
+##### [[../../Locations/FRFZ/Colorado Springs]]
+##### [[../../Locations/FRFZ/Commerce City]]
+##### [[../../Locations/FRFZ/Elbert]]
+##### [[../../Locations/FRFZ/Englewood]]
+##### [[../../Locations/FRFZ/Front Range]]
+##### [[../../Locations/FRFZ/Lakewood]]
+##### [[../../Locations/FRFZ/Lowry]]
+##### [[../../Locations/FRFZ/Stapleton]]
+##### [[../../Locations/FRFZ/The Gap]]
+##### [[../../Locations/FRFZ/The Hub]]
+##### [[../../Locations/FRFZ/Thornton]]
+##### [[../../Locations/FRFZ/Westminster]]
 
-| Locations                                 | Synopsis |
-| ----------------------------------------- | -------- |
-| [[FRFZ/Roseau District\|Roseau District]]          |   District of Dominica that Cat took over with purchasing power, it is run by one of Ghostwalkers Dragons.    |
-| [[FRFZ/Denver Nexus\|Denver Nexus]] |          |
-| [[FRFZ/Cheyenne Mountain\|Cheyenne Mountain]] | An old US base that is shared control between both Cat and Kalt |
+### Metaplanes
+##### [[../../Locations/FRFZ/Metaplanes/Black Canyon|Black Canyon]]
+##### [[../../Locations/FRFZ/Metaplanes/City of Steel|City of Steel]]
+##### [[../../Locations/FRFZ/Metaplanes/Dragon’s Den|Dragon’s Den]]
+##### [[../../Locations/FRFZ/Metaplanes/Iron Horse Nation|Iron Horse Nation]]
+##### [[../../Locations/FRFZ/Metaplanes/Shattered Lands|Shattered Lands]]
 
-
-
+### People
+##### [[../Players/Denver Prime/Cat|Carol 'Cat' Mctavish]]
+### Agencies
+##### [[../Factions/FRFZ/Zone Defense Force|Zone Defense Force]]
+##### [[../Factions/FRFZ/Drake Teams#Watcher network|Watchers]]
+##### [[../Factions/FRFZ/Drake Teams#Talons|Talons]]

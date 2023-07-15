@@ -1,0 +1,6 @@
+#Denver 
+Tablelands is an upscale but casual restaurant with a Southwester theme. It's not the kind of place you visit in suit and tie. but don't go there in leather and Do Martens, either. No official dress code exists as such, but the staﬀ will make it abundantly dear that you don't quite fit If you're not wearing a wardrobe that costs a couple of hundred nuyen. Once you overcome that obstacle, however, Tablelands is a wonderful place. The food Is topnotch Southwester cuisine, often with a twist. like rattlesnake In a light mango vinaigrette. A decent wine list and quiet music round out an atmosphere perfect for face-to-face discussions--either biz or romantic
+
+Info: Mid-Size Restaurant Archetype
+District: [[../../../Locations/FRFZ/Lakewood|Lakewood]]
+Source: #2nd 

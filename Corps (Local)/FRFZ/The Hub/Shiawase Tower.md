@@ -1,0 +1,6 @@
+#Denver 
+This building is less of a plaza and more of a tower. For this reason, the building while still owned by [[../../../AAA Corps/Shiawase|Shiawase]], is no longer called [[../../../AAA Corps/Shiawase|Shiawase]] Plaza. This is now called the [[../../../AAA Corps/Shiawase|Shiawase]] Tower. The name [[../../../AAA Corps/Shiawase|Shiawase]] Plaza has been given to an actual plaza of buildings in Thornton
+
+Offices, Dining
+District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #2nd 

@@ -1,0 +1,4 @@
+The local office of Ming Solutions, a subsidiary of [[../../../AAA Corps/Wuxing|Wuxing]]. The researchers and geomancers in this office were responsible for coordinating the construction of [[../../../AAA Corps/Wuxing|Wuxing]] Cherry Park. Now that Cherry Park has been built, there was a concern that Ming would be moved to that new facility. However, it seems that [[../../../AAA Corps/Wuxing|Wuxing]] likes to keep some influence over Chinatown and will not be moving Ming Solutions any time soon.
+
+District: [[../../../Locations/FRFZ/Lowry|Lowry]]
+Source: #6th
