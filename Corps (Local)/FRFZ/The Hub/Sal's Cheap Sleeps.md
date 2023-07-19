@@ -1,4 +1,5 @@
 #Denver 
-A coffin motel with a surprisingly stellar reputation, Sal’s Cheap Sleeps continues to fill the pods nightly. The presence of Sal, an immensely powerful free spirit of Kin that runs the operation, makes sure everyone is well cared for and their needs are met. No one would dare mess with Sal, and anyone who has tried has been found face-down in the nearby Cherry Creek. It’s unclear why Sal wants to run a coffin motel, but he’s fully registered and licensed with the Administration. If you get on Sal’s good side, he’ll even let you live in one of the pods for an extended period.
+Coffin hotels are all over the city of Denver, but this one is truly unique. It’s got an absolutely stellar reputation for discretion, comfort, and value. It’s run by a free spirit named Sal, who is an immensely powerful spirit of Man. Anyone who has caused trouble at Cheap Sleeps has been found a few days later, face-down in the nearby Cherry Creek.
 
 District: [[../../../Locations/FRFZ/The Hub|The Hub]]
+Source: #6th

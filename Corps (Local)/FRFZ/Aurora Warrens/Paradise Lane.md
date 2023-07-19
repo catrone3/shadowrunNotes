@@ -8,7 +8,7 @@ Thanks to the entrepreneurial spirit of some retired runners, Paradise Lane prov
 [[Sam’s Gadgets]]
 [[Trinket's]]
   
-What they lacked was a reliable street doc, and so they recruited one and invited him to open his shop, Hippocrates.
+What they lacked was a reliable street doc, and so they recruited one and invited him to open his shop, [[Hippocrates]].
 
 District: [[../../../Locations/FRFZ/Aurora Warrens|Aurora Warrens]]
 Source: #6th

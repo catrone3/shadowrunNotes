@@ -1,4 +1,4 @@
 #Denver 
-Focused on shamanic magical techniques and products, Spellweaver Consortium takes advantage of the heavy Awakened and spirit population of the Hub to help steer their product development. Spellweaver is one of the companies that provides armaments to the ZDF to assist in the location and capture of illegal summoners and binders.
+Focused on shamanic magical techniques and products, Spellweaver Consortium takes advantage of the heavy Awakened and spirit population of the Hub to help steer their product development. Spellweaver is one of the companies that provides armaments to the [[../../../Factions/FRFZ/Zone Defense Force|ZDF]] to assist in the location and capture of illegal summoners and binders.
 
 District: [[../../../Locations/FRFZ/The Hub|The Hub]]

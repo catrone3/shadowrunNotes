@@ -1,7 +1,7 @@
 #Denver 
 ![[../../Images/shadowrun characters/cat1.png]]
 
-#### Own modifers/rolls
+#### Own modifiers/rolls
 ##### Quickened rolls
 - analyze device = 14 total (force 4) +8 (6)
 - Armor = 9 (6)

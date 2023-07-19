@@ -1,0 +1,5 @@
+#Denver 
+One would expect that in a city like Denver, the world’s largest private spy organization would have an influence. [[../Aegis|Aegis]] Cognito has an openly observed office, and you should treat it like an embassy—it’s full of bureaucrats and spies, but you can’t tell which is which. While they might have some data on-site, it’s likely the kind that isn’t useful on its own. There is one person in the office who I know for a fact is a spy: Janice Valdes. It’s a complicated story, but basically, we used to spy on each other for our respective masters. We caught each other many times, and it sort of turned into a thing. I’ve got leverage on her, and I’m sure she’s got leverage on me, too. We respect each other, and I don’t go after her anymore.
+
+District: [[../../../Locations/FRFZ/Centennial|Centennial]]
+Source: #6th

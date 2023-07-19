@@ -30,7 +30,7 @@ This Is another place that dates back a long way, right back to the first half o
 #### [[../../Corps (Local)/FRFZ/Arvada/Arvada FRTA Station|Arvada FRTA Station]]
 Since the creation of the FREZ, the Switching Stations have been reconfigured to serve as a port of entry for those traveling to and from the various nations. Making changes domestically is easy, but crossing a border requires additional screening.
 
-#### [[../../Corps (Local)/FRFZ/Arvada/Atlantean Foundation Offices|Atlantean Foundation Offices]]
+#### [[../../AA Corps/Atlantean Foundation/Atlantean Foundation Offices|Atlantean Foundation Offices]]
 The Atlantean Foundation runs its affairs out of this tall building. Visitors are permitted on the first two floors, which are dedicated to their collection of relics, promotional materials for their organization, and public relations. The remaining five floors are off-limits to the public and presumably are reserved for the Atlantean Foundation’s meetings, support staff, and perhaps even more secure storage. The presence of a basement vault has been hinted at but not confirmed.
 
 #### [[../../Corps (Local)/FRFZ/Arvada/Bobbi Vodka's|Bobbi Vodka's]]
@@ -42,10 +42,10 @@ In keeping with the Ute tradition of gratuitous excess, Casa Bonita has thrived 
 #### [[../../Corps (Local)/FRFZ/Arvada/Denim|Denim]]
 This is a Hopi-themed nightclub run by the Koshari crime syndicate. There is usually business to be done here, assuming it is done with discretion. The ZDF knows that this is a Koshari nightclub—they just can’t prove that anything illegal is going on here. The fact that most of the ZDF in the area are former PuebSec officers probably helps ensure that evidence remains unnoticed. 
 
-#### [[../../Corps (Local)/FRFZ/Arvada/Denver West Marriott|Denver West Marriott]]
+#### [[../../AA Corps/Marriott International/Denver West Marriott|Denver West Marriott]]
 The Denver Marriott Wet Is owned by Marriott Hotels of Cheyenne, a wholly owned subsidiary of Marriott Hotels international--a not-s-subtle means of circumventing some of Ute's more arcane corporate-ownership laws. No matter whose name's on the data work, however, this is a Marriott. And that means god service, bland decor, and relatively high prices. Note that this place is in the 'burb of Golden.
 
-#### [[../../Corps (Local)/FRFZ/Arvada/Holiday Inn Denver Sport Center|Holiday Inn Denver Sport Center]]
+#### [[../../AA Corps/IHG Hotels/Holiday Inn Denver Sport Center|Holiday Inn Denver Sport Center]]
 The Holiday Inn is a tall, round building right next to Mile-High Stadium. Since the Denver Broncos franchise moved to the new Bracomania Stadium in UCAS territory. this stadium rarely sees use.
 
 #### [[../../Corps (Local)/FRFZ/Arvada/KMAG Headquarters|KMAG Headquarters]]
@@ -54,7 +54,7 @@ Local media outlet KMAG leases the top two floors of this building. The topmost 
 #### [[../../Corps (Local)/FRFZ/Arvada/Lakeside Amusement Park and Casino|Lakeside Amusement Park and Casino]]
 A former amusement park that fell into disrepair and was rebuilt as a casino, the Lakeside Amusement Park now caters to more “adult” entertainment. There is still the amusement park, but the real money and focus is on the casino and brothel that are run by the Chavez Family.
 
-#### [[../../Corps (Local)/FRFZ/Arvada/Mesametric Factory|Mesametric Factory]]
+#### [[../../A Corps/Mesametric/Mesametric Factory|Mesametric Factory]]
 Mesametric is one of the largest local companies in the region. They build everything from construction drones to light military craft. Currently, they have a contract with the Sioux Nation to provide military vehicles to them.
 
 #### [[../../Corps (Local)/FRFZ/Arvada/Olde Towne Station Apartments|Olde Towne Station Apartments]]

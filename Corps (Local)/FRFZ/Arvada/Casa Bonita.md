@@ -3,10 +3,10 @@ In keeping with the Ute tradition of gratuitous excess, Casa Bonita has thrived 
 
 > Every time I visit Denver, I have to make a pilgrimage to Casa Bonita at least once. Somehow it still maintains its charm even after all these decades.  
 > Red  
-> 
+
 > Wait, you don’t eat things like enchiladas and sopapillas—so, why do you go?”  
 > /dev/grrl  
-> 
+
 > Because I still have to find Black Bart’s treasure.  
 > Red
 

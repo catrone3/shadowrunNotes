@@ -26,7 +26,7 @@ Commerce City is a densely populated blue-collar district just north of the Denv
 #### [[../../Corps (Local)/FRFZ/Commerce City/Apex Plasmids|Apex Plasmids]]
 Formerly known as Denver Foodstuff's, Inc., Apex Plasmids was once the primary producer of dietary algae for Denver and surrounding areas. The facility was heavily damaged in the year of the comet and never fully rebuilt. This site is now a shell of its former self and all of the growth has moved up north. Processing of the algae still takes place on this 1/2 square mile facility
 
-#### [[../../Corps (Local)/FRFZ/Commerce City/FTL Technologies Headquarters|FTL Technologies Headquarters]]
+#### [[../../AAA Corps/Spinrad Global/FTL Technologies Headquarters|FTL Technologies Headquarters]]
 FTL is kind of a hot mess. I talk a lot more about the FTL/Warpdrive fiasco in my section about Matrix Hotspots. If you want deeper details, that’s where you should look. For now, just know that FTL is owned by a guy named Charles Lightfoot, and he wants to take his company private. It’s currently owned by Spinrad Global, so that’s a huge problem for him. His past is also coming back to haunt him as well since the ownership of FTL has changed hands a few times, things are a little convoluted when it comes to tracking down who owns what within FTL
 
 #### [[../../Corps (Local)/FRFZ/Commerce City/Hardpan|Hardpan]]
@@ -41,10 +41,10 @@ A bar that sits near the Krupp Chemicals Refinery. The story goes that it was bu
 #### [[../../Corps (Local)/FRFZ/Commerce City/Timber Lodge|Timber Lodge]]
 These rustic-looking townhomes are commonly used by employees at Warpdrive Systems. The facility has a lot of turnover, which means that they are often looking to rent rooms with relatively little background check. If one has a Warpdrive employee ID, that’s enough for their purposes
 
-#### [[../../Corps (Local)/FRFZ/Commerce City/Truman Distribution Networks Office|Truman Distribution Networks Office]]
+#### [[../../AAA Corps/Horizon/Truman Distribution Networks Office|Truman Distribution Networks Office]]
 Truman Distribution Networks (TDN) is the largest media outlet in the region. They got to be big enough to attract the attention of Horizon and Ares. Ares bought them out and traded them to Horizon in exchange for Horizon’s PR work on their Excalibur fiasco. There was some debate about integrating TDN into Horizon’s office in Boulder, but they decided that this facility still had  enough value to keep it active.
 
-#### [[../../Corps (Local)/FRFZ/Commerce City/Tsuruga International Warehouse|Tsuruga International Warehouse]]
+#### [[../../AAA Corps/Evo/Tsuruga International Warehouse|Tsuruga International Warehouse]]
 You won’t see the name Tsuruga International on many of the packages you get delivered, but most of them pass through this warehouse at some point or another. It’s a customs warehouse for all goods entering or leaving the FRFZ, and Tsuruga International is the company fortunate enough to hold that contract.
 
 #### [[../../Corps (Local)/FRFZ/Commerce City/Warpdrive Systems Headquarter|Warpdrive Systems Headquarter]]

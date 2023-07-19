@@ -3,5 +3,5 @@ The only business willing to put itself close to the Apex Plasmids algae tanks, 
 > You’re still welcome in Hardpan if you’re Anglo. Just be cognizant of Sioux traditions like making challenges and contests of strength, will, and intelligence. And don’t get baited into throwing the first punch, because you will get tossed and banned for life.  
 > Mile High Mike
 
-District: [[../../../Locations/FRFZ/Thornton]]
+District: [[../../../Locations/FRFZ/Thornton|Thornton]]
 Source: #6th

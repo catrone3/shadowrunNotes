@@ -3,6 +3,7 @@ One of the oldest media outlets in the area, the NABS is well-known for its hard
 
 > They make extensive use of spirits as witnesses too, and they have a couple shamans on staff who analyze the residual effects of any sort of magical activity to find the cause.  
 > Bifrost  
+
 > They also have a team of dedicated hackers who are more than happy to go into someone’s personal commlink and dredge it for data. NABS is unscrupulous, and they pay well, which makes them an excellent resource for shadow work.  
 > Voxel
 

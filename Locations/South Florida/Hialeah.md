@@ -8,7 +8,7 @@ Security is rating AA. Patrols cover the area 24 hours a day, but are less frequ
 ## Geographic Notes
 
 #### Aegis Corporation
-![[../../A Corps/Aegis/Aegis Corporation|Aegis Corporation]]
+![[../../A Corps/Aegis|Aegis]]
 
 #### Hialeah Flea Market
 

@@ -23,14 +23,14 @@ Advanced degrees and certificates: 12%
 This cozy district just northwest of Denver’s city center boasts some of the nicest real estate in the region. It’s a well-to-do district, with many corporate enclaves. Per-capita income is on the high end for the FRFZ, and as a result they tend to have lower ZDF response times, lower crime rates, higher education rates, etc. All the things that privilege and money can buy can be found in Broomfield.
 
 ## Geographic Notes
-#### [[../../Corps (Local)/FRFZ/Broomfield/Cerebrotech Factory|Cerebrotech Factory]]
+#### [[../../AAA Corps/Ares/Cerebrotech Factory|Cerebrotech Factory]]
 A subsidiary of [[../../AAA Corps/Ares|Ares]], Cerebrotech focuses heavily on cyberware components. This factory produces most of them for their [[../../AAA Corps/Ares|Ares]] Consumer Goods division.
 
 #### [[../../Corps (Local)/FRFZ/Broomfield/Erie Airport|Erie Airport]]
 
-#### [[../../Corps (Local)/FRFZ/Broomfield/Genesis Avista Hospital|Genesis Avista Hospital]]
+#### [[../../AA Corps/Litehouse Industries/Genesis Medical/Genesis Avista Hospital|Genesis Avista Hospital]]
 
-#### [[../../Corps (Local)/FRFZ/Broomfield/HyperSense Headquarters|HyperSense Headquarters]]
+#### [[../../AAA Corps/Renraku/HyperSense Headquarters|HyperSense Headquarters]]
 Back in the early 2060s, Renraku bought out this homegrown simsense tech company and made it one of their subsidiaries. Since then, Renraku has regularly pumped out upgrades to their simsense technology, constantly pushing boundaries and opening up new avenues of sensation. They owe it all to the work done in this building.
 
 #### [[../../Corps (Local)/FRFZ/Broomfield/Newlife Medical|Newlife Medical]]

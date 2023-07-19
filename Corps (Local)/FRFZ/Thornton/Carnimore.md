@@ -3,5 +3,5 @@ This spot is part of a very popular chain of restaurants that cater to protein-r
 > Their advertising is straight-up offensive. I was never raised in a “litter” with a bunch of other orks, and I absolutely knew my mother and father. That new ad where the single mother with six ork babies is wondering where father went off to, and decides to take the kids to Carnimore? Sickening. Though I will say that their brisket is almost worth it.  
 > 14er
 
-District: [[../../../Locations/FRFZ/Thornton]]
+District: [[../../../Locations/FRFZ/Thornton|Thornton]]
 Source: #6th

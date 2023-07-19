@@ -47,7 +47,7 @@ The southern tip of the FREZ Maglev route, this station is located centrally to 
 #### [[../../Corps (Local)/FRFZ/Colorado Springs/Denver Data Haven Ruins|Denver Data Haven Ruins]]
 Housed in the McDermott Library of the former US Air Force Academy, the Denver Data Haven had access to the US Air Force’s cyberwarfare suite, extremely strong data connections to the whole world, and lots of redundant systems to ensure operation even in the event of a cataclysm. Unfortunately, no one could have built a site to withstand the attacks of Ghostwalker. When Ghostwalker razed the Denver Data Haven, all personnel were considered killed in action. (this is counter to what the timeline mentions in False Flag)
 
-#### [[../../Corps (Local)/FRFZ/Colorado Springs/Energia Viva Solar Farm|Energia Viva Solar Farm]]
+#### [[../../AAA Corps/Aztechnology/Energia Viva Solar Farm|Energia Viva Solar Farm]]
 When the US Air Force Academy was in use, this solar farm provided power to the entire academy. Aztechnology subsidiary Energia Viva managed to acquire some of the infrastructure and arranged to purchase the land from the PCC prior to the Reclamation. Because of the importance to the infrastructure, they’ve been allowed to continue operations, albeit with a lot of oversight from Ghostwalker’s administration.
 
 #### [[../../Corps (Local)/FRFZ/Colorado Springs/Fort Carson|Fort Carson]]
@@ -59,11 +59,11 @@ These apartments can barely qualify as apartments. They rarely have running wate
 #### [[../../Corps (Local)/FRFZ/Colorado Springs/Garden of the Gods|Garden of the Gods]]
 A massive 1,300-acre park made of natural sandstone formations, this park was a private park until the owner’s death. Upon his death, the park returned to the property of the nearby community. The park now serves as a communal area for hiking, camping, and ritual magic. 
 
-#### [[../../Corps (Local)/FRFZ/Colorado Springs/Genesis Summit Medical Clinic|Genesis Summit Medical Clinic]]
+#### [[../../AA Corps/Litehouse Industries/Genesis Medical/Genesis Summit Medical Clinic|Genesis Summit Medical Clinic]]
 
 #### [[../../Corps (Local)/FRFZ/Colorado Springs/Hospital General Colorado Springs|Hospital General Colorado Springs]]
 
-#### [[../../Corps (Local)/FRFZ/Colorado Springs/Palmer Park Hospital|Palmer Park Hospital]]
+#### [[../../AA Corps/DocWagon/Palmer Park Hospital|Palmer Park Hospital]]
 The local DocWagon hospital in the region. One of the unique features of Palmer Park Hospital is that it abuts Palmer Park, which offers a plethora of trails and natural resources that support holistic healing. The Palmer Park Hospital is one of the better hospitals in the area for magical healing as well.
 
 #### [[../../Corps (Local)/FRFZ/Colorado Springs/Peak View Housing|Peak View Housing]]

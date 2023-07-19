@@ -1,5 +1,0 @@
-#Denver 
-Coffin hotels are all over the city of Denver, but this one is truly unique. It’s got an absolutely stellar reputation for discretion, comfort, and value. It’s run by a free spirit named Sal, who is an immensely powerful spirit of Man. Anyone who has caused trouble at Cheap Sleeps has been found a few days later, face-down in the nearby Cherry Creek.
-
-District: [[../../../Locations/FRFZ/The Hub|The Hub]]
-Source: #6th

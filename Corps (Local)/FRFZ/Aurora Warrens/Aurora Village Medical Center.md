@@ -5,7 +5,7 @@ Built for the 2072 Olympics, the Aurora Village Sports Medical Center represente
   
 Following a rebranding, the Aurora Village Medical Center now caters to more than just athletes. However, only corporate citizens are allowed to get care at the facility.  
   
-The irony of having a top-tier medical facility built right on the edge of one of the poorest districts in North America is not lost on the folks who work at the facility. The ZDF have increased patrols in and around the facility, ensuring that transit through the Warrens to the medical center remains safe.
+The irony of having a top-tier medical facility built right on the edge of one of the poorest districts in North America is not lost on the folks who work at the facility. The [[../../../Factions/FRFZ/Zone Defense Force|ZDF]] have increased patrols in and around the facility, ensuring that transit through the Warrens to the medical center remains safe.
 
 District: [[../../../Locations/FRFZ/Aurora Warrens|Aurora Warrens]]
 Source: #6th

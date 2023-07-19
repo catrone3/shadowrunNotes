@@ -25,7 +25,7 @@ Named for the large rock formation to be found just east of I-25, Castle Rock is
 ## Geographic Notes
 #### [[../../Corps (Local)/FRFZ/Castle Rock/Blitz Mansion|Blitz Mansion]]
 
-#### [[../../Corps (Local)/FRFZ/Castle Rock/Castle Rock Fusion Plant|Castle Rock Fusion Plant]]
+#### [[../../AAA Corps/Shiawase/Castle Rock Fusion Plant|Castle Rock Fusion Plant]]
 Built inside the Castle Rock (in game author may have exagurated this a bit), the fusion plant is run by Shiawase’s Fuzion subsidiary. It serves as the primary source of electricity to the entire FRFZ. It provides clean, nuclear power for millions of homes and businesses, and the whole operation is primarily subsidized by Ghostwalker. Shiawase maintains a strong military presence here, given that the whole thing is a giant fusion bomb just waiting to go off (not how fusion power works).
 
 #### [[../../Corps (Local)/FRFZ/Castle Rock/Castle Rock Maglev Station|Castle Rock Maglev Station]]
@@ -42,7 +42,7 @@ Sedalia is a relatively small international airport, built by the PCC after the 
 #### [[../../Corps (Local)/FRFZ/Castle Rock/Stonegate Judicial Complex|Stonegate Judicial Complex]]
 The Stonegate Judicial Complex is a large prison that also houses a small judicial wing for trials. The homeless from Englewood and Castle Rock sometimes will try to get arrested during the winter for vagrancy. It’s better to be in a ZDF prison than on the streets during the harsh winters.
 
-#### [[../../Corps (Local)/FRFZ/Castle Rock/Terracotta Arms Factory|Terracotta Arms Factory]]
+#### [[../../AAA Corps/Renraku/Terracotta Arms Factory|Terracotta Arms Factory]]
 Renraku subsidiary Terracotta Arms maintains a small facility in Castle Rock. In addition to the factory, Terracotta Armaments maintains a regional office here to provide weapons to the zone’s Sioux and PCC neighbors. Their excess stock tends to find its way onto the streets, especially in Aurora. However, if you want to get your hands on a weapon before it’s been registered and tagged, you’ll need to make a contact at the factory
 
 #### [[../../Corps (Local)/FRFZ/Castle Rock/ZDF Station Castle Rock|ZDF Station Castle Rock]]

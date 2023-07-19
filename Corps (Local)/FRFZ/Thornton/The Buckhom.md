@@ -1,9 +1,8 @@
-The Buckhom now finds itself in the midst of a once-affluent residential district that hit the skids in a big way during the last decade. The decor seems deigned to make Anglos feel very uncomfortable. Artwork on the walls. computer-modified "historical" photographs, dioramas, plaques-all show the pre-European Amerind nations as the epitome of civilization and  
-sophistication and demonize the "invaders" to a startling degree
+The Buckhom now finds itself in the midst of a once-affluent residential district that hit the skids in a big way during the last decade. The decor seems deigned to make Anglos feel very uncomfortable. Artwork on the walls. computer-modified "historical" photographs, dioramas, plaques-all show the pre-European Amerind nations as the epitome of civilization and sophistication and demonize the "invaders" to a startling degree
 
 Info: Mid-Sized Restaurant Archetype
 Bias: Strong Bias against Non-Amerindians
 Address: 1000 Osage St, Westminster, CO 80234
 
-District: [[../../../Locations/FRFZ/Thornton]]
+District: [[../../../Locations/FRFZ/Thornton|Thornton]]
 Source: #2nd

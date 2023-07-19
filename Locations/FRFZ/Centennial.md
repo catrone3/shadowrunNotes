@@ -25,7 +25,7 @@ Centennial is the tech capital of the FRFZ and recently expanded to take over wh
 left standing of Englewood. More on that below. Here’s where you’ll find companies almost exclusively dedicated to the Matrix, with lots of little unranked corporations hoping to get gobbled up by one of the big guys. Centennial manages the University of Denver as well, which will be pouring out enough tech gurus to keep the area busy for decades to come.
 
 ## Geographic Notes
-#### [[../../Corps (Local)/FRFZ/Centennial/Aegis Cognito Office|Aegis Cognito Office]]
+#### [[../../A Corps/Aegis/Aegis Cognito Office|Aegis Cognito Office]]
 One would expect that in a city like Denver, the world’s largest private spy organization would have an influence. Aegis Cognito has an openly observed office, and you should treat it like an embassy—it’s full of bureaucrats and spies, but you can’t tell which is which. While they might have some data on-site, it’s likely the kind that isn’t useful on its own. There is one person in the office who I know for a fact is a spy: Janice Valdes. It’s a complicated story, but basically, we used to spy on each other for our respective masters. We caught each other many times, and it sort of turned into a thing. I’ve got leverage on her, and I’m sure she’s got leverage on me, too. We respect each other, and I don’t go after her anymore.
 
 #### [[../../Corps (Local)/FRFZ/Centennial/Centennial Airport|Centennial Airport]]
@@ -54,7 +54,7 @@ For those of you who might be a century old, I’ve heard of a thing called “p
 #### [[../../Corps (Local)/FRFZ/Lowry/Mystic Curiosities|Mystic Curiosities]]
 A good talismonger is half crack researcher, half con man. It’s tough to make a good living simply with quality telesma—the competition for such goods is high, and the supply is tight. If a talismonger wants to make a living, they have to be willing to get people to overpay for some cheap crap. Zhang Wong, proprietor of Mystic Curiosities in Chinatown, has sold share of cheap crap in his time. Sometimes people use that to dismiss him, to label him as ignorant or a cheat. Ignoring him, though, means missing out on his considerable body of knowledge—and on the good stuff he occasionally has on display in his shop. The best way to get the good stuff when it goes on sale is not to just show up, browse, and hope. Cultivate Zhang, ask him advice, and pay him when he tells you something useful. Build up that relationship, show him he’s valued, and eventually you’ll get a call from him telling you that he’s got something in stock you may be interested in taking a look at
 
-#### [[../../Corps (Local)/FRFZ/Centennial/Novatech Matrix Services Office|Novatech Matrix Services Office]]
+#### [[../../AAA Corps/Spinrad Global/Novatech Matrix Services Office|Novatech Matrix Services Office]]
 This is yet another tech company that at one point found its way into NeoNET’s hands. Now it’s in the hands of Spinrad Global, but the future is extremely uncertain. Novatech made a bid following Ghostwalker’s Reclamation to provide services for the new public grid. That bid failed and made their dissolution a near certainty. Even though they are presenting a brave public face, the staff is jumping ship for other companies, such as Warpdrive.
 
 #### [[../../Corps (Local)/FRFZ/Centennial/Penrose Library|Penrose Library]]
@@ -80,11 +80,11 @@ One of the coolest bars I’ve ever been to is the Tipsy Chip. It’s built in a
 #### [[../../Corps (Local)/FRFZ/Centennial/University of Denver|University of Denver]]
 The oldest school in the region, the University of Denver has been in continuous operation since 1864. They grew to take over a whole chunk of Denver. Following Ghostwalker’s Reclamation and the preceding destruction of Englewood, the university area is now under the control of Centennial. Nominally, this means that subsidies are now more likely to come from tech companies than from old money, but it really hasn’t changed much. Housing is still an absolute nightmare, which has led to a bid by MCT to build a mini-arcology nearby. The university has yet to accept the bid.
 
-#### [[../../Corps (Local)/FRFZ/Centennial/Vitals Health and Welfare Clinic|Vitals Health and Welfare Clinic]]
+#### [[../../A Corps/Safe Life Defense/Vitals Health and Welfare Clinic|Vitals Health and Welfare Clinic]]
 
-#### [[../../Corps (Local)/FRFZ/Centennial/Vitals Hospital|Vitals Hospital]]
+#### [[../../A Corps/Safe Life Defense/Vitals Hospital|Vitals Hospital]]
 
 #### [[../../Corps (Local)/FRFZ/Centennial/Westmore Condo|Westmore Condo]]
 
-#### [[../../Corps (Local)/FRFZ/Centennial/Wuxing Cherry Park|Wuxing Cherry Park]]
+#### [[../../AAA Corps/Wuxing/Wuxing Cherry Park|Wuxing Cherry Park]]
 The Wuxing, Inc. regional headquarters is finally constructed, after several attempts by rivals to sabotage it. With the support of their subsidiary, Ming Solutions, they have done a tremendous job of enhancing the natural landscape while expanding their buildings in a respectful way. The Cherry Park complex acts as the regional headquarters for the Malaysian Independent Bank and the Prosperity Development Corporation, both of which finance companies and startups in the region.  

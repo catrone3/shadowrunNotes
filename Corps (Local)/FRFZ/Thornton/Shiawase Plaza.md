@@ -1,4 +1,4 @@
 Headquarters to [[../../../AAA Corps/Shiawase|Shiawase]] operations in the FRFZ, the Plaza is a large campus spread out across a wide area. The buildings are arranged in such a way as to emphasize harmony between the various subsidiaries on the campus. Some of those subsidiaries include Arboritech, which focuses on agricultural products, [[../../../AAA Corps/Shiawase|Shiawase]] Fuzion, which provides power to Denver and much of the Zone, and [[../../../AAA Corps/Shiawase|Shiawase]] City Services, which provides infrastructure, water, and waste management solutions to Denver
 
-District: [[../../../Locations/FRFZ/Thornton]]
+District: [[../../../Locations/FRFZ/Thornton|Thornton]]
 Source: #6th
