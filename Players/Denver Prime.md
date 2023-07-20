@@ -32,7 +32,7 @@
 [[../NPCs/Friendly/Matrix/DexTER|DexTER]]
 [[../NPCs/Neutral/Dragon Council|Dragon Council]]
 [[../NPCs/Neutral/Evelyn Prescott|Evelyn Prescott]]
-[[../NPCs/Friendly/Denver/Ghostwalker|Ghostwalker]]
+[[../NPCs/Neutral/Denver/Ghostwalker|Ghostwalker]]
 [[../NPCs/Friendly/Denver/Hippocrates|Hippocrates]]
 [[../NPCs/Friendly/Howard Dumbacher|Howard Dumbacher]]
 [[../NPCs/Friendly/Denver/Ivy|Ivy]]

@@ -1,6 +1,6 @@
 #Berlin 
 ### Corporate Ties
-[[../../AAA Corps/Saeder Krupp|Sader Krupp]]
+[[../../AAA Corps/Saeder-Krupp|Sader Krupp]]
 
 ### Status
 Adept

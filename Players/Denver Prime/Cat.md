@@ -81,7 +81,7 @@ Tara (Drake)
 - [[../../NPCs/Neutral/Denver/Puck|Puck]]
 - [[../../NPCs/Friendly/Denver/Nicholas Whitebird|Nicholas Whitebird]]
 - [[../../NPCs/Friendly/Seattle/Hitsuki Cho|Cho]]
-- [[../../NPCs/Friendly/Denver/Ghostwalker|Ghostwalker]]
+- [[../../NPCs/Neutral/Denver/Ghostwalker|Ghostwalker]]
 - [[../../NPCs/Neutral/Dragon Council|Dragon Council]]
 - [[../../NPCs/Friendly/Denver/Hippocrates|Hippocrates]]
 

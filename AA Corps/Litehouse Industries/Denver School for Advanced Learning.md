@@ -8,3 +8,5 @@ Building cost 30 million before renovations, another 10 million in some building
 
 6 runner kids from the underground
 Tara the drake
+
+District: [[../../../Locations/FRFZ/Lakewood|Lakewood]]

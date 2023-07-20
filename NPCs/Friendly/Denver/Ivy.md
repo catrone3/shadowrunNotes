@@ -2,7 +2,7 @@
 ![[../../../Images/shadowrun characters/ivy.jpg]]
 
 [[Kalt]]'s voice/Assistant
-[[Ghostwalker]]'s Doctor
+[[../../Neutral/Denver/Ghostwalker]]'s Doctor
 
 ##### Relationships
  - [[../../../Players/Denver Prime/Incubus|Incubus]]

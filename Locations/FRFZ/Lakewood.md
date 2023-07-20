@@ -26,7 +26,7 @@ Lakewood is Arvada’s southern neighbor, putting it on the southeastern corner 
 #### [[../../Corps (Local)/FRFZ/Lakewood/All the World’s a Stage|All the World’s a Stage]]
 This place is an absolute drekhole of a bar. The only reason I’m even mentioning it is because it’s affiliated with the Ghost Riders go-gang, and they’re kind of odd. I’ll let Bifrost explain. The Ghost Riders are a go-gang that likes to roam 470 around town. What makes them unique is that they use magical effects to make their motorcycles look like flaming horses, or appear to be chased by thunderclouds that spark lightning, and things like that. If you see anything like that coming your way, get off the road. The Ghost Riders aren’t the most violent go-gang, but they’re definitely the most stylish. I cover them in a bit more detail in the … People to Meet section
 
-#### [[../../Corps (Local)/FRFZ/Lakewood/Ares Arms Factory|Ares Arms Factory]]
+#### [[../../AAA Corps/Ares/Ares Arms Factory|Ares Arms Factory]]
 As the largest single manufacturer of guns and ammunition in the world, Ares Arms has factories all over the place. This is just another one of those factories. While you can get the guns easily enough that you don’t necessarily need to steal them, one of the things that makes this a juicy target is that you can get blueprints for weapons that haven’t yet been released to market.
 
 #### [[../../Corps (Local)/FRFZ/Lakewood/Columbine Knolls|Columbine Knolls]]
@@ -35,10 +35,10 @@ This neighborhood of mobile homes serves as a bedroom community for neighboring 
 #### [[../../Corps (Local)/FRFZ/Lakewood/Compri Hotel|Compri Hotel]]
 The illustrious Compri Hotel has a well-earned reputation for privacy. This makes it a hotspot for all kinds of people who might benefit from that discretion. Government employees, megacorporate managers, Mr. Johnsons, fixers, runners, spies—they all come to the Compri when in town. However, due to Ghostwalker’s strict rules forbidding espionage, all detected instances of espionage are reported to the ZDF.
 
-#### [[../../Corps (Local)/FRFZ/Lakewood/Denver School For Advanced Learning|Denver School For Advanced Learning]]
+#### [[../../AA Corps/Litehouse Industries/Denver School for Advanced Learning|Denver School for Advanced Learning]]
 This is a school setup by Cat and Incubus to house the kids that they save or find on runs. They will be taught by people skilled in their fields to bring them all up to skill. They will also be taught how to survive in the real world. Enough of the school is finished at the start of 2082 to have the kids move in and start learning.
 
-#### [[../../Corps (Local)/FRFZ/Lakewood/Docwagon Hospital Complex|Docwagon Hospital Complex]]
+#### [[../../AA Corps/DocWagon/Docwagon Hospital Complex|Docwagon Hospital Complex]]
 The largest DocWagon facility in the FRFZ boasts some of the top docs in the sprawl, as well as the best trauma center Denver has to offer. If you’ve got an emergency, go to the trauma center. For other services, get a visitor’s pass (forged or real, whichever) and make your way to room 4-203. A few docs in the complex run an under-the-table street clinic there. They won’t do anything excessively complicated, like full limb replacement, but they’ll do some quick and dirty jobs for you. It’s more expensive than most street clinics, but the care is way more competent
 
 #### [[../../Corps (Local)/FRFZ/Lakewood/Fort Logan Medical Center|Fort Logan Medical Center]]

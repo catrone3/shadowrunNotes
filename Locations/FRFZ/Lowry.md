@@ -47,7 +47,7 @@ The FRTA manages this station as a central hub for changing trains and routes. I
 #### [[../../Corps (Local)/FRFZ/Lowry/Lowry International Airport|Lowry International Airport]]
 Located near the site of the former Lowry Air Force Base, Lowry International is a small airport that, due to the small runway, is only rated to handle semi-ballistic, suborbital, and HSCT flights. There are also facilities for VTOL aircraft, such as helicopters and skycabs. Rumors say that there were missile silos buried under the facilities, along with a command-and-control bunker. No one has found evidence of these things, but the rumors persist.
 
-#### [[../../Corps (Local)/FRFZ/Lowry/Ming Solutions Office|Ming Solutions Office]]
+#### [[../../AAA Corps/Wuxing/Ming Solutions Office|Ming Solutions Office]]
 The local office of Ming Solutions, a subsidiary of Wuxing. The researchers and geomancers in this office were responsible for coordinating the construction of Wuxing Cherry Park. Now that Cherry Park has been built, there was a concern that Ming would be moved to that new facility. However, it seems that Wuxing likes to keep some influence over Chinatown and will not be moving Ming Solutions any time soon.
 
 #### [[../../Corps (Local)/FRFZ/Lowry/Mystic Curiosities|Mystic Curiosities]]

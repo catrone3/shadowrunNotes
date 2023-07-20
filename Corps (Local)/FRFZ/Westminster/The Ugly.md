@@ -1,7 +1,7 @@
 #Denver 
 The trio of arcotowers that sprouted up in the 2070s are colloquially known as “The Good, the Bad, and the Ugly.” The tower in Arvada is known as “The Ugly” in part because it could have been good, but turned sour really quickly. Part of the reason why the Ugly became so awful has to do with its history.  
   
-During the 2060s, the Pueblo Corporate Council was discovered to have been conducting illegal experiments on technomancers alongside its corporate partner, Horizon. Additionally, the PCC had a long-standing history of being exploitative toward changelings and metasapients, profiting off the backs – sometimes literally – of being such as centaurs and ogres.  
+During the 2060s, the Pueblo Corporate Council was discovered to have been conducting illegal experiments on technomancers alongside its corporate partner, [[../../../AAA Corps/Horizon|Horizon]]. Additionally, the PCC had a long-standing history of being exploitative toward changelings and metasapients, profiting off the backs – sometimes literally – of being such as centaurs and ogres.  
   
 As punishment for these transgressions, Ghostwalker demanded that the PCC establish some affordable housing for those who were refugees from the PCC. The tower would be built in the PCC controlled district of Arvada, but would be under the jurisdiction of Ghostwalker.  
   

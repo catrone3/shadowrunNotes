@@ -1,10 +1,10 @@
 #Denver
 ##### Founder
-- [[../../Players/Denver Prime/Cat|Cat]]
+- [[../../NPCs/Neutral/Denver/Carol 'Cat' Mctavish|Carol 'Cat' Mctavish]]
 
 ##### Locations
-- [[1UP!/1UP! Lo-Bo|1UP! Lo-Bo]]
-- [[1UP!/1UP! Colfax|1UP! Colfax]]
+- [[1UP!/The 1up - LoBo|The 1up - LoBo]]
+- [[1UP!/One-up Bar and Arcade|One-up Bar and Arcade]]
 
 ##### Bar Tenders
 - [[../../NPCs/Friendly/Denver/Jess|Jess]]

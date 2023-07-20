@@ -26,7 +26,7 @@ The easternmost district of Denver, Stapleton takes up a large amount of land bu
 #### [[../../Corps (Local)/FRFZ/Stapleton/Ares Global Commsat Office|Ares Global Commsat Office]]
 Located on Buckley Air Force Base, the local branch of Ares Global Commsat assists the ZDF with monitoring and surveillance activities. Home to one of the largest antennas in the region, the command and control center here can assert control over any of the ZDF drones in the sprawl.
 
-#### [[../../Corps (Local)/FRFZ/Stapleton/Brainwave, Inc. Office|Brainwave, Inc. Office]]
+#### [[../../AAA Corps/MCT/Brainwave, Inc. Office|Brainwave, Inc. Office]]
 The local office for Brainwave, Inc., a Mitsuhama Computer Technologies subsidiary. This is a research facility that keeps a low profile out on the far edges of the Stapleton district. I’ve never met anyone who has gone in there, but Voxel has.  
 
 #### [[../../Corps (Local)/FRFZ/Stapleton/Buckley Air Force Base|Buckley Air Force Base]]

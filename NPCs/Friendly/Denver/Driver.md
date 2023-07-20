@@ -4,4 +4,4 @@
 - [[Rue Quinn]]
 
 ##### Ties
-- [[Ghostwalker]] - belongs to
+- [[../../Neutral/Denver/Ghostwalker]] - belongs to

@@ -1,0 +1,1 @@
+Magnum is a two-meter-tall male elf. He is a member of the Grey Cell led by Mr. K, having been a part of such now for at least three years. He has a bit of an anxious nature to him, but when he is focused on a task, he is quite deliberate in his actions and responses.

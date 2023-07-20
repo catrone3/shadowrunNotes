@@ -1,5 +1,5 @@
 #Denver 
-The oldest school in the region, the University of Denver has been in continuous operation since 1864. They grew to take over a whole chunk of Denver. Following Ghostwalker’s Reclamation and the preceding destruction of Englewood, the university area is now under the control of Centennial. Nominally, this means that subsidies are now more likely to come from tech companies than from old money, but it really hasn’t changed much. Housing is still an absolute nightmare, which has led to a bid by MCT to build a mini-arcology nearby. The university has yet to accept the bid.
+The oldest school in the region, the University of Denver has been in continuous operation since 1864. They grew to take over a whole chunk of Denver. Following Ghostwalker’s Reclamation and the preceding destruction of Englewood, the university area is now under the control of Centennial. Nominally, this means that subsidies are now more likely to come from tech companies than from old money, but it really hasn’t changed much. Housing is still an absolute nightmare, which has led to a bid by [[../../../AAA Corps/MCT|MCT]] to build a mini-arcology nearby. The university has yet to accept the bid.
 
 District: [[../../../Locations/FRFZ/Centennial|Centennial]]
 Source: #6th #2nd #4th 

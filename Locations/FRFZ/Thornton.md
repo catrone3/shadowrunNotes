@@ -41,7 +41,7 @@ The only business willing to put itself close to the Apex Plasmids algae tanks, 
 #### [[../../Corps (Local)/FRFZ/Thornton/Northglenn Apartments|Northglenn Apartments]]
 This area of Thornton is stereotypically Siouxan: xenophobic to outsiders, aggressively posturing, and no-nonsense blue-collar hard work is rewarded. The nearby apartment complex ensures that the residents have a cheap place to stay, even if it is spartan. Just don’t try to rent the place if you’re an Anglo.
 
-#### [[../../Corps (Local)/FRFZ/Thornton/Shiawase Plaza|Shiawase Plaza]]
+#### [[../../AAA Corps/Shiawase/Shiawase Plaza|Shiawase Plaza]]
 Headquarters to Shiawase operations in the FRFZ, the Plaza is a large campus spread out across a wide area. The buildings are arranged in such a way as to emphasize harmony between the various subsidiaries on the campus. Some of those subsidiaries include Arboritech, which focuses on agricultural products, Shiawase Fuzion, which provides power to Denver and much of the Zone, and Shiawase City Services, which provides infrastructure, water, and waste management solutions to Denver
 
 #### [[../../Corps (Local)/FRFZ/Thornton/The Buckhom|The Buckhom]]

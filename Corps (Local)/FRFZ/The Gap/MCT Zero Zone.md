@@ -1,4 +1,4 @@
 #Denver 
-Very little is known about this location. The only thing known for sure is that this is one of the infamous MCT Zero Zones. The building itself is described as short, which implies that anything valuable is stored underground. But good luck getting in there to find out what MCT is storing.
+Very little is known about this location. The only thing known for sure is that this is one of the infamous [[../../../AAA Corps/MCT|MCT]] Zero Zones. The building itself is described as short, which implies that anything valuable is stored underground. But good luck getting in there to find out what [[../../../AAA Corps/MCT|MCT]] is storing.
 
 District: [[../../../Locations/FRFZ/The Gap|The Gap]]
