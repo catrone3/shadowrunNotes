@@ -16,7 +16,7 @@
 - [[../NPCs/Friendly/New Orleans/Adonis|Adonis]]
 - [[../NPCs/Friendly/New Orleans/Blaze|Blaze]]
 - [[../NPCs/Friendly/New Orleans/ClicClac and Big Lou|ClicClac and Big Lou]]
-- [[../NPCs/Friendly/New Orleans/Cyrille Boutin|Cyrille Boutin]]]
+- [[../NPCs/Friendly/New Orleans/Cyrille Boutin|Cyrille Boutin]]
 - [[../NPCs/Friendly/New Orleans/Danny Macaluso|Danny Macaluso]]
 - [[../NPCs/Friendly/New Orleans/Dr Lester|Dr Lester]]
 - [[../NPCs/Friendly/New Orleans/Dr Lisette|Dr Lisette]]
