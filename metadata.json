@@ -1,5 +1,1248 @@
 [
   {
+    "fileName": "23-2-23",
+    "relativePath": "Denver Prime Game notes/23-2-23.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "23-2-11",
+    "relativePath": "Denver Prime Game notes/23-2-11.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Incubus",
+        "relativePath": "Players/Denver Prime/Incubus.md"
+      },
+      {
+        "link": "Cat",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      }
+    ]
+  },
+  {
+    "fileName": "23-1-28",
+    "relativePath": "Denver Prime Game notes/23-1-28.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Hong Kong",
+        "relativePath": "Locations/Hong Kong.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-9-10",
+    "relativePath": "Denver Prime Game notes/22-9-10.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Sacrifices Pt2",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "23-1-14",
+    "relativePath": "Denver Prime Game notes/23-1-14.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Howard Dumbacher",
+        "displayText": "Howard",
+        "relativePath": "NPCs/Friendly/Howard Dumbacher.md"
+      },
+      {
+        "link": "Spectre",
+        "relativePath": "Players/Denver Prime/Spectre.md"
+      },
+      {
+        "link": "Cat",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      },
+      {
+        "link": "Incubus",
+        "relativePath": "Players/Denver Prime/Incubus.md"
+      },
+      {
+        "link": "Incubus",
+        "relativePath": "Players/Denver Prime/Incubus.md"
+      },
+      {
+        "link": "Spectre",
+        "relativePath": "Players/Denver Prime/Spectre.md"
+      },
+      {
+        "link": "Swiss",
+        "relativePath": "Players/Denver Prime/Swiss.md"
+      },
+      {
+        "link": "Cat",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-9-24",
+    "relativePath": "Denver Prime Game notes/22-9-24.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Chinese Takeout",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Noemi Lombardo",
+        "relativePath": "NPCs/Neutral/Noemi Lombardo.md"
+      },
+      {
+        "link": "Uta Hoffmann",
+        "relativePath": "NPCs/Unfriendly/Uta Hoffmann.md"
+      },
+      {
+        "link": "Ling T'ien",
+        "relativePath": "NPCs/Unfriendly/Ling T'ien.md"
+      },
+      {
+        "link": "Simone Roussel",
+        "relativePath": "NPCs/Unfriendly/Simone Roussel.md"
+      },
+      {
+        "link": "Leonardo Costa",
+        "relativePath": "NPCs/Unfriendly/Leonardo Costa.md"
+      },
+      {
+        "link": "Ailbhn",
+        "relativePath": "NPCs/Unfriendly/Ailbhn.md"
+      },
+      {
+        "link": "Ailbhn",
+        "relativePath": "NPCs/Unfriendly/Ailbhn.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-8-13",
+    "relativePath": "Denver Prime Game notes/22-8-13.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Sacrifices",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Incubus",
+        "relativePath": "Players/Denver Prime/Incubus.md"
+      },
+      {
+        "link": "Spectre",
+        "relativePath": "Players/Denver Prime/Spectre.md"
+      },
+      {
+        "link": "Cat",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-7-30",
+    "relativePath": "Denver Prime Game notes/22-7-30.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Renraku",
+        "relativePath": "AAA Corps/Renraku.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-7-16",
+    "relativePath": "Denver Prime Game notes/22-7-16.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-7-3",
+    "relativePath": "Denver Prime Game notes/22-7-3.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-6-4",
+    "relativePath": "Denver Prime Game notes/22-6-4.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Big Sky",
+        "relativePath": "NPCs/Neutral/Slip's runners/Big Sky.md"
+      },
+      {
+        "link": "Big Mac",
+        "relativePath": "NPCs/Neutral/Slip's runners/Big Mac.md"
+      },
+      {
+        "link": "blade",
+        "displayText": "Blade",
+        "relativePath": "NPCs/Neutral/Slip's runners/blade.md"
+      },
+      {
+        "link": "good father",
+        "displayText": "Good Father",
+        "relativePath": "NPCs/Neutral/Slip's runners/good father.md"
+      },
+      {
+        "link": "Princess",
+        "relativePath": "NPCs/Neutral/Slip's runners/Princess.md"
+      },
+      {
+        "link": "Sunny",
+        "relativePath": "NPCs/Neutral/Slip's runners/Sunny.md"
+      },
+      {
+        "link": "Begger",
+        "relativePath": "NPCs/Neutral/Slip's runners/Begger.md"
+      },
+      {
+        "link": "Slag",
+        "relativePath": "NPCs/Neutral/Slip's runners/Slag.md"
+      },
+      {
+        "link": "Gip",
+        "relativePath": "NPCs/Neutral/Slip's runners/Gip.md"
+      },
+      {
+        "link": "Creed",
+        "relativePath": "NPCs/Neutral/Slip's runners/Creed.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-5-21",
+    "relativePath": "Denver Prime Game notes/22-5-21.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Horror Summoner Cont",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-6-18",
+    "relativePath": "Denver Prime Game notes/22-6-18.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-3-26",
+    "relativePath": "Denver Prime Game notes/22-3-26.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Horror summoner go boom",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Dragon Council",
+        "relativePath": "NPCs/Neutral/Dragon Council.md"
+      },
+      {
+        "link": "Montreal",
+        "relativePath": "Locations/Montreal.md"
+      },
+      {
+        "link": "Beau Monet",
+        "relativePath": "NPCs/Neutral/Beau Monet.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-3-12",
+    "relativePath": "Denver Prime Game notes/22-3-12.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Info on Keris",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-12-17",
+    "relativePath": "Denver Prime Game notes/22-12-17.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Swiss",
+        "relativePath": "Players/Denver Prime/Swiss.md"
+      },
+      {
+        "link": "Cat",
+        "relativePath": "Players/Denver Prime/Cat.md"
+      },
+      {
+        "link": "Spectre",
+        "relativePath": "Players/Denver Prime/Spectre.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-2-26",
+    "relativePath": "Denver Prime Game notes/22-2-26.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Finding the Mole",
+        "level": 1
+      },
+      {
+        "heading": "Ghostwalker Issues",
+        "level": 5
+      },
+      {
+        "heading": "[[../NPCs/Neutral/Dragon Council|Dragon Council]]",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Dragon Council",
+        "relativePath": "NPCs/Neutral/Dragon Council.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-2-12",
+    "relativePath": "Denver Prime Game notes/22-2-12.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Conception Bay Suicides",
+        "level": 1
+      },
+      {
+        "heading": "People still in hotel",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-11-5",
+    "relativePath": "Denver Prime Game notes/22-11-5.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "DataMax",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Toby Walker",
+        "relativePath": "NPCs/Neutral/Toby Walker.md"
+      },
+      {
+        "link": "DataMax",
+        "displayText": "Datamax",
+        "relativePath": "NPCs/Neutral/Denver/DataMax.md"
+      },
+      {
+        "link": "DataMax",
+        "relativePath": "NPCs/Neutral/Denver/DataMax.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-11-19",
+    "relativePath": "Denver Prime Game notes/22-11-19.md",
+    "tags": [
+      "denver"
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-10-22",
+    "relativePath": "Denver Prime Game notes/22-10-22.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Prophetest raid",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-10-8",
+    "relativePath": "Denver Prime Game notes/22-10-8.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Oops only claws",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Ling T'ien",
+        "relativePath": "NPCs/Unfriendly/Ling T'ien.md"
+      },
+      {
+        "link": "Noemi Lombardo",
+        "relativePath": "NPCs/Neutral/Noemi Lombardo.md"
+      },
+      {
+        "link": "Uta Hoffmann",
+        "relativePath": "NPCs/Unfriendly/Uta Hoffmann.md"
+      },
+      {
+        "link": "Leonardo Costa",
+        "relativePath": "NPCs/Unfriendly/Leonardo Costa.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-1-2",
+    "relativePath": "Denver Prime Game notes/22-1-2.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Diet Horror",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Old man",
+        "displayText": "Old Man",
+        "relativePath": "NPCs/Neutral/Denver/Old man.md"
+      },
+      {
+        "link": "Allen Helmut",
+        "relativePath": "NPCs/Neutral/Allen Helmut.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-8-28",
+    "relativePath": "Denver Prime Game notes/21-8-28.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Dragon Hunting",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-8-14",
+    "relativePath": "Denver Prime Game notes/21-8-14.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Khlopnut pistolet",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-7-31",
+    "relativePath": "Denver Prime Game notes/21-7-31.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Rapid Energy",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-7-3",
+    "relativePath": "Denver Prime Game notes/21-7-3.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Prison Break",
+        "level": 1
+      },
+      {
+        "heading": "Capture",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Renraku",
+        "relativePath": "AAA Corps/Renraku.md"
+      },
+      {
+        "link": "MCT",
+        "displayText": "Mitsuhama",
+        "relativePath": "AAA Corps/MCT.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-7-17",
+    "relativePath": "Denver Prime Game notes/21-7-17.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Rescue Ivy",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Ivy",
+        "relativePath": "NPCs/Friendly/Denver/Ivy.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-6-19",
+    "relativePath": "Denver Prime Game notes/21-6-19.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Train Heist",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-12-4",
+    "relativePath": "Denver Prime Game notes/21-12-4.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Wedding",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Valerian Quinn",
+        "relativePath": "NPCs/Friendly/Denver/Valerian Quinn.md"
+      },
+      {
+        "link": "Sage Quinn",
+        "relativePath": "NPCs/Friendly/Denver/Sage Quinn.md"
+      },
+      {
+        "link": "Angelica Quinn",
+        "relativePath": "NPCs/Friendly/Denver/Angelica Quinn.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-11-20",
+    "relativePath": "Denver Prime Game notes/21-11-20.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Convention job",
+        "level": 1
+      },
+      {
+        "heading": "Items",
+        "level": 4
+      },
+      {
+        "heading": "fastgrid",
+        "level": 5
+      },
+      {
+        "heading": "Safe funds",
+        "level": 5
+      },
+      {
+        "heading": "cyberdeck tech",
+        "level": 5
+      },
+      {
+        "heading": "multigun system",
+        "level": 5
+      },
+      {
+        "heading": "trojan",
+        "level": 5
+      },
+      {
+        "heading": "Presentation order",
+        "level": 4
+      },
+      {
+        "heading": "Day 1",
+        "level": 5
+      },
+      {
+        "heading": "Day 2",
+        "level": 5
+      },
+      {
+        "heading": "Day 3",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Troy",
+        "relativePath": "NPCs/Friendly/Denver/Troy.md"
+      },
+      {
+        "link": "Troy",
+        "relativePath": "NPCs/Friendly/Denver/Troy.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-12-18",
+    "relativePath": "Denver Prime Game notes/21-12-18.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Giant Horror",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      },
+      {
+        "link": "Kai",
+        "relativePath": "NPCs/Neutral/Kai.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-11-6",
+    "relativePath": "Denver Prime Game notes/21-11-6.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Trepca",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-10-23",
+    "relativePath": "Denver Prime Game notes/21-10-23.md",
+    "tags": [
+      "denver"
+    ],
+    "headings": [
+      {
+        "heading": "Dominica Take Over",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Denver Prime",
+        "displayText": "Denver Specials",
+        "relativePath": "Players/Denver Prime.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-5-8",
+    "relativePath": "Morocco Game Notes/22-5-8.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Playing with Names",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-3-27",
+    "relativePath": "Morocco Game Notes/22-3-27.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Toxic Mage Track Down",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-4-10",
+    "relativePath": "Morocco Game Notes/22-4-10.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Library Stop",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      },
+      {
+        "link": "Black Monkey Syndicate",
+        "relativePath": "Factions/Morocco/Crime Orgs/Black Monkey Syndicate.md"
+      },
+      {
+        "link": "Jenny Haniver",
+        "relativePath": "NPCs/Unfriendly/Jenny Haniver.md"
+      },
+      {
+        "link": "Jenny Haniver",
+        "relativePath": "NPCs/Unfriendly/Jenny Haniver.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-5-22",
+    "relativePath": "Morocco Game Notes/22-5-22.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-4-24",
+    "relativePath": "Morocco Game Notes/22-4-24.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Meeting of Monsters and Men",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      },
+      {
+        "link": "Titania",
+        "relativePath": "Players/Morocco/Titania.md"
+      },
+      {
+        "link": "Galahad",
+        "relativePath": "NPCs/Neutral/Avalon/Galahad.md"
+      },
+      {
+        "link": "Titania",
+        "displayText": "titania",
+        "relativePath": "Players/Morocco/Titania.md"
+      },
+      {
+        "link": "MCT",
+        "relativePath": "AAA Corps/MCT.md"
+      },
+      {
+        "link": "Shiawase",
+        "relativePath": "AAA Corps/Shiawase.md"
+      },
+      {
+        "link": "Ares",
+        "relativePath": "AAA Corps/Ares.md"
+      },
+      {
+        "link": "Wuxing",
+        "relativePath": "AAA Corps/Wuxing.md"
+      },
+      {
+        "link": "Horizon",
+        "relativePath": "AAA Corps/Horizon.md"
+      },
+      {
+        "link": "Evo",
+        "displayText": "EVO",
+        "relativePath": "AAA Corps/Evo.md"
+      },
+      {
+        "link": "MCT",
+        "relativePath": "AAA Corps/MCT.md"
+      },
+      {
+        "link": "Shiawase",
+        "relativePath": "AAA Corps/Shiawase.md"
+      },
+      {
+        "link": "Ares",
+        "relativePath": "AAA Corps/Ares.md"
+      },
+      {
+        "link": "Wuxing",
+        "relativePath": "AAA Corps/Wuxing.md"
+      },
+      {
+        "link": "Horizon",
+        "relativePath": "AAA Corps/Horizon.md"
+      },
+      {
+        "link": "Evo",
+        "displayText": "EVO",
+        "relativePath": "AAA Corps/Evo.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-3-13",
+    "relativePath": "Morocco Game Notes/22-3-13.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Tieing loose ends",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      },
+      {
+        "link": "Black Monkey Syndicate",
+        "relativePath": "Factions/Morocco/Crime Orgs/Black Monkey Syndicate.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-2-27",
+    "relativePath": "Morocco Game Notes/22-2-27.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "BMS explosion",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      },
+      {
+        "link": "Helix",
+        "relativePath": "NPCs/Friendly/Morocco/Helix.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-1-30",
+    "relativePath": "Morocco Game Notes/22-1-30.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Being Shamed",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      },
+      {
+        "link": "Horizon",
+        "relativePath": "AAA Corps/Horizon.md"
+      },
+      {
+        "link": "Aztechnology",
+        "displayText": "aztechnology",
+        "relativePath": "AAA Corps/Aztechnology.md"
+      },
+      {
+        "link": "Horizon",
+        "relativePath": "AAA Corps/Horizon.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-1-16",
+    "relativePath": "Morocco Game Notes/22-1-16.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Spice must flow Pt.2",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "22-1-2",
+    "relativePath": "Morocco Game Notes/22-1-2.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Spice must flow Pt.2",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-12-5",
+    "relativePath": "Morocco Game Notes/21-12-5.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Non-neutonian fun",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      },
+      {
+        "link": "Rabat",
+        "relativePath": "Locations/Morocco/Rabat.md"
+      }
+    ]
+  },
+  {
+    "fileName": "21-12-19",
+    "relativePath": "Morocco Game Notes/21-12-19.md",
+    "tags": [
+      "sunday_game"
+    ],
+    "headings": [
+      {
+        "heading": "Spice must flow Pt.1",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Morocco",
+        "displayText": "North African Crew",
+        "relativePath": "Players/Morocco.md"
+      }
+    ]
+  },
+  {
     "fileName": "Working with Github",
     "relativePath": "Working with Github.md",
     "headings": [
@@ -679,7 +1922,7 @@
     ],
     "headings": [
       {
-        "heading": "[Morocco](https://www.google.com/maps/d/u/0/edit?mid=1hLRIdVFrhMDA6TWswTy2vL6BZeSvotPM&usp=sharing)",
+        "heading": "[[../Locations/Morocco|Morocco]]",
         "level": 2
       },
       {
@@ -700,6 +1943,10 @@
       }
     ],
     "links": [
+      {
+        "link": "Morocco",
+        "relativePath": "Locations/Morocco.md"
+      },
       {
         "link": "Morocco Team",
         "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md"
@@ -773,73 +2020,73 @@
       {
         "fileName": "22-5-8",
         "link": "Morocco",
-        "relativePath": "North African Crew/22-5-8.md",
+        "relativePath": "Morocco Game Notes/22-5-8.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "22-3-27",
         "link": "Morocco",
-        "relativePath": "North African Crew/22-3-27.md",
+        "relativePath": "Morocco Game Notes/22-3-27.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "22-4-10",
         "link": "Morocco",
-        "relativePath": "North African Crew/22-4-10.md",
+        "relativePath": "Morocco Game Notes/22-4-10.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "22-5-22",
         "link": "Morocco",
-        "relativePath": "North African Crew/22-5-22.md",
+        "relativePath": "Morocco Game Notes/22-5-22.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "22-4-24",
         "link": "Morocco",
-        "relativePath": "North African Crew/22-4-24.md",
+        "relativePath": "Morocco Game Notes/22-4-24.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "22-3-13",
         "link": "Morocco",
-        "relativePath": "North African Crew/22-3-13.md",
+        "relativePath": "Morocco Game Notes/22-3-13.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "22-2-27",
         "link": "Morocco",
-        "relativePath": "North African Crew/22-2-27.md",
+        "relativePath": "Morocco Game Notes/22-2-27.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "22-1-30",
         "link": "Morocco",
-        "relativePath": "North African Crew/22-1-30.md",
+        "relativePath": "Morocco Game Notes/22-1-30.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "22-1-16",
         "link": "Morocco",
-        "relativePath": "North African Crew/22-1-16.md",
+        "relativePath": "Morocco Game Notes/22-1-16.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "22-1-2",
         "link": "Morocco",
-        "relativePath": "North African Crew/22-1-2.md",
+        "relativePath": "Morocco Game Notes/22-1-2.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "21-12-5",
         "link": "Morocco",
-        "relativePath": "North African Crew/21-12-5.md",
+        "relativePath": "Morocco Game Notes/21-12-5.md",
         "displayText": "North African Crew"
       },
       {
         "fileName": "21-12-19",
         "link": "Morocco",
-        "relativePath": "North African Crew/21-12-19.md",
+        "relativePath": "Morocco Game Notes/21-12-19.md",
         "displayText": "North African Crew"
       },
       {
@@ -863,7 +2110,7 @@
     ],
     "headings": [
       {
-        "heading": "[London](https://www.google.com/maps/d/u/0/edit?mid=1T-XvWV-CvoD--SYnhAvub1hFnB7kDINF&usp=sharing)",
+        "heading": "[[../Locations/London|London]]",
         "level": 3
       },
       {
@@ -876,6 +2123,10 @@
       }
     ],
     "links": [
+      {
+        "link": "London",
+        "relativePath": "Locations/London.md"
+      },
       {
         "link": "Alley Cat",
         "relativePath": "Players/Dead Characters/Alley Cat.md"
@@ -1398,6 +2649,17 @@
     ],
     "backlinks": [
       {
+        "fileName": "22-4-24",
+        "link": "Titania",
+        "relativePath": "Morocco Game Notes/22-4-24.md"
+      },
+      {
+        "fileName": "22-4-24",
+        "link": "Titania",
+        "relativePath": "Morocco Game Notes/22-4-24.md",
+        "displayText": "titania"
+      },
+      {
         "fileName": "Morocco",
         "link": "Titania",
         "relativePath": "Players/Morocco.md"
@@ -1416,17 +2678,6 @@
         "fileName": "Corvus",
         "link": "Titania",
         "relativePath": "Players/Morocco/Corvus.md"
-      },
-      {
-        "fileName": "22-4-24",
-        "link": "Titania",
-        "relativePath": "North African Crew/22-4-24.md"
-      },
-      {
-        "fileName": "22-4-24",
-        "link": "Titania",
-        "relativePath": "North African Crew/22-4-24.md",
-        "displayText": "titania"
       },
       {
         "fileName": "Livia Davis",
@@ -1587,7 +2838,7 @@
     ],
     "headings": [
       {
-        "heading": "Denver Map",
+        "heading": "[[../Locations/Front Range Free Zone|Denver Location]]",
         "level": 3
       },
       {
@@ -1616,6 +2867,11 @@
       }
     ],
     "links": [
+      {
+        "link": "Front Range Free Zone",
+        "displayText": "Denver Location",
+        "relativePath": "Locations/Front Range Free Zone.md"
+      },
       {
         "link": "Denver Specials",
         "displayText": "Denver Team",
@@ -1797,6 +3053,216 @@
     ],
     "backlinks": [
       {
+        "fileName": "23-2-23",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/23-2-23.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "23-2-11",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/23-2-11.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "23-1-28",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/23-1-28.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-9-10",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-9-10.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "23-1-14",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/23-1-14.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-9-24",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-9-24.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-8-13",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-8-13.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-7-30",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-7-30.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-7-16",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-7-16.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-7-3",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-7-3.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-6-4",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-6-4.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-5-21",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-5-21.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-6-18",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-6-18.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-3-26",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-3-26.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-3-12",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-3-12.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-12-17",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-12-17.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-2-26",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-2-26.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-2-12",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-2-12.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-11-5",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-11-5.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-11-19",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-11-19.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-10-22",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-10-22.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-10-8",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-10-8.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "22-1-2",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/22-1-2.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "21-8-28",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/21-8-28.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "21-8-14",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/21-8-14.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "21-7-31",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/21-7-31.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "21-7-3",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/21-7-3.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "21-7-3",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/21-7-3.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "21-7-17",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/21-7-17.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "21-6-19",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/21-6-19.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "21-12-4",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/21-12-4.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "21-11-20",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/21-11-20.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "21-12-18",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/21-12-18.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "21-11-6",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/21-11-6.md",
+        "displayText": "Denver Specials"
+      },
+      {
+        "fileName": "21-10-23",
+        "link": "Denver Prime",
+        "relativePath": "Denver Prime Game notes/21-10-23.md",
+        "displayText": "Denver Specials"
+      },
+      {
         "fileName": "Cat",
         "link": "Denver Prime",
         "relativePath": "Players/Denver Prime/Cat.md",
@@ -1806,216 +3272,6 @@
         "fileName": "Homepage",
         "link": "Denver Prime",
         "relativePath": "Homepage.md"
-      },
-      {
-        "fileName": "23-2-23",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/23-2-23.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "23-2-11",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/23-2-11.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "23-1-28",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/23-1-28.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-9-10",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-9-10.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "23-1-14",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/23-1-14.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-9-24",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-9-24.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-8-13",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-8-13.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-7-30",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-7-30.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-7-16",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-7-16.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-7-3",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-7-3.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-6-4",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-6-4.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-5-21",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-5-21.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-6-18",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-6-18.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-3-26",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-3-26.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-3-12",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-3-12.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-12-17",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-12-17.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-2-26",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-2-26.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-2-12",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-2-12.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-11-5",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-11-5.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-11-19",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-11-19.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-10-22",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-10-22.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-10-8",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-10-8.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "22-1-2",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/22-1-2.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "21-8-28",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/21-8-28.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "21-8-14",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/21-8-14.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "21-7-31",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/21-7-31.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "21-7-3",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/21-7-3.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "21-7-3",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/21-7-3.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "21-7-17",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/21-7-17.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "21-6-19",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/21-6-19.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "21-12-4",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/21-12-4.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "21-11-20",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/21-11-20.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "21-12-18",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/21-12-18.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "21-11-6",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/21-11-6.md",
-        "displayText": "Denver Specials"
-      },
-      {
-        "fileName": "21-10-23",
-        "link": "Denver Prime",
-        "relativePath": "Denver Game notes/21-10-23.md",
-        "displayText": "Denver Specials"
       },
       {
         "fileName": "Special Interests Department",
@@ -2675,6 +3931,26 @@
     ],
     "backlinks": [
       {
+        "fileName": "23-1-14",
+        "link": "Spectre",
+        "relativePath": "Denver Prime Game notes/23-1-14.md"
+      },
+      {
+        "fileName": "23-1-14",
+        "link": "Spectre",
+        "relativePath": "Denver Prime Game notes/23-1-14.md"
+      },
+      {
+        "fileName": "22-8-13",
+        "link": "Spectre",
+        "relativePath": "Denver Prime Game notes/22-8-13.md"
+      },
+      {
+        "fileName": "22-12-17",
+        "link": "Spectre",
+        "relativePath": "Denver Prime Game notes/22-12-17.md"
+      },
+      {
         "fileName": "Denver Prime",
         "link": "Spectre",
         "relativePath": "Players/Denver Prime.md"
@@ -2693,26 +3969,6 @@
         "fileName": "Angelica Quinn",
         "link": "Spectre",
         "relativePath": "NPCs/Friendly/Denver/Angelica Quinn.md"
-      },
-      {
-        "fileName": "23-1-14",
-        "link": "Spectre",
-        "relativePath": "Denver Game notes/23-1-14.md"
-      },
-      {
-        "fileName": "23-1-14",
-        "link": "Spectre",
-        "relativePath": "Denver Game notes/23-1-14.md"
-      },
-      {
-        "fileName": "22-8-13",
-        "link": "Spectre",
-        "relativePath": "Denver Game notes/22-8-13.md"
-      },
-      {
-        "fileName": "22-12-17",
-        "link": "Spectre",
-        "relativePath": "Denver Game notes/22-12-17.md"
       },
       {
         "fileName": "Front Range Consulting",
@@ -2774,6 +4030,16 @@
     ],
     "backlinks": [
       {
+        "fileName": "23-1-14",
+        "link": "Swiss",
+        "relativePath": "Denver Prime Game notes/23-1-14.md"
+      },
+      {
+        "fileName": "22-12-17",
+        "link": "Swiss",
+        "relativePath": "Denver Prime Game notes/22-12-17.md"
+      },
+      {
         "fileName": "Denver Prime",
         "link": "Swiss",
         "relativePath": "Players/Denver Prime.md"
@@ -2817,16 +4083,6 @@
         "fileName": "Meia",
         "link": "Swiss",
         "relativePath": "NPCs/Friendly/Denver/Meia.md"
-      },
-      {
-        "fileName": "23-1-14",
-        "link": "Swiss",
-        "relativePath": "Denver Game notes/23-1-14.md"
-      },
-      {
-        "fileName": "22-12-17",
-        "link": "Swiss",
-        "relativePath": "Denver Game notes/22-12-17.md"
       },
       {
         "fileName": "Ares",
@@ -2888,6 +4144,26 @@
     ],
     "backlinks": [
       {
+        "fileName": "23-2-11",
+        "link": "Incubus",
+        "relativePath": "Denver Prime Game notes/23-2-11.md"
+      },
+      {
+        "fileName": "23-1-14",
+        "link": "Incubus",
+        "relativePath": "Denver Prime Game notes/23-1-14.md"
+      },
+      {
+        "fileName": "23-1-14",
+        "link": "Incubus",
+        "relativePath": "Denver Prime Game notes/23-1-14.md"
+      },
+      {
+        "fileName": "22-8-13",
+        "link": "Incubus",
+        "relativePath": "Denver Prime Game notes/22-8-13.md"
+      },
+      {
         "fileName": "Denver Prime",
         "link": "Incubus",
         "relativePath": "Players/Denver Prime.md"
@@ -2921,26 +4197,6 @@
         "fileName": "Ivy",
         "link": "Incubus",
         "relativePath": "NPCs/Friendly/Denver/Ivy.md"
-      },
-      {
-        "fileName": "23-2-11",
-        "link": "Incubus",
-        "relativePath": "Denver Game notes/23-2-11.md"
-      },
-      {
-        "fileName": "23-1-14",
-        "link": "Incubus",
-        "relativePath": "Denver Game notes/23-1-14.md"
-      },
-      {
-        "fileName": "23-1-14",
-        "link": "Incubus",
-        "relativePath": "Denver Game notes/23-1-14.md"
-      },
-      {
-        "fileName": "22-8-13",
-        "link": "Incubus",
-        "relativePath": "Denver Game notes/22-8-13.md"
       },
       {
         "fileName": "Yoyo Dine",
@@ -3281,6 +4537,31 @@
     ],
     "backlinks": [
       {
+        "fileName": "23-2-11",
+        "link": "Cat",
+        "relativePath": "Denver Prime Game notes/23-2-11.md"
+      },
+      {
+        "fileName": "23-1-14",
+        "link": "Cat",
+        "relativePath": "Denver Prime Game notes/23-1-14.md"
+      },
+      {
+        "fileName": "23-1-14",
+        "link": "Cat",
+        "relativePath": "Denver Prime Game notes/23-1-14.md"
+      },
+      {
+        "fileName": "22-8-13",
+        "link": "Cat",
+        "relativePath": "Denver Prime Game notes/22-8-13.md"
+      },
+      {
+        "fileName": "22-12-17",
+        "link": "Cat",
+        "relativePath": "Denver Prime Game notes/22-12-17.md"
+      },
+      {
         "fileName": "Denver Prime",
         "link": "Cat",
         "relativePath": "Players/Denver Prime.md"
@@ -3365,31 +4646,6 @@
         "fileName": "Cheyenne Mountain",
         "link": "Cat",
         "relativePath": "Locations/FRFZ/Geographic Locations/Cheyenne Mountain.md"
-      },
-      {
-        "fileName": "23-2-11",
-        "link": "Cat",
-        "relativePath": "Denver Game notes/23-2-11.md"
-      },
-      {
-        "fileName": "23-1-14",
-        "link": "Cat",
-        "relativePath": "Denver Game notes/23-1-14.md"
-      },
-      {
-        "fileName": "23-1-14",
-        "link": "Cat",
-        "relativePath": "Denver Game notes/23-1-14.md"
-      },
-      {
-        "fileName": "22-8-13",
-        "link": "Cat",
-        "relativePath": "Denver Game notes/22-8-13.md"
-      },
-      {
-        "fileName": "22-12-17",
-        "link": "Cat",
-        "relativePath": "Denver Game notes/22-12-17.md"
       },
       {
         "fileName": "Cat's House",
@@ -4041,340 +5297,6 @@
     ]
   },
   {
-    "fileName": "22-5-8",
-    "relativePath": "North African Crew/22-5-8.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Playing with Names",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-3-27",
-    "relativePath": "North African Crew/22-3-27.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Toxic Mage Track Down",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-4-10",
-    "relativePath": "North African Crew/22-4-10.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Library Stop",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      },
-      {
-        "link": "Black Monkey Syndicate",
-        "relativePath": "Factions/Morocco/Crime Orgs/Black Monkey Syndicate.md"
-      },
-      {
-        "link": "Jenny Haniver",
-        "relativePath": "NPCs/Unfriendly/Jenny Haniver.md"
-      },
-      {
-        "link": "Jenny Haniver",
-        "relativePath": "NPCs/Unfriendly/Jenny Haniver.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-5-22",
-    "relativePath": "North African Crew/22-5-22.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-4-24",
-    "relativePath": "North African Crew/22-4-24.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Meeting of Monsters and Men",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      },
-      {
-        "link": "Titania",
-        "relativePath": "Players/Morocco/Titania.md"
-      },
-      {
-        "link": "Galahad",
-        "relativePath": "NPCs/Neutral/Avalon/Galahad.md"
-      },
-      {
-        "link": "Titania",
-        "displayText": "titania",
-        "relativePath": "Players/Morocco/Titania.md"
-      },
-      {
-        "link": "MCT",
-        "relativePath": "AAA Corps/MCT.md"
-      },
-      {
-        "link": "Shiawase",
-        "relativePath": "AAA Corps/Shiawase.md"
-      },
-      {
-        "link": "Ares",
-        "relativePath": "AAA Corps/Ares.md"
-      },
-      {
-        "link": "Wuxing",
-        "relativePath": "AAA Corps/Wuxing.md"
-      },
-      {
-        "link": "Horizon",
-        "relativePath": "AAA Corps/Horizon.md"
-      },
-      {
-        "link": "Evo",
-        "displayText": "EVO",
-        "relativePath": "AAA Corps/Evo.md"
-      },
-      {
-        "link": "MCT",
-        "relativePath": "AAA Corps/MCT.md"
-      },
-      {
-        "link": "Shiawase",
-        "relativePath": "AAA Corps/Shiawase.md"
-      },
-      {
-        "link": "Ares",
-        "relativePath": "AAA Corps/Ares.md"
-      },
-      {
-        "link": "Wuxing",
-        "relativePath": "AAA Corps/Wuxing.md"
-      },
-      {
-        "link": "Horizon",
-        "relativePath": "AAA Corps/Horizon.md"
-      },
-      {
-        "link": "Evo",
-        "displayText": "EVO",
-        "relativePath": "AAA Corps/Evo.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-3-13",
-    "relativePath": "North African Crew/22-3-13.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Tieing loose ends",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      },
-      {
-        "link": "Black Monkey Syndicate",
-        "relativePath": "Factions/Morocco/Crime Orgs/Black Monkey Syndicate.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-2-27",
-    "relativePath": "North African Crew/22-2-27.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "BMS explosion",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      },
-      {
-        "link": "Helix",
-        "relativePath": "NPCs/Friendly/Morocco/Helix.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-1-30",
-    "relativePath": "North African Crew/22-1-30.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Being Shamed",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      },
-      {
-        "link": "Horizon",
-        "relativePath": "AAA Corps/Horizon.md"
-      },
-      {
-        "link": "Aztechnology",
-        "displayText": "aztechnology",
-        "relativePath": "AAA Corps/Aztechnology.md"
-      },
-      {
-        "link": "Horizon",
-        "relativePath": "AAA Corps/Horizon.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-1-16",
-    "relativePath": "North African Crew/22-1-16.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Spice must flow Pt.2",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-1-2",
-    "relativePath": "North African Crew/22-1-2.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Spice must flow Pt.2",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-12-5",
-    "relativePath": "North African Crew/21-12-5.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Non-neutonian fun",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      },
-      {
-        "link": "Rabat",
-        "relativePath": "Locations/Morocco/Rabat.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-12-19",
-    "relativePath": "North African Crew/21-12-19.md",
-    "tags": [
-      "sunday_game"
-    ],
-    "headings": [
-      {
-        "heading": "Spice must flow Pt.1",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Morocco",
-        "displayText": "North African Crew",
-        "relativePath": "Players/Morocco.md"
-      }
-    ]
-  },
-  {
     "fileName": "Sand Worm",
     "relativePath": "NPCs/Unfriendly/Sand Worm.md",
     "tags": [
@@ -4406,19 +5328,19 @@
     ],
     "backlinks": [
       {
-        "fileName": "Simone Roussel",
-        "link": "Uta Hoffmann",
-        "relativePath": "NPCs/Unfriendly/Simone Roussel.md"
-      },
-      {
         "fileName": "22-9-24",
         "link": "Uta Hoffmann",
-        "relativePath": "Denver Game notes/22-9-24.md"
+        "relativePath": "Denver Prime Game notes/22-9-24.md"
       },
       {
         "fileName": "22-10-8",
         "link": "Uta Hoffmann",
-        "relativePath": "Denver Game notes/22-10-8.md"
+        "relativePath": "Denver Prime Game notes/22-10-8.md"
+      },
+      {
+        "fileName": "Simone Roussel",
+        "link": "Uta Hoffmann",
+        "relativePath": "NPCs/Unfriendly/Simone Roussel.md"
       }
     ]
   },
@@ -4451,7 +5373,7 @@
       {
         "fileName": "22-9-24",
         "link": "Simone Roussel",
-        "relativePath": "Denver Game notes/22-9-24.md"
+        "relativePath": "Denver Prime Game notes/22-9-24.md"
       }
     ]
   },
@@ -4557,12 +5479,12 @@
       {
         "fileName": "22-9-24",
         "link": "Ling T'ien",
-        "relativePath": "Denver Game notes/22-9-24.md"
+        "relativePath": "Denver Prime Game notes/22-9-24.md"
       },
       {
         "fileName": "22-10-8",
         "link": "Ling T'ien",
-        "relativePath": "Denver Game notes/22-10-8.md"
+        "relativePath": "Denver Prime Game notes/22-10-8.md"
       }
     ]
   },
@@ -4635,12 +5557,12 @@
       {
         "fileName": "22-9-24",
         "link": "Leonardo Costa",
-        "relativePath": "Denver Game notes/22-9-24.md"
+        "relativePath": "Denver Prime Game notes/22-9-24.md"
       },
       {
         "fileName": "22-10-8",
         "link": "Leonardo Costa",
-        "relativePath": "Denver Game notes/22-10-8.md"
+        "relativePath": "Denver Prime Game notes/22-10-8.md"
       }
     ]
   },
@@ -4693,12 +5615,12 @@
       {
         "fileName": "22-4-10",
         "link": "Jenny Haniver",
-        "relativePath": "North African Crew/22-4-10.md"
+        "relativePath": "Morocco Game Notes/22-4-10.md"
       },
       {
         "fileName": "22-4-10",
         "link": "Jenny Haniver",
-        "relativePath": "North African Crew/22-4-10.md"
+        "relativePath": "Morocco Game Notes/22-4-10.md"
       }
     ]
   },
@@ -4748,6 +5670,16 @@
     ],
     "backlinks": [
       {
+        "fileName": "22-9-24",
+        "link": "Ailbhn",
+        "relativePath": "Denver Prime Game notes/22-9-24.md"
+      },
+      {
+        "fileName": "22-9-24",
+        "link": "Ailbhn",
+        "relativePath": "Denver Prime Game notes/22-9-24.md"
+      },
+      {
         "fileName": "Simone Roussel",
         "link": "Ailbhn",
         "relativePath": "NPCs/Unfriendly/Simone Roussel.md"
@@ -4756,16 +5688,6 @@
         "fileName": "Simone Roussel",
         "link": "Ailbhn",
         "relativePath": "NPCs/Unfriendly/Simone Roussel.md"
-      },
-      {
-        "fileName": "22-9-24",
-        "link": "Ailbhn",
-        "relativePath": "Denver Game notes/22-9-24.md"
-      },
-      {
-        "fileName": "22-9-24",
-        "link": "Ailbhn",
-        "relativePath": "Denver Game notes/22-9-24.md"
       }
     ]
   },
@@ -4791,20 +5713,20 @@
     ],
     "backlinks": [
       {
-        "fileName": "Simone Roussel",
-        "link": "Noemi Lombardo",
-        "relativePath": "NPCs/Unfriendly/Simone Roussel.md",
-        "displayText": "../Neutral/Noemi Lombardo"
-      },
-      {
         "fileName": "22-9-24",
         "link": "Noemi Lombardo",
-        "relativePath": "Denver Game notes/22-9-24.md"
+        "relativePath": "Denver Prime Game notes/22-9-24.md"
       },
       {
         "fileName": "22-10-8",
         "link": "Noemi Lombardo",
-        "relativePath": "Denver Game notes/22-10-8.md"
+        "relativePath": "Denver Prime Game notes/22-10-8.md"
+      },
+      {
+        "fileName": "Simone Roussel",
+        "link": "Noemi Lombardo",
+        "relativePath": "NPCs/Unfriendly/Simone Roussel.md",
+        "displayText": "../Neutral/Noemi Lombardo"
       }
     ]
   },
@@ -4818,7 +5740,7 @@
       {
         "fileName": "22-11-5",
         "link": "Toby Walker",
-        "relativePath": "Denver Game notes/22-11-5.md"
+        "relativePath": "Denver Prime Game notes/22-11-5.md"
       }
     ]
   },
@@ -7327,7 +8249,7 @@
       {
         "fileName": "22-6-4",
         "link": "Sunny",
-        "relativePath": "Denver Game notes/22-6-4.md"
+        "relativePath": "Denver Prime Game notes/22-6-4.md"
       }
     ]
   },
@@ -7341,7 +8263,7 @@
       {
         "fileName": "22-6-4",
         "link": "Slag",
-        "relativePath": "Denver Game notes/22-6-4.md"
+        "relativePath": "Denver Prime Game notes/22-6-4.md"
       }
     ]
   },
@@ -7355,7 +8277,7 @@
       {
         "fileName": "22-6-4",
         "link": "Princess",
-        "relativePath": "Denver Game notes/22-6-4.md"
+        "relativePath": "Denver Prime Game notes/22-6-4.md"
       }
     ]
   },
@@ -7369,7 +8291,7 @@
       {
         "fileName": "22-6-4",
         "link": "good father",
-        "relativePath": "Denver Game notes/22-6-4.md",
+        "relativePath": "Denver Prime Game notes/22-6-4.md",
         "displayText": "Good Father"
       }
     ]
@@ -7384,7 +8306,7 @@
       {
         "fileName": "22-6-4",
         "link": "Gip",
-        "relativePath": "Denver Game notes/22-6-4.md"
+        "relativePath": "Denver Prime Game notes/22-6-4.md"
       }
     ]
   },
@@ -7398,7 +8320,7 @@
       {
         "fileName": "22-6-4",
         "link": "Creed",
-        "relativePath": "Denver Game notes/22-6-4.md"
+        "relativePath": "Denver Prime Game notes/22-6-4.md"
       }
     ]
   },
@@ -7412,7 +8334,7 @@
       {
         "fileName": "22-6-4",
         "link": "blade",
-        "relativePath": "Denver Game notes/22-6-4.md",
+        "relativePath": "Denver Prime Game notes/22-6-4.md",
         "displayText": "Blade"
       }
     ]
@@ -7427,7 +8349,7 @@
       {
         "fileName": "22-6-4",
         "link": "Big Sky",
-        "relativePath": "Denver Game notes/22-6-4.md"
+        "relativePath": "Denver Prime Game notes/22-6-4.md"
       }
     ]
   },
@@ -7439,14 +8361,14 @@
     ],
     "backlinks": [
       {
+        "fileName": "22-6-4",
+        "link": "Big Mac",
+        "relativePath": "Denver Prime Game notes/22-6-4.md"
+      },
+      {
         "fileName": "Denver Prime",
         "link": "Big Mac",
         "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "fileName": "22-6-4",
-        "link": "Big Mac",
-        "relativePath": "Denver Game notes/22-6-4.md"
       }
     ]
   },
@@ -7460,7 +8382,7 @@
       {
         "fileName": "22-6-4",
         "link": "Begger",
-        "relativePath": "Denver Game notes/22-6-4.md"
+        "relativePath": "Denver Prime Game notes/22-6-4.md"
       }
     ]
   },
@@ -7701,7 +8623,7 @@
       {
         "fileName": "21-12-18",
         "link": "Kai",
-        "relativePath": "Denver Game notes/21-12-18.md"
+        "relativePath": "Denver Prime Game notes/21-12-18.md"
       }
     ]
   },
@@ -7741,6 +8663,16 @@
     ],
     "backlinks": [
       {
+        "fileName": "22-3-26",
+        "link": "Dragon Council",
+        "relativePath": "Denver Prime Game notes/22-3-26.md"
+      },
+      {
+        "fileName": "22-2-26",
+        "link": "Dragon Council",
+        "relativePath": "Denver Prime Game notes/22-2-26.md"
+      },
+      {
         "fileName": "Denver Prime",
         "link": "Dragon Council",
         "relativePath": "Players/Denver Prime.md"
@@ -7749,16 +8681,6 @@
         "fileName": "Cat",
         "link": "Dragon Council",
         "relativePath": "Players/Denver Prime/Cat.md"
-      },
-      {
-        "fileName": "22-3-26",
-        "link": "Dragon Council",
-        "relativePath": "Denver Game notes/22-3-26.md"
-      },
-      {
-        "fileName": "22-2-26",
-        "link": "Dragon Council",
-        "relativePath": "Denver Game notes/22-2-26.md"
       }
     ]
   },
@@ -7883,7 +8805,7 @@
       {
         "fileName": "22-3-26",
         "link": "Beau Monet",
-        "relativePath": "Denver Game notes/22-3-26.md"
+        "relativePath": "Denver Prime Game notes/22-3-26.md"
       }
     ]
   },
@@ -7902,14 +8824,14 @@
     ],
     "backlinks": [
       {
+        "fileName": "22-1-2",
+        "link": "Allen Helmut",
+        "relativePath": "Denver Prime Game notes/22-1-2.md"
+      },
+      {
         "fileName": "puddin",
         "link": "Allen Helmut",
         "relativePath": "NPCs/Neutral/Horizon/puddin.md"
-      },
-      {
-        "fileName": "22-1-2",
-        "link": "Allen Helmut",
-        "relativePath": "Denver Game notes/22-1-2.md"
       }
     ]
   },
@@ -8430,6 +9352,12 @@
     ],
     "backlinks": [
       {
+        "fileName": "22-1-2",
+        "link": "Old man",
+        "relativePath": "Denver Prime Game notes/22-1-2.md",
+        "displayText": "Old Man"
+      },
+      {
         "fileName": "puddin",
         "link": "Old man",
         "relativePath": "NPCs/Neutral/Horizon/puddin.md",
@@ -8439,12 +9367,6 @@
         "fileName": "Front Range Free Zone",
         "link": "Old man",
         "relativePath": "Locations/Front Range Free Zone.md"
-      },
-      {
-        "fileName": "22-1-2",
-        "link": "Old man",
-        "relativePath": "Denver Game notes/22-1-2.md",
-        "displayText": "Old Man"
       }
     ]
   },
@@ -8456,6 +9378,17 @@
     ],
     "backlinks": [
       {
+        "fileName": "22-11-5",
+        "link": "DataMax",
+        "relativePath": "Denver Prime Game notes/22-11-5.md",
+        "displayText": "Datamax"
+      },
+      {
+        "fileName": "22-11-5",
+        "link": "DataMax",
+        "relativePath": "Denver Prime Game notes/22-11-5.md"
+      },
+      {
         "fileName": "Cat",
         "link": "DataMax",
         "relativePath": "Players/Denver Prime/Cat.md"
@@ -8464,17 +9397,6 @@
         "fileName": "Front Range Free Zone",
         "link": "DataMax",
         "relativePath": "Locations/Front Range Free Zone.md"
-      },
-      {
-        "fileName": "22-11-5",
-        "link": "DataMax",
-        "relativePath": "Denver Game notes/22-11-5.md",
-        "displayText": "Datamax"
-      },
-      {
-        "fileName": "22-11-5",
-        "link": "DataMax",
-        "relativePath": "Denver Game notes/22-11-5.md"
       }
     ]
   },
@@ -8606,7 +9528,7 @@
       {
         "fileName": "22-4-24",
         "link": "Galahad",
-        "relativePath": "North African Crew/22-4-24.md"
+        "relativePath": "Morocco Game Notes/22-4-24.md"
       }
     ]
   },
@@ -9039,6 +9961,12 @@
     ],
     "backlinks": [
       {
+        "fileName": "23-1-14",
+        "link": "Howard Dumbacher",
+        "relativePath": "Denver Prime Game notes/23-1-14.md",
+        "displayText": "Howard"
+      },
+      {
         "fileName": "Denver Prime",
         "link": "Howard Dumbacher",
         "relativePath": "Players/Denver Prime.md"
@@ -9047,12 +9975,6 @@
         "fileName": "Swiss",
         "link": "Howard Dumbacher",
         "relativePath": "Players/Denver Prime/Swiss.md"
-      },
-      {
-        "fileName": "23-1-14",
-        "link": "Howard Dumbacher",
-        "relativePath": "Denver Game notes/23-1-14.md",
-        "displayText": "Howard"
       },
       {
         "fileName": "Ares",
@@ -9734,6 +10656,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "22-2-27",
+        "link": "Helix",
+        "relativePath": "Morocco Game Notes/22-2-27.md"
+      },
+      {
         "fileName": "Morocco",
         "link": "Helix",
         "relativePath": "Players/Morocco.md"
@@ -9747,11 +10674,6 @@
         "fileName": "Cat",
         "link": "Helix",
         "relativePath": "Players/Denver Prime/Cat.md"
-      },
-      {
-        "fileName": "22-2-27",
-        "link": "Helix",
-        "relativePath": "North African Crew/22-2-27.md"
       },
       {
         "fileName": "Roman Torchwick",
@@ -10807,6 +11729,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "21-12-4",
+        "link": "Valerian Quinn",
+        "relativePath": "Denver Prime Game notes/21-12-4.md"
+      },
+      {
         "fileName": "Denver Prime",
         "link": "Valerian Quinn",
         "relativePath": "Players/Denver Prime.md"
@@ -10830,11 +11757,6 @@
         "fileName": "Angelica Quinn",
         "link": "Valerian Quinn",
         "relativePath": "NPCs/Friendly/Denver/Angelica Quinn.md"
-      },
-      {
-        "fileName": "21-12-4",
-        "link": "Valerian Quinn",
-        "relativePath": "Denver Game notes/21-12-4.md"
       }
     ]
   },
@@ -10936,12 +11858,12 @@
       {
         "fileName": "21-11-20",
         "link": "Troy",
-        "relativePath": "Denver Game notes/21-11-20.md"
+        "relativePath": "Denver Prime Game notes/21-11-20.md"
       },
       {
         "fileName": "21-11-20",
         "link": "Troy",
-        "relativePath": "Denver Game notes/21-11-20.md"
+        "relativePath": "Denver Prime Game notes/21-11-20.md"
       }
     ]
   },
@@ -11191,6 +12113,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "21-12-4",
+        "link": "Sage Quinn",
+        "relativePath": "Denver Prime Game notes/21-12-4.md"
+      },
+      {
         "fileName": "Denver Prime",
         "link": "Sage Quinn",
         "relativePath": "Players/Denver Prime.md"
@@ -11214,11 +12141,6 @@
         "fileName": "Angelica Quinn",
         "link": "Sage Quinn",
         "relativePath": "NPCs/Friendly/Denver/Angelica Quinn.md"
-      },
-      {
-        "fileName": "21-12-4",
-        "link": "Sage Quinn",
-        "relativePath": "Denver Game notes/21-12-4.md"
       }
     ]
   },
@@ -11485,6 +12407,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "21-7-17",
+        "link": "Ivy",
+        "relativePath": "Denver Prime Game notes/21-7-17.md"
+      },
+      {
         "fileName": "Denver Prime",
         "link": "Ivy",
         "relativePath": "Players/Denver Prime.md"
@@ -11498,11 +12425,6 @@
         "fileName": "Kalt",
         "link": "Ivy",
         "relativePath": "NPCs/Friendly/Denver/Kalt.md"
-      },
-      {
-        "fileName": "21-7-17",
-        "link": "Ivy",
-        "relativePath": "Denver Game notes/21-7-17.md"
       }
     ]
   },
@@ -11613,6 +12535,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "21-12-4",
+        "link": "Angelica Quinn",
+        "relativePath": "Denver Prime Game notes/21-12-4.md"
+      },
+      {
         "fileName": "Denver Prime",
         "link": "Angelica Quinn",
         "relativePath": "Players/Denver Prime.md"
@@ -11636,11 +12563,6 @@
         "fileName": "Sage Quinn",
         "link": "Angelica Quinn",
         "relativePath": "NPCs/Friendly/Denver/Sage Quinn.md"
-      },
-      {
-        "fileName": "21-12-4",
-        "link": "Angelica Quinn",
-        "relativePath": "Denver Game notes/21-12-4.md"
       }
     ]
   },
@@ -14535,14 +15457,14 @@
     ],
     "backlinks": [
       {
+        "fileName": "22-3-26",
+        "link": "Montreal",
+        "relativePath": "Denver Prime Game notes/22-3-26.md"
+      },
+      {
         "fileName": "Beau Monet",
         "link": "Montreal",
         "relativePath": "NPCs/Neutral/Beau Monet.md"
-      },
-      {
-        "fileName": "22-3-26",
-        "link": "Montreal",
-        "relativePath": "Denver Game notes/22-3-26.md"
       }
     ]
   },
@@ -15420,7 +16342,7 @@
       {
         "fileName": "21-12-5",
         "link": "Rabat",
-        "relativePath": "North African Crew/21-12-5.md"
+        "relativePath": "Morocco Game Notes/21-12-5.md"
       },
       {
         "fileName": "Morocco",
@@ -15592,7 +16514,7 @@
       {
         "fileName": "23-1-28",
         "link": "Hong Kong",
-        "relativePath": "Denver Game notes/23-1-28.md"
+        "relativePath": "Denver Prime Game notes/23-1-28.md"
       }
     ]
   },
@@ -16548,6 +17470,12 @@
       }
     ],
     "backlinks": [
+      {
+        "fileName": "Denver Prime",
+        "link": "Front Range Free Zone",
+        "relativePath": "Players/Denver Prime.md",
+        "displayText": "Denver Location"
+      },
       {
         "fileName": "Homepage",
         "link": "Front Range Free Zone",
@@ -22327,6 +23255,10 @@
     ]
   },
   {
+    "fileName": "Chatgpt mega",
+    "relativePath": "GM Info/Miami/Chatgpt mega.md"
+  },
+  {
     "fileName": "Temp document",
     "relativePath": "GM Info/Miami/Temp document.md"
   },
@@ -22970,12 +23902,12 @@
       {
         "fileName": "22-4-10",
         "link": "Black Monkey Syndicate",
-        "relativePath": "North African Crew/22-4-10.md"
+        "relativePath": "Morocco Game Notes/22-4-10.md"
       },
       {
         "fileName": "22-3-13",
         "link": "Black Monkey Syndicate",
-        "relativePath": "North African Crew/22-3-13.md"
+        "relativePath": "Morocco Game Notes/22-3-13.md"
       },
       {
         "fileName": "Sand Worm",
@@ -24437,915 +25369,6 @@
         "fileName": "Andreas Kyriakopoulos",
         "link": "Athens Oligarchs",
         "relativePath": "NPCs/Neutral/Athens/Andreas Kyriakopoulos.md"
-      }
-    ]
-  },
-  {
-    "fileName": "23-2-23",
-    "relativePath": "Denver Game notes/23-2-23.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "23-2-11",
-    "relativePath": "Denver Game notes/23-2-11.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Incubus",
-        "relativePath": "Players/Denver Prime/Incubus.md"
-      },
-      {
-        "link": "Cat",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      }
-    ]
-  },
-  {
-    "fileName": "23-1-28",
-    "relativePath": "Denver Game notes/23-1-28.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Hong Kong",
-        "relativePath": "Locations/Hong Kong.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-9-10",
-    "relativePath": "Denver Game notes/22-9-10.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Sacrifices Pt2",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "23-1-14",
-    "relativePath": "Denver Game notes/23-1-14.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Howard Dumbacher",
-        "displayText": "Howard",
-        "relativePath": "NPCs/Friendly/Howard Dumbacher.md"
-      },
-      {
-        "link": "Spectre",
-        "relativePath": "Players/Denver Prime/Spectre.md"
-      },
-      {
-        "link": "Cat",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      },
-      {
-        "link": "Incubus",
-        "relativePath": "Players/Denver Prime/Incubus.md"
-      },
-      {
-        "link": "Incubus",
-        "relativePath": "Players/Denver Prime/Incubus.md"
-      },
-      {
-        "link": "Spectre",
-        "relativePath": "Players/Denver Prime/Spectre.md"
-      },
-      {
-        "link": "Swiss",
-        "relativePath": "Players/Denver Prime/Swiss.md"
-      },
-      {
-        "link": "Cat",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-9-24",
-    "relativePath": "Denver Game notes/22-9-24.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Chinese Takeout",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Noemi Lombardo",
-        "relativePath": "NPCs/Neutral/Noemi Lombardo.md"
-      },
-      {
-        "link": "Uta Hoffmann",
-        "relativePath": "NPCs/Unfriendly/Uta Hoffmann.md"
-      },
-      {
-        "link": "Ling T'ien",
-        "relativePath": "NPCs/Unfriendly/Ling T'ien.md"
-      },
-      {
-        "link": "Simone Roussel",
-        "relativePath": "NPCs/Unfriendly/Simone Roussel.md"
-      },
-      {
-        "link": "Leonardo Costa",
-        "relativePath": "NPCs/Unfriendly/Leonardo Costa.md"
-      },
-      {
-        "link": "Ailbhn",
-        "relativePath": "NPCs/Unfriendly/Ailbhn.md"
-      },
-      {
-        "link": "Ailbhn",
-        "relativePath": "NPCs/Unfriendly/Ailbhn.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-8-13",
-    "relativePath": "Denver Game notes/22-8-13.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Sacrifices",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Incubus",
-        "relativePath": "Players/Denver Prime/Incubus.md"
-      },
-      {
-        "link": "Spectre",
-        "relativePath": "Players/Denver Prime/Spectre.md"
-      },
-      {
-        "link": "Cat",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-7-30",
-    "relativePath": "Denver Game notes/22-7-30.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Renraku",
-        "relativePath": "AAA Corps/Renraku.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-7-16",
-    "relativePath": "Denver Game notes/22-7-16.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-7-3",
-    "relativePath": "Denver Game notes/22-7-3.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-6-4",
-    "relativePath": "Denver Game notes/22-6-4.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Big Sky",
-        "relativePath": "NPCs/Neutral/Slip's runners/Big Sky.md"
-      },
-      {
-        "link": "Big Mac",
-        "relativePath": "NPCs/Neutral/Slip's runners/Big Mac.md"
-      },
-      {
-        "link": "blade",
-        "displayText": "Blade",
-        "relativePath": "NPCs/Neutral/Slip's runners/blade.md"
-      },
-      {
-        "link": "good father",
-        "displayText": "Good Father",
-        "relativePath": "NPCs/Neutral/Slip's runners/good father.md"
-      },
-      {
-        "link": "Princess",
-        "relativePath": "NPCs/Neutral/Slip's runners/Princess.md"
-      },
-      {
-        "link": "Sunny",
-        "relativePath": "NPCs/Neutral/Slip's runners/Sunny.md"
-      },
-      {
-        "link": "Begger",
-        "relativePath": "NPCs/Neutral/Slip's runners/Begger.md"
-      },
-      {
-        "link": "Slag",
-        "relativePath": "NPCs/Neutral/Slip's runners/Slag.md"
-      },
-      {
-        "link": "Gip",
-        "relativePath": "NPCs/Neutral/Slip's runners/Gip.md"
-      },
-      {
-        "link": "Creed",
-        "relativePath": "NPCs/Neutral/Slip's runners/Creed.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-5-21",
-    "relativePath": "Denver Game notes/22-5-21.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Horror Summoner Cont",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-6-18",
-    "relativePath": "Denver Game notes/22-6-18.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-3-26",
-    "relativePath": "Denver Game notes/22-3-26.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Horror summoner go boom",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Dragon Council",
-        "relativePath": "NPCs/Neutral/Dragon Council.md"
-      },
-      {
-        "link": "Montreal",
-        "relativePath": "Locations/Montreal.md"
-      },
-      {
-        "link": "Beau Monet",
-        "relativePath": "NPCs/Neutral/Beau Monet.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-3-12",
-    "relativePath": "Denver Game notes/22-3-12.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Info on Keris",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-12-17",
-    "relativePath": "Denver Game notes/22-12-17.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Swiss",
-        "relativePath": "Players/Denver Prime/Swiss.md"
-      },
-      {
-        "link": "Cat",
-        "relativePath": "Players/Denver Prime/Cat.md"
-      },
-      {
-        "link": "Spectre",
-        "relativePath": "Players/Denver Prime/Spectre.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-2-26",
-    "relativePath": "Denver Game notes/22-2-26.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Finding the Mole",
-        "level": 1
-      },
-      {
-        "heading": "Ghostwalker Issues",
-        "level": 5
-      },
-      {
-        "heading": "[[../NPCs/Neutral/Dragon Council|Dragon Council]]",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Dragon Council",
-        "relativePath": "NPCs/Neutral/Dragon Council.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-2-12",
-    "relativePath": "Denver Game notes/22-2-12.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Conception Bay Suicides",
-        "level": 1
-      },
-      {
-        "heading": "People still in hotel",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-11-5",
-    "relativePath": "Denver Game notes/22-11-5.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "DataMax",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Toby Walker",
-        "relativePath": "NPCs/Neutral/Toby Walker.md"
-      },
-      {
-        "link": "DataMax",
-        "displayText": "Datamax",
-        "relativePath": "NPCs/Neutral/Denver/DataMax.md"
-      },
-      {
-        "link": "DataMax",
-        "relativePath": "NPCs/Neutral/Denver/DataMax.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-11-19",
-    "relativePath": "Denver Game notes/22-11-19.md",
-    "tags": [
-      "denver"
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-10-22",
-    "relativePath": "Denver Game notes/22-10-22.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Prophetest raid",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-10-8",
-    "relativePath": "Denver Game notes/22-10-8.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Oops only claws",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Ling T'ien",
-        "relativePath": "NPCs/Unfriendly/Ling T'ien.md"
-      },
-      {
-        "link": "Noemi Lombardo",
-        "relativePath": "NPCs/Neutral/Noemi Lombardo.md"
-      },
-      {
-        "link": "Uta Hoffmann",
-        "relativePath": "NPCs/Unfriendly/Uta Hoffmann.md"
-      },
-      {
-        "link": "Leonardo Costa",
-        "relativePath": "NPCs/Unfriendly/Leonardo Costa.md"
-      }
-    ]
-  },
-  {
-    "fileName": "22-1-2",
-    "relativePath": "Denver Game notes/22-1-2.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Diet Horror",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Old man",
-        "displayText": "Old Man",
-        "relativePath": "NPCs/Neutral/Denver/Old man.md"
-      },
-      {
-        "link": "Allen Helmut",
-        "relativePath": "NPCs/Neutral/Allen Helmut.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-8-28",
-    "relativePath": "Denver Game notes/21-8-28.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Dragon Hunting",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-8-14",
-    "relativePath": "Denver Game notes/21-8-14.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Khlopnut pistolet",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-7-31",
-    "relativePath": "Denver Game notes/21-7-31.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Rapid Energy",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-7-3",
-    "relativePath": "Denver Game notes/21-7-3.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Prison Break",
-        "level": 1
-      },
-      {
-        "heading": "Capture",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Renraku",
-        "relativePath": "AAA Corps/Renraku.md"
-      },
-      {
-        "link": "MCT",
-        "displayText": "Mitsuhama",
-        "relativePath": "AAA Corps/MCT.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-7-17",
-    "relativePath": "Denver Game notes/21-7-17.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Rescue Ivy",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Ivy",
-        "relativePath": "NPCs/Friendly/Denver/Ivy.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-6-19",
-    "relativePath": "Denver Game notes/21-6-19.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Train Heist",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-12-4",
-    "relativePath": "Denver Game notes/21-12-4.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Wedding",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Valerian Quinn",
-        "relativePath": "NPCs/Friendly/Denver/Valerian Quinn.md"
-      },
-      {
-        "link": "Sage Quinn",
-        "relativePath": "NPCs/Friendly/Denver/Sage Quinn.md"
-      },
-      {
-        "link": "Angelica Quinn",
-        "relativePath": "NPCs/Friendly/Denver/Angelica Quinn.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-11-20",
-    "relativePath": "Denver Game notes/21-11-20.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Convention job",
-        "level": 1
-      },
-      {
-        "heading": "Items",
-        "level": 4
-      },
-      {
-        "heading": "fastgrid",
-        "level": 5
-      },
-      {
-        "heading": "Safe funds",
-        "level": 5
-      },
-      {
-        "heading": "cyberdeck tech",
-        "level": 5
-      },
-      {
-        "heading": "multigun system",
-        "level": 5
-      },
-      {
-        "heading": "trojan",
-        "level": 5
-      },
-      {
-        "heading": "Presentation order",
-        "level": 4
-      },
-      {
-        "heading": "Day 1",
-        "level": 5
-      },
-      {
-        "heading": "Day 2",
-        "level": 5
-      },
-      {
-        "heading": "Day 3",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Troy",
-        "relativePath": "NPCs/Friendly/Denver/Troy.md"
-      },
-      {
-        "link": "Troy",
-        "relativePath": "NPCs/Friendly/Denver/Troy.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-12-18",
-    "relativePath": "Denver Game notes/21-12-18.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Giant Horror",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      },
-      {
-        "link": "Kai",
-        "relativePath": "NPCs/Neutral/Kai.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-11-6",
-    "relativePath": "Denver Game notes/21-11-6.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Trepca",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
-      }
-    ]
-  },
-  {
-    "fileName": "21-10-23",
-    "relativePath": "Denver Game notes/21-10-23.md",
-    "tags": [
-      "denver"
-    ],
-    "headings": [
-      {
-        "heading": "Dominica Take Over",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Denver Prime",
-        "displayText": "Denver Specials",
-        "relativePath": "Players/Denver Prime.md"
       }
     ]
   },
@@ -33449,6 +33472,83 @@
     ]
   },
   {
+    "fileName": "MCT",
+    "relativePath": "AAA Corps/MCT.md",
+    "tags": [
+      "aaa_corporation"
+    ],
+    "links": [
+      {
+        "link": "MCT-Athens",
+        "displayText": "Athens",
+        "relativePath": "AAA Corps/MCT/MCT-Athens.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "21-7-3",
+        "link": "MCT",
+        "relativePath": "Denver Prime Game notes/21-7-3.md",
+        "displayText": "Mitsuhama"
+      },
+      {
+        "fileName": "22-4-24",
+        "link": "MCT",
+        "relativePath": "Morocco Game Notes/22-4-24.md"
+      },
+      {
+        "fileName": "22-4-24",
+        "link": "MCT",
+        "relativePath": "Morocco Game Notes/22-4-24.md"
+      },
+      {
+        "fileName": "Masque",
+        "link": "MCT",
+        "relativePath": "NPCs/Neutral/Denver/Masque.md"
+      },
+      {
+        "fileName": "MCT Zero Zone",
+        "link": "MCT",
+        "relativePath": "Corps (Local)/FRFZ/The Gap/MCT Zero Zone.md"
+      },
+      {
+        "fileName": "MCT Zero Zone",
+        "link": "MCT",
+        "relativePath": "Corps (Local)/FRFZ/The Gap/MCT Zero Zone.md"
+      },
+      {
+        "fileName": "University of Denver",
+        "link": "MCT",
+        "relativePath": "Corps (Local)/FRFZ/Centennial/University of Denver.md"
+      },
+      {
+        "fileName": "Mitsuhama Tower",
+        "link": "MCT",
+        "relativePath": "AAA Corps/MCT/Mitsuhama Tower.md"
+      },
+      {
+        "fileName": "Brainwave, Inc. Office",
+        "link": "MCT",
+        "relativePath": "AAA Corps/MCT/Brainwave, Inc. Office.md"
+      },
+      {
+        "fileName": "Brainwave, Inc. Office",
+        "link": "MCT",
+        "relativePath": "AAA Corps/MCT/Brainwave, Inc. Office.md"
+      },
+      {
+        "fileName": "VOR Robotics Office",
+        "link": "MCT",
+        "relativePath": "AAA Corps/MCT/VOR Robotics Office.md"
+      },
+      {
+        "fileName": "CodeBlue Biotech Office",
+        "link": "MCT",
+        "relativePath": "AAA Corps/MCT/CodeBlue Biotech Office.md"
+      }
+    ]
+  },
+  {
     "fileName": "Saeder-Krupp",
     "relativePath": "AAA Corps/Saeder-Krupp.md",
     "tags": [
@@ -33521,12 +33621,12 @@
       {
         "fileName": "22-4-24",
         "link": "Wuxing",
-        "relativePath": "North African Crew/22-4-24.md"
+        "relativePath": "Morocco Game Notes/22-4-24.md"
       },
       {
         "fileName": "22-4-24",
         "link": "Wuxing",
-        "relativePath": "North African Crew/22-4-24.md"
+        "relativePath": "Morocco Game Notes/22-4-24.md"
       },
       {
         "fileName": "Wuxing Eastern Shores",
@@ -33686,12 +33786,12 @@
       {
         "fileName": "22-4-24",
         "link": "Shiawase",
-        "relativePath": "North African Crew/22-4-24.md"
+        "relativePath": "Morocco Game Notes/22-4-24.md"
       },
       {
         "fileName": "22-4-24",
         "link": "Shiawase",
-        "relativePath": "North African Crew/22-4-24.md"
+        "relativePath": "Morocco Game Notes/22-4-24.md"
       },
       {
         "fileName": "Shiawase Exclusion Zone",
@@ -33849,12 +33949,12 @@
       {
         "fileName": "22-7-30",
         "link": "Renraku",
-        "relativePath": "Denver Game notes/22-7-30.md"
+        "relativePath": "Denver Prime Game notes/22-7-30.md"
       },
       {
         "fileName": "21-7-3",
         "link": "Renraku",
-        "relativePath": "Denver Game notes/21-7-3.md"
+        "relativePath": "Denver Prime Game notes/21-7-3.md"
       },
       {
         "fileName": "Sam’s Gadgets",
@@ -33890,83 +33990,6 @@
         "fileName": "HyperSense Headquarters",
         "link": "Renraku",
         "relativePath": "AAA Corps/Renraku/HyperSense Headquarters.md"
-      }
-    ]
-  },
-  {
-    "fileName": "MCT",
-    "relativePath": "AAA Corps/MCT.md",
-    "tags": [
-      "aaa_corporation"
-    ],
-    "links": [
-      {
-        "link": "MCT-Athens",
-        "displayText": "Athens",
-        "relativePath": "AAA Corps/MCT/MCT-Athens.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "22-4-24",
-        "link": "MCT",
-        "relativePath": "North African Crew/22-4-24.md"
-      },
-      {
-        "fileName": "22-4-24",
-        "link": "MCT",
-        "relativePath": "North African Crew/22-4-24.md"
-      },
-      {
-        "fileName": "Masque",
-        "link": "MCT",
-        "relativePath": "NPCs/Neutral/Denver/Masque.md"
-      },
-      {
-        "fileName": "21-7-3",
-        "link": "MCT",
-        "relativePath": "Denver Game notes/21-7-3.md",
-        "displayText": "Mitsuhama"
-      },
-      {
-        "fileName": "MCT Zero Zone",
-        "link": "MCT",
-        "relativePath": "Corps (Local)/FRFZ/The Gap/MCT Zero Zone.md"
-      },
-      {
-        "fileName": "MCT Zero Zone",
-        "link": "MCT",
-        "relativePath": "Corps (Local)/FRFZ/The Gap/MCT Zero Zone.md"
-      },
-      {
-        "fileName": "University of Denver",
-        "link": "MCT",
-        "relativePath": "Corps (Local)/FRFZ/Centennial/University of Denver.md"
-      },
-      {
-        "fileName": "Mitsuhama Tower",
-        "link": "MCT",
-        "relativePath": "AAA Corps/MCT/Mitsuhama Tower.md"
-      },
-      {
-        "fileName": "Brainwave, Inc. Office",
-        "link": "MCT",
-        "relativePath": "AAA Corps/MCT/Brainwave, Inc. Office.md"
-      },
-      {
-        "fileName": "Brainwave, Inc. Office",
-        "link": "MCT",
-        "relativePath": "AAA Corps/MCT/Brainwave, Inc. Office.md"
-      },
-      {
-        "fileName": "VOR Robotics Office",
-        "link": "MCT",
-        "relativePath": "AAA Corps/MCT/VOR Robotics Office.md"
-      },
-      {
-        "fileName": "CodeBlue Biotech Office",
-        "link": "MCT",
-        "relativePath": "AAA Corps/MCT/CodeBlue Biotech Office.md"
       }
     ]
   },
@@ -34330,22 +34353,22 @@
       {
         "fileName": "22-4-24",
         "link": "Horizon",
-        "relativePath": "North African Crew/22-4-24.md"
+        "relativePath": "Morocco Game Notes/22-4-24.md"
       },
       {
         "fileName": "22-4-24",
         "link": "Horizon",
-        "relativePath": "North African Crew/22-4-24.md"
+        "relativePath": "Morocco Game Notes/22-4-24.md"
       },
       {
         "fileName": "22-1-30",
         "link": "Horizon",
-        "relativePath": "North African Crew/22-1-30.md"
+        "relativePath": "Morocco Game Notes/22-1-30.md"
       },
       {
         "fileName": "22-1-30",
         "link": "Horizon",
-        "relativePath": "North African Crew/22-1-30.md"
+        "relativePath": "Morocco Game Notes/22-1-30.md"
       },
       {
         "fileName": "Next-Net",
@@ -34604,13 +34627,13 @@
       {
         "fileName": "22-4-24",
         "link": "Evo",
-        "relativePath": "North African Crew/22-4-24.md",
+        "relativePath": "Morocco Game Notes/22-4-24.md",
         "displayText": "EVO"
       },
       {
         "fileName": "22-4-24",
         "link": "Evo",
-        "relativePath": "North African Crew/22-4-24.md",
+        "relativePath": "Morocco Game Notes/22-4-24.md",
         "displayText": "EVO"
       },
       {
@@ -34708,7 +34731,7 @@
       {
         "fileName": "22-1-30",
         "link": "Aztechnology",
-        "relativePath": "North African Crew/22-1-30.md",
+        "relativePath": "Morocco Game Notes/22-1-30.md",
         "displayText": "aztechnology"
       },
       {
@@ -35080,12 +35103,12 @@
       {
         "fileName": "22-4-24",
         "link": "Ares",
-        "relativePath": "North African Crew/22-4-24.md"
+        "relativePath": "Morocco Game Notes/22-4-24.md"
       },
       {
         "fileName": "22-4-24",
         "link": "Ares",
-        "relativePath": "North African Crew/22-4-24.md"
+        "relativePath": "Morocco Game Notes/22-4-24.md"
       },
       {
         "fileName": "Deimos",

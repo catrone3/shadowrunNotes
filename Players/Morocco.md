@@ -1,5 +1,5 @@
 #Morocco
-## [Morocco](https://www.google.com/maps/d/u/0/edit?mid=1hLRIdVFrhMDA6TWswTy2vL6BZeSvotPM&usp=sharing)
+## [[../Locations/Morocco|Morocco]]
 <iframe src="https://www.google.com/maps/d/embed?mid=1hLRIdVFrhMDA6TWswTy2vL6BZeSvotPM&ehbc=2E312F" width="640" height="480"></iframe>
 
 #### [[../AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team|Morocco Team]]

@@ -25,10 +25,6 @@
       "relativePath": "Corps (Local)"
     },
     {
-      "name": "Denver Game notes",
-      "relativePath": "Denver Game notes"
-    },
-    {
       "name": "Factions",
       "relativePath": "Factions"
     },
@@ -55,10 +51,6 @@
     {
       "name": "NPCs",
       "relativePath": "NPCs"
-    },
-    {
-      "name": "North African Crew",
-      "relativePath": "North African Crew"
     },
     {
       "name": "Players",
@@ -603,6 +595,14 @@
     {
       "name": "Caribbean League",
       "relativePath": "Locations/Caribbean League"
+    },
+    {
+      "name": "Morocco Game Notes",
+      "relativePath": "Morocco Game Notes"
+    },
+    {
+      "name": "Denver Prime Game notes",
+      "relativePath": "Denver Prime Game notes"
     }
   ],
   "nonMdFiles": [
@@ -1535,6 +1535,21 @@
       "name": "catrone3_female_elf_with_flowing_sulver_hair_equisite_jewelry_a_a2f7cec3-fb3a-410e-8adf-42bcb212ee60.png",
       "basename": "catrone3_female_elf_with_flowing_sulver_hair_equisite_jewelry_a_a2f7cec3-fb3a-410e-8adf-42bcb212ee60",
       "relativePath": "Images/unused images/catrone3_female_elf_with_flowing_sulver_hair_equisite_jewelry_a_a2f7cec3-fb3a-410e-8adf-42bcb212ee60.png"
+    },
+    {
+      "name": "favicon.ico",
+      "basename": "favicon",
+      "relativePath": "favicon.ico"
+    },
+    {
+      "name": "publish.css",
+      "basename": "publish",
+      "relativePath": "publish.css"
+    },
+    {
+      "name": "logo.png",
+      "basename": "logo",
+      "relativePath": "logo.png"
     }
   ]
 }
