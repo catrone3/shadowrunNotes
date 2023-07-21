@@ -11,12 +11,10 @@
             "id": "815390e3e0be2c6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "GM Info/Miami/Chatgpt mega.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": ".obsidian/community-plugins.json",
+                "staged": false
               }
             }
           }
@@ -49,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "days inn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,13 +84,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Info/Miami/Chatgpt mega.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -123,22 +120,6 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "8a032bf85534f2c0",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "3409c56f860741eb",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
@@ -155,60 +136,57 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-content-generator:Fantasy Generators": false,
-      "initiative-tracker:Intiative Tracker Encounter Builder": false,
       "publish:Publish changes...": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "815390e3e0be2c6e",
   "lastOpenFiles": [
-    "GM Info/Miami/Temp document.md",
+    "New Orleans Game Notes/23-7-15.md",
+    "New Orleans Game Notes/23-7-1.md",
+    "Images/Pasted image 20230715171808.png",
+    "Images/Pasted image 20230715171746.png",
+    "Images/Pasted image 20230715140311.png",
+    "Images/Pasted image 20230715163822.png",
+    "Images/Pasted image 20230715141508.png",
+    "Images/Pasted image 20230715141552.png",
+    "Images/Pasted image 20230715141439.png",
+    "Images/Pasted image 20230715183808.png",
+    "New Orleans Game Notes/23-7-15.md~RF13550920.TMP",
+    "New Orleans Game Notes/23-5-20.md",
+    "Locations/South Florida/City of Miami.md",
+    "GM Info/orphaned files output.md",
+    "Images/shadowrun characters/harlequin.webp",
+    "Homepage.md",
+    "Images/unused images/catrone3_female_elf_with_flowing_sulver_hair_equisite_jewelry_a_a2f7cec3-fb3a-410e-8adf-42bcb212ee60.png",
     "GM Info/Miami/Chatgpt mega.md",
+    "Homepage.mediawiki",
+    "GM Info/Miami/Chatgpt mega.mediawiki",
+    "Locations/South Florida/South Beach.md",
+    "AAA Corps/Aztechnology.md",
+    "AAA Corps/Ares.md",
+    "Denver Prime Game notes/23-1-14.md",
+    "AAA Corps/Evo.md",
+    "AAA Corps/Evo/Evo BioTech Resort.md",
+    "AAA Corps/Ares/Ares Tower.md",
+    "AAA Corps/Aztechnology/Aztechnology Research Facility.md",
+    "Locations/South Florida/Downtown Miami.md",
+    "Corps (Local)/South Florida/Clean Sweep Cleaning Services.md",
+    "Corps (Local)/South Florida/Carlito's Bar.md",
+    "Corps (Local)/South Florida/Blackwood Gallery.md",
+    "Corps (Local)/South Florida/Blackfire Arms & Armory.md",
+    "Corps (Local)/South Florida/Armadillo Armory.md",
+    "GM Info/Miami/Temp document.md",
     "Players/London.md",
-    "logo.png",
-    "logo.svg",
     "logo.svg.opdownload",
     "Players/Morocco.md",
     "Locations/Morocco.md",
-    "Players/South Florida Game.md",
-    "Players/New Orleans.md",
-    "Players/Denver Prime.md",
-    "Players/Berlin Game.md",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
     "publish.css",
     "theme.css",
     "favicon.ico",
     "favicon.ico.opdownload",
-    "AAA Corps/MCT.md",
-    "AAA Corps/Ares/Cerebrotech Factory.md",
-    "AAA Corps/Ares/Ares-McAuliffe International School.md",
-    "AAA Corps/Ares/Ares Spire.md",
-    "AAA Corps/Ares/Ares Arms Factory.md",
-    "Locations/Front Range Free Zone.md",
-    "NPCs/Friendly/Denver/Nicholas Whitebird.md",
-    "NPCs/Friendly/Denver/Nicholas Whitebird 1.md",
-    "Locations/Caribbean League/Saint George Parish.md",
-    "Locations/Front Range Free Zone old.md",
     "Locations/Caribbean League",
-    "AA Corps/Litehouse Industries.md",
-    "Locations/Caribbean League/Roseau District.md",
-    "Players/Denver Prime/Cat.md",
-    "AA Corps/Litehouse Industries/1UP!.md",
-    "NPCs/Neutral/Denver/Carol 'Cat' Mctavish.md",
-    "NPCs/Neutral/Denver/Alexis Glimmerscale.md",
-    "AA Corps/Litehouse Industries/1UP!/The 1up - LoBo.md",
     "AAA Corps/Evo",
-    "A Corps/Safe Life Defense",
-    "AAA Corps/Wuxing",
-    "AAA Corps/Spinrad Global",
-    "Images/shadowrun characters/Pasted image 20230706163125.png",
-    "Images/shadowrun characters/Pasted image 20230706192420.png",
-    "Images/shadowrun characters/Pasted image 20230706192032.png",
-    "Images/shadowrun characters/Pasted image 20230706190942.png",
-    "Images/shadowrun characters/Pasted image 20230706183238.png",
-    "Images/shadowrun characters/Pasted image 20230701141836.png",
-    "Images/unused images/catrone3_female_elf_with_flowing_sulver_hair_equisite_jewelry_a_a2f7cec3-fb3a-410e-8adf-42bcb212ee60.png",
-    "Images/shadowrun characters/Pasted image 20230706161427.png",
     "Canvas.canvas",
     "Untitled.canvas"
   ]

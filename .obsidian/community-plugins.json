@@ -1,5 +1,4 @@
 [
-  "obsidian-admonition",
   "obsidian-mind-map",
   "obsidian-git",
   "table-editor-obsidian",
@@ -8,10 +7,7 @@
   "find-unlinked-files",
   "ai-commander",
   "cmdr",
-  "obsidian-5e-statblocks",
-  "fantasy-content-generator",
-  "obsidian-dice-roller",
-  "initiative-tracker",
   "obsidian-tabs",
-  "obsidian-regex-replace"
+  "obsidian-regex-replace",
+  "obsidian-pandoc"
 ]

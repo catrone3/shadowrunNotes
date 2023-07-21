@@ -7,6 +7,9 @@ Rating A area mostly. Law enforcement in these areas is basically a call-and-res
 
 ## Geographic Notes
 
+#### [[../../AAA Corps/Aztechnology/Aztechnology Research Facility|Aztechnology Research Facility]]
+Nestled within the vibrant streets of Little Havana, this Aztechnology Research Facility specializes in alchemical research, magical studies, and biotechnology advancements.
+
 #### Holiday Enchanted Forest
 
 What was once a seasonal Christmas themed amusement park has transformed into a sprawling amusement park with rides and entertainments themed with all holidays and events from many cultures. Ride the Arbor Day Splash! Fry bread is two for one on Green Corn Day! See the fabulous colors of Holi and get one random bag of color powder for free with entry!  

@@ -7,6 +7,9 @@ Security is rating AA. So many corporate buildings nestle closely here that AAA 
 
 ## Geographic Notes
 
+#### [[../../AAA Corps/Ares/Ares Tower|Ares Tower]]
+A towering corporate structure, Ares Tower serves as the regional headquarters for Ares Macrotechnology. It houses executive offices, research labs, and manufacturing facilities, showcasing Ares' dominance in the military and security industries.
+
 #### Bayfront Market
 
 The Bayside Marketplace is one of the few remaining holdings of the Gunderson corporation, the company that used to run Miami as a mob town. Everyone who does business here to the constant influx of tourists must pay high rates to the Gunderson corporation. Grifters and pickpockets mingle easily in the crowds.
