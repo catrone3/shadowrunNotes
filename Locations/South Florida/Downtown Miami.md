@@ -45,6 +45,9 @@ Originally housing for high-tech workers, this aging building still maintains th
   
 A typical megablock condominium with amenities on lower floors. Some resident essentially never leave.
 
+#### [[../../AAA Corps/Saeder-Krupp/Saeder-Krupp Heavy Industries Plant|Saeder-Krupp Heavy Industries Plant]]
+This massive industrial complex is operated by Saeder-Krupp, producing advanced machinery, vehicles, and military hardware.
+
 #### Saeder-Krupp Pace Towers
 
 Owned by Saeder-Krupp Heavy Industries the world's largest and most powerful megacorp, little is known about what business goes on in the immense tower built here. Despite its abstract design, people say its sweeping glass exterior resembles the folded wings of the Great Dragon Lofwyr looming over the city.

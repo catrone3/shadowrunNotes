@@ -20,6 +20,9 @@ Crowds are usually joyful, but occasional fights break out when when religious o
 
 With Cuba the dominant economy of the region, this Cuban majority community is a thriving business hub. Businesses here speak English, Spanish, Creole, Sperethiel, French, Portuguese, German, and Dutch, either through language training or linguasoft implants. Multilingual retail employees are always in high demand and can assist you via telepressence if a fluent speaker for your native language cannot be found on location.
 
+#### [[../../AAA Corps/Horizon/Horizon Dataplex|Horizon Dataplex]]
+Horizon Dataplex is a state-of-the-art data storage facility that houses sensitive corporate information and acts as a hub for matrix-related services.
+
 #### [[Mercy General Hospital]]
 
 Mercy General Hospital is a leading medical facility that provides comprehensive healthcare services to the community. They offer state-of-the-art medical equipment, advanced treatments, and a skilled medical staff. Mercy General Hospital is renowned for its quality patient care, specialized departments, and commitment to advancing medical knowledge and practices.
@@ -33,6 +36,9 @@ There is an inexplicable background count in this location that spikes high and 
 #### [[../../Corps (Local)/South Florida/Miami Dockyards|Miami Dockyards]]
 
 Miami Dockyards is a major shipbuilding and repair facility catering to various maritime needs. They specialize in constructing, repairing, and maintaining a wide range of vessels, from commercial ships to naval vessels. Miami Dockyards is known for its state-of-the-art facilities, skilled workforce, and adherence to rigorous quality standards in the maritime industry.
+
+#### [[../../AAA Corps/MCT/Mitsuhama Electronics Center|Mitsuhama Electronics Center]]
+Mitsuhama Electronics Center is a sprawling complex dedicated to the research and development of advanced electronics and consumer goods.
 
 #### [[The Royal Palm Hotel]]
 

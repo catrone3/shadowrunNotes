@@ -12271,6 +12271,10 @@
         "level": 4
       },
       {
+        "heading": "[[../../AAA Corps/Renraku/Renraku Innovation Hub|Renraku Innovation Hub]]",
+        "level": 4
+      },
+      {
         "heading": "Stuffer Shack Grande",
         "level": 4
       }
@@ -12279,6 +12283,10 @@
       {
         "link": "Horizon",
         "relativePath": "AAA Corps/Horizon.md"
+      },
+      {
+        "link": "Renraku Innovation Hub",
+        "relativePath": "AAA Corps/Renraku/Renraku Innovation Hub.md"
       },
       {
         "link": "Aztechnology",
@@ -13980,6 +13988,10 @@
         "level": 4
       },
       {
+        "heading": "[[../../AAA Corps/Saeder-Krupp/Saeder-Krupp Heavy Industries Plant|Saeder-Krupp Heavy Industries Plant]]",
+        "level": 4
+      },
+      {
         "heading": "Saeder-Krupp Pace Towers",
         "level": 4
       },
@@ -13996,6 +14008,10 @@
       {
         "link": "Ares Tower",
         "relativePath": "AAA Corps/Ares/Ares Tower.md"
+      },
+      {
+        "link": "Saeder-Krupp Heavy Industries Plant",
+        "relativePath": "AAA Corps/Saeder-Krupp/Saeder-Krupp Heavy Industries Plant.md"
       }
     ],
     "backlinks": [
@@ -14169,6 +14185,10 @@
         "level": 4
       },
       {
+        "heading": "[[../../AAA Corps/Horizon/Horizon Dataplex|Horizon Dataplex]]",
+        "level": 4
+      },
+      {
         "heading": "[[Mercy General Hospital]]",
         "level": 4
       },
@@ -14178,6 +14198,10 @@
       },
       {
         "heading": "[[../../Corps (Local)/South Florida/Miami Dockyards|Miami Dockyards]]",
+        "level": 4
+      },
+      {
+        "heading": "[[../../AAA Corps/MCT/Mitsuhama Electronics Center|Mitsuhama Electronics Center]]",
         "level": 4
       },
       {
@@ -14223,12 +14247,20 @@
         "relativePath": "AAA Corps/Aztechnology/Aztechnology Research Facility.md"
       },
       {
+        "link": "Horizon Dataplex",
+        "relativePath": "AAA Corps/Horizon/Horizon Dataplex.md"
+      },
+      {
         "link": "Mercy General Hospital",
         "relativePath": "Corps (Local)/South Florida/Mercy General Hospital.md"
       },
       {
         "link": "Miami Dockyards",
         "relativePath": "Corps (Local)/South Florida/Miami Dockyards.md"
+      },
+      {
+        "link": "Mitsuhama Electronics Center",
+        "relativePath": "AAA Corps/MCT/Mitsuhama Electronics Center.md"
       },
       {
         "link": "The Royal Palm Hotel",
@@ -34141,6 +34173,20 @@
     ]
   },
   {
+    "fileName": "Saeder-Krupp Heavy Industries Plant",
+    "relativePath": "AAA Corps/Saeder-Krupp/Saeder-Krupp Heavy Industries Plant.md",
+    "tags": [
+      "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Downtown Miami",
+        "link": "Saeder-Krupp Heavy Industries Plant",
+        "relativePath": "Locations/South Florida/Downtown Miami.md"
+      }
+    ]
+  },
+  {
     "fileName": "Awakened World Research Office",
     "relativePath": "AAA Corps/Saeder-Krupp/Awakened World Research Office.md",
     "tags": [
@@ -34186,6 +34232,20 @@
         "link": "SK-Athens",
         "relativePath": "AAA Corps/Saeder-Krupp.md",
         "displayText": "Athens"
+      }
+    ]
+  },
+  {
+    "fileName": "Renraku Innovation Hub",
+    "relativePath": "AAA Corps/Renraku/Renraku Innovation Hub.md",
+    "tags": [
+      "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Wyndwood",
+        "link": "Renraku Innovation Hub",
+        "relativePath": "Locations/South Florida/Wyndwood.md"
       }
     ]
   },
@@ -34576,6 +34636,20 @@
     ]
   },
   {
+    "fileName": "Mitsuhama Electronics Center",
+    "relativePath": "AAA Corps/MCT/Mitsuhama Electronics Center.md",
+    "tags": [
+      "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "City of Miami",
+        "link": "Mitsuhama Electronics Center",
+        "relativePath": "Locations/South Florida/City of Miami.md"
+      }
+    ]
+  },
+  {
     "fileName": "VOR Robotics Office",
     "relativePath": "AAA Corps/MCT/VOR Robotics Office.md",
     "tags": [
@@ -34801,6 +34875,20 @@
         "link": "Evo",
         "relativePath": "AAA Corps/Evo/Evo BioTech Resort.md",
         "displayText": "EVO"
+      }
+    ]
+  },
+  {
+    "fileName": "Horizon Dataplex",
+    "relativePath": "AAA Corps/Horizon/Horizon Dataplex.md",
+    "tags": [
+      "miami"
+    ],
+    "backlinks": [
+      {
+        "fileName": "City of Miami",
+        "link": "Horizon Dataplex",
+        "relativePath": "Locations/South Florida/City of Miami.md"
       }
     ]
   },

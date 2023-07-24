@@ -632,11 +632,6 @@
       "relativePath": "metadata.json"
     },
     {
-      "name": "logo.png",
-      "basename": "logo",
-      "relativePath": "logo.png"
-    },
-    {
       "name": "tags.json",
       "basename": "tags",
       "relativePath": "tags.json"
@@ -1590,6 +1585,11 @@
       "name": "Zoe.png",
       "basename": "Zoe",
       "relativePath": "Images/shadowrun characters/Zoe.png"
+    },
+    {
+      "name": "logo.svg",
+      "basename": "logo",
+      "relativePath": "logo.svg"
     }
   ]
 }

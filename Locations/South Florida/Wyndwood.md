@@ -30,6 +30,9 @@ Originally built as a temporary dock for relief work during the aftermath of the
 
 A veritable island of familiar franchise commercial serenity this is highest traffic part of Wynwood. Expect to be bombarded with advisement and people from all walks of life, locals and tourists alike. Violence is swiftly dealt with by Lone Star security, but as long as your ID passes a cursory inspection and you have money to spend, everyone is welcome. [[../../AAA Corps/Horizon|Horizon]] is the landlord for the entire mall.
 
+#### [[../../AAA Corps/Renraku/Renraku Innovation Hub|Renraku Innovation Hub]]
+Renraku Innovation Hub is a dynamic space that fosters creativity and technological breakthroughs, housing Renraku's brightest minds and cutting-edge projects.
+
 #### Stuffer Shack Grande
 
 The ubiquitous all-in-one convenience store chain (wholly owned by [[../../AAA Corps/Aztechnology|Aztechnology]]) has a vast old fashioned everything store in this location. Middle class commuters pour in from all directions, guided here by their autopiloted vehicles for the best deals on bulk commodities. The proliferation of autopiloting means that many shoppers only have a vague idea of where this store is, and would be repulsed to learn of its proximity to The Reef. More upscale customers have their supplies automatically delivered.

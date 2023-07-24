@@ -1,7 +1,7 @@
 [
   {
     "tag": "miami",
-    "tagCount": 305,
+    "tagCount": 309,
     "relativePaths": [
       "Players/South Florida Game.md",
       "NPCs/Unfriendly/South Florida/Viper.md",
@@ -290,6 +290,10 @@
       "Corps (Local)/South Florida/Blackfire Arms & Armory.md",
       "Corps (Local)/South Florida/Armadillo Armory.md",
       "Corps (Local)/South Florida/Arcane Emporium.md",
+      "AAA Corps/Saeder-Krupp/Saeder-Krupp Heavy Industries Plant.md",
+      "AAA Corps/Renraku/Renraku Innovation Hub.md",
+      "AAA Corps/MCT/Mitsuhama Electronics Center.md",
+      "AAA Corps/Horizon/Horizon Dataplex.md",
       "AAA Corps/Horizon/Horizon Express Delivery.md",
       "AAA Corps/Horizon/Horizon Aviation Maintenance.md",
       "AAA Corps/Evo/Evo BioTech Resort.md",
