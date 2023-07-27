@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "House Rules and Clarifications/Magic/Magic.md",
+                "file": "House Rules and Clarifications/Magic/Spellblades.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "House Rules and Clarifications/Magic/Magic.md",
+                "file": "House Rules and Clarifications/Magic/Spellblades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,8 +153,10 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "93b4ac43a7fa287d",
   "lastOpenFiles": [
+    "House Rules and Clarifications/Contacts.md",
+    "House Rules and Clarifications/Magic/Magic.md",
     "House Rules and Clarifications/Magic/Quickend Spells.md",
     "Players/Denver Prime/Cat.md",
     "AAA Corps/Ares.md",
@@ -179,8 +181,6 @@
     "AAA Corps/Ares/Lexington Apartments.md",
     "AAA Corps/Ares/Cerebrotech Factory.md",
     "AAA Corps/Ares/Ares-McAuliffe International School.md",
-    "AAA Corps/Ares/Ares Tower.md",
-    "AAA Corps/Ares/Ares Spire.md",
     "logo.svg",
     "logo.png",
     "logo.svg.opdownload",
