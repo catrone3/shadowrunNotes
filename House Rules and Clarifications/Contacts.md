@@ -10,7 +10,7 @@ F=force
 Prep base cost = 50P+200F
 Table below for modifiers per spell type
 
-| | Modifier |
+| Spell Type | Modifier |
 |--|--|
 | Combat | 1.5 |
 | Health | 0.5 |
