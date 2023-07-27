@@ -122,13 +122,18 @@ General Motors
 
 ### Other Subsidiaries
 
--   [Crystal Optics](https://ddneonoir.fandom.com/wiki/Crystal_Optics)
--   [Emerging Futures](https://shadowrun.fandom.com/wiki/Emerging_Futures "Emerging Futures") (sold to [Transys Neuronet](https://shadowrun.fandom.com/wiki/Transys_Neuronet "Transys Neuronet") in [2063](https://shadowrun.fandom.com/wiki/2063 "2063"))
--   Lifescape
--   Mercury Express (Delivery service) [8](https://shadowrun.fandom.com/wiki/Ares_Macrotechnology#cite_note-8)
--   Mostrans (Russian hovercraft manufacturer)
--   Quick Trigger Systems
--   Pratt & Whitney (Aircraft engines)
+- [Crystal Optics](https://ddneonoir.fandom.com/wiki/Crystal_Optics)
+- [Emerging Futures](https://shadowrun.fandom.com/wiki/Emerging_Futures "Emerging Futures") (sold to [Transys Neuronet](https://shadowrun.fandom.com/wiki/Transys_Neuronet "Transys Neuronet") in [2063](https://shadowrun.fandom.com/wiki/2063 "2063"))
+- Lifescape
+- Mercury Express (Delivery service) [8](https://shadowrun.fandom.com/wiki/Ares_Macrotechnology#cite_note-8)
+- Mostrans (Russian hovercraft manufacturer)
+- Quick Trigger Systems
+- Pratt & Whitney (Aircraft engines)
+- Fleche Armaments
+- Israel Military Industries
+- BacteriTech
+- Cerebrotech
+- 
 
 ## Assets
 AresSpace has launch facilities at Cape Canaveral in [Florida](https://shadowrun.fandom.com/wiki/Florida "Florida"), Edwards Base, China Lake Test Range, and Inyokern Test Range in [CFS](https://shadowrun.fandom.com/wiki/CFS "CFS"), Wallops Island in Virginia, [UCAS](https://shadowrun.fandom.com/wiki/UCAS "UCAS"), and the Alaskan Spaceport on Kodiak Island in the [Athabascan Council](https://shadowrun.fandom.com/wiki/Athabascan_Council "Athabascan Council"). Orbital facilities include [Apollo](https://shadowrun.fandom.com/wiki/Apollo "Apollo"), Icarus, [Daedalus](https://shadowrun.fandom.com/wiki/Daedalus "Daedalus"), Artemis, and [Helios](https://shadowrun.fandom.com/wiki/Helios "Helios").

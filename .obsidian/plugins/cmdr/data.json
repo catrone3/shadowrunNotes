@@ -11,7 +11,14 @@
       "mode": "any"
     }
   ],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-git:push",
+      "icon": "arrow-up-circle",
+      "name": "Obsidian Git: Create backup",
+      "mode": "any"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],

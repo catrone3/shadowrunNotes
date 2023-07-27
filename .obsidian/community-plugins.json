@@ -9,5 +9,9 @@
   "cmdr",
   "obsidian-tabs",
   "obsidian-regex-replace",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "templater-obsidian",
+  "markdown-table-editor",
+  "rpg-manager",
+  "multi-column-markdown"
 ]

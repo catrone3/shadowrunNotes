@@ -1,0 +1,2 @@
+#miami 
+Singularity Dataplex is a state-of-the-art data storage facility under the ownership of [[../Horizon|Horizon]] that houses sensitive corporate information and acts as a hub for matrix-related services.

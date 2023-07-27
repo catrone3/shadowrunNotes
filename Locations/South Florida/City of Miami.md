@@ -7,7 +7,7 @@ Rating A area mostly. Law enforcement in these areas is basically a call-and-res
 
 ## Geographic Notes
 
-#### [[../../AAA Corps/Aztechnology/Aztechnology Research Facility|Aztechnology Research Facility]]
+#### [[../../AAA Corps/Aztechnology/Pyramid Research Facility|Pyramid Research Facility]]
 Nestled within the vibrant streets of Little Havana, this Aztechnology Research Facility specializes in alchemical research, magical studies, and biotechnology advancements.
 
 #### Holiday Enchanted Forest
@@ -20,7 +20,7 @@ Crowds are usually joyful, but occasional fights break out when when religious o
 
 With Cuba the dominant economy of the region, this Cuban majority community is a thriving business hub. Businesses here speak English, Spanish, Creole, Sperethiel, French, Portuguese, German, and Dutch, either through language training or linguasoft implants. Multilingual retail employees are always in high demand and can assist you via telepressence if a fluent speaker for your native language cannot be found on location.
 
-#### [[../../AAA Corps/Horizon/Horizon Dataplex|Horizon Dataplex]]
+#### [[../../AAA Corps/Horizon/Singularity Dataplex|Singularity Dataplex]]
 Horizon Dataplex is a state-of-the-art data storage facility that houses sensitive corporate information and acts as a hub for matrix-related services.
 
 #### [[Mercy General Hospital]]

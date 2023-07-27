@@ -9,7 +9,7 @@ Security is rating AAA, representing the highest quality law enforcement and res
 
 ## Geographic Notes
 
-#### [[../../AAA Corps/Evo/Evo BioTech Resort|Evo BioTech Resort]]
+#### [[../../AAA Corps/Evo/Pensodyne BioTech Resort|Pensodyne BioTech Resort]]
 EVO BioTech Resort is an extravagant vacation destination owned by EVO Corporation. It offers guests access to cutting-edge biotechnological enhancements and rejuvenation treatments.
 #### Rennweg Shopping and Finance
 

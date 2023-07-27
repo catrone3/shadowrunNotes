@@ -45,7 +45,7 @@ Originally housing for high-tech workers, this aging building still maintains th
   
 A typical megablock condominium with amenities on lower floors. Some resident essentially never leave.
 
-#### [[../../AAA Corps/Saeder-Krupp/Saeder-Krupp Heavy Industries Plant|Saeder-Krupp Heavy Industries Plant]]
+#### [[../../AAA Corps/Saeder-Krupp/BaryTech Heavy Industries Plant|BaryTech Heavy Industries Plant]]
 This massive industrial complex is operated by Saeder-Krupp, producing advanced machinery, vehicles, and military hardware.
 
 #### Saeder-Krupp Pace Towers
