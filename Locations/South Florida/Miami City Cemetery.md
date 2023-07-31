@@ -7,7 +7,7 @@ This area is rating Z. Walls and other barriers keep the undesirables inside. La
 
 #### Temple Israel
 
-This Jewish temple was used as a clinic and refugee center during the recovery from the Meistersinger Massacre Season, but the temple was overrun by Shedim and efforts recover the location have failed.
+This Jewish temple was used as a clinic and refugee center during the recovery from the Meistersinger Massacre, but the temple was overrun by Shedim and efforts recover the location have failed.
 
 #### Tuttle Memorial
 

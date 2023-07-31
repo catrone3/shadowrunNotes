@@ -27,15 +27,6 @@
 -   **Food** - It's usually fish. If you don't like seafood you should avoid the entire region omae. Sure, it's not caught from the sea anymore, but it's still a big thing. This is where you can do some sorta legitimate work. There are aqua farms near Athens as well as dozens of so-called water purification plants. Most of these are covers or tax loopholes. The FRH can't afford to inspect each and every one of them--the truth is they can but their inspectors have inconvenient attachments to their lives or their loved ones which the corporations are all too willing to eliminate. Recently, they've just been bribing them so the inspectors nearly all work for the corps they're inspecting. That's where you come in. No, you don't blow up the damn fish and krill farms. You familiarize yourself with the environmental codes, or get a knowsoft, and you secretly gather information. Maybe record some frank discussions between employees, or secure some mail from management. This goes beyond the food industry, but it's the biggest concern. They pay well and may get you a contact inside the government for other work.
 
 ---
-```RpgManagerID
-### DO NOT EDIT MANUALLY IF NOT INSTRUCTED TO DO SO ###
-type: 128
-campaignSettings: 0
-id: "c9bf5057-0e68-4f5f-8572-c5608c51670c"
-campaignId: "4a176188-d5e4-489e-98c4-a3dc1820ce83"
-parentId: "4a176188-d5e4-489e-98c4-a3dc1820ce83"
-positionInParent: 0
-```
 
 ### Oligarch
 1.  [[../../../NPCs/Neutral/Athens/Andreas Kyriakopoulos|Andreas Kyriakopoulos]]

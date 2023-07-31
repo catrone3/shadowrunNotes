@@ -5,7 +5,7 @@ Population: 12,000
   
 Security is rating AAA, representing the highest quality law enforcement and response time money can buy.
 
-*This was originally going to be a floating city. However the Meistersinger Massacre beached the craft. The floats got buried in the ground and is more expensive to remove than just try again. So instead of letting it go to waste [[../../AAA Corps/Ares|Ares]] turned into a luxury get away and safe zone
+* This was originally going to be a floating city. However the Meistersinger Massacre beached the craft. The floats got buried in the ground and is more expensive to remove than just try again. So instead of letting it go to waste [[../../AAA Corps/Ares|Ares]] turned into a luxury get away and safe zone
 
 ## Geographic Notes
 

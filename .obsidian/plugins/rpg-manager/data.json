@@ -1,7 +1,7 @@
 {
   "automaticMove": true,
   "templateFolder": "",
-  "imagesFolder": "",
+  "imagesFolder": "Images",
   "YouTubeKey": "",
   "previousVersion": "3.4",
   "usePlotStructures": false,

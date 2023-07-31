@@ -91,12 +91,21 @@ The city of Miami, where Gunderson is headquartered, faces a surge in crime and 
 #### The Meistersinger Massacre
 After the fall of Gunderson, Miami became a warzone. This only lasted for a few years before order was returned but during that time the pirate Crimson Wave got into a huge fight with local gang the BioHawks. The battle should have been quick, but the BioHawks put up a good fight that ended up taking place mostly in the bay. This fighting got the attention of someone or something that got a pack of Meistersingers to come into the bay. This in of itself is something that never happens as it is just not deep enough for them to spend time there. When the Meistersingers showed up, the fighting angered them to where they then caused a tsunami to hit the fighters and as a byproduct most of Miami. The tsunami was upwards of 25 meters in height, destroyed much of the cities buildings as anything under 3 stories near the coast was washed away.  There were more than 10,000 people killed. This devastation led to the formation of a new South Florida government to take control of the situation and start to bring order back to the area.
 
+#### The Rise of Neo-Gangs
+In the wake of the Meistersinger Massacre and the ensuing power vacuum, several new and highly influential street gangs emerge, vying for control over the shattered remnants of Miami. These neo-gangs employ advanced technologies, magic, and cyberware, once again turning the city into a dangerous battleground of rival factions.
+
+#### The Corporate Exodus
+Faced with the devastation caused by the Meistersinger Massacre and ongoing instability, many major corporations begin to relocate their headquarters and operations out of Miami. This exodus leaves behind abandoned corporate facilities and abandoned districts, which become hotspots for criminal activities and shadow operations.
+
+#### South Florida's New Government
+In the aftermath of the Meistersinger Massacre, as Miami reeled from the devastation and chaos, a coalition of influential community leaders and corporate representatives came together to form the New South Florida Government. Their primary focus was to restore order and stability to the city. To combat the increase in gang violence, the government implemented a combination of increased law enforcement presence, community outreach programs, and the hiring of specialized shadowrunner teams to root out criminal elements. Additionally, the government devised a plan to attract smaller corporations with incentives and tax breaks, aiming to revitalize the economy and bring in fresh investments to get money flowing once again in the shattered city.
+
 #### The A-Corp Wars
 After the formation of the new South Florida Government, thousands of A level corps flood to the area. This was in part a way to help rebuild the region without the government spending money and also to help stabilize the regions crime and piracy. As it turns out, this did little for the second. If anything it made it worse, The crime just became much less public and handled by more and more runners. Piracy and smuggling also rose during this time. 
 
 
 #### Modern Miami
-Miami as a whole is ridden with crime, although you wouldn't know this as a tourist. Lone star does a 
+In modern Miami, the city's polished façade hides the seedy underbelly of crime and shadow operations, carefully shielded from the prying eyes of tourists. As Lonestar assumed control as the city's police force in 2066, they not only tightened security against major threats but also formed murky alliances with certain corporations, leading to allegations of corruption and abuse of power. The stark contrast between the high/luxury lifestyles of the fortified enclaves and the lawless zones has created a tense and unpredictable atmosphere, where shadowrunners operate discreetly amidst the ever-present shadows, navigating the precarious balance between the privileged elite and the struggling masses.
 
 
 ### Near by Locations

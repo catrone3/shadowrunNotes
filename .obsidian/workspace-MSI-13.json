@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Miami/rpgmanager/South Florida.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9302b2332608e07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Neutral/Denver/Carol 'Cat' Mctavish.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d69aae8e2cf45cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Info/Miami/Untitled.md",
+                "file": "New Orleans Game Notes/23-7-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Meistersinger",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Neutral/Denver/Carol 'Cat' Mctavish.md",
+                "file": "New Orleans Game Notes/23-7-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,42 +145,37 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "93b4ac43a7fa287d",
   "lastOpenFiles": [
-    "GM Info/Miami/rpgmanager/NonPlayerCharacters/Lady Isabella Nightshade.md",
-    "GM Info/Miami/rpgmanager/Clues/T99 Stolen Data.md",
-    "GM Info/Miami/rpgmanager/NonPlayerCharacters",
-    "GM Info/Miami/rpgmanager/Clues/Jobs.md",
-    "GM Info/Miami/rpgmanager/Adventures/The Shattered Veil Conspiracy.md",
-    "GM Info/Miami/rpgmanager/Clues",
-    "GM Info/Miami/rpgmanager/South Florida.md",
-    "GM Info/Miami/rpgmanager/Adventures",
-    "GM Info/Miami/The Shattered Veil Conspiracy.md",
-    "GM Info/Miami/rpgmanager/The Shattered Veil Conspiracy.md",
-    "GM Info/Miami/Campaign Subplot.md",
-    "GM Info/Miami/campaign set 2.md",
-    "GM Info/Miami/Joes character.md",
-    "GM Info/Miami/set 3.md",
-    "Locations/South Florida.md",
-    "GM Info/Miami/Untitled.md",
-    "GM Info/Miami/Chatgpt mega.md",
-    "GM Info/Miami/Temp document.md",
-    "Locations/South Florida/Palatine Bank.md",
-    "Locations/South Florida/Miami City Cemetery.md",
-    "Locations/South Florida/Normandy Ghost Town.md",
-    "GM Info/player call.md",
-    "House Rules and Clarifications/Qualities/True Name Calling.md",
-    "House Rules and Clarifications/Weapons/Missile types.md",
-    "House Rules and Clarifications/Combat.md",
-    "House Rules and Clarifications/Contacts.md",
-    "House Rules and Clarifications/Matrix Actions.md",
-    "House Rules and Clarifications/Ramming.md",
-    "New Orleans Game Notes/23-7-29.md",
-    "Images/Pasted image 20230729142528.png",
     "Images/Pasted image 20230729142107.png",
     "Images/Pasted image 20230729141105.png",
     "Images/Pasted image 20230729135559.png",
+    "New Orleans Game Notes/23-7-15.md",
+    "New Orleans Game Notes/23-7-29.md",
+    "Locations/Greece/Attica/Athens.md",
     "GM Info/Miami/rpgmanager",
+    "GM Info/When I start to quip with someone.md",
+    "House Rules and Clarifications/Contacts.md",
+    "House Rules and Clarifications/Magic/Spellblades.md",
+    "House Rules and Clarifications/Magic/Magic.md",
+    "House Rules and Clarifications/Magic/Quickend Spells.md",
+    "Players/Denver Prime/Cat.md",
+    "AAA Corps/Ares.md",
+    "AAA Corps/Horizon/Cunard Entertainment Arena.md",
+    "AAA Corps/Horizon.md",
+    "GM Info/Miami/Chatgpt mega.md",
+    "GM Info/Cat character sheet.md",
+    "GM Info/shadowrun json editor.md",
+    "AAA Corps/Saeder-Krupp/BaryTech Heavy Industries Plant.md",
+    "AAA Corps/Renraku/Renraku Innovation Hub.md",
+    "AAA Corps/Renraku/Karakuchi.md",
+    "AAA Corps/Renraku/Iris Firmware Office.md",
+    "AAA Corps/Renraku/HyperSense Headquarters.md",
+    "AAA Corps/Renraku/Architectural Dynamics Office.md",
+    "AAA Corps/MCT/VOR Robotics Office.md",
+    "AAA Corps/MCT/Mitsuhama Electronics Center.md",
+    "AAA Corps/Horizon/Singularity Dataplex.md",
+    "AAA Corps/Evo/Pensodyne BioTech Resort.md",
     "logo.svg",
     "logo.png",
     "logo.svg.opdownload",
@@ -215,12 +183,17 @@
     "Images/Pasted image 20230715171746.png",
     "Images/Pasted image 20230715140311.png",
     "Images/Pasted image 20230715163822.png",
+    "Images/Pasted image 20230715141508.png",
+    "Images/Pasted image 20230715141552.png",
     "New Orleans Game Notes/23-7-15.md~RF13550920.TMP",
     "Homepage.mediawiki",
     "GM Info/Miami/Chatgpt mega.mediawiki",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
     "publish.css",
     "theme.css",
+    "favicon.ico",
+    "favicon.ico.opdownload",
+    "Locations/Caribbean League",
     "Canvas.canvas",
     "Untitled.canvas"
   ]
