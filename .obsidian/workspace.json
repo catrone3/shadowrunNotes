@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Miami/rpgmanager/Scenes/Meeting Nightshade.md",
+                "file": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Info/Miami/rpgmanager/Scenes/Meeting Nightshade.md",
+                "file": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,9 +189,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "8e4f313852b4b0ca",
+            "type": "leaf",
+            "state": {
+              "type": "rpgm-creator-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -211,16 +219,19 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "59d1a3f87e83d69a",
   "lastOpenFiles": [
+    "Images/The Shattered Veil.png",
+    "Images/The Shattered Veil.png.opdownload",
+    "GM Info/Miami/rpgmanager/Adventures/The Shattered Veil Conspiracy.md",
+    "GM Info/Miami/rpgmanager/Clues/T99 Stolen Data.md",
+    "GM Info/Miami/rpgmanager/Subplots/The Kings Hand.md",
+    "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md",
+    "GM Info/Miami/rpgmanager/Scenes/Meeting Nightshade.md",
     "GM Info/Miami/rpgmanager/Scenes/Aegis Nexus lab.md",
     "GM Info/Miami/rpgmanager/Scenes/Obsidian Serpents Hideout.md",
-    "GM Info/Miami/rpgmanager/Scenes/Meeting Nightshade.md",
     "GM Info/Miami/rpgmanager/Scenes/Data diving.md",
     "GM Info/Miami/rpgmanager/Sessions/The Nightshade Conspiracy.md",
-    "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md",
-    "GM Info/Miami/rpgmanager/Adventures/The Shattered Veil Conspiracy.md",
-    "GM Info/Miami/rpgmanager/Subplots/The Hand of the King.md",
     "GM Info/Miami/Joes character.md",
     "GM Info/Miami/Campaign Subplot.md",
     "GM Info/Miami/rpgmanager/Locations/Aegis Nexus.md",
@@ -245,20 +256,17 @@
     "GM Info/Miami/rpgmanager/Sessions",
     "GM Info/Miami/rpgmanager/Locations",
     "GM Info/Miami/rpgmanager/Factions",
-    "GM Info/Miami/rpgmanager/Clues/T99 Stolen Data.md",
     "GM Info/Miami/Untitled.md",
     "NPCs/Neutral/Denver/Carol 'Cat' Mctavish.md",
     "GM Info/Miami/rpgmanager/NonPlayerCharacters",
     "GM Info/Miami/rpgmanager/Clues/Jobs.md",
     "GM Info/Miami/rpgmanager/Clues",
     "GM Info/Miami/rpgmanager/South Florida.md",
-    "GM Info/Miami/rpgmanager/Adventures",
     "GM Info/Miami/The Shattered Veil Conspiracy.md",
     "GM Info/Miami/rpgmanager/The Shattered Veil Conspiracy.md",
     "GM Info/Miami/campaign set 2.md",
     "GM Info/Miami/set 3.md",
     "Locations/South Florida.md",
-    "GM Info/Miami/Chatgpt mega.md",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
     "Canvas.canvas",
     "Untitled.canvas"

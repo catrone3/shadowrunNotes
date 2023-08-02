@@ -22475,8 +22475,8 @@
     ]
   },
   {
-    "fileName": "The Hand of the King",
-    "relativePath": "GM Info/Miami/rpgmanager/Subplots/The Hand of the King.md",
+    "fileName": "The Kings Hand",
+    "relativePath": "GM Info/Miami/rpgmanager/Subplots/The Kings Hand.md",
     "frontmatter": {
       "alias": [],
       "position": {
@@ -22528,6 +22528,11 @@
         "fileName": "Aegis Nexus lab",
         "link": "Aegis Nexus",
         "relativePath": "GM Info/Miami/rpgmanager/Scenes/Aegis Nexus lab.md"
+      },
+      {
+        "fileName": "The Shattered Veil",
+        "link": "Aegis Nexus",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
       }
     ]
   },
@@ -22564,6 +22569,11 @@
         "fileName": "Meeting Nightshade",
         "link": "Lady Isabella Nightshade",
         "relativePath": "GM Info/Miami/rpgmanager/Scenes/Meeting Nightshade.md"
+      },
+      {
+        "fileName": "The Shattered Veil",
+        "link": "Lady Isabella Nightshade",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
       }
     ]
   },
@@ -22765,6 +22775,11 @@
         "fileName": "Obsidian Serpents Hideout",
         "link": "Obsidian Serpents",
         "relativePath": "GM Info/Miami/rpgmanager/Scenes/Obsidian Serpents Hideout.md"
+      },
+      {
+        "fileName": "The Shattered Veil",
+        "link": "Obsidian Serpents",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
       }
     ]
   },
@@ -22847,6 +22862,11 @@
         "fileName": "Obsidian Serpents Hideout",
         "link": "T99 Stolen Data",
         "relativePath": "GM Info/Miami/rpgmanager/Scenes/Obsidian Serpents Hideout.md"
+      },
+      {
+        "fileName": "The Shattered Veil",
+        "link": "T99 Stolen Data",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
       }
     ]
   },
@@ -22879,6 +22899,11 @@
         "fileName": "Meeting Nightshade",
         "link": "Jobs",
         "relativePath": "GM Info/Miami/rpgmanager/Scenes/Meeting Nightshade.md"
+      },
+      {
+        "fileName": "The Shattered Veil",
+        "link": "Jobs",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
       }
     ]
   },
@@ -22911,16 +22936,68 @@
         "fileName": "Aegis Nexus lab",
         "link": "Aegis Logs",
         "relativePath": "GM Info/Miami/rpgmanager/Scenes/Aegis Nexus lab.md"
+      },
+      {
+        "fileName": "The Shattered Veil",
+        "link": "Aegis Logs",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
       }
     ]
   },
   {
     "fileName": "The Shattered Veil",
     "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
     "headings": [
       {
         "heading": "Act Notes",
         "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Obsidian Serpents",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Factions/Obsidian Serpents.md"
+      },
+      {
+        "link": "T99 Stolen Data",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/T99 Stolen Data.md"
+      },
+      {
+        "link": "Lady Isabella Nightshade",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Lady Isabella Nightshade.md"
+      },
+      {
+        "link": "Jobs",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Jobs.md"
+      },
+      {
+        "link": "Aegis Nexus",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Locations/Aegis Nexus.md"
+      },
+      {
+        "link": "Aegis Logs",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Aegis Logs.md"
       }
     ]
   },
