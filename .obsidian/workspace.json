@@ -39,7 +39,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Miami/Untitled.md",
+                "file": "GM Info/Miami/rpgmanager/Scenes/Aegis Nexus lab.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edfae8d2545f830f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32dd9f09caf1d49e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Info/Miami/rpgmanager/Scenes/Obsidian Serpents Hideout.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59d1a3f87e83d69a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Info/Miami/rpgmanager/Scenes/Meeting Nightshade.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -113,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Neutral/Denver/Carol 'Cat' Mctavish.md",
+                "file": "GM Info/Miami/rpgmanager/Scenes/Meeting Nightshade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,53 +213,53 @@
   },
   "active": "17c028d156c8c8c7",
   "lastOpenFiles": [
+    "GM Info/Miami/rpgmanager/Scenes/Aegis Nexus lab.md",
+    "GM Info/Miami/rpgmanager/Scenes/Obsidian Serpents Hideout.md",
+    "GM Info/Miami/rpgmanager/Scenes/Meeting Nightshade.md",
+    "GM Info/Miami/rpgmanager/Scenes/Data diving.md",
+    "GM Info/Miami/rpgmanager/Sessions/The Nightshade Conspiracy.md",
+    "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md",
+    "GM Info/Miami/rpgmanager/Adventures/The Shattered Veil Conspiracy.md",
+    "GM Info/Miami/rpgmanager/Subplots/The Hand of the King.md",
+    "GM Info/Miami/Joes character.md",
+    "GM Info/Miami/Campaign Subplot.md",
+    "GM Info/Miami/rpgmanager/Locations/Aegis Nexus.md",
+    "GM Info/Miami/rpgmanager/Clues/Aegis Logs.md",
+    "GM Info/Miami/rpgmanager/Subplots",
+    "GM Info/Miami/rpgmanager/Events/Game start.md",
+    "GM Info/Miami/rpgmanager/Events",
     "GM Info/Miami/rpgmanager/NonPlayerCharacters/Lady Isabella Nightshade.md",
+    "Images/shadowrun characters/Lady Isabella Nightshade.png",
+    "Images/shadowrun characters/Pasted image 20230715140311.png",
+    "Images/shadowrun characters/Pasted image 20230715141508.png",
+    "Images/shadowrun characters/Pasted image 20230729142528.png",
+    "Images/shadowrun characters/Pasted image 20230729142107.png",
+    "Images/shadowrun characters/Pasted image 20230729135559.png",
+    "Images/shadowrun characters/Pasted image 20230715183808.png",
+    "Images/shadowrun characters/Pasted image 20230715171808.png",
+    "Images/shadowrun characters/Pasted image 20230715171746.png",
+    "Images/attachments/Pasted image 20230715141552.png",
+    "GM Info/Miami/rpgmanager/Scenes",
+    "GM Info/Miami/rpgmanager/Acts",
+    "GM Info/Miami/rpgmanager/Factions/Obsidian Serpents.md",
+    "GM Info/Miami/rpgmanager/Sessions",
+    "GM Info/Miami/rpgmanager/Locations",
+    "GM Info/Miami/rpgmanager/Factions",
     "GM Info/Miami/rpgmanager/Clues/T99 Stolen Data.md",
+    "GM Info/Miami/Untitled.md",
+    "NPCs/Neutral/Denver/Carol 'Cat' Mctavish.md",
     "GM Info/Miami/rpgmanager/NonPlayerCharacters",
     "GM Info/Miami/rpgmanager/Clues/Jobs.md",
-    "GM Info/Miami/rpgmanager/Adventures/The Shattered Veil Conspiracy.md",
     "GM Info/Miami/rpgmanager/Clues",
     "GM Info/Miami/rpgmanager/South Florida.md",
     "GM Info/Miami/rpgmanager/Adventures",
     "GM Info/Miami/The Shattered Veil Conspiracy.md",
     "GM Info/Miami/rpgmanager/The Shattered Veil Conspiracy.md",
-    "GM Info/Miami/Campaign Subplot.md",
     "GM Info/Miami/campaign set 2.md",
-    "GM Info/Miami/Joes character.md",
     "GM Info/Miami/set 3.md",
     "Locations/South Florida.md",
-    "GM Info/Miami/Untitled.md",
     "GM Info/Miami/Chatgpt mega.md",
-    "GM Info/Miami/Temp document.md",
-    "Locations/South Florida/Palatine Bank.md",
-    "Locations/South Florida/Miami City Cemetery.md",
-    "Locations/South Florida/Normandy Ghost Town.md",
-    "GM Info/player call.md",
-    "House Rules and Clarifications/Qualities/True Name Calling.md",
-    "House Rules and Clarifications/Weapons/Missile types.md",
-    "House Rules and Clarifications/Combat.md",
-    "House Rules and Clarifications/Contacts.md",
-    "House Rules and Clarifications/Matrix Actions.md",
-    "House Rules and Clarifications/Ramming.md",
-    "New Orleans Game Notes/23-7-29.md",
-    "Images/Pasted image 20230729142528.png",
-    "Images/Pasted image 20230729142107.png",
-    "Images/Pasted image 20230729141105.png",
-    "Images/Pasted image 20230729135559.png",
-    "GM Info/Miami/rpgmanager",
-    "logo.svg",
-    "logo.png",
-    "logo.svg.opdownload",
-    "Images/Pasted image 20230715171808.png",
-    "Images/Pasted image 20230715171746.png",
-    "Images/Pasted image 20230715140311.png",
-    "Images/Pasted image 20230715163822.png",
-    "New Orleans Game Notes/23-7-15.md~RF13550920.TMP",
-    "Homepage.mediawiki",
-    "GM Info/Miami/Chatgpt mega.mediawiki",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
-    "publish.css",
-    "theme.css",
     "Canvas.canvas",
     "Untitled.canvas"
   ]
