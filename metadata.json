@@ -5080,6 +5080,12 @@
         "fileName": "South Florida Game",
         "link": "Ricardo (Don Santos) Santos",
         "relativePath": "Players/South Florida Game.md"
+      },
+      {
+        "fileName": "The Santos Mafia Family",
+        "link": "Ricardo (Don Santos) Santos",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/The Santos Mafia Family.md",
+        "displayText": "Don Ricardo Santos"
       }
     ]
   },
@@ -8922,6 +8928,13 @@
       {
         "link": "Mystique Emporium",
         "relativePath": "Corps (Local)/South Florida/Mystique Emporium.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Off to Neverland",
+        "link": "Madame Seraphina",
+        "relativePath": "GM Info/Miami/rpgmanager/Scenes/Off to Neverland.md"
       }
     ]
   },
@@ -13704,6 +13717,11 @@
         "fileName": "South Florida",
         "link": "Hollywood",
         "relativePath": "Locations/South Florida.md"
+      },
+      {
+        "fileName": "Lunar Serpents",
+        "link": "Hollywood",
+        "relativePath": "Factions/Southern Florida/Crime Orgs/Lunar Serpents.md"
       }
     ]
   },
@@ -22450,6 +22468,55 @@
     ]
   },
   {
+    "fileName": "Players",
+    "relativePath": "GM Info/Miami/rpgmanager/Characters/Players.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Player Character Notes",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "The Kings Hand",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/The Kings Hand.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Lady Isabella Nightshade",
+        "link": "Players",
+        "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Lady Isabella Nightshade.md"
+      },
+      {
+        "fileName": "Never be the hunted",
+        "link": "Players",
+        "relativePath": "GM Info/Miami/rpgmanager/Sessions/Never be the hunted.md"
+      },
+      {
+        "fileName": "Never be the hunted",
+        "link": "Players",
+        "relativePath": "GM Info/Miami/rpgmanager/Sessions/Never be the hunted.md"
+      }
+    ]
+  },
+  {
     "fileName": "South Florida",
     "relativePath": "GM Info/Miami/rpgmanager/South Florida.md",
     "frontmatter": {
@@ -22500,6 +22567,105 @@
     ]
   },
   {
+    "fileName": "Mystique Emporium",
+    "relativePath": "GM Info/Miami/rpgmanager/Locations/Mystique Emporium.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Location Details",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Library of Alexandria",
+    "relativePath": "GM Info/Miami/rpgmanager/Locations/Library of Alexandria.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Location Details",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Private warehouse",
+    "relativePath": "GM Info/Miami/rpgmanager/Locations/Private warehouse.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Location Details",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Mysterious Donor",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Mysterious Donor.md"
+      },
+      {
+        "link": "Veil Shatterer",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Veil Shatterer.md"
+      },
+      {
+        "link": "Aegis Donation records",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Aegis Donation records.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Time to recover the Veil",
+        "link": "Private warehouse",
+        "relativePath": "GM Info/Miami/rpgmanager/Scenes/Time to recover the Veil.md"
+      }
+    ]
+  },
+  {
     "fileName": "Aegis Nexus",
     "relativePath": "GM Info/Miami/rpgmanager/Locations/Aegis Nexus.md",
     "frontmatter": {
@@ -22523,7 +22689,44 @@
         "level": 3
       }
     ],
+    "links": [
+      {
+        "link": "Aegis Donation records",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Aegis Donation records.md"
+      },
+      {
+        "link": "Aegis Stolen Data",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Aegis Stolen Data.md"
+      },
+      {
+        "link": "The Kings Hand Research",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/The Kings Hand Research.md"
+      },
+      {
+        "link": "Veil Shatterer",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Veil Shatterer.md"
+      },
+      {
+        "link": "Aegis Logs",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Aegis Logs.md"
+      }
+    ],
     "backlinks": [
+      {
+        "fileName": "Mysterious Donor",
+        "link": "Aegis Nexus",
+        "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Mysterious Donor.md"
+      },
+      {
+        "fileName": "Lady Isabella Nightshade",
+        "link": "Aegis Nexus",
+        "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Lady Isabella Nightshade.md"
+      },
       {
         "fileName": "Aegis Nexus lab",
         "link": "Aegis Nexus",
@@ -22533,6 +22736,105 @@
         "fileName": "The Shattered Veil",
         "link": "Aegis Nexus",
         "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Madame Seraphina",
+    "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Madame Seraphina.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Non Player Character Notes",
+        "level": 3
+      },
+      {
+        "heading": "Non Player Character Story",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Mystique Emporium",
+        "displayText": "",
+        "relativePath": "Corps (Local)/South Florida/Mystique Emporium.md"
+      },
+      {
+        "link": "Lady Isabella Nightshade",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Lady Isabella Nightshade.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Mysterious Donor",
+    "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Mysterious Donor.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Non Player Character Notes",
+        "level": 3
+      },
+      {
+        "heading": "Non Player Character Story",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Obsidian Serpents",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Factions/Obsidian Serpents.md"
+      },
+      {
+        "link": "Aegis Nexus",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Locations/Aegis Nexus.md"
+      },
+      {
+        "link": "Veil Shatterer",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Veil Shatterer.md"
+      },
+      {
+        "link": "Aegis Stolen Data",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Aegis Stolen Data.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Private warehouse",
+        "link": "Mysterious Donor",
+        "relativePath": "GM Info/Miami/rpgmanager/Locations/Private warehouse.md"
       }
     ]
   },
@@ -22564,7 +22866,29 @@
         "level": 3
       }
     ],
+    "links": [
+      {
+        "link": "Players",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Characters/Players.md"
+      },
+      {
+        "link": "Aegis Nexus",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Locations/Aegis Nexus.md"
+      }
+    ],
     "backlinks": [
+      {
+        "fileName": "Madame Seraphina",
+        "link": "Lady Isabella Nightshade",
+        "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Madame Seraphina.md"
+      },
+      {
+        "fileName": "Sometimes Jobs come in pairs",
+        "link": "Lady Isabella Nightshade",
+        "relativePath": "GM Info/Miami/rpgmanager/Scenes/Sometimes Jobs come in pairs.md"
+      },
       {
         "fileName": "Meeting Nightshade",
         "link": "Lady Isabella Nightshade",
@@ -22574,6 +22898,252 @@
         "fileName": "The Shattered Veil",
         "link": "Lady Isabella Nightshade",
         "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Book Reading Time",
+    "relativePath": "GM Info/Miami/rpgmanager/Scenes/Book Reading Time.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Scene Notes",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Off to Neverland",
+    "relativePath": "GM Info/Miami/rpgmanager/Scenes/Off to Neverland.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Scene Notes",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Mystique Emporium",
+        "displayText": "",
+        "relativePath": "Corps (Local)/South Florida/Mystique Emporium.md"
+      },
+      {
+        "link": "Madame Seraphina",
+        "displayText": "",
+        "relativePath": "NPCs/Friendly/South Florida/Madame Seraphina.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Another Ask",
+    "relativePath": "GM Info/Miami/rpgmanager/Scenes/Another Ask.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Scene Notes",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Hurry up and Wait",
+    "relativePath": "GM Info/Miami/rpgmanager/Scenes/Hurry up and Wait.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Scene Notes",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Calling Lady Nightshade",
+    "relativePath": "GM Info/Miami/rpgmanager/Scenes/Calling Lady Nightshade.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Scene Notes",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Time to recover the Veil",
+    "relativePath": "GM Info/Miami/rpgmanager/Scenes/Time to recover the Veil.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Scene Notes",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Private warehouse",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Locations/Private warehouse.md"
+      },
+      {
+        "link": "Veil Shatterer",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Veil Shatterer.md"
+      },
+      {
+        "link": "Lunar Serpents",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Factions/Lunar Serpents.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Back to Aegis Nexus",
+    "relativePath": "GM Info/Miami/rpgmanager/Scenes/Back to Aegis Nexus.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Scene Notes",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Sometimes Jobs come in pairs",
+    "relativePath": "GM Info/Miami/rpgmanager/Scenes/Sometimes Jobs come in pairs.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Scene Notes",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Lady Isabella Nightshade",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Lady Isabella Nightshade.md"
+      },
+      {
+        "link": "Aegis Stolen Data",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Aegis Stolen Data.md"
+      },
+      {
+        "link": "Jobs",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Jobs.md"
       }
     ]
   },
@@ -22606,11 +23176,6 @@
         "link": "Obsidian Serpents",
         "displayText": "",
         "relativePath": "GM Info/Miami/rpgmanager/Factions/Obsidian Serpents.md"
-      },
-      {
-        "link": "T99 Stolen Data",
-        "displayText": "",
-        "relativePath": "GM Info/Miami/rpgmanager/Clues/T99 Stolen Data.md"
       }
     ]
   },
@@ -22714,6 +23279,49 @@
     ]
   },
   {
+    "fileName": "Never be the hunted",
+    "relativePath": "GM Info/Miami/rpgmanager/Sessions/Never be the hunted.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Session Model Notes",
+        "level": 3
+      },
+      {
+        "heading": "Storyteller Diary",
+        "level": 3
+      },
+      {
+        "heading": "End of SessionModel Feedbacks",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Players",
+        "relativePath": "GM Info/Miami/rpgmanager/Characters/Players.md"
+      },
+      {
+        "link": "Players",
+        "relativePath": "GM Info/Miami/rpgmanager/Characters/Players.md"
+      }
+    ]
+  },
+  {
     "fileName": "The Nightshade Conspiracy",
     "relativePath": "GM Info/Miami/rpgmanager/Sessions/The Nightshade Conspiracy.md",
     "frontmatter": {
@@ -22747,6 +23355,63 @@
     ]
   },
   {
+    "fileName": "Lunar Serpents",
+    "relativePath": "GM Info/Miami/rpgmanager/Factions/Lunar Serpents.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Faction Details",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Time to recover the Veil",
+        "link": "Lunar Serpents",
+        "relativePath": "GM Info/Miami/rpgmanager/Scenes/Time to recover the Veil.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Veilkeepers",
+    "relativePath": "GM Info/Miami/rpgmanager/Factions/The Veilkeepers.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Faction Details",
+        "level": 3
+      }
+    ]
+  },
+  {
     "fileName": "Obsidian Serpents",
     "relativePath": "GM Info/Miami/rpgmanager/Factions/Obsidian Serpents.md",
     "frontmatter": {
@@ -22770,7 +23435,19 @@
         "level": 3
       }
     ],
+    "links": [
+      {
+        "link": "Aegis Stolen Data",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Aegis Stolen Data.md"
+      }
+    ],
     "backlinks": [
+      {
+        "fileName": "Mysterious Donor",
+        "link": "Obsidian Serpents",
+        "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Mysterious Donor.md"
+      },
       {
         "fileName": "Obsidian Serpents Hideout",
         "link": "Obsidian Serpents",
@@ -22834,8 +23511,33 @@
     ]
   },
   {
-    "fileName": "T99 Stolen Data",
-    "relativePath": "GM Info/Miami/rpgmanager/Clues/T99 Stolen Data.md",
+    "fileName": "The History of Veil Shatterer",
+    "relativePath": "GM Info/Miami/rpgmanager/Clues/The History of Veil Shatterer.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Clue Details",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Aegis Donation records",
+    "relativePath": "GM Info/Miami/rpgmanager/Clues/Aegis Donation records.md",
     "frontmatter": {
       "alias": [],
       "position": {
@@ -22859,14 +23561,190 @@
     ],
     "backlinks": [
       {
-        "fileName": "Obsidian Serpents Hideout",
-        "link": "T99 Stolen Data",
-        "relativePath": "GM Info/Miami/rpgmanager/Scenes/Obsidian Serpents Hideout.md"
+        "fileName": "Private warehouse",
+        "link": "Aegis Donation records",
+        "relativePath": "GM Info/Miami/rpgmanager/Locations/Private warehouse.md"
+      },
+      {
+        "fileName": "Aegis Nexus",
+        "link": "Aegis Donation records",
+        "relativePath": "GM Info/Miami/rpgmanager/Locations/Aegis Nexus.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Kings Hand Research",
+    "relativePath": "GM Info/Miami/rpgmanager/Clues/The Kings Hand Research.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Clue Details",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Aegis Nexus",
+        "link": "The Kings Hand Research",
+        "relativePath": "GM Info/Miami/rpgmanager/Locations/Aegis Nexus.md"
+      },
+      {
+        "fileName": "The Kings Hand",
+        "link": "The Kings Hand Research",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/The Kings Hand.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Kings Hand",
+    "relativePath": "GM Info/Miami/rpgmanager/Clues/The Kings Hand.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Clue Details",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "The Kings Hand Research",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/The Kings Hand Research.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Players",
+        "link": "The Kings Hand",
+        "relativePath": "GM Info/Miami/rpgmanager/Characters/Players.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Veil Shatterer",
+    "relativePath": "GM Info/Miami/rpgmanager/Clues/Veil Shatterer.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Clue Details",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Private warehouse",
+        "link": "Veil Shatterer",
+        "relativePath": "GM Info/Miami/rpgmanager/Locations/Private warehouse.md"
+      },
+      {
+        "fileName": "Aegis Nexus",
+        "link": "Veil Shatterer",
+        "relativePath": "GM Info/Miami/rpgmanager/Locations/Aegis Nexus.md"
+      },
+      {
+        "fileName": "Mysterious Donor",
+        "link": "Veil Shatterer",
+        "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Mysterious Donor.md"
+      },
+      {
+        "fileName": "Time to recover the Veil",
+        "link": "Veil Shatterer",
+        "relativePath": "GM Info/Miami/rpgmanager/Scenes/Time to recover the Veil.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Aegis Stolen Data",
+    "relativePath": "GM Info/Miami/rpgmanager/Clues/Aegis Stolen Data.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Clue Details",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Aegis Nexus",
+        "link": "Aegis Stolen Data",
+        "relativePath": "GM Info/Miami/rpgmanager/Locations/Aegis Nexus.md"
+      },
+      {
+        "fileName": "Mysterious Donor",
+        "link": "Aegis Stolen Data",
+        "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Mysterious Donor.md"
+      },
+      {
+        "fileName": "Sometimes Jobs come in pairs",
+        "link": "Aegis Stolen Data",
+        "relativePath": "GM Info/Miami/rpgmanager/Scenes/Sometimes Jobs come in pairs.md"
+      },
+      {
+        "fileName": "Obsidian Serpents",
+        "link": "Aegis Stolen Data",
+        "relativePath": "GM Info/Miami/rpgmanager/Factions/Obsidian Serpents.md"
       },
       {
         "fileName": "The Shattered Veil",
-        "link": "T99 Stolen Data",
-        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
+        "link": "Aegis Stolen Data",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md",
+        "displayText": "../Clues/Aegis Stolen Data"
       }
     ]
   },
@@ -22895,6 +23773,11 @@
       }
     ],
     "backlinks": [
+      {
+        "fileName": "Sometimes Jobs come in pairs",
+        "link": "Jobs",
+        "relativePath": "GM Info/Miami/rpgmanager/Scenes/Sometimes Jobs come in pairs.md"
+      },
       {
         "fileName": "Meeting Nightshade",
         "link": "Jobs",
@@ -22932,6 +23815,11 @@
       }
     ],
     "backlinks": [
+      {
+        "fileName": "Aegis Nexus",
+        "link": "Aegis Logs",
+        "relativePath": "GM Info/Miami/rpgmanager/Locations/Aegis Nexus.md"
+      },
       {
         "fileName": "Aegis Nexus lab",
         "link": "Aegis Logs",
@@ -22975,11 +23863,6 @@
         "relativePath": "GM Info/Miami/rpgmanager/Factions/Obsidian Serpents.md"
       },
       {
-        "link": "T99 Stolen Data",
-        "displayText": "",
-        "relativePath": "GM Info/Miami/rpgmanager/Clues/T99 Stolen Data.md"
-      },
-      {
         "link": "Lady Isabella Nightshade",
         "displayText": "",
         "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Lady Isabella Nightshade.md"
@@ -22998,6 +23881,11 @@
         "link": "Aegis Logs",
         "displayText": "",
         "relativePath": "GM Info/Miami/rpgmanager/Clues/Aegis Logs.md"
+      },
+      {
+        "link": "Aegis Stolen Data",
+        "displayText": "../Clues/Aegis Stolen Data",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Aegis Stolen Data.md"
       }
     ]
   },
@@ -23228,6 +24116,25 @@
     ]
   },
   {
+    "fileName": "Lunar Serpents",
+    "relativePath": "Factions/Southern Florida/Crime Orgs/Lunar Serpents.md",
+    "tags": [
+      "miami"
+    ],
+    "headings": [
+      {
+        "heading": "Locations",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Hollywood",
+        "relativePath": "Locations/South Florida/Hollywood.md"
+      }
+    ]
+  },
+  {
     "fileName": "War Pigs Bike Gang",
     "relativePath": "Factions/Southern Florida/Crime Orgs/War Pigs Bike Gang.md",
     "tags": [
@@ -23332,6 +24239,11 @@
       "miami"
     ],
     "links": [
+      {
+        "link": "Ricardo (Don Santos) Santos",
+        "displayText": "Don Ricardo Santos",
+        "relativePath": "NPCs/Neutral/South Florida/Ricardo (Don Santos) Santos.md"
+      },
       {
         "link": "Fort Lauderdale",
         "relativePath": "Locations/South Florida/Fort Lauderdale.md"
@@ -26592,6 +27504,16 @@
         "fileName": "Boca Raton",
         "link": "Mystique Emporium",
         "relativePath": "Locations/South Florida/Boca Raton.md"
+      },
+      {
+        "fileName": "Madame Seraphina",
+        "link": "Mystique Emporium",
+        "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Madame Seraphina.md"
+      },
+      {
+        "fileName": "Off to Neverland",
+        "link": "Mystique Emporium",
+        "relativePath": "GM Info/Miami/rpgmanager/Scenes/Off to Neverland.md"
       }
     ]
   },

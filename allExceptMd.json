@@ -647,6 +647,10 @@
     {
       "name": "8th Circle",
       "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer/8th Circle"
+    },
+    {
+      "name": "Characters",
+      "relativePath": "GM Info/Miami/rpgmanager/Characters"
     }
   ],
   "nonMdFiles": [
@@ -1664,6 +1668,11 @@
       "name": "The Shattered Veil.png",
       "basename": "The Shattered Veil",
       "relativePath": "Images/The Shattered Veil.png"
+    },
+    {
+      "name": "Veil Shatterer campaign actions.canvas",
+      "basename": "Veil Shatterer campaign actions",
+      "relativePath": "GM Info/Miami/Veil Shatterer campaign actions.canvas"
     }
   ]
 }
