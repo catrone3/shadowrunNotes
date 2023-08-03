@@ -41,6 +41,17 @@
     ]
   },
   {
+    "fileName": "Mako",
+    "relativePath": "Players/South Florida/Mako.md",
+    "backlinks": [
+      {
+        "fileName": "South Florida Game",
+        "link": "Mako",
+        "relativePath": "Players/South Florida Game.md"
+      }
+    ]
+  },
+  {
     "fileName": "South Florida Game",
     "relativePath": "Players/South Florida Game.md",
     "tags": [
@@ -64,6 +75,10 @@
       {
         "link": "South Florida",
         "relativePath": "Locations/South Florida.md"
+      },
+      {
+        "link": "Mako",
+        "relativePath": "Players/South Florida/Mako.md"
       },
       {
         "link": "Agent Rebecca Sullivan",
@@ -8935,6 +8950,11 @@
         "fileName": "Off to Neverland",
         "link": "Madame Seraphina",
         "relativePath": "GM Info/Miami/rpgmanager/Scenes/Off to Neverland.md"
+      },
+      {
+        "fileName": "The Shattered Veil",
+        "link": "Madame Seraphina",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
       }
     ]
   },
@@ -22614,6 +22634,13 @@
         "heading": "Location Details",
         "level": 3
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "The Shattered Veil",
+        "link": "Library of Alexandria",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
+      }
     ]
   },
   {
@@ -22662,6 +22689,11 @@
         "fileName": "Time to recover the Veil",
         "link": "Private warehouse",
         "relativePath": "GM Info/Miami/rpgmanager/Scenes/Time to recover the Veil.md"
+      },
+      {
+        "fileName": "The Shattered Veil",
+        "link": "Private warehouse",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
       }
     ]
   },
@@ -22828,6 +22860,11 @@
         "link": "Aegis Stolen Data",
         "displayText": "",
         "relativePath": "GM Info/Miami/rpgmanager/Clues/Aegis Stolen Data.md"
+      },
+      {
+        "link": "Obsidian Serpents",
+        "displayText": "../Factions/Obsidian Serpents",
+        "relativePath": "GM Info/Miami/rpgmanager/Factions/Obsidian Serpents.md"
       }
     ],
     "backlinks": [
@@ -23176,6 +23213,11 @@
         "link": "Obsidian Serpents",
         "displayText": "",
         "relativePath": "GM Info/Miami/rpgmanager/Factions/Obsidian Serpents.md"
+      },
+      {
+        "link": "Obsidian Serpents",
+        "displayText": "../Factions/Obsidian Serpents",
+        "relativePath": "GM Info/Miami/rpgmanager/Factions/Obsidian Serpents.md"
       }
     ]
   },
@@ -23383,6 +23425,11 @@
         "fileName": "Time to recover the Veil",
         "link": "Lunar Serpents",
         "relativePath": "GM Info/Miami/rpgmanager/Scenes/Time to recover the Veil.md"
+      },
+      {
+        "fileName": "The Shattered Veil",
+        "link": "Lunar Serpents",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
       }
     ]
   },
@@ -23449,14 +23496,57 @@
         "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Mysterious Donor.md"
       },
       {
+        "fileName": "Mysterious Donor",
+        "link": "Obsidian Serpents",
+        "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Mysterious Donor.md",
+        "displayText": "../Factions/Obsidian Serpents"
+      },
+      {
         "fileName": "Obsidian Serpents Hideout",
         "link": "Obsidian Serpents",
         "relativePath": "GM Info/Miami/rpgmanager/Scenes/Obsidian Serpents Hideout.md"
       },
       {
+        "fileName": "Obsidian Serpents Hideout",
+        "link": "Obsidian Serpents",
+        "relativePath": "GM Info/Miami/rpgmanager/Scenes/Obsidian Serpents Hideout.md",
+        "displayText": "../Factions/Obsidian Serpents"
+      },
+      {
         "fileName": "The Shattered Veil",
         "link": "Obsidian Serpents",
         "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
+      },
+      {
+        "fileName": "The Shattered Veil",
+        "link": "Obsidian Serpents",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md",
+        "displayText": "../Factions/Obsidian Serpents"
+      }
+    ]
+  },
+  {
+    "fileName": "Looking into the Kings Hand",
+    "relativePath": "GM Info/Miami/rpgmanager/Events/Looking into the Kings Hand.md",
+    "frontmatter": {
+      "alias": [],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 26
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Event Details",
+        "level": 3
       }
     ]
   },
@@ -23532,6 +23622,13 @@
       {
         "heading": "Clue Details",
         "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "The Shattered Veil",
+        "link": "The History of Veil Shatterer",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
       }
     ]
   },
@@ -23692,6 +23789,11 @@
         "fileName": "Time to recover the Veil",
         "link": "Veil Shatterer",
         "relativePath": "GM Info/Miami/rpgmanager/Scenes/Time to recover the Veil.md"
+      },
+      {
+        "fileName": "The Shattered Veil",
+        "link": "Veil Shatterer",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
       }
     ]
   },
@@ -23739,6 +23841,11 @@
         "fileName": "Obsidian Serpents",
         "link": "Aegis Stolen Data",
         "relativePath": "GM Info/Miami/rpgmanager/Factions/Obsidian Serpents.md"
+      },
+      {
+        "fileName": "The Shattered Veil",
+        "link": "Aegis Stolen Data",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
       },
       {
         "fileName": "The Shattered Veil",
@@ -23863,16 +23970,6 @@
         "relativePath": "GM Info/Miami/rpgmanager/Factions/Obsidian Serpents.md"
       },
       {
-        "link": "Lady Isabella Nightshade",
-        "displayText": "",
-        "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Lady Isabella Nightshade.md"
-      },
-      {
-        "link": "Jobs",
-        "displayText": "",
-        "relativePath": "GM Info/Miami/rpgmanager/Clues/Jobs.md"
-      },
-      {
         "link": "Aegis Nexus",
         "displayText": "",
         "relativePath": "GM Info/Miami/rpgmanager/Locations/Aegis Nexus.md"
@@ -23881,6 +23978,61 @@
         "link": "Aegis Logs",
         "displayText": "",
         "relativePath": "GM Info/Miami/rpgmanager/Clues/Aegis Logs.md"
+      },
+      {
+        "link": "Lady Isabella Nightshade",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters/Lady Isabella Nightshade.md"
+      },
+      {
+        "link": "Aegis Stolen Data",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Aegis Stolen Data.md"
+      },
+      {
+        "link": "Jobs",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Jobs.md"
+      },
+      {
+        "link": "Private warehouse",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Locations/Private warehouse.md"
+      },
+      {
+        "link": "Veil Shatterer",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/Veil Shatterer.md"
+      },
+      {
+        "link": "Lunar Serpents",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Factions/Lunar Serpents.md"
+      },
+      {
+        "link": "Mystique Emporium",
+        "displayText": "",
+        "relativePath": "Corps (Local)/South Florida/Mystique Emporium.md"
+      },
+      {
+        "link": "Madame Seraphina",
+        "displayText": "",
+        "relativePath": "NPCs/Friendly/South Florida/Madame Seraphina.md"
+      },
+      {
+        "link": "Library of Alexandria",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Locations/Library of Alexandria.md"
+      },
+      {
+        "link": "The History of Veil Shatterer",
+        "displayText": "",
+        "relativePath": "GM Info/Miami/rpgmanager/Clues/The History of Veil Shatterer.md"
+      },
+      {
+        "link": "Obsidian Serpents",
+        "displayText": "../Factions/Obsidian Serpents",
+        "relativePath": "GM Info/Miami/rpgmanager/Factions/Obsidian Serpents.md"
       },
       {
         "link": "Aegis Stolen Data",
@@ -24114,6 +24266,14 @@
         "displayText": "German Information"
       }
     ]
+  },
+  {
+    "fileName": "The Veilkeepers",
+    "relativePath": "Factions/Southern Florida/Secret Orgs/The Veilkeepers.md"
+  },
+  {
+    "fileName": "Obsidian Serpents",
+    "relativePath": "Factions/Southern Florida/Runner Teams/Obsidian Serpents.md"
   },
   {
     "fileName": "Lunar Serpents",
@@ -27514,6 +27674,11 @@
         "fileName": "Off to Neverland",
         "link": "Mystique Emporium",
         "relativePath": "GM Info/Miami/rpgmanager/Scenes/Off to Neverland.md"
+      },
+      {
+        "fileName": "The Shattered Veil",
+        "link": "Mystique Emporium",
+        "relativePath": "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md"
       }
     ]
   },

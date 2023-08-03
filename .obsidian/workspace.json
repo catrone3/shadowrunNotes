@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Southern Florida/Crime Orgs/Lunar Serpents.md",
+                "file": "Players/South Florida Game.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Southern Florida/Crime Orgs/Lunar Serpents.md",
+                "file": "Players/South Florida Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Southern Florida/Crime Orgs/Lunar Serpents.md",
+                "file": "Players/South Florida Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,10 +146,18 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "086eeab64941f0ef",
   "lastOpenFiles": [
-    "GM Info/Miami/rpgmanager/Factions/Lunar Serpents.md",
+    "Players/South Florida/Mako.md",
+    "Images/Pasted image 20230803105655.png",
+    "Factions/Southern Florida/Secret Orgs/The Veilkeepers.md",
+    "Players/South Florida",
+    "Factions/Southern Florida/Runner Teams/Obsidian Serpents.md",
+    "GM Info/Miami/rpgmanager/Events/Looking into the Kings Hand.md",
+    "Factions/Southern Florida/Secret Orgs",
+    "Factions/Southern Florida/Runner Teams",
     "Factions/Southern Florida/Crime Orgs/Lunar Serpents.md",
+    "GM Info/Miami/rpgmanager/Factions/Lunar Serpents.md",
     "GM Info/Miami/rpgmanager/Scenes/Time to recover the Veil.md",
     "GM Info/Miami/rpgmanager/Sessions/The Nightshade Conspiracy.md",
     "GM Info/Miami/rpgmanager/Sessions/Never be the hunted.md",
@@ -169,12 +177,7 @@
     "GM Info/Miami/rpgmanager/Scenes/Hurry up and Wait.md",
     "GM Info/Miami/rpgmanager/Scenes/Meeting Nightshade.md",
     "GM Info/Miami/rpgmanager/Characters/Players.md",
-    "Factions/Southern Florida/Crime Orgs/Red School House.md",
-    "GM Info/Miami/rpgmanager/Locations/Private warehouse.md",
-    "GM Info/Miami/rpgmanager/Factions/The Veilkeepers.md",
     "GM Info/Miami/Veil Shatterer campaign actions.canvas",
-    "NPCs/Unfriendly/South Florida/Isabella (The Black Widow) Santos.md",
-    "NPCs/Unfriendly/South Florida/Reaper.md",
     "Images/The Shattered Veil.png",
     "GM Info/Miami/rpgmanager/Characters",
     "GM Info/Excalidraw",
@@ -189,12 +192,8 @@
     "Images/shadowrun characters/Pasted image 20230729135559.png",
     "Images/shadowrun characters/Pasted image 20230715183808.png",
     "Images/shadowrun characters/Pasted image 20230715171808.png",
-    "Images/shadowrun characters/Pasted image 20230715171746.png",
     "GM Info/Miami/rpgmanager/Scenes",
     "GM Info/Miami/rpgmanager/Acts",
-    "GM Info/Miami/rpgmanager/Sessions",
-    "GM Info/Miami/rpgmanager/Locations",
-    "GM Info/Miami/rpgmanager/Factions",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
     "Canvas.canvas",
     "Untitled.canvas"
