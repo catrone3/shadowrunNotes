@@ -13,14 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/South Florida Game.md",
+                "file": "GM Info/Miami/rpgmanager/Scenes/Hurry up and Wait.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd65dc7288a1f848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Info/Miami/rpgmanager/Scenes/Off to Neverland.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff2d55c72d472c26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Neutral/South Florida/Michael Santos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d89c4a79277c274f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/South Florida/Hollywood.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#miami",
+                "query": "Talismonger",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/South Florida Game.md",
+                "file": "Locations/South Florida/Hollywood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,14 +151,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/South Florida Game.md",
+                "file": "Locations/South Florida/Hollywood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "e3e88033eacc77b8",
+            "id": "ce76216462cdaac4",
             "type": "leaf",
             "state": {
               "type": "rpgm-creator-view",
@@ -126,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,38 +186,40 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "086eeab64941f0ef",
+  "active": "17c028d156c8c8c7",
   "lastOpenFiles": [
-    "Players/South Florida/Mako.md",
-    "Images/Pasted image 20230803105655.png",
-    "Factions/Southern Florida/Secret Orgs/The Veilkeepers.md",
-    "Players/South Florida",
-    "Factions/Southern Florida/Runner Teams/Obsidian Serpents.md",
-    "GM Info/Miami/rpgmanager/Events/Looking into the Kings Hand.md",
-    "Factions/Southern Florida/Secret Orgs",
-    "Factions/Southern Florida/Runner Teams",
-    "Factions/Southern Florida/Crime Orgs/Lunar Serpents.md",
-    "GM Info/Miami/rpgmanager/Factions/Lunar Serpents.md",
-    "GM Info/Miami/rpgmanager/Scenes/Time to recover the Veil.md",
-    "GM Info/Miami/rpgmanager/Sessions/The Nightshade Conspiracy.md",
-    "GM Info/Miami/rpgmanager/Sessions/Never be the hunted.md",
-    "GM Info/Miami/rpgmanager/Scenes/Another Ask.md",
-    "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md",
-    "GM Info/Miami/rpgmanager/Adventures/The Shattered Veil Conspiracy.md",
-    "GM Info/Miami/rpgmanager/Scenes/Book Reading Time.md",
-    "GM Info/Miami/rpgmanager/Clues/The History of Veil Shatterer.md",
-    "GM Info/Miami/rpgmanager/Scenes/Off to Neverland.md",
+    "Corps (Local)/South Florida/The Mystic Emporium.md",
+    "Corps (Local)/South Florida/Blackwood Gallery.md",
+    "NPCs/Neutral/South Florida/Olivia Blackwood.md",
+    "NPCs/Friendly/Athens/Páris Marinos.md",
+    "NPCs/Friendly/Germany/Pascal Fleming.md",
+    "Corps (Local)/FRFZ/Aurora Warrens/Trinket's.md",
+    "Corps (Local)/South Florida/Mystique Emporium.md",
+    "GM Info/Miami/rpgmanager/Locations/Mystique Emporium.md",
+    "Corps (Local)/FRFZ/Lowry/Mystic Curiosities.md",
+    "Corps (Local)/FRFZ/Centennial/Mystic Curiosities.md",
+    "NPCs/Friendly/New Orleans/Mama Mawu.md",
     "GM Info/Miami/rpgmanager/NonPlayerCharacters/Madame Seraphina.md",
     "NPCs/Friendly/South Florida/Madame Seraphina.md",
-    "GM Info/Miami/rpgmanager/Locations/Mystique Emporium.md",
-    "Corps (Local)/South Florida/Mystique Emporium.md",
+    "Players/South Florida/Steppenwolf.md",
+    "NPCs/Neutral/South Florida/Michael Santos.md",
+    "NPCs/Neutral/South Florida/Ricardo (Don Santos) Santos.md",
+    "GM Info/Miami/rpgmanager/Locations/Private warehouse.md",
+    "NPCs/Neutral/South Florida/Miguel Santos.md",
+    "NPCs/Unfriendly/South Florida/Isabella (The Black Widow) Santos.md",
+    "NPCs/Neutral/South Florida/Benjamin Santos.md",
+    "NPCs/Neutral/South Florida/Viktor Petrov.md",
     "GM Info/Miami/rpgmanager/Scenes/Calling Lady Nightshade.md",
-    "GM Info/Miami/rpgmanager/Scenes/Back to Aegis Nexus.md",
-    "GM Info/Miami/rpgmanager/Locations/Library of Alexandria.md",
-    "GM Info/Miami/rpgmanager/Scenes/Hurry up and Wait.md",
-    "GM Info/Miami/rpgmanager/Scenes/Meeting Nightshade.md",
-    "GM Info/Miami/rpgmanager/Characters/Players.md",
+    "NPCs/Friendly/New Orleans/Adonis.md",
+    "Players/South Florida/Encantombra.md",
+    "Players/South Florida/Mako.md",
+    "Players/South Florida/Sting.md",
+    "Images/luminous_wanderer_by_cashile_d6420xo-fullview.jpg",
     "GM Info/Miami/Veil Shatterer campaign actions.canvas",
+    "Images/Pasted image 20230803105655.png",
+    "Players/South Florida",
+    "Factions/Southern Florida/Secret Orgs",
+    "Factions/Southern Florida/Runner Teams",
     "Images/The Shattered Veil.png",
     "GM Info/Miami/rpgmanager/Characters",
     "GM Info/Excalidraw",
@@ -191,7 +233,6 @@
     "Images/shadowrun characters/Pasted image 20230729142107.png",
     "Images/shadowrun characters/Pasted image 20230729135559.png",
     "Images/shadowrun characters/Pasted image 20230715183808.png",
-    "Images/shadowrun characters/Pasted image 20230715171808.png",
     "GM Info/Miami/rpgmanager/Scenes",
     "GM Info/Miami/rpgmanager/Acts",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",

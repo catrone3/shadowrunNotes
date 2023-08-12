@@ -16,6 +16,9 @@ Known for its reputation among shadowrunners, Ironworks Arsenal provides a diver
 #### Miami Sports Network
 ![[../../Corps (Local)/South Florida/Miami Sports Network|Miami Sports Network]]
 
+#### [[../../Corps (Local)/South Florida/The Mystic Emporium|The Mystic Emporium]]
+Nestled within the heart of Miami's vibrant Hollywood district, the Mystic Emporium, presided over by the enigmatic talismonger Olivia Blackwood, stands as a sanctuary of arcane allure. Its façade, adorned with intricate symbols and softly glowing enchantments, beckons both seasoned spellcasters and curious seekers alike. Upon entering, the emporium unveils a world of wonder, its shelves adorned with an eclectic array of magical artifacts, charms, and ethereal trinkets. Olivia, a mistress of the mystical arts, offers her patrons not only a chance to procure potent items but also a glimpse into the intricate tapestry of the unseen world, casting a veil of enchantment over all who step through its threshold.
+
 #### Mitchell's Emporium
 ![[../../Corps (Local)/South Florida/Mitchell's Emporium|Mitchell's Emporium]]
 

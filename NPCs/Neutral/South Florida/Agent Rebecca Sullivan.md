@@ -1,2 +1,2 @@
 #miami 
-Government Agent: Agent Rebecca Sullivan, a skilled and discreet government agent with knowledge of covert operations, offering assistance and information on classified matters. - Connection Rating: 4 - Works for the Federal Investigations Bureau.
+Government Agent: Agent Rebecca Sullivan, a skilled and discreet government agent with knowledge of covert operations, offering assistance and information on classified matters. - Connection Rating: 4 - Works for the Department of Domestic Investigations
