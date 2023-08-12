@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "086eeab64941f0ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Info/Miami/rpgmanager/Scenes/Hurry up and Wait.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd65dc7288a1f848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Info/Miami/rpgmanager/Scenes/Off to Neverland.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ff2d55c72d472c26",
             "type": "leaf",
             "state": {
@@ -52,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/South Florida/Hollywood.md",
+                "file": "Corps (Local)/South Florida/Club Pythia.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c492c29a0c446e41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Corps (Local)/South Florida/The Mystic Emporium.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Talismonger",
+                "query": "fixer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/South Florida/Hollywood.md",
+                "file": "Corps (Local)/South Florida/The Mystic Emporium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/South Florida/Hollywood.md",
+                "file": "Corps (Local)/South Florida/The Mystic Emporium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,34 +173,34 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "c492c29a0c446e41",
   "lastOpenFiles": [
+    "NPCs/Neutral/South Florida/Olivia Blackwood.md",
+    "NPCs/Neutral/South Florida/Heidrick Shultz.md",
+    "Corps (Local)/South Florida/Club Pythia.md",
+    "NPCs/Neutral/South Florida/Don Greco.md",
+    "NPCs/Neutral/South Florida/Dmitri Volkov.md",
+    "NPCs/Neutral/South Florida/Lucas (Lucky) Monroe.md",
+    "Corps (Local)/South Florida/The Fixer's Den.md",
+    "NPCs/Friendly/New Orleans/Zoe.md",
+    "NPCs/Friendly/South Florida/Whisper.md",
+    "NPCs/Neutral/South Florida/Vincent (Vinnie) Russo.md",
+    "NPCs/Neutral/Tom Jones.md",
+    "Corps (Local)/FRFZ/Centennial/Serpent's Feather.md",
+    "NPCs/Friendly/Germany/Remy Etienne LeBeau.md",
+    "NPCs/Neutral/Denver/Mr. K.md",
+    "NPCs/Friendly/Las Vegas/Lucky.md",
+    "NPCs/Friendly/South Florida/Dex Thompson.md",
+    "Corps (Local)/FRFZ/Lakewood/Compri Hotel.md",
+    "Locations/FRFZ/Centennial.md",
+    "Players/Athens/Angel.md",
+    "Players/Berlin Crew/Angel.md",
+    "NPCs/Friendly/Athens/Aléxios Callas.md",
+    "Locations/South Florida/Hollywood.md",
     "Corps (Local)/South Florida/The Mystic Emporium.md",
     "Corps (Local)/South Florida/Blackwood Gallery.md",
-    "NPCs/Neutral/South Florida/Olivia Blackwood.md",
     "NPCs/Friendly/Athens/Páris Marinos.md",
     "NPCs/Friendly/Germany/Pascal Fleming.md",
-    "Corps (Local)/FRFZ/Aurora Warrens/Trinket's.md",
-    "Corps (Local)/South Florida/Mystique Emporium.md",
-    "GM Info/Miami/rpgmanager/Locations/Mystique Emporium.md",
-    "Corps (Local)/FRFZ/Lowry/Mystic Curiosities.md",
-    "Corps (Local)/FRFZ/Centennial/Mystic Curiosities.md",
-    "NPCs/Friendly/New Orleans/Mama Mawu.md",
-    "GM Info/Miami/rpgmanager/NonPlayerCharacters/Madame Seraphina.md",
-    "NPCs/Friendly/South Florida/Madame Seraphina.md",
-    "Players/South Florida/Steppenwolf.md",
-    "NPCs/Neutral/South Florida/Michael Santos.md",
-    "NPCs/Neutral/South Florida/Ricardo (Don Santos) Santos.md",
-    "GM Info/Miami/rpgmanager/Locations/Private warehouse.md",
-    "NPCs/Neutral/South Florida/Miguel Santos.md",
-    "NPCs/Unfriendly/South Florida/Isabella (The Black Widow) Santos.md",
-    "NPCs/Neutral/South Florida/Benjamin Santos.md",
-    "NPCs/Neutral/South Florida/Viktor Petrov.md",
-    "GM Info/Miami/rpgmanager/Scenes/Calling Lady Nightshade.md",
-    "NPCs/Friendly/New Orleans/Adonis.md",
-    "Players/South Florida/Encantombra.md",
-    "Players/South Florida/Mako.md",
-    "Players/South Florida/Sting.md",
     "Images/luminous_wanderer_by_cashile_d6420xo-fullview.jpg",
     "GM Info/Miami/Veil Shatterer campaign actions.canvas",
     "Images/Pasted image 20230803105655.png",
