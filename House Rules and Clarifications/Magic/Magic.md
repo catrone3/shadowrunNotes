@@ -1,17 +1,17 @@
 #HouseRules
 ## Base rule changes
 
-Look at spells with the search power
+When using the search power, you can use the astral signature of a spell to find other places where that astral signature has been left.
 
 Quickened spells are only fully suppressed in background counts. 
 
 Initiation takes only days for the extended test on it
 
-Search - masking roll adds to the threshold
+Search - masking roll adds to the threshold in buy hits style
 
 Fear power:
 - The changes to the Fear power are as follows
-- On your turn, you can choose to do an action, and any action facing the sorce of the fear gives a negative dice pool penalty equal to the critter's net hits.
+- You are forced to run away from the source of the fear. On your turn, you can choose to do an action, and any action facing the source of the fear gives a negative dice pool penalty equal to the critter's net hits.
 
 
 ### Clarifications

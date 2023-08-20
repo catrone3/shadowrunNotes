@@ -11,43 +11,13 @@
             "id": "ff2d55c72d472c26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "NPCs/Neutral/South Florida/Michael Santos.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d89c4a79277c274f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corps (Local)/South Florida/Club Pythia.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c492c29a0c446e41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corps (Local)/South Florida/The Mystic Emporium.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Images/sting.png"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Corps (Local)/South Florida/The Mystic Emporium.md",
+                "file": "Images/sting.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,18 +108,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Corps (Local)/South Florida/The Mystic Emporium.md",
+                "file": "Images/sting.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "ce76216462cdaac4",
-            "type": "leaf",
-            "state": {
-              "type": "rpgm-creator-view",
-              "state": {}
             }
           }
         ],
@@ -173,37 +135,39 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "c492c29a0c446e41",
+  "active": "ff2d55c72d472c26",
   "lastOpenFiles": [
+    "Players/South Florida/Mako.md",
+    "Images/mako.jpeg",
+    "Images/mako.png",
+    "NPCs/Neutral/South Florida/Michael Santos.md",
+    "Corps (Local)/South Florida/Club Pythia.md",
+    "House Rules and Clarifications/Magic/Magic.md",
+    "House Rules and Clarifications/Magic/Ritual Magic.md",
+    "House Rules.md",
+    "House Rules and Clarifications/Magic/Great Form Spirit.md",
+    "GM Info/GM Pages.md",
+    "House Rules and Clarifications/Magic/Quickend Spells.md",
+    "House Rules and Clarifications/Magic/Reagents.md",
+    "House Rules and Clarifications/Magic/Spellblades.md",
+    "House Rules and Clarifications/Weapons/Missile types.md",
+    "House Rules and Clarifications/Contacts.md",
+    "GM Info/Miami/rpgmanager/Characters/Blue.md",
+    "GM Info/Miami/rpgmanager/Characters/Tiago.md",
+    "GM Info/Miami/rpgmanager/Characters/Encantombra.md",
+    "Images/sting.png",
+    "Images/blue.png",
+    "Players/South Florida/Blue.md",
+    "Players/South Florida/Tiago.md",
+    "Players/South Florida/Sting.md",
+    "GM Info/Miami/rpgmanager/Characters/Sting.md",
+    "GM Info/Miami/rpgmanager/Characters/Mako.md",
+    "Corps (Local)/South Florida/The Mystic Emporium.md",
     "NPCs/Neutral/South Florida/Olivia Blackwood.md",
     "NPCs/Neutral/South Florida/Heidrick Shultz.md",
-    "Corps (Local)/South Florida/Club Pythia.md",
     "NPCs/Neutral/South Florida/Don Greco.md",
-    "NPCs/Neutral/South Florida/Dmitri Volkov.md",
-    "NPCs/Neutral/South Florida/Lucas (Lucky) Monroe.md",
-    "Corps (Local)/South Florida/The Fixer's Den.md",
-    "NPCs/Friendly/New Orleans/Zoe.md",
-    "NPCs/Friendly/South Florida/Whisper.md",
-    "NPCs/Neutral/South Florida/Vincent (Vinnie) Russo.md",
-    "NPCs/Neutral/Tom Jones.md",
-    "Corps (Local)/FRFZ/Centennial/Serpent's Feather.md",
-    "NPCs/Friendly/Germany/Remy Etienne LeBeau.md",
-    "NPCs/Neutral/Denver/Mr. K.md",
-    "NPCs/Friendly/Las Vegas/Lucky.md",
-    "NPCs/Friendly/South Florida/Dex Thompson.md",
-    "Corps (Local)/FRFZ/Lakewood/Compri Hotel.md",
-    "Locations/FRFZ/Centennial.md",
-    "Players/Athens/Angel.md",
-    "Players/Berlin Crew/Angel.md",
-    "NPCs/Friendly/Athens/Aléxios Callas.md",
-    "Locations/South Florida/Hollywood.md",
-    "Corps (Local)/South Florida/The Mystic Emporium.md",
-    "Corps (Local)/South Florida/Blackwood Gallery.md",
-    "NPCs/Friendly/Athens/Páris Marinos.md",
-    "NPCs/Friendly/Germany/Pascal Fleming.md",
     "Images/luminous_wanderer_by_cashile_d6420xo-fullview.jpg",
     "GM Info/Miami/Veil Shatterer campaign actions.canvas",
-    "Images/Pasted image 20230803105655.png",
     "Players/South Florida",
     "Factions/Southern Florida/Secret Orgs",
     "Factions/Southern Florida/Runner Teams",
@@ -217,9 +181,6 @@
     "Images/shadowrun characters/Pasted image 20230715140311.png",
     "Images/shadowrun characters/Pasted image 20230715141508.png",
     "Images/shadowrun characters/Pasted image 20230729142528.png",
-    "Images/shadowrun characters/Pasted image 20230729142107.png",
-    "Images/shadowrun characters/Pasted image 20230729135559.png",
-    "Images/shadowrun characters/Pasted image 20230715183808.png",
     "GM Info/Miami/rpgmanager/Scenes",
     "GM Info/Miami/rpgmanager/Acts",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
