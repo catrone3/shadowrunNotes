@@ -11,9 +11,12 @@
             "id": "ff2d55c72d472c26",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/sting.png"
+                "file": "Players/South Florida/Mako.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/sting.png",
+                "file": "Players/South Florida/Mako.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/sting.png",
+                "file": "Players/South Florida/Mako.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,6 +140,7 @@
   },
   "active": "ff2d55c72d472c26",
   "lastOpenFiles": [
+    "Images/sting.png",
     "Players/South Florida/Mako.md",
     "Images/mako.jpeg",
     "Images/mako.png",
@@ -155,7 +159,6 @@
     "GM Info/Miami/rpgmanager/Characters/Blue.md",
     "GM Info/Miami/rpgmanager/Characters/Tiago.md",
     "GM Info/Miami/rpgmanager/Characters/Encantombra.md",
-    "Images/sting.png",
     "Images/blue.png",
     "Players/South Florida/Blue.md",
     "Players/South Florida/Tiago.md",
