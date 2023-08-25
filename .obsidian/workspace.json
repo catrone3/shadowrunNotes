@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff2d55c72d472c26",
+            "id": "3ff869f6be7fd1d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/South Florida/Mako.md",
+                "file": "GM Info/Miami/Joes character.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fixer",
+                "query": "tag:#miami fixer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/South Florida/Mako.md",
+                "file": "GM Info/Miami/Joes character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/South Florida/Mako.md",
+                "file": "GM Info/Miami/Joes character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,10 +138,29 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "ff2d55c72d472c26",
+  "active": "3ff869f6be7fd1d6",
   "lastOpenFiles": [
-    "Images/sting.png",
+    "GM Info/Miami/rpgmanager/Clues/The Kings Hand Research.md",
+    "GM Info/Miami/rpgmanager/Clues/The Kings Hand.md",
+    "GM Info/Miami/rpgmanager/Subplots/The Kings Hand.md",
+    "GM Info/Miami/rpgmanager/South Florida.md",
+    "GM Info/Miami/rpgmanager/Sessions/The Nightshade Conspiracy.md",
+    "NPCs/Neutral/South Florida/Lucas (Lucky) Monroe.md",
+    "NPCs/Neutral/South Florida/Cassandra (Cass) Reynolds.md",
+    "NPCs/Neutral/South Florida/Matthew (Skunk) Killgore.md",
+    "NPCs/Neutral/South Florida/Milton Hershey.md",
+    "Images/Milton Hershey.png",
+    "Images/Skunk.jpg",
+    "NPCs/Neutral/South Florida/Bella Suarez.md",
+    "Images/Bella Suarez.png",
+    "GM Info/Miami/rpgmanager/Sessions/Never be the hunted.md",
+    "GM Info/Miami/Joes character.md",
+    "South Florida Game Notes/23-08-24.md",
+    "NPCs/Friendly/South Florida/Dusk.md",
+    "NPCs/Neutral/South Florida/Agent Rebecca Sullivan.md",
+    "GM Info/helpful sites.md",
     "Players/South Florida/Mako.md",
+    "Images/sting.png",
     "Images/mako.jpeg",
     "Images/mako.png",
     "NPCs/Neutral/South Florida/Michael Santos.md",
@@ -153,22 +172,7 @@
     "GM Info/GM Pages.md",
     "House Rules and Clarifications/Magic/Quickend Spells.md",
     "House Rules and Clarifications/Magic/Reagents.md",
-    "House Rules and Clarifications/Magic/Spellblades.md",
-    "House Rules and Clarifications/Weapons/Missile types.md",
-    "House Rules and Clarifications/Contacts.md",
-    "GM Info/Miami/rpgmanager/Characters/Blue.md",
-    "GM Info/Miami/rpgmanager/Characters/Tiago.md",
-    "GM Info/Miami/rpgmanager/Characters/Encantombra.md",
     "Images/blue.png",
-    "Players/South Florida/Blue.md",
-    "Players/South Florida/Tiago.md",
-    "Players/South Florida/Sting.md",
-    "GM Info/Miami/rpgmanager/Characters/Sting.md",
-    "GM Info/Miami/rpgmanager/Characters/Mako.md",
-    "Corps (Local)/South Florida/The Mystic Emporium.md",
-    "NPCs/Neutral/South Florida/Olivia Blackwood.md",
-    "NPCs/Neutral/South Florida/Heidrick Shultz.md",
-    "NPCs/Neutral/South Florida/Don Greco.md",
     "Images/luminous_wanderer_by_cashile_d6420xo-fullview.jpg",
     "GM Info/Miami/Veil Shatterer campaign actions.canvas",
     "Players/South Florida",
@@ -181,9 +185,6 @@
     "GM Info/Miami/rpgmanager/Subplots",
     "GM Info/Miami/rpgmanager/Events",
     "Images/shadowrun characters/Lady Isabella Nightshade.png",
-    "Images/shadowrun characters/Pasted image 20230715140311.png",
-    "Images/shadowrun characters/Pasted image 20230715141508.png",
-    "Images/shadowrun characters/Pasted image 20230729142528.png",
     "GM Info/Miami/rpgmanager/Scenes",
     "GM Info/Miami/rpgmanager/Acts",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
