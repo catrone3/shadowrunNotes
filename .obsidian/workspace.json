@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Miami/Joes character.md",
+                "file": "South Florida Game Notes/23-09-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#miami fixer",
+                "query": "skunk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Info/Miami/Joes character.md",
+                "file": "South Florida Game Notes/23-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,14 +111,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM Info/Miami/Joes character.md",
+                "file": "South Florida Game Notes/23-09-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -131,47 +131,47 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "cmdr:Obsidian Git: Create backup": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "rpg-manager:RPG Manager": false
+      "rpg-manager:RPG Manager": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "3ff869f6be7fd1d6",
   "lastOpenFiles": [
-    "GM Info/Miami/rpgmanager/Clues/The Kings Hand Research.md",
-    "GM Info/Miami/rpgmanager/Clues/The Kings Hand.md",
-    "GM Info/Miami/rpgmanager/Subplots/The Kings Hand.md",
-    "GM Info/Miami/rpgmanager/South Florida.md",
     "GM Info/Miami/rpgmanager/Sessions/The Nightshade Conspiracy.md",
-    "NPCs/Neutral/South Florida/Lucas (Lucky) Monroe.md",
-    "NPCs/Neutral/South Florida/Cassandra (Cass) Reynolds.md",
+    "South Florida Game Notes/23-09-15.md",
+    "South Florida Game Notes/23-08-24.md",
+    "GM Info/Miami/rpgmanager/Sessions/Never be the hunted.md",
+    "GM Info/Miami/rpgmanager/Scenes/Obsidian Serpents Hideout.md",
+    "GM Info/Miami/rpgmanager/Scenes/Aegis Nexus lab.md",
+    "GM Info/Miami/rpgmanager/Scenes/Another Ask.md",
+    "GM Info/Miami/rpgmanager/Factions/Obsidian Serpents.md",
+    "NPCs/Friendly/South Florida/Viktor Ironforge.md",
+    "GM Info/Miami/rpgmanager/Scenes/Meeting Nightshade.md",
+    "GM Info/Miami/rpgmanager/Clues/Veil Shatterer.md",
+    "GM Info/Miami/rpgmanager/Locations/Aegis Nexus.md",
+    "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md",
+    "GM Info/Miami/Joes character.md",
     "NPCs/Neutral/South Florida/Matthew (Skunk) Killgore.md",
     "NPCs/Neutral/South Florida/Milton Hershey.md",
+    "NPCs/Neutral/South Florida/Agent Rebecca Sullivan.md",
+    "A Corps/Nexus Research Group.md",
+    "A Corps/Aegis.md",
+    "NPCs/Neutral/South Florida/Chuck Finley.md",
+    "Corps (Local)/South Florida/Carlito's Bar.md",
+    "NPCs/Neutral/South Florida/Don Greco.md",
+    "NPCs/Neutral/South Florida/Michael Santos.md",
+    "GM Info/Miami/rpgmanager/NonPlayerCharacters/Lady Isabella Nightshade.md",
+    "GM Info/Miami/rpgmanager/NonPlayerCharacters/Raven.md",
+    "GM Info/Miami/rpgmanager/NonPlayerCharacters/Silhouette.md",
     "Images/Milton Hershey.png",
     "Images/Skunk.jpg",
-    "NPCs/Neutral/South Florida/Bella Suarez.md",
     "Images/Bella Suarez.png",
-    "GM Info/Miami/rpgmanager/Sessions/Never be the hunted.md",
-    "GM Info/Miami/Joes character.md",
-    "South Florida Game Notes/23-08-24.md",
-    "NPCs/Friendly/South Florida/Dusk.md",
-    "NPCs/Neutral/South Florida/Agent Rebecca Sullivan.md",
-    "GM Info/helpful sites.md",
-    "Players/South Florida/Mako.md",
     "Images/sting.png",
     "Images/mako.jpeg",
     "Images/mako.png",
-    "NPCs/Neutral/South Florida/Michael Santos.md",
-    "Corps (Local)/South Florida/Club Pythia.md",
-    "House Rules and Clarifications/Magic/Magic.md",
-    "House Rules and Clarifications/Magic/Ritual Magic.md",
-    "House Rules.md",
-    "House Rules and Clarifications/Magic/Great Form Spirit.md",
-    "GM Info/GM Pages.md",
-    "House Rules and Clarifications/Magic/Quickend Spells.md",
-    "House Rules and Clarifications/Magic/Reagents.md",
     "Images/blue.png",
     "Images/luminous_wanderer_by_cashile_d6420xo-fullview.jpg",
     "GM Info/Miami/Veil Shatterer campaign actions.canvas",
