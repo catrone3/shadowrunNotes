@@ -13,6 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "GM Info/Miami/rpgmanager/Sessions/Dealing with the Veil.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a787eb7f3221c4e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Info/Miami/rpgmanager/Scenes/Boca Raton Attack.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d858e8a4b4f6412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "South Florida Game Notes/23-10-05.md",
                 "mode": "source",
                 "backlinks": false,
@@ -20,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,9 +143,17 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "014bed842d9741c5",
+            "type": "leaf",
+            "state": {
+              "type": "rpgm-creator-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,13 +173,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ff869f6be7fd1d6",
+  "active": "2d858e8a4b4f6412",
   "lastOpenFiles": [
-    "South Florida Game Notes/23-09-21.md",
+    "GM Info/Miami/rpgmanager/Scenes/Return to Lady Nightshade.md",
+    "GM Info/Miami/rpgmanager/Scenes/Boca Raton Attack.md",
+    "GM Info/Miami/rpgmanager/Sessions/Dealing with the Veil.md",
+    "Players/South Florida/Sojourner.md",
+    "GM Info/Miami/rpgmanager/Sessions/Never be the hunted.md",
+    "GM Info/Miami/rpgmanager/Characters/Sojourner.md",
+    "GM Info/Miami/rpgmanager/NonPlayerCharacters/Dr. Elijah Thorne.md",
+    "GM Info/Miami/rpgmanager/Clues/Veil Shatterer.md",
+    "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md",
+    "GM Info/Miami/rpgmanager/Adventures/The Shattered Veil Conspiracy.md",
+    "Players/South Florida/Tiago.md",
+    "GM Info/Miami/rpgmanager/Characters/Players.md",
+    "GM Info/Miami/rpgmanager/Events/Looking into the Kings Hand.md",
     "South Florida Game Notes/23-10-05.md",
+    "South Florida Game Notes/23-09-21.md",
     "South Florida Game Notes/23-09-28.md",
     "GM Info/Miami/rpgmanager/Scenes/Book Reading Time.md",
-    "GM Info/Miami/rpgmanager/Sessions/Never be the hunted.md",
     "GM Info/Miami/rpgmanager/NonPlayerCharacters/Madame Seraphina.md",
     "GM Info/Miami/rpgmanager/Scenes/Off to Neverland.md",
     "NPCs/Friendly/South Florida/Madame Seraphina.md",
@@ -154,18 +201,6 @@
     "NPCs/Friendly/South Florida/Maelys Shadowthorn.md",
     "NPCs/Friendly/South Florida/Whisper.md",
     "NPCs/Friendly/South Florida/Viktor Ironforge.md",
-    "NPCs/Friendly/South Florida/Nexus.md",
-    "NPCs/Friendly/South Florida/Max (Wired) Rodriguez.md",
-    "NPCs/Friendly/South Florida/Dex Thompson.md",
-    "NPCs/Friendly/South Florida/Dr. Ava Ramirez.md",
-    "NPCs/Friendly/South Florida/Dusk.md",
-    "NPCs/Friendly/South Florida/Isabella Stone.md",
-    "GM Info/Miami/rpgmanager/Sessions/The Nightshade Conspiracy.md",
-    "GM Info/Miami/rpgmanager/Scenes/Meeting Nightshade.md",
-    "GM Info/Miami/rpgmanager/Scenes/Calling Lady Nightshade.md",
-    "GM Info/Miami/rpgmanager/Scenes/Time to recover the Veil.md",
-    "GM Info/Miami/rpgmanager/Scenes/Obsidian Serpents Hideout.md",
-    "South Florida Game Notes/23-09-14.md",
     "Images/Milton Hershey.png",
     "Images/Skunk.jpg",
     "Images/Bella Suarez.png",
