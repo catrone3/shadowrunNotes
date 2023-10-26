@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ff869f6be7fd1d6",
+            "id": "73efca5d0a183913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Miami/rpgmanager/Sessions/Dealing with the Veil.md",
+                "file": "South Florida Game Notes/23-10-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "a787eb7f3221c4e5",
+            "id": "6b6319ec3e44b2c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Miami/rpgmanager/Scenes/Boca Raton Attack.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d858e8a4b4f6412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "South Florida Game Notes/23-10-05.md",
+                "file": "Players/South Florida Game.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fixer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "South Florida Game Notes/23-10-05.md",
+                "file": "Players/South Florida Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +125,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "South Florida Game Notes/23-10-05.md",
+                "file": "Players/South Florida Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "014bed842d9741c5",
+            "id": "1448a1aeeaef1e53",
             "type": "leaf",
             "state": {
-              "type": "rpgm-creator-view",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -173,34 +160,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d858e8a4b4f6412",
+  "active": "6b6319ec3e44b2c9",
   "lastOpenFiles": [
-    "GM Info/Miami/rpgmanager/Scenes/Return to Lady Nightshade.md",
-    "GM Info/Miami/rpgmanager/Scenes/Boca Raton Attack.md",
-    "GM Info/Miami/rpgmanager/Sessions/Dealing with the Veil.md",
-    "Players/South Florida/Sojourner.md",
-    "GM Info/Miami/rpgmanager/Sessions/Never be the hunted.md",
-    "GM Info/Miami/rpgmanager/Characters/Sojourner.md",
-    "GM Info/Miami/rpgmanager/NonPlayerCharacters/Dr. Elijah Thorne.md",
-    "GM Info/Miami/rpgmanager/Clues/Veil Shatterer.md",
-    "GM Info/Miami/rpgmanager/Acts/The Shattered Veil.md",
-    "GM Info/Miami/rpgmanager/Adventures/The Shattered Veil Conspiracy.md",
-    "Players/South Florida/Tiago.md",
-    "GM Info/Miami/rpgmanager/Characters/Players.md",
-    "GM Info/Miami/rpgmanager/Events/Looking into the Kings Hand.md",
+    "South Florida Game Notes/23-10-12.md",
     "South Florida Game Notes/23-10-05.md",
+    "Players/South Florida Game.md",
     "South Florida Game Notes/23-09-21.md",
+    "South Florida Game Notes/23-09-14.md",
     "South Florida Game Notes/23-09-28.md",
-    "GM Info/Miami/rpgmanager/Scenes/Book Reading Time.md",
-    "GM Info/Miami/rpgmanager/NonPlayerCharacters/Madame Seraphina.md",
-    "GM Info/Miami/rpgmanager/Scenes/Off to Neverland.md",
-    "NPCs/Friendly/South Florida/Madame Seraphina.md",
-    "GM Info/Miami/rpgmanager/Scenes/Another Ask.md",
-    "GM Info/Miami/rpgmanager/Scenes/Hurry up and Wait.md",
-    "Corps (Local)/South Florida/Mystique Emporium.md",
-    "NPCs/Friendly/South Florida/Maelys Shadowthorn.md",
-    "NPCs/Friendly/South Florida/Whisper.md",
-    "NPCs/Friendly/South Florida/Viktor Ironforge.md",
+    "South Florida Game Notes/23-08-24.md",
+    "Players/New Orleans.md",
+    "NPCs/Neutral/South Florida/Chuck Finley.md",
+    "NPCs/Neutral/South Florida/Colonel Jonathan Mitchell.md",
+    "NPCs/Neutral/South Florida/Commander Jonathan Blackwood.md",
+    "NPCs/Neutral/South Florida/Daniel Turner.md",
+    "NPCs/Neutral/South Florida/Deena Ruiz.md",
+    "NPCs/Neutral/South Florida/Detective Ethan Harris.md",
+    "NPCs/Neutral/South Florida/Detective Lisa Bennett.md",
+    "NPCs/Neutral/South Florida/Detective Sophia Anderson.md",
+    "NPCs/Neutral/South Florida/Diego Morales.md",
+    "NPCs/Neutral/South Florida/Dmitri (Dima) Petrov.md",
+    "NPCs/Neutral/South Florida/Don Greco.md",
+    "Corps (Local)/South Florida/Club Pythia.md",
+    "NPCs/Neutral/South Florida/Marco (Mugsy) Ramirez.md",
+    "NPCs/Neutral/South Florida/Lucas (Lucky) Monroe.md",
+    "NPCs/Neutral/South Florida/Lucas (Ghost) Johnson.md",
+    "NPCs/Neutral/South Florida/Mason (Brick) Thompson.md",
+    "NPCs/Neutral/South Florida/Mia (Raven) Bennett.md",
+    "NPCs/Neutral/South Florida/Miguel (Shadow) Ramirez.md",
+    "Images/shadowrun characters/Veil Keepers.png",
+    "Images/shadowrun characters/Veil Keepers.png.opdownload",
+    "Images/shadowrun characters/Aztechnology Merc.png",
+    "Images/shadowrun characters/Aztechnology Merc.png.opdownload",
+    "Images/shadowrun characters/Dr Thorne.png",
+    "Images/shadowrun characters/Dr Thorne.png.opdownload",
     "Images/Milton Hershey.png",
     "Images/Skunk.jpg",
     "Images/Bella Suarez.png",
@@ -208,20 +201,14 @@
     "Images/mako.jpeg",
     "Images/mako.png",
     "Images/blue.png",
-    "Images/luminous_wanderer_by_cashile_d6420xo-fullview.jpg",
     "GM Info/Miami/Veil Shatterer campaign actions.canvas",
     "Players/South Florida",
     "Factions/Southern Florida/Secret Orgs",
     "Factions/Southern Florida/Runner Teams",
-    "Images/The Shattered Veil.png",
     "GM Info/Miami/rpgmanager/Characters",
     "GM Info/Excalidraw",
     "Images/The Shattered Veil.png.opdownload",
     "GM Info/Miami/rpgmanager/Subplots",
-    "GM Info/Miami/rpgmanager/Events",
-    "Images/shadowrun characters/Lady Isabella Nightshade.png",
-    "GM Info/Miami/rpgmanager/Scenes",
-    "GM Info/Miami/rpgmanager/Acts",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
     "Canvas.canvas",
     "Untitled.canvas"

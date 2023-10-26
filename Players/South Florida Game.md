@@ -2,7 +2,24 @@
 # [[../Locations/South Florida|South Florida]]
 
 # Players
+- [[South Florida/Blue|Blue]]
+- [[South Florida/Encantombra|Encantombra]]
+- [[South Florida/Sojourner|Sojourner]]
+- [[South Florida/Sting|Sting]]
+
+# Old Players
 - [[South Florida/Mako|Mako]]
+- [[South Florida/Tiago|Tiago]]
+
+# Game Notes
+
+| Date | Karma | Nuyen |
+| --- | --- | --- |
+| [[../South Florida Game Notes/23-09-14\|23-09-14]] | | |
+| [[../South Florida Game Notes/23-09-21\|23-09-21]]| 8 | 7,000|
+| [[../South Florida Game Notes/23-09-28\|23-09-28]] | 7 | 15,000 |
+| [[../South Florida Game Notes/23-10-05\|23-10-05]] | 10 | 23,000 |
+| [[../South Florida Game Notes/23-10-12\|23-10-12]] | 10 | 15,000 |
 
 
 # NPCs
