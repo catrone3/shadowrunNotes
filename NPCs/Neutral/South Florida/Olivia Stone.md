@@ -1,2 +1,2 @@
 #miami 
-International Courier: Olivia Stone, an experienced international courier with access to global transportation networks, providing discreet package delivery and information on cross-border operations. - Connection Rating: 4 - Operates as an international courier.
+International Courier: Olivia Stone, an experienced international courier with access to global transportation networks, providing discreet package delivery and information on cross-border operations. - Connection Rating: 6 - Operates as an international courier.

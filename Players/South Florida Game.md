@@ -6,6 +6,8 @@
 - [[South Florida/Encantombra|Encantombra]]
 - [[South Florida/Sojourner|Sojourner]]
 - [[South Florida/Sting|Sting]]
+- [[South Florida/Tezca|Tezca]]
+- [[South Florida/Samsara|Samsara]]
 
 # Old Players
 - [[South Florida/Mako|Mako]]
@@ -20,6 +22,8 @@
 | [[../South Florida Game Notes/23-09-28\|23-09-28]] | 7 | 15,000 |
 | [[../South Florida Game Notes/23-10-05\|23-10-05]] | 10 | 23,000 |
 | [[../South Florida Game Notes/23-10-12\|23-10-12]] | 10 | 15,000 |
+| [[../South Florida Game Notes/23-10-26\|23-10-26]] | 11 | 20,000 |
+
 
 
 # NPCs

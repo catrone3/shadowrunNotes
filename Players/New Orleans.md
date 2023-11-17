@@ -1,6 +1,6 @@
 #NewOrleans 
 
-### Player Characters
+# Player Characters
 
 - [[New Orleans/Big Byte|Big Byte]]
 - [[New Orleans/Grimm|Grimm]]
@@ -8,10 +8,20 @@
 - [[New Orleans/Nines|Nines]]
 - [[New Orleans/Bullwark|Bullwark]]
 
-### Old Player Characters
+# Old Player Characters
 - [[New Orleans/Old Man Bones|Old Man Bones]]
 
-### Contacts
+# Game Notes
+| Date | Karma | Nuyen |
+| --- | --- | --- |
+| [[../New Orleans Game Notes/23-3-25\|23-3-25]] | | |
+| [[../New Orleans Game Notes/23-4-8\|23-4-8]] | | |
+| [[../New Orleans Game Notes/23-5-20\|23-5-20]] | | |
+| [[../New Orleans Game Notes/23-7-1\|23-7-1]] | | |
+| [[../New Orleans Game Notes/23-7-15\|23-7-15]] | | |
+| [[../New Orleans Game Notes/23-7-29\|23-7-29]] | | |
+
+# Contacts
 
 - [[../NPCs/Friendly/New Orleans/Adonis|Adonis]]
 - [[../NPCs/Friendly/New Orleans/Blaze|Blaze]]

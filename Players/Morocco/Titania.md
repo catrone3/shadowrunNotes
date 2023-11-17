@@ -1,5 +1,5 @@
 #London
-![[../../Images/shadowrun characters/Titania.png]]
-nerve rifle 
 ![[../../Images/shadowrun characters/titania runner outfit.png]]
+nerve rifle 
+
 - OR is 23 dice
