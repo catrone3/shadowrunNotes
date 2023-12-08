@@ -10,7 +10,7 @@ Dice bonus = to (magic+ritual magic)/4 rounded down
 
 | |Object resistance|
 |----|---|
-|Rating 6 matrix device | 18 |
+| Rating 6 matrix devic | 18 |
 | Smartlink gun | 11 |
 | Basic gun | 9 |
 | Melee weapon | 7 |

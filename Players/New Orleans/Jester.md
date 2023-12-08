@@ -6,7 +6,7 @@ She has a balistic mask she picked up for the first run
 
 
 Contacts
-- [[../../NPCs/Friendly/New Orleans/John Pau Morrell|City Official]]
+- [[../../NPCs/Friendly/New Orleans/John Pau Morrell|John Pau Morrell]]
 	- Loyatly: 1
 - [[../../NPCs/Friendly/New Orleans/Cyrille Boutin|Cyrille Boutin]]
 	- Loyalty: 1
