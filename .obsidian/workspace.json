@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Miami/24-1-4.md",
+                "file": "NPCs/Neutral/South Florida/Bella Suarez.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Miami/Completed missions/synopsise made up/23-14-12.md",
+                "file": "GM Info/Miami/Completed missions/24-1-4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"NPCs/Neutral/South Florida\"  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Info/Miami/24-1-4.md",
+                "file": "GM Info/Miami/Completed missions/24-1-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM Info/Miami/24-1-4.md",
+                "file": "GM Info/Miami/Completed missions/24-1-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,34 +172,34 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "f2ac2fe3144fab25",
+  "active": "a143fa0784ea9505",
   "lastOpenFiles": [
-    "GM Info/Miami/Completed missions/synopsise made up/23-14-12.md",
-    "GM Info/Miami/24-1-4.md",
-    "GM Info/Miami/Completed missions/23-11-30.md",
-    "GM Info/Miami/Mission set from Chatgpt.md",
-    "GM Info/Miami/Untitled.md",
-    "New Orleans Game Notes/23-12-16.md",
-    "New Orleans Game Notes/23-12-2.md",
-    "New Orleans Game Notes/23-10-21.md",
-    "New Orleans Game Notes/23-11-4.md",
-    "South Florida Game Notes/23-12-14.md",
-    "House Rules and Clarifications/Matrix Actions.md",
-    "GM Info/Miami/Completed missions/23-11-2.md",
-    "South Florida Game Notes/23-12-7.md",
-    "House Rules.md",
-    "NPCs/Friendly/South Florida/Nexus.md",
-    "GM Info/Miami/Completed missions/synopsise made up/23-12-7.md",
-    "South Florida Game Notes/23-11-30.md",
-    "Homepage.md",
-    "Corps (Local)/South Florida/Cyberscape Nexus.md",
-    "NPCs/Friendly/South Florida/Max (Wired) Rodriguez.md",
-    "GM Info/Miami/rpgmanager/NonPlayerCharacters/Lady Isabella Nightshade.md",
-    "NPCs/Friendly/South Florida/Lady Nightshade.md",
-    "NPCs/Friendly/South Florida/Madame Seraphina.md",
-    "GM Info/Miami/Chatgpt mega.md",
-    "GM Info/Miami/rpgmanager/Untitled.md",
-    "Players/New Orleans/Jester.md",
+    "NPCs/Neutral/South Florida/Bella Suarez.md",
+    "GM Info/Miami/Completed missions/24-1-4.md",
+    "Players/South Florida/Blue.md",
+    "South Florida Game Notes/23-08-24.md",
+    "NPCs/Neutral/South Florida/Benjamin Cooper.md",
+    "NPCs/Neutral/South Florida/Benjamin Santos.md",
+    "NPCs/Neutral/South Florida/Benjamin Sullivan.md",
+    "NPCs/Neutral/South Florida/Colonel Jonathan Mitchell.md",
+    "NPCs/Neutral/South Florida/Chuck Finley.md",
+    "NPCs/Neutral/South Florida/Cassandra (Cass) Reynolds.md",
+    "NPCs/Neutral/South Florida/Carlos Thompson.md",
+    "NPCs/Neutral/South Florida/Carlos Blackwood.md",
+    "NPCs/Neutral/South Florida/Carlos Bennett.md",
+    "NPCs/Neutral/South Florida/Carlos (Whisper) Santos.md",
+    "NPCs/Neutral/South Florida/Carlos (Shadow) Rodriguez.md",
+    "NPCs/Neutral/South Florida/Carlos (Fish) Rodriguez.md",
+    "NPCs/Neutral/South Florida/Captain Emily Johnson.md",
+    "NPCs/Neutral/South Florida/Bunnie.md",
+    "NPCs/Neutral/South Florida/Big Vic.md",
+    "NPCs/Neutral/South Florida/Arthur Jenkins.md",
+    "NPCs/Neutral/South Florida/Angelina (Angel) Ramirez.md",
+    "NPCs/Neutral/South Florida/Andrew Thompson.md",
+    "NPCs/Neutral/South Florida/Amelia Rodriguez.md",
+    "NPCs/Neutral/South Florida/Ambassador Isabella Rossi.md",
+    "NPCs/Neutral/South Florida/Alexander Turner.md",
+    "NPCs/Neutral/South Florida/Alexander Cooper.md",
     "GM Info/Miami/Completed missions/synopsise made up",
     "GM Info/Miami/Completed missions",
     "Images/Pasted image 20231104140934.png",

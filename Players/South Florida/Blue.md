@@ -13,3 +13,7 @@ Loyalty: 2
 
 #### [[../../NPCs/Neutral/South Florida/Dr. Tanaka|Dr. Tanaka]]
 Loyalty: 2
+tipped 5,000 nuyen for surgery of enhanced liver
+
+#### [[../../NPCs/Neutral/South Florida/Bella Suarez|Bella Suarez]]
+Loyalty: 1
