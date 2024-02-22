@@ -8,59 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b50f05981f1fd51c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corps (Local)/South Florida/Cyberscape Nexus.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2ac2fe3144fab25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Neutral/South Florida/Bella Suarez.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "810dc6855ed32cfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "South Florida Game Notes/24-1-18.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dce7869c1c7c6ce4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Miami/Completed missions/24-1-18.md",
+                "file": "GM Info/Miami/24-2-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "South Florida Game Notes/24-1-18.md",
+                "file": "GM Info/Miami/24-2-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "South Florida Game Notes/24-1-18.md",
+                "file": "GM Info/Miami/24-2-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,34 +145,37 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "810dc6855ed32cfc",
+  "active": "dce7869c1c7c6ce4",
   "lastOpenFiles": [
-    "GM Info/Miami/Completed missions/24-1-18.md",
-    "South Florida Game Notes/24-1-18.md",
-    "South Florida Game Notes/24-1-11.md",
+    "GM Info/Miami/Mission set from Chatgpt.md",
+    "GM Info/Miami/24-2-22.md",
+    "GM Info/Miami/Completed missions/synopsise made up/24-1-18.md",
+    "Homepage.md",
     "GM Info/Miami/Completed missions/synopsise made up/24-1-11.md",
-    "South Florida Game Notes/23-12-14.md",
-    "GM Info/Miami/Completed missions/synopsise made up/23-12-7.md",
-    "GM Info/Miami/Completed missions/synopsise made up/23-14-12.md",
-    "GM Info/Miami/Completed missions/23-11-2.md",
-    "GM Info/Miami/Completed missions/23-11-30.md",
-    "GM Info/Miami/Chatgpt mega.md",
+    "South Florida Game Notes/24-2-15.md",
+    "GM Info/Miami/Completed missions/synopsise made up/24-2-8.md",
+    "South Florida Game Notes/24-2-08.md",
+    "South Florida Game Notes/24-1-18.md",
     "GM Info/Miami/old ideas/Joes character.md",
-    "NPCs/Neutral/South Florida/Bella Suarez.md",
-    "Corps (Local)/South Florida/Cyberscape Nexus.md",
-    "Players/South Florida/Blue.md",
-    "South Florida Game Notes/23-08-24.md",
-    "NPCs/Neutral/South Florida/Benjamin Cooper.md",
-    "NPCs/Neutral/South Florida/Benjamin Santos.md",
-    "NPCs/Neutral/South Florida/Benjamin Sullivan.md",
-    "NPCs/Neutral/South Florida/Colonel Jonathan Mitchell.md",
-    "NPCs/Neutral/South Florida/Chuck Finley.md",
-    "NPCs/Neutral/South Florida/Cassandra (Cass) Reynolds.md",
-    "NPCs/Neutral/South Florida/Carlos Thompson.md",
-    "NPCs/Neutral/South Florida/Carlos Blackwood.md",
-    "NPCs/Neutral/South Florida/Carlos Bennett.md",
-    "NPCs/Neutral/South Florida/Carlos (Whisper) Santos.md",
-    "NPCs/Neutral/South Florida/Carlos (Shadow) Rodriguez.md",
+    "GM Info/Miami/old ideas/Campaign Subplot.md",
+    "South Florida Game Notes/24-1-11.md",
+    "South Florida Game Notes/23-12-14.md",
+    "GM Info/Miami/Completed missions/23-11-30.md",
+    "NPCs/Friendly/South Florida/Lady Nightshade.md",
+    "New Orleans Game Notes/24-2-10.md",
+    "Images/Pasted image 20240210140809.png",
+    "NPCs/Friendly/New Orleans/Max.md",
+    "Images/Bar Tender.jpg",
+    "Images/Max.jpg",
+    "New Orleans Game Notes/23-11-4.md",
+    "New Orleans Game Notes/23-12-2.md",
+    "New Orleans Game Notes/23-12-16.md",
+    "NPCs/Friendly/New Orleans/Rose Lacelle.md",
+    "NPCs/Friendly/New Orleans/Old Absenth House.md",
+    "NPCs/Friendly/New Orleans/Molly's.md",
+    "NPCs/Friendly/New Orleans/Melissade DeBussy.md",
+    "NPCs/Friendly/New Orleans/Mario Castro.md",
+    "NPCs/Friendly/New Orleans/Mama Mawu.md",
     "GM Info/Miami/Completed missions/synopsise made up",
     "GM Info/Miami/Completed missions",
     "Images/Pasted image 20231104140934.png",
@@ -229,11 +192,8 @@
     "Images/Pasted image 20231101221729.png",
     "Images/Pasted image 20231101221508.png",
     "GM Info/Miami/NPCs table.xlsx",
-    "Images/shadowrun characters/Veil Keepers.png",
     "Images/shadowrun characters/Veil Keepers.png.opdownload",
-    "Images/shadowrun characters/Aztechnology Merc.png",
     "Images/shadowrun characters/Aztechnology Merc.png.opdownload",
-    "Images/shadowrun characters/Dr Thorne.png",
     "Images/shadowrun characters/Dr Thorne.png.opdownload",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
     "Untitled.canvas"
