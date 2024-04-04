@@ -2,7 +2,7 @@
 
 ![[../../Images/mako.jpeg]]
 
-1Though commonly cagey about her past like most runners what she has let slip and admitted on occasion is that she is a California native who only in the last decade moved to Florida in a effort to get away from the free state and something that happened there. Her distaste of direct authority can be tracked directly to the treatment of metahumans by general Saito and the 'California Protectorates' involvement in metahuman massacres. 
+Though commonly cagey about her past like most runners what she has let slip and admitted on occasion is that she is a California native who only in the last decade moved to Florida in a effort to get away from the free state and something that happened there. Her distaste of direct authority can be tracked directly to the treatment of metahumans by general Saito and the 'California Protectorates' involvement in metahuman massacres. 
 
 A wizard with machines, specifically craft that lack matrix access or that require use off the grid, she can fix almost anything she can drive. Though she claims she used to pilot a flying boat she has never had the opportunity to put that to the test, but if the flight suit in her closet is anything to go by it was sure as hell one strange seaplane. 
 
