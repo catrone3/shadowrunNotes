@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "756d366419c7d122",
+        "id": "a4cc208abd66c54d",
         "type": "tabs",
         "children": [
           {
-            "id": "72e4d51683a6cce8",
+            "id": "60e28395a999e7b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Miami/24-05-02.md",
+                "file": "GM Info/Miami/Mission set from Chatgpt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Info/Miami/24-05-02.md",
+                "file": "GM Info/Miami/Mission set from Chatgpt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM Info/Miami/24-05-02.md",
+                "file": "GM Info/Miami/Mission set from Chatgpt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,36 +145,34 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "72e4d51683a6cce8",
+  "active": "60e28395a999e7b4",
   "lastOpenFiles": [
-    "GM Info/Miami/Completed missions/synopsise made up/24-03-21.md",
-    "South Florida Game Notes/24-04-25.md",
-    "GM Info/Miami/Completed missions/synopsise made up/24-04-25.md",
-    "South Florida Game Notes/24-04-18.md",
-    "GM Info/Miami/Completed missions/synopsise made up/24-04-04.md",
-    "GM Info/Miami/Completed missions/synopsise made up/24-04-18.md",
-    "South Florida Game Notes/24-04-11.md",
-    "South Florida Game Notes/24-04-04.md",
-    "South Florida Game Notes/24-03-28.md",
-    "South Florida Game Notes/24-03-21.md",
-    "GM Info/Miami/New items/Bioweapon XN-12 Strain.md",
-    "GM Info/Miami/NPCs/Dr. Emily Vance.md",
-    "GM Info/Miami/24-05-02.md",
-    "GM Info/Miami/New items",
-    "GM Info/Miami/NPCs/Ares Mr. Johnson.md",
-    "GM Info/Miami/Chatgpt mega.md",
-    "GM Info/Miami/Completed missions/23-11-2.md",
-    "GM Info/Miami/Completed missions/23-11-30.md",
-    "GM Info/Miami/NPCs",
-    "NPCs/Neutral/South Florida/Dr. Emily Vance.md",
-    "NPCs/Neutral/South Florida/Agent Rebecca Sullivan.md",
-    "AAA Corps/Ares.md",
-    "GM Info/Miami/Mission set from Chatgpt.md",
     "Players/South Florida/Blue.md",
+    "GM Info/Miami/Mission set from Chatgpt.md",
+    "GM Info/Miami/2024-04-18.md",
     "GM Info/Miami/old ideas/Joes character.md",
     "GM Info/Miami/old ideas/Campaign Subplot.md",
     "Players/South Florida/Sojourner.md",
     "South Florida Game Notes/24-03-07.md",
+    "South Florida Game Notes/24-2-29.md",
+    "South Florida Game Notes/24-2-22.md",
+    "South Florida Game Notes/24-2-15.md",
+    "South Florida Game Notes/24-2-08.md",
+    "South Florida Game Notes/24-1-18.md",
+    "South Florida Game Notes/23-12-14.md",
+    "South Florida Game Notes/24-04-04.md",
+    "GM Info/Miami/Completed missions/synopsise made up/24-03-28.md",
+    "South Florida Game Notes/23-08-24.md",
+    "South Florida Game Notes/23-09-14.md",
+    "South Florida Game Notes/23-09-21.md",
+    "South Florida Game Notes/23-09-28.md",
+    "South Florida Game Notes/23-10-05.md",
+    "South Florida Game Notes/23-10-12.md",
+    "South Florida Game Notes/23-10-26.md",
+    "South Florida Game Notes/23-11-02.md",
+    "South Florida Game Notes/23-11-16.md",
+    "South Florida Game Notes/23-11-30.md",
+    "South Florida Game Notes/23-12-7.md",
     "Images/Pasted image 20240406142415.png",
     "Images/Pasted image 20240406142358.png",
     "Images/Pasted image 20240309141607.png",
@@ -195,6 +193,8 @@
     "GM Info/Miami/rpgmanager/Sessions/Veil Shatterer",
     "GM Info/Miami/rpgmanager/Scenes/Veil Shatterer",
     "GM Info/Miami/NPCs table.xlsx",
+    "Images/shadowrun characters/Veil Keepers.png.opdownload",
+    "Images/shadowrun characters/Aztechnology Merc.png.opdownload",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
     "Untitled.canvas"
   ]

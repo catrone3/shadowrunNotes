@@ -14,3 +14,5 @@ Contacts
 	- Loyalty: 3
 - [[../../NPCs/Friendly/New Orleans/Mama Mawu|Mama Mawu]]
 	- Loyalty: 2
+- [[../../NPCs/Friendly/New Orleans/Macy Driver|Macy Driver]]
+	- Loyalty:  3
