@@ -1,6 +1,6 @@
 #miami 
 
-![[../../Images/Pasted image 20231101221729.png]]
+![[../../Images/Samsara.png]]
 
 ### Contacts:
 #### [[../../NPCs/Neutral/South Florida/Don Greco|Don Greco]]

@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Paris/24-08-08.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f49b6fb856f7a6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Attica.md",
+                "file": "New Orleans Game Notes/23-7-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "miner",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Info/Paris/24-08-08.md",
+                "file": "New Orleans Game Notes/23-7-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM Info/Paris/24-08-08.md",
+                "file": "New Orleans Game Notes/23-7-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,27 +147,18 @@
   },
   "active": "13feb7e3750798d1",
   "lastOpenFiles": [
-    "House Rules and Clarifications/Magic/Ritual Magic.md",
-    "GM Info/Paris/24-08-08.md",
-    "GM Info/Paris/24-07-18 & 24-07-25.md",
-    "GM Info/Paris/24-07-11.md",
-    "GM Info/Miami/Chatgpt mega.md",
-    "Players/Paris/Untitled.md",
-    "Locations/Attica.md",
-    "Images/Untitled Diagram.drawio",
-    "New Orleans Game Notes/24-05-18.md",
-    "GM Info/Paris/24-06-27.md",
-    "GM Info/Paris/24-06-06.md",
-    "South Florida Game Notes/24-04-18.md",
-    "GM Info/Paris/mission plans/gpt idea.md",
-    "House Rules.md",
-    "GM Info/Paris/mission plans",
-    "New Orleans Game Notes/24-2-24.md",
-    "New Orleans Game Notes/24-03-09.md",
     "New Orleans Game Notes/24-03-19.md",
+    "New Orleans Game Notes/24-03-09.md",
     "New Orleans Game Notes/24-05-4.md",
+    "GM Info/Paris/24-07-11.md",
+    "GM Info/Paris/mission plans/gpt idea.md",
+    "GM Info/Paris/24-06-27.md",
+    "GM Info/Paris/mission plans",
+    "GM Info/Paris/24-06-06.md",
+    "New Orleans Game Notes/24-2-24.md",
     "New Orleans Game Notes/24-2-10.md",
     "New Orleans Game Notes/23-12-16.md",
+    "New Orleans Game Notes/24-05-18.md",
     "New Orleans Game Notes/23-11-4.md",
     "New Orleans Game Notes/23-10-21.md",
     "New Orleans Game Notes/23-7-29.md",
@@ -187,6 +166,14 @@
     "New Orleans Game Notes/23-5-20.md",
     "New Orleans Game Notes/23-7-1.md",
     "Players/New Orleans/Nines.md",
+    "South Florida Game Notes/24-2-29.md",
+    "South Florida Game Notes/24-05-23.md",
+    "Denver Prime Game notes/22-5-21.md",
+    "Players/Denver Prime/Incubus.md",
+    "Players/Denver Prime.md",
+    "GM Info/Miami/Completed missions/23-11-30.md",
+    "GM Info/Miami/Run ideas.md",
+    "GM Info/Miami/Temp document.md",
     "GM Info/Paris",
     "Images/attachments/Tiger Syndikat.png",
     "Images/attachments/Stirrup Interface.png",
@@ -205,6 +192,7 @@
     "GM Info/Miami/New items",
     "GM Info/Miami/NPCs",
     "NPCs/Neutral/New Orleans",
+    "GM Info/Miami/Completed missions/synopsise made up",
     "GM Info/Miami/Veil Shatterer campaign actions.canvas",
     "Canvas.canvas",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",

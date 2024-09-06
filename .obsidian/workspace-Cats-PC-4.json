@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb4f0d2421692fbf",
+        "id": "5ae77b2c355fb049",
         "type": "tabs",
         "children": [
           {
-            "id": "13feb7e3750798d1",
+            "id": "a0ad02f6ca61f841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Paris/24-08-08.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f49b6fb856f7a6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Attica.md",
+                "file": "NPCs/Friendly/France/Blood Butterfly.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -83,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "f272726064d725ac",
@@ -99,13 +86,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Info/Paris/24-08-08.md",
+                "file": "NPCs/Friendly/France/Blood Butterfly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM Info/Paris/24-08-08.md",
+                "file": "NPCs/Friendly/France/Blood Butterfly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,55 +145,55 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "13feb7e3750798d1",
+  "active": "a0ad02f6ca61f841",
   "lastOpenFiles": [
-    "House Rules and Clarifications/Magic/Ritual Magic.md",
-    "GM Info/Paris/24-08-08.md",
-    "GM Info/Paris/24-07-18 & 24-07-25.md",
-    "GM Info/Paris/24-07-11.md",
-    "GM Info/Miami/Chatgpt mega.md",
-    "Players/Paris/Untitled.md",
-    "Locations/Attica.md",
-    "Images/Untitled Diagram.drawio",
-    "New Orleans Game Notes/24-05-18.md",
-    "GM Info/Paris/24-06-27.md",
-    "GM Info/Paris/24-06-06.md",
-    "South Florida Game Notes/24-04-18.md",
-    "GM Info/Paris/mission plans/gpt idea.md",
+    "Images/shadowrun characters/Blood Butterfly.jpg",
+    "NPCs/Friendly/France/Blood Butterfly.md",
+    "Players/New Orleans.md",
+    "Homepage.md",
     "House Rules.md",
-    "GM Info/Paris/mission plans",
-    "New Orleans Game Notes/24-2-24.md",
-    "New Orleans Game Notes/24-03-09.md",
-    "New Orleans Game Notes/24-03-19.md",
-    "New Orleans Game Notes/24-05-4.md",
-    "New Orleans Game Notes/24-2-10.md",
-    "New Orleans Game Notes/23-12-16.md",
-    "New Orleans Game Notes/23-11-4.md",
-    "New Orleans Game Notes/23-10-21.md",
-    "New Orleans Game Notes/23-7-29.md",
-    "New Orleans Game Notes/23-7-15.md",
-    "New Orleans Game Notes/23-5-20.md",
-    "New Orleans Game Notes/23-7-1.md",
-    "Players/New Orleans/Nines.md",
-    "GM Info/Paris",
-    "Images/attachments/Tiger Syndikat.png",
-    "Images/attachments/Stirrup Interface.png",
-    "Images/attachments/Pasted image 20230715141552.png",
-    "Images/attachments/Pasted image 20230715141439.png",
-    "Images/attachments/Pasted image 20230421140050.png",
-    "Images/attachments/Pasted image 20230421135939.png",
-    "Images/attachments/Pasted image 20230421135730.png",
-    "Images/attachments/Pasted image 20230408140717.png",
-    "Images/attachments/Pasted image 20230211135728.png",
-    "Images/attachments/Pasted image 20230211135711.png",
+    "Locations/South Florida.md",
+    "Locations/Front Range Free Zone.md",
+    "Locations/New Orleans.md",
+    "Locations/Morocco.md",
+    "Locations/Montreal.md",
+    "Locations/London.md",
+    "Locations/Hong Kong.md",
+    "Locations/Germany.md",
+    "Locations/Cuba.md",
+    "Locations/Attica.md",
+    "Locations/Greece/Structures/The Temple of Delphi.md",
+    "Locations/Greece/Structures/The Parthenon.md",
+    "Locations/Greece/Structures/The Catacomes of Athens.md",
+    "Locations/Palau.md",
+    "AAA Corps/Ares/Ares Arms Factory.md",
+    "AAA Corps/Ares/Ares Spire.md",
+    "AAA Corps/Ares.md",
+    "AAA Corps/Ares/Lexington Apartments.md",
+    "AAA Corps/Ares/UnlimiTech Office.md",
+    "AAA Corps/Ares/Cerebrotech Factory.md",
+    "AAA Corps/Ares/Ares-McAuliffe International School.md",
     "Players/Paris/Untitled",
     "Players/Paris",
     "Definitions",
+    "Images/Pasted image 20240518164505.png",
+    "Images/mayor_candidette.jpg",
+    "Images/Pasted image 20240518142443.png",
+    "Images/Pasted image 20240504164404.png",
     "Locations/France",
+    "Images/Pasted image 20240504164340.png",
+    "Images/Pasted image 20240504163420.png",
+    "Images/Pasted image 20240504134002.png",
+    "Images/Pasted image 20240504133709.png",
     "GM Info/Miami/New items",
     "GM Info/Miami/NPCs",
+    "Images/Pasted image 20240406142415.png",
+    "Images/Pasted image 20240406142358.png",
     "NPCs/Neutral/New Orleans",
+    "GM Info/Miami/Completed missions/synopsise made up",
+    "GM Info/Miami/Completed missions",
     "GM Info/Miami/Veil Shatterer campaign actions.canvas",
+    "GM Info/Miami/Completed ideas",
     "Canvas.canvas",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
     "Untitled.canvas"

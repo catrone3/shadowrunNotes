@@ -12,14 +12,14 @@
 - [[New Orleans/Old Man Bones|Old Man Bones]]
 
 # Game Notes
-| Date                                           | Karma | Nuyen |
-| ---------------------------------------------- | ----- | ----- |
-| [[../New Orleans Game Notes/23-3-25\|23-3-25]] |       |       |
-| [[../New Orleans Game Notes/23-4-8\|23-4-8]]   |       |       |
-| [[../New Orleans Game Notes/23-5-20\|23-5-20]] |       |       |
-| [[../New Orleans Game Notes/23-7-1\|23-7-1]]   |       |       |
-| [[../New Orleans Game Notes/23-7-15\|23-7-15]] |       |       |
-| [[../New Orleans Game Notes/23-7-29\|23-7-29]] |       |       |
+| Date | Karma | Nuyen |
+| --- | --- | --- |
+| [[../New Orleans Game Notes/23-3-25\|23-3-25]] | | |
+| [[../New Orleans Game Notes/23-4-8\|23-4-8]] | | |
+| [[../New Orleans Game Notes/23-5-20\|23-5-20]] | | |
+| [[../New Orleans Game Notes/23-7-1\|23-7-1]] | | |
+| [[../New Orleans Game Notes/23-7-15\|23-7-15]] | | |
+| [[../New Orleans Game Notes/23-7-29\|23-7-29]] | | |
 
 # Contacts
 
@@ -35,7 +35,7 @@
 - [[../NPCs/Friendly/New Orleans/Jardis Balise|Jardis Balise]]
 - [[../NPCs/Friendly/New Orleans/Jessy Roy|Jessy Roy]]
 - [[../NPCs/Friendly/New Orleans/John Pau Morrell|John Pau Morrell]]
-- [[../NPCs/Friendly/New Orleans/June Bug Reavers|June Bug Reavers]]]
+- [[../NPCs/Friendly/New Orleans/June Bug Reavers|June Bug Reavers]]
 - [[../NPCs/Friendly/New Orleans/Mama Mawu|Mama Mawu]]
 - [[../NPCs/Friendly/New Orleans/Mario Castro|Mario Castro]]
 - [[../NPCs/Friendly/New Orleans/Melissade DeBussy|Melissade DeBussy]]
