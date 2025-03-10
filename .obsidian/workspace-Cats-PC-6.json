@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM Info/Paris/mission plans/Campaign 3 gpt ideas.md",
+                "file": "GM Info/Paris/24-09-12.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Campaign 3 gpt ideas"
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f49b6fb856f7a6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Attica.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -41,11 +52,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -54,15 +62,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "So you want to go to court",
-                "matchingCase": true,
+                "query": "Meia",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -70,16 +76,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 200
   },
   "right": {
     "id": "f272726064d725ac",
@@ -95,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Info/Paris/mission plans/Campaign 3 gpt ideas.md",
+                "file": "GM Info/Paris/24-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +107,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Campaign 3 gpt ideas"
+              }
             }
           },
           {
@@ -113,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           },
           {
@@ -124,11 +124,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GM Info/Paris/24-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              }
             }
           },
           {
@@ -136,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "state": {}
             }
           }
         ]
@@ -162,35 +159,32 @@
   },
   "active": "13feb7e3750798d1",
   "lastOpenFiles": [
-    "GM Info/Paris/mission plans/Getting a Dis battery.md",
-    "GM Info/Paris/mission plans/gpt idea campaign 1.md",
-    "NPCs/Neutral/Nadja Davier.md",
-    "GM Info/Paris/mission plans/Campaign 3 gpt ideas.md",
-    "GM Info/Paris/mission plans/campaign 2 gpt ideas.md",
-    "House Rules and Clarifications/Magic/Great Form Spirit.md",
-    "House Rules and Clarifications/Magic/4th World Magic.md",
-    "House Rules and Clarifications/Magic/Spellblades.md",
-    "House Rules and Clarifications/Magic/Ritual Magic.md",
-    "House Rules and Clarifications/Magic/Quickend Spells.md",
-    "House Rules and Clarifications/Magic/Reagents.md",
-    "House Rules and Clarifications/Magic/Magic.md",
-    "Definitions/extraterritoriality.md",
-    "Players/Denver Prime.md",
-    "Morocco Game Notes/22-5-22.md",
-    "Morocco Game Notes/22-5-8.md",
-    "Denver Prime Game notes/21-10-23.md",
-    "Denver Prime Game notes/21-8-28.md",
-    "Denver Prime Game notes/21-8-14.md",
-    "Denver Prime Game notes/21-7-31.md",
-    "Denver Prime Game notes/21-7-17.md",
-    "Denver Prime Game notes/21-7-3.md",
-    "Denver Prime Game notes/21-6-19.md",
-    "Denver Prime Game notes/22-1-2.md",
+    "Locations/FRFZ/Brighton.md",
+    "Locations/FRFZ/Geographic Locations/Cheyenne Mountain.md",
+    "Locations/FRFZ/Geographic Locations/Denver Nexus.md",
+    "Locations/FRFZ/Boulder.md",
+    "Locations/FRFZ/Arvada.md",
+    "Locations/FRFZ/Aurora Warrens.md",
+    "Corps (Local)/FRFZ/Arvada/Vitals Wellness Clinic, Wheat Ridge.md",
+    "Corps (Local)/FRFZ/Arvada/Olde Towne Station Apartments.md",
+    "NPCs/Friendly/Denver/Meia.md",
+    "NPCs/Neutral/Ma-u.md",
+    "NPCs/Unfriendly/Leonardo Costa.md",
+    "NPCs/Unfriendly/Ling T'ien.md",
+    "NPCs/Friendly/Denver/Leah.md",
+    "Players/Denver Prime/Swiss.md",
+    "NPCs/Neutral/Kai.md",
     "Denver Prime Game notes/21-12-18.md",
-    "Denver Prime Game notes/21-12-4.md",
-    "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
-    "Litehouse Industries",
-    "Canvas.canvas",
+    "NPCs/Friendly/Denver/Ivy.md",
+    "Players/Denver Prime/Incubus.md",
+    "Denver Prime Game notes/21-7-17.md",
+    "Denver Prime Game notes/22-6-4.md",
+    "NPCs/Friendly/Denver/Coco.md",
+    "Players/Denver Prime/Cat.md",
+    "NPCs/Friendly/New Orleans/Max.md",
+    "NPCs/Neutral/Denver/DataMax.md",
+    "Players/South Florida/Mako.md",
+    "South Florida Game Notes/23-09-14.md",
     "Images/Untitled Diagram.drawio",
     "GM Info/Paris/mission plans",
     "GM Info/Paris",
@@ -210,7 +204,10 @@
     "Locations/France",
     "GM Info/Miami/New items",
     "GM Info/Miami/NPCs",
+    "NPCs/Neutral/New Orleans",
     "GM Info/Miami/Veil Shatterer campaign actions.canvas",
+    "Canvas.canvas",
+    "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
     "Untitled.canvas"
   ]
 }

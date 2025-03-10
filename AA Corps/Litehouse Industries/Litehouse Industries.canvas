@@ -26,10 +26,10 @@
 		{"type":"file","file":"AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md","id":"49a69cec67cf9e6d","x":-3520,"y":1480,"width":400,"height":400},
 		{"type":"file","file":"AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Construction.md","id":"440ab7b72e0eda7e","x":-4000,"y":1480,"width":400,"height":400},
 		{"type":"file","file":"AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Aerospace.md","id":"b1e6f01ae217b086","x":-4480,"y":1480,"width":400,"height":400},
-		{"id":"8830142157433571","x":-5840,"y":2040,"width":400,"height":400,"type":"file","file":"AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Litehouse news.md"},
-		{"id":"3690aa337774d617","x":-5360,"y":2040,"width":400,"height":400,"type":"file","file":"AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Blood and Chrome.md"},
-		{"id":"f9ddd4bdfe9aebb5","x":-4880,"y":2040,"width":400,"height":400,"type":"file","file":"AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/The Guanxi Gambit.md"},
-		{"id":"e19faf1e1f38d219","x":-4400,"y":2040,"width":400,"height":400,"type":"file","file":"AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md"}
+		{"id":"8830142157433571","type":"file","file":"AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Litehouse news.md","x":-5840,"y":2040,"width":400,"height":400},
+		{"id":"3690aa337774d617","type":"file","file":"AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Blood and Chrome.md","x":-5360,"y":2040,"width":400,"height":400},
+		{"id":"f9ddd4bdfe9aebb5","type":"file","file":"AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/The Guanxi Gambit.md","x":-4880,"y":2040,"width":400,"height":400},
+		{"id":"e19faf1e1f38d219","type":"file","file":"AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md","x":-4400,"y":2040,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"e57e2b935b68ccf3","fromNode":"37f2154c770ac610","fromSide":"bottom","toNode":"c0d8eec5bedc3974","toSide":"top"},

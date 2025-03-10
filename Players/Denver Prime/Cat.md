@@ -105,3 +105,18 @@ general whitebear
 
 ###### Other info
 Electra
+
+**__Player Discord:__**  @catrone3 
+**__Runner Handle:__**  Cat
+**__Character Archetype:__**  Fixer/Sniper
+**__Awakened Status:__**  Awakened
+**__Runner Persona:__**  
+**__Reputation [Runner]:__**  
+**__Area of Operations:__** 
+**__Background [Runner]:__**  
+**__SIN Handle:__**  
+**__SIN Persona:__**  
+**__Metatype:__**  
+**__Reputation [Public]:__**  
+**__Background [Publically Available]:__**  
+**__Attached Images:__**  
