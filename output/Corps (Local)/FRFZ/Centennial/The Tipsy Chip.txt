@@ -1,0 +1,17 @@
+<p>#Denver</p>
+
+= Divisions =
+
+One of the coolest bars I’ve ever been to is the Tipsy Chip. It’s built in a basement and very reminiscent of a British pub. It also has a strange collection of Aztlan trophies, supposedly liberated during the brief Aztlan occupation of the area. The owner is Papa Tepin, a hacker who is constantly tweaking the bar’s host. He holds nightly hackathons to see which hacker can put their tag on the host first. First one to hack it gets free drinks and bragging rights.
+> Don’t bring your sprites or complex forms to this party, folks.
+Anyone caught using those is automatically expelled. You can
+use your technomancy all you want, but you’ve got to play by
+the same rules as the other hackers. No agents, no sprites, no
+teams, and no complex forms. May be the best hacker win!
+> Voxel
+District: [[Locations/FRFZ/Centennial|Centennial]]
+
+
+[[Category:National Corp]]
+[[Category:6th]]
+[[Category:Denver]]

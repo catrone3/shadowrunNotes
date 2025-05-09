@@ -1,0 +1,17 @@
+<p>#Denver</p>
+
+= Divisions =
+
+Nestled amidst the charming façade of a late 1990s frontier-themed construction, the Overmon-Aberny exudes an air of rustic kitsch. However, beneath its deceptive log cabin décor lies a corporate-friendly haven equipped with cutting-edge technology and a plethora of modern amenities. Don't be fooled by its whimsical appearance, for this establishment boasts top-notch security that rivals the best in the sector. Formerly part of the SDF, the highly skilled security personnel undergo annual training, a testament to the management's commitment to maintaining their expertise and ensuring the utmost safety for their guests.
+Don’t let the log cabin décor fool you—this corporate-friendly hotel has some of the best physical security in the sector. Most of the security here are former Sioux Defense Force, and the management ensures their skills stay sharp by giving them a month each year for training. They also make extensive use of traps and alarms to supplement their staff, allowing them to respond to threats quickly.
+> Their Matrix security is pretty weak, to be honest. These guys focus so hard on traditional combat that they forget just how vulnerable they are to a Matrix assault. One good hack, and you can be in their PAN and messing with their systems before they know what happened.
+> Voxel
+> Though they do have some spirits on site, their magical security could use a boost.
+> Bifrost
+Hotel, Dining
+District: [[Locations/FRFZ/The Hub|The Hub]]
+
+
+[[Category:National Corp]]
+[[Category:2nd]]
+[[Category:Denver]]

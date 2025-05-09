@@ -1,0 +1,11 @@
+<p>#Denver</p>
+
+= Divisions =
+
+Just your average, run-of-the-mill pet clinic catering to a rural community. Or it would be, if not for the fact that Safiya’s a gifted geneticist. She can actually whip up some chimeric animals in this clinic, which makes her a tidy sum on the black market. If you need some patching up while you’re in Brighton, Safiya’s a good person to know. In addition to her pet clinic, she operates as a rural version of a street doc.
+Disctrict: [[Locations/FRFZ/Brighton|Brighton]]
+
+
+[[Category:National Corp]]
+[[Category:6th]]
+[[Category:Denver]]

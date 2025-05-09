@@ -1,0 +1,10 @@
+<p>#Denver</p>
+
+= Divisions =
+
+The FRTA is the arm of Ghostwalker’s Administration that is responsible for maintaining the subway system throughout the Demesne. In the past, these stations were run by different nations, but now they are all unified. These stations serve the purpose of providing a checkpoint for national sectors, as well as to change trains within the Demesne. Changing trains within the Demesne is a simple act that doesn’t require anything special. However, changing trains to or from a national sector requires additional screening.
+District: [[Locations/FRFZ/Lakewood|Lakewood]]
+
+
+[[Category:National Corp]]
+[[Category:Denver]]

@@ -1,0 +1,14 @@
+<p>#Denver</p>
+
+= Divisions =
+
+The Rack is located a few blocks south of the old Mile-High Stadium. right down on the shore of the South Platte River. The place has a particularly bad reputation even for a coffin hotel, and nobody In his right mind would ever stay there. Unless he's counting on the Rack"s rep to keep pursuers oﬀ his back.
+Info: Coffin Hotel Archetype
+Bias: No Racial Bias
+Address: 2501 16th St, Denver, CO 80211
+District: [[Locations/FRFZ/Arvada|Arvada]]
+
+
+[[Category:National Corp]]
+[[Category:2nd]]
+[[Category:Denver]]

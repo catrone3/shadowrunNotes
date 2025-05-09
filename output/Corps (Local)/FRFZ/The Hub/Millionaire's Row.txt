@@ -1,0 +1,10 @@
+<p>#Denver</p>
+
+= Divisions =
+
+The neighborhood known as Millionaire’s Row has been around for almost as long as the city of Denver. Many of the houses here have passed through six or more generations of old money. The whole area is heavily patrolled by Lone Star drones, constantly scanning for SINs. The residents here are exceptionally wealthy, or occasionally their only wealth is the house they inherited.
+District: [[Locations/FRFZ/The Hub|The Hub]]
+
+
+[[Category:National Corp]]
+[[Category:Denver]]

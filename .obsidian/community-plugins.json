@@ -5,12 +5,11 @@
   "metadata-extractor",
   "obsidian-linter",
   "find-unlinked-files",
-  "ai-commander",
-  "cmdr",
   "obsidian-tabs",
   "obsidian-regex-replace",
   "obsidian-pandoc",
   "templater-obsidian",
   "markdown-table-editor",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "obsidian-style-settings"
 ]

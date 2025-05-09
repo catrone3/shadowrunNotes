@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "3cea7d7c3230f7c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb4f0d2421692fbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13feb7e3750798d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM Info/Paris/mission plans/Campaign 3 gpt ideas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Campaign 3 gpt ideas"
+            }
+          },
+          {
+            "id": "c7094e5fc5921243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Litehouse Manufacturing"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a142d5665189053",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4257aa4bfc416ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a143fa0784ea9505",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "83fe7f36a7d51964",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "805276002e252d9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "f272726064d725ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1d3c5b13813192b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1997ddfff4547b33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Litehouse Manufacturing"
+            }
+          },
+          {
+            "id": "17c028d156c8c8c7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "36ae5c0622b53f20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1448a1aeeaef1e53",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c7094e5fc5921243",
+  "lastOpenFiles": [
+    "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Construction.md",
+    "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Aerospace.md",
+    "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.md",
+    "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production.md",
+    "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.md",
+    "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.md",
+    "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.md",
+    "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/The Guanxi Gambit.md",
+    "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Litehouse news.md",
+    "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Blood and Chrome.md",
+    "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing.md",
+    "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.md",
+    "AA Corps/Litehouse Industries/Genesis Medical/Genesis Avista Hospital.md",
+    "AA Corps/Litehouse Industries/Genesis Medical/Genesis Medical Clinic Aurora.md",
+    "AA Corps/Litehouse Industries/Genesis Medical/Genesis Medical Hospital.md",
+    "AA Corps/Litehouse Industries/Genesis Medical/Genesis Summit Medical Clinic.md",
+    "AA Corps/Litehouse Industries/Genesis Medical/Platte River Medical Clinic.md",
+    "AA Corps/Litehouse Industries/Genesis Medical/Sperm Banks.md",
+    "GM Info/Paris/mission plans/Campaign 3 gpt ideas.md",
+    "A Corps/Safe Life Defense.md",
+    "A Corps/Nexus Research Group.md",
+    "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.txt",
+    "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.txt",
+    "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.txt",
+    "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Blood and Chrome.txt",
+    "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.txt",
+    "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.txt~RF283ade50.TMP",
+    "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Litehouse news.txt",
+    "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/The Guanxi Gambit.txt",
+    "output/AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.txt",
+    "output/AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing/Project Ideas.txt",
+    "A Corps/Ardat-Lili Cyberware.md",
+    "AA Corps/Litehouse Industries/1UP!.md",
+    "AA Corps/Atlantean Foundation.md",
+    "AA Corps/DocWagon.md",
+    "GM Info/Paris/mission plans/campaign 2 gpt ideas.md",
+    "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
+    "Canvas.canvas",
+    "Images/attachments/Tiger Syndikat.png",
+    "Images/attachments/Stirrup Interface.png",
+    "Images/attachments/Pasted image 20230715141552.png",
+    "Images/attachments/Pasted image 20230715141439.png",
+    "Images/attachments/Pasted image 20230421140050.png",
+    "Images/attachments/Pasted image 20230421135939.png",
+    "Images/attachments/Pasted image 20230421135730.png",
+    "Images/attachments/Pasted image 20230408140717.png",
+    "Images/attachments/Pasted image 20230211135728.png",
+    "Images/attachments/Pasted image 20230211135711.png",
+    "GM Info/Miami/Veil Shatterer campaign actions.canvas",
+    "Untitled.canvas"
+  ]
+}

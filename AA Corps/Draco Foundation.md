@@ -5,3 +5,13 @@
 
 ##### Known Drakes
 [[../NPCs/Friendly/Denver/Blitz|Blitz]]
+
+##### Western Europe group
+Paris VP:
+Eden Poitras
+- 88 years old
+- human
+VP of Western Europe:
+Ibrahima Dubuc
+- 41 years old
+- Ork

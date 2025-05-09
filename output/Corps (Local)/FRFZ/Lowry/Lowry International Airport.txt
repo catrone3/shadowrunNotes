@@ -1,0 +1,11 @@
+<p>Located near the site of the former Lowry Air Force Base, Lowry International is a small airport that, due to the small runway, is only rated to handle semi-ballistic, suborbital, and HSCT flights. There are also facilities for VTOL aircraft, such as helicopters and skycabs. Rumors say that there were missile silos buried under the facilities, along with a command-and-control bunker. No one has found evidence of these things, but the rumors persist.</p>
+
+= Divisions =
+
+District: [[Locations/FRFZ/Lowry|Lowry]]
+
+
+[[Category:National Corp]]
+[[Category:2nd]]
+[[Category:4th]]
+[[Category:6th]]

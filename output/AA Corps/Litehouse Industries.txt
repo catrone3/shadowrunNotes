@@ -1,0 +1,43 @@
+<p>#AA_Corporation #Denver</p>
+
+= Divisions =
+
+![[Images/attachments/litehouse logo.png|700]]
+==== Owners ====
+* [[Players/Denver Prime/Cat|Cat]]
+* [[NPCs/Friendly/Denver/Merlin|Merlin]]
+* [[Players/Denver Prime/Incubus|Incubus]]
+* [[Players/London/Nightowl|Nightowl]]
+* [[Players/London/Elfo|Elfo]]
+==== Litehouse Industries Original Board ====
+* [[Players/Denver Prime/Cat|Cat]] - 3 Votes
+* [[NPCs/Friendly/Denver/Merlin|Merlin]] - 2 Votes
+* [[NPCs/Friendly/Denver/Kalt|Kalt]] - 2 Votes
+* [[NPCs/Friendly/Denver/Jess|Jess]] - 1 Vote
+* [[NPCs/Friendly/Denver/Steve|Steve]] - 1 Vote
+==== Litehouse Industries Current Board ====
+1 vote each
+* [[Players/Denver Prime/Cat|Cat]]
+* [[NPCs/Friendly/Denver/Merlin|Merlin]]
+* [[Players/Denver Prime/Incubus|Incubus]]
+* [[Players/London/Elfo|Elfo]]
+* [[Players/London/Nightowl|Nightowl]]
+==== Corporate Layout ====
+![[Litehouse Industries/Litehouse Industries.canvas|Litehouse Industries/Litehouse Industries.canvas]]
+==== [[Players/Denver Prime/Cat| Cat]] Owns ====
+* [[Litehouse Industries/1UP!|1UP!]]
+* [[Litehouse Industries/Litehouse Brand|Litehouse Brand]]
+* [[Litehouse Industries/Genesis Medical|Genesis Medical]]
+* [[Litehouse Industries/The Apollo Group|The Apollo Group]]
+* Yearly Profit 19.42 Mil nuyen
+==== [[Players/Denver Prime/Incubus|Incubus]] Owns ====
+* [[Litehouse Industries/Incubus Club|Incubus Club]]
+-
+==== [[Players/London/Nightowl|Nightowl]] Owns ====
+* [[Litehouse Industries/Mercea Conglomerate|Mercea Conglomerate]]
+* [[Litehouse Industries/Rainbow Corp|Rainbow Corp]]
+
+
+[[Category:AA Corp]]
+[[Category:AA Corporation]]
+[[Category:Denver]]

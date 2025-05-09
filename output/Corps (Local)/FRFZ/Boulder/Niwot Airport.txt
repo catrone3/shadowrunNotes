@@ -1,0 +1,13 @@
+<p>#Denver</p>
+
+= Divisions =
+
+Niwot was the former Ute sector airport. It previously served as the Boulder municipal airport until the Ute government expanded it so they could have their own airport. When the PCC took over the Ute sector, arguments were made that it should be closed down, mostly because Sedalia was already underutilized, but former Ute government officials made a case for it being retained. For a while it was used primarily for [[Factions/FRFZ/Zone Defense Force|ZDF]] and corp flights, with only a token service to other former Ute airports. However, with [[AAA Corps/Horizon|Horizon]] making serious investments in Boulder and a major university campus opening, the airport has been brought up to PCC standards, with a [[AAA Corps/Horizon|Horizon]] terminal built just to handle their traffic, the civilian airport refurnished, and additional flights added to the rebuilding University of Colorado, as well as the universities supporting that reconstruction.
+District: [[Locations/FRFZ/Boulder|Boulder]]
+
+
+[[Category:National Corp]]
+[[Category:2nd]]
+[[Category:4th]]
+[[Category:6th]]
+[[Category:Denver]]

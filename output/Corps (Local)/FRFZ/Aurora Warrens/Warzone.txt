@@ -1,0 +1,10 @@
+<p>#Denver</p>
+
+= Divisions =
+
+The Warzone was the epicenter of the [[Locations/FRFZ/Aurora Warrens|Aurora Warrens]]. It’s where the whole blight began to spread, and because of that “cultural significance” the gangs fight over this area constantly. The winner is generally short-lived, holding the neighborhood for hours or maybe days before losing it to someone else. The few residents here are the truly desperate, even by Warrens standards.
+District: [[Locations/FRFZ/Aurora Warrens|Aurora Warrens]]
+
+
+[[Category:National Corp]]
+[[Category:Denver]]

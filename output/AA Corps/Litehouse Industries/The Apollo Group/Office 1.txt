@@ -1,0 +1,8 @@
+== Office 1 ==
+
+#Seattle
+===== Building =====
+![[Images/floor plans and buildings/office building 1.jpg|Images/floor plans and buildings/office building 1.jpg]]
+
+[[Category:AA Corp]]
+[[Category:Seattle]]

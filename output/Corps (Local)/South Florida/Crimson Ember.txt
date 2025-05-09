@@ -1,0 +1,11 @@
+<p>#miami</p>
+
+= Divisions =
+
+Type: Restaurant
+Address: 245 Miracle Mile, Coral Gables, Miami, FL 33134
+Nestled amidst the vibrant streets of Coral Gables, the Crimson Ember restaurant beckons patrons with an air of mystique and sophistication. The exterior boasts a sleek, crimson facade adorned with subtle magical enchantments that cast a warm, ember-like glow in the evening. As patrons step inside, they are greeted by an intimate ambiance, accentuated by dim lighting and plush, burgundy-hued furnishings. The menu offers a fusion of traditional and contemporary magical cuisine, carefully curated to tantalize both mundane and awakened palates. From signature cocktails crafted with enchanted spirits to meticulously prepared dishes that blend flavors from across the world, Crimson Ember serves as a haven for those seeking discreet meetings or simply desiring an otherworldly dining experience. The discreet and secluded atmosphere makes it a favored location for individuals involved in the clandestine world of shadows.
+
+
+[[Category:National Corp]]
+[[Category:miami]]

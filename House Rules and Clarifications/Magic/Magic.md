@@ -25,3 +25,4 @@ Fear power:
 - Illusion spells are pass/fail unless otherwise stated.
 	- The exceptions are house rules on the Invisiblity spells and sound barrier that provide a negative to the perception test.
 - AOE Indirect get counterspell added to their soak.
+- Active detection spells are blocked by astral barriers and trigger FAB sensors, Passive detection spells aren

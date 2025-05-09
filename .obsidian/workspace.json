@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Campaign 3 gpt ideas"
             }
+          },
+          {
+            "id": "c7094e5fc5921243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AAA Corps/Ares.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ares"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "So you want to go to court",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Info/Paris/mission plans/Campaign 3 gpt ideas.md",
+                "file": "AAA Corps/Ares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +121,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Campaign 3 gpt ideas"
+              "title": "Backlinks for Ares"
             }
           },
           {
@@ -141,7 +157,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,44 +173,49 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "cmdr:Obsidian Git: Create backup": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13feb7e3750798d1",
+  "active": "17c028d156c8c8c7",
   "lastOpenFiles": [
-    "GM Info/Paris/mission plans/Getting a Dis battery.md",
-    "GM Info/Paris/mission plans/gpt idea campaign 1.md",
-    "NPCs/Neutral/Nadja Davier.md",
-    "GM Info/Paris/mission plans/Campaign 3 gpt ideas.md",
+    "A Corps/Warpdrive Systems.md",
+    "AA Corps/Marriott International/Denver West Marriott.md",
+    "AA Corps/Marriott International.md",
+    "AA Corps/Draco Foundation.md",
+    "AA Corps/DocWagon.md",
+    "AA Corps/Blue Steel Industries.md",
+    "AA Corps/Atlantean Foundation.md",
+    "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/The Elegance Tower.md",
+    "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing.md",
+    "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.md",
+    "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing/Project Ideas.md",
+    "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Atlanta Factory.md",
+    "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Seattle Site.md",
+    "AA Corps/Litehouse Industries/Mercea Conglomerate.md",
+    "AA Corps/Litehouse Industries/Denver School for Advanced Learning.md",
+    "output/A Corps/Spiritech/SpiriTech Headquarters.txt",
+    "output/A Corps/Safe Life Defense/Vitals Hospital.txt",
+    "output/A Corps/Omni Corp/OmniCorp Security Solutions.txt",
+    "output/A Corps/Omni Corp/OmniTech Solutions.txt",
+    "output/A Corps/Aegis/Aegis Accounting Services.txt",
+    "output/A Corps/Aegis/Aegis Cognito Office.txt",
+    "output/A Corps/Mesametric/Mesametric Factory.txt",
+    "output/A Corps/Aegis.txt",
+    "output/A Corps/Ardat-Lili Cyberware.txt",
+    "output/A Corps/Azimuth Corporation.txt",
+    "AA Corps/Litehouse Industries/Genesis Medical.md",
+    "AA Corps/Litehouse Industries/Incubus Club.md",
+    "AA Corps/Litehouse Industries/Litehouse Brand.md",
     "GM Info/Paris/mission plans/campaign 2 gpt ideas.md",
-    "House Rules and Clarifications/Magic/Great Form Spirit.md",
-    "House Rules and Clarifications/Magic/4th World Magic.md",
-    "House Rules and Clarifications/Magic/Spellblades.md",
-    "House Rules and Clarifications/Magic/Ritual Magic.md",
-    "House Rules and Clarifications/Magic/Quickend Spells.md",
-    "House Rules and Clarifications/Magic/Reagents.md",
-    "House Rules and Clarifications/Magic/Magic.md",
-    "Definitions/extraterritoriality.md",
-    "Players/Denver Prime.md",
-    "Morocco Game Notes/22-5-22.md",
-    "Morocco Game Notes/22-5-8.md",
-    "Denver Prime Game notes/21-10-23.md",
-    "Denver Prime Game notes/21-8-28.md",
-    "Denver Prime Game notes/21-8-14.md",
-    "Denver Prime Game notes/21-7-31.md",
-    "Denver Prime Game notes/21-7-17.md",
-    "Denver Prime Game notes/21-7-3.md",
-    "Denver Prime Game notes/21-6-19.md",
-    "Denver Prime Game notes/22-1-2.md",
-    "Denver Prime Game notes/21-12-18.md",
-    "Denver Prime Game notes/21-12-4.md",
+    "AA Corps/Litehouse Industries.md",
+    "AA Corps/Litehouse Industries/The Apollo Group/Office 1.md",
+    "AA Corps/Litehouse Industries/The Apollo Group/Office 2.md",
+    "AA Corps/Litehouse Industries/The Apollo Group/Security Programs.md",
+    "AA Corps/Litehouse Industries/The Apollo Group/Original Office.md",
+    "AA Corps/Litehouse Industries/The Apollo Group/IC Designs.md",
+    "AA Corps/Litehouse Industries/The Apollo Group/Host Upgrades.md",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
-    "Litehouse Industries",
     "Canvas.canvas",
-    "Images/Untitled Diagram.drawio",
-    "GM Info/Paris/mission plans",
-    "GM Info/Paris",
     "Images/attachments/Tiger Syndikat.png",
     "Images/attachments/Stirrup Interface.png",
     "Images/attachments/Pasted image 20230715141552.png",
@@ -204,12 +226,6 @@
     "Images/attachments/Pasted image 20230408140717.png",
     "Images/attachments/Pasted image 20230211135728.png",
     "Images/attachments/Pasted image 20230211135711.png",
-    "Players/Paris/Untitled",
-    "Players/Paris",
-    "Definitions",
-    "Locations/France",
-    "GM Info/Miami/New items",
-    "GM Info/Miami/NPCs",
     "GM Info/Miami/Veil Shatterer campaign actions.canvas",
     "Untitled.canvas"
   ]

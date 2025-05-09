@@ -1,0 +1,10 @@
+== Brainwave, Inc. Office ==
+
+===== District: [[Locations/FRFZ/Stapleton|Stapleton]] =====
+
+The local office for Brainwave, Inc., a Mitsuhama Computer Technologies ([[MCT|MCT]]) subsidiary. This is a research facility that keeps a low profile out on the far edges of the Stapleton district. I’ve never met anyone who has gone in there, but Voxel has.
+> Brainwave, Inc. specializes in neural interfaces. [[MCT|MCT]] likes to use their tech in cyberdecks, simsense players, etc. The cost of making those advancements is often metahuman experimentation. I had a friend who went into Brainwave on a job—nothing criminal, he was a paid test subject. When he came out a week later, he barely recognized me. I have no idea what they did to him, but I’m guessing the tests failed.
+> Voxel
+
+[[Category:AAA Corp]]
+[[Category:6th]]

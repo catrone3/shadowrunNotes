@@ -1,0 +1,10 @@
+<p>#AAA_Corporation</p>
+
+= Divisions =
+
+== Major Divisions and Associated Subsidiaries and Brands ==
+![[Shiawase/Fuchi Electronics|Fuchi Electronics]]
+
+
+[[Category:AAA Corp]]
+[[Category:AAA Corporation]]
