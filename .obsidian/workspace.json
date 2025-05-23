@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAA Corps/Ares.md",
+                "file": "GM Info/Paris/mission plans/Campaign 3 gpt ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ares"
+              "title": "Campaign 3 gpt ideas"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Helix",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAA Corps/Ares.md",
+                "file": "GM Info/Paris/mission plans/campaign 2 gpt ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ares"
+              "title": "Backlinks for campaign 2 gpt ideas"
             }
           },
           {
@@ -176,8 +176,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17c028d156c8c8c7",
+  "active": "c7094e5fc5921243",
   "lastOpenFiles": [
+    "NPCs/Friendly/Morocco/Helix.md",
+    "Images/shadowrun characters/Helix.jpg",
+    "GM Info/Paris/mission plans/Campaign 3 gpt ideas.md",
+    "AAA Corps/Evo/Genosys.md",
+    "GM Info/Paris/mission plans/campaign 2 gpt ideas.md",
+    "AAA Corps/Ares.md",
     "A Corps/Warpdrive Systems.md",
     "AA Corps/Marriott International/Denver West Marriott.md",
     "AA Corps/Marriott International.md",
@@ -206,14 +212,8 @@
     "AA Corps/Litehouse Industries/Genesis Medical.md",
     "AA Corps/Litehouse Industries/Incubus Club.md",
     "AA Corps/Litehouse Industries/Litehouse Brand.md",
-    "GM Info/Paris/mission plans/campaign 2 gpt ideas.md",
     "AA Corps/Litehouse Industries.md",
     "AA Corps/Litehouse Industries/The Apollo Group/Office 1.md",
-    "AA Corps/Litehouse Industries/The Apollo Group/Office 2.md",
-    "AA Corps/Litehouse Industries/The Apollo Group/Security Programs.md",
-    "AA Corps/Litehouse Industries/The Apollo Group/Original Office.md",
-    "AA Corps/Litehouse Industries/The Apollo Group/IC Designs.md",
-    "AA Corps/Litehouse Industries/The Apollo Group/Host Upgrades.md",
     "AA Corps/Litehouse Industries/Litehouse Industries.canvas",
     "Canvas.canvas",
     "Images/attachments/Tiger Syndikat.png",
@@ -225,7 +225,6 @@
     "Images/attachments/Pasted image 20230421135730.png",
     "Images/attachments/Pasted image 20230408140717.png",
     "Images/attachments/Pasted image 20230211135728.png",
-    "Images/attachments/Pasted image 20230211135711.png",
     "GM Info/Miami/Veil Shatterer campaign actions.canvas",
     "Untitled.canvas"
   ]
