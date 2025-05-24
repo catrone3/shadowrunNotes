@@ -5,12 +5,12 @@
       "relativePath": "/"
     },
     {
-      "name": "A Corps",
-      "relativePath": "A Corps"
-    },
-    {
       "name": "AA Corps",
       "relativePath": "AA Corps"
+    },
+    {
+      "name": "A Corps",
+      "relativePath": "A Corps"
     },
     {
       "name": "AAA Corps",
@@ -29,12 +29,12 @@
       "relativePath": "Definitions"
     },
     {
-      "name": "Factions",
-      "relativePath": "Factions"
-    },
-    {
       "name": "Denver Prime Game notes",
       "relativePath": "Denver Prime Game notes"
+    },
+    {
+      "name": "Factions",
+      "relativePath": "Factions"
     },
     {
       "name": "GM Info",
@@ -49,12 +49,12 @@
       "relativePath": "Images"
     },
     {
-      "name": "Litehouse Industries",
-      "relativePath": "Litehouse Industries"
-    },
-    {
       "name": "Locations",
       "relativePath": "Locations"
+    },
+    {
+      "name": "Litehouse Industries",
+      "relativePath": "Litehouse Industries"
     },
     {
       "name": "Morocco Game Notes",
@@ -69,12 +69,12 @@
       "relativePath": "NPCs"
     },
     {
-      "name": "Players",
-      "relativePath": "Players"
-    },
-    {
       "name": "output",
       "relativePath": "output"
+    },
+    {
+      "name": "Players",
+      "relativePath": "Players"
     },
     {
       "name": "South Florida Game Notes",
@@ -99,26 +99,6 @@
     {
       "name": "Spiritech",
       "relativePath": "A Corps/Spiritech"
-    },
-    {
-      "name": "Atlantean Foundation",
-      "relativePath": "AA Corps/Atlantean Foundation"
-    },
-    {
-      "name": "DocWagon",
-      "relativePath": "AA Corps/DocWagon"
-    },
-    {
-      "name": "IHG Hotels",
-      "relativePath": "AA Corps/IHG Hotels"
-    },
-    {
-      "name": "Litehouse Industries",
-      "relativePath": "AA Corps/Litehouse Industries"
-    },
-    {
-      "name": "Marriott International",
-      "relativePath": "AA Corps/Marriott International"
     },
     {
       "name": "Ares",
@@ -161,36 +141,56 @@
       "relativePath": "AAA Corps/Wuxing"
     },
     {
-      "name": "FRFZ",
-      "relativePath": "Corps (Local)/FRFZ"
+      "name": "Atlantean Foundation",
+      "relativePath": "AA Corps/Atlantean Foundation"
     },
     {
-      "name": "New Orleans",
-      "relativePath": "Corps (Local)/New Orleans"
+      "name": "DocWagon",
+      "relativePath": "AA Corps/DocWagon"
+    },
+    {
+      "name": "IHG Hotels",
+      "relativePath": "AA Corps/IHG Hotels"
+    },
+    {
+      "name": "Marriott International",
+      "relativePath": "AA Corps/Marriott International"
+    },
+    {
+      "name": "Litehouse Industries",
+      "relativePath": "AA Corps/Litehouse Industries"
+    },
+    {
+      "name": "FRFZ",
+      "relativePath": "Corps (Local)/FRFZ"
     },
     {
       "name": "South Florida",
       "relativePath": "Corps (Local)/South Florida"
     },
     {
-      "name": "FRFZ",
-      "relativePath": "Factions/FRFZ"
-    },
-    {
       "name": "New Orleans",
-      "relativePath": "Factions/New Orleans"
+      "relativePath": "Corps (Local)/New Orleans"
     },
     {
       "name": "Attica",
       "relativePath": "Factions/Attica"
     },
     {
-      "name": "Southern Florida",
-      "relativePath": "Factions/Southern Florida"
+      "name": "FRFZ",
+      "relativePath": "Factions/FRFZ"
     },
     {
       "name": "Morocco",
       "relativePath": "Factions/Morocco"
+    },
+    {
+      "name": "New Orleans",
+      "relativePath": "Factions/New Orleans"
+    },
+    {
+      "name": "Southern Florida",
+      "relativePath": "Factions/Southern Florida"
     },
     {
       "name": "Germany",
@@ -273,16 +273,32 @@
       "relativePath": "Locations/South Florida"
     },
     {
+      "name": "A Corps",
+      "relativePath": "output/A Corps"
+    },
+    {
       "name": "Friendly",
       "relativePath": "NPCs/Friendly"
     },
     {
-      "name": "Unfriendly",
-      "relativePath": "NPCs/Unfriendly"
+      "name": "AA Corps",
+      "relativePath": "output/AA Corps"
+    },
+    {
+      "name": "Corps (Local)",
+      "relativePath": "output/Corps (Local)"
+    },
+    {
+      "name": "AAA Corps",
+      "relativePath": "output/AAA Corps"
     },
     {
       "name": "Neutral",
       "relativePath": "NPCs/Neutral"
+    },
+    {
+      "name": "Unfriendly",
+      "relativePath": "NPCs/Unfriendly"
     },
     {
       "name": "Athens",
@@ -317,6 +333,10 @@
       "relativePath": "Players/New Orleans"
     },
     {
+      "name": "Paris",
+      "relativePath": "Players/Paris"
+    },
+    {
       "name": "Port Au Prince",
       "relativePath": "Players/Port Au Prince"
     },
@@ -325,24 +345,80 @@
       "relativePath": "Players/South Florida"
     },
     {
-      "name": "Paris",
-      "relativePath": "Players/Paris"
+      "name": "Arvada",
+      "relativePath": "Corps (Local)/FRFZ/Arvada"
     },
     {
-      "name": "A Corps",
-      "relativePath": "output/A Corps"
+      "name": "Aurora Warrens",
+      "relativePath": "Corps (Local)/FRFZ/Aurora Warrens"
     },
     {
-      "name": "AA Corps",
-      "relativePath": "output/AA Corps"
+      "name": "Boulder",
+      "relativePath": "Corps (Local)/FRFZ/Boulder"
     },
     {
-      "name": "AAA Corps",
-      "relativePath": "output/AAA Corps"
+      "name": "Brighton",
+      "relativePath": "Corps (Local)/FRFZ/Brighton"
     },
     {
-      "name": "Corps (Local)",
-      "relativePath": "output/Corps (Local)"
+      "name": "Broomfield",
+      "relativePath": "Corps (Local)/FRFZ/Broomfield"
+    },
+    {
+      "name": "Centennial",
+      "relativePath": "Corps (Local)/FRFZ/Centennial"
+    },
+    {
+      "name": "Castle Rock",
+      "relativePath": "Corps (Local)/FRFZ/Castle Rock"
+    },
+    {
+      "name": "Colorado Springs",
+      "relativePath": "Corps (Local)/FRFZ/Colorado Springs"
+    },
+    {
+      "name": "Elbert",
+      "relativePath": "Corps (Local)/FRFZ/Elbert"
+    },
+    {
+      "name": "Commerce City",
+      "relativePath": "Corps (Local)/FRFZ/Commerce City"
+    },
+    {
+      "name": "Englewood",
+      "relativePath": "Corps (Local)/FRFZ/Englewood"
+    },
+    {
+      "name": "Front Range",
+      "relativePath": "Corps (Local)/FRFZ/Front Range"
+    },
+    {
+      "name": "Lakewood",
+      "relativePath": "Corps (Local)/FRFZ/Lakewood"
+    },
+    {
+      "name": "Stapleton",
+      "relativePath": "Corps (Local)/FRFZ/Stapleton"
+    },
+    {
+      "name": "Lowry",
+      "relativePath": "Corps (Local)/FRFZ/Lowry"
+    },
+    {
+      "name": "The Hub",
+      "relativePath": "Corps (Local)/FRFZ/The Hub"
+    },
+    {
+      "name": "The Gap",
+      "relativePath": "Corps (Local)/FRFZ/The Gap"
+    },
+    {
+      "name": "Thornton",
+      "relativePath": "Corps (Local)/FRFZ/Thornton"
+    },
+    {
+      "name": "Westminster",
+      "relativePath": "Corps (Local)/FRFZ/Westminster"
     },
     {
       "name": "1UP!",
@@ -377,82 +453,6 @@
       "relativePath": "AA Corps/Litehouse Industries/The Apollo Group"
     },
     {
-      "name": "Arvada",
-      "relativePath": "Corps (Local)/FRFZ/Arvada"
-    },
-    {
-      "name": "Aurora Warrens",
-      "relativePath": "Corps (Local)/FRFZ/Aurora Warrens"
-    },
-    {
-      "name": "Boulder",
-      "relativePath": "Corps (Local)/FRFZ/Boulder"
-    },
-    {
-      "name": "Brighton",
-      "relativePath": "Corps (Local)/FRFZ/Brighton"
-    },
-    {
-      "name": "Broomfield",
-      "relativePath": "Corps (Local)/FRFZ/Broomfield"
-    },
-    {
-      "name": "Castle Rock",
-      "relativePath": "Corps (Local)/FRFZ/Castle Rock"
-    },
-    {
-      "name": "Colorado Springs",
-      "relativePath": "Corps (Local)/FRFZ/Colorado Springs"
-    },
-    {
-      "name": "Centennial",
-      "relativePath": "Corps (Local)/FRFZ/Centennial"
-    },
-    {
-      "name": "Commerce City",
-      "relativePath": "Corps (Local)/FRFZ/Commerce City"
-    },
-    {
-      "name": "Englewood",
-      "relativePath": "Corps (Local)/FRFZ/Englewood"
-    },
-    {
-      "name": "Elbert",
-      "relativePath": "Corps (Local)/FRFZ/Elbert"
-    },
-    {
-      "name": "Front Range",
-      "relativePath": "Corps (Local)/FRFZ/Front Range"
-    },
-    {
-      "name": "Lakewood",
-      "relativePath": "Corps (Local)/FRFZ/Lakewood"
-    },
-    {
-      "name": "Stapleton",
-      "relativePath": "Corps (Local)/FRFZ/Stapleton"
-    },
-    {
-      "name": "Lowry",
-      "relativePath": "Corps (Local)/FRFZ/Lowry"
-    },
-    {
-      "name": "The Gap",
-      "relativePath": "Corps (Local)/FRFZ/The Gap"
-    },
-    {
-      "name": "The Hub",
-      "relativePath": "Corps (Local)/FRFZ/The Hub"
-    },
-    {
-      "name": "Thornton",
-      "relativePath": "Corps (Local)/FRFZ/Thornton"
-    },
-    {
-      "name": "Westminster",
-      "relativePath": "Corps (Local)/FRFZ/Westminster"
-    },
-    {
       "name": "Country Orgs",
       "relativePath": "Factions/Attica/Country Orgs"
     },
@@ -481,6 +481,10 @@
       "relativePath": "Factions/Morocco/Crime Orgs"
     },
     {
+      "name": "mission plans",
+      "relativePath": "GM Info/Paris/mission plans"
+    },
+    {
       "name": "Completed ideas",
       "relativePath": "GM Info/Miami/Completed ideas"
     },
@@ -505,20 +509,8 @@
       "relativePath": "GM Info/Miami/rpgmanager"
     },
     {
-      "name": "mission plans",
-      "relativePath": "GM Info/Paris/mission plans"
-    },
-    {
       "name": "4th world Spells",
       "relativePath": "House Rules and Clarifications/Magic/4th world Spells"
-    },
-    {
-      "name": "Geographic Locations",
-      "relativePath": "Locations/FRFZ/Geographic Locations"
-    },
-    {
-      "name": "Metaplanes",
-      "relativePath": "Locations/FRFZ/Metaplanes"
     },
     {
       "name": "Artifacts",
@@ -533,96 +525,12 @@
       "relativePath": "Locations/Greece/Structures"
     },
     {
-      "name": "Denver",
-      "relativePath": "NPCs/Friendly/Denver"
+      "name": "Geographic Locations",
+      "relativePath": "Locations/FRFZ/Geographic Locations"
     },
     {
-      "name": "Athens",
-      "relativePath": "NPCs/Friendly/Athens"
-    },
-    {
-      "name": "France",
-      "relativePath": "NPCs/Friendly/France"
-    },
-    {
-      "name": "Germany",
-      "relativePath": "NPCs/Friendly/Germany"
-    },
-    {
-      "name": "Las Vegas",
-      "relativePath": "NPCs/Friendly/Las Vegas"
-    },
-    {
-      "name": "London",
-      "relativePath": "NPCs/Friendly/London"
-    },
-    {
-      "name": "Matrix",
-      "relativePath": "NPCs/Friendly/Matrix"
-    },
-    {
-      "name": "Morocco",
-      "relativePath": "NPCs/Friendly/Morocco"
-    },
-    {
-      "name": "New Orleans",
-      "relativePath": "NPCs/Friendly/New Orleans"
-    },
-    {
-      "name": "South Florida",
-      "relativePath": "NPCs/Friendly/South Florida"
-    },
-    {
-      "name": "Seattle",
-      "relativePath": "NPCs/Friendly/Seattle"
-    },
-    {
-      "name": "South Florida",
-      "relativePath": "NPCs/Unfriendly/South Florida"
-    },
-    {
-      "name": "Athens",
-      "relativePath": "NPCs/Neutral/Athens"
-    },
-    {
-      "name": "Avalon",
-      "relativePath": "NPCs/Neutral/Avalon"
-    },
-    {
-      "name": "Denver",
-      "relativePath": "NPCs/Neutral/Denver"
-    },
-    {
-      "name": "Germany",
-      "relativePath": "NPCs/Neutral/Germany"
-    },
-    {
-      "name": "Horizon",
-      "relativePath": "NPCs/Neutral/Horizon"
-    },
-    {
-      "name": "Morocco",
-      "relativePath": "NPCs/Neutral/Morocco"
-    },
-    {
-      "name": "Organizations",
-      "relativePath": "NPCs/Neutral/Organizations"
-    },
-    {
-      "name": "New Orleans",
-      "relativePath": "NPCs/Neutral/New Orleans"
-    },
-    {
-      "name": "Seattle",
-      "relativePath": "NPCs/Neutral/Seattle"
-    },
-    {
-      "name": "Slip's runners",
-      "relativePath": "NPCs/Neutral/Slip's runners"
-    },
-    {
-      "name": "South Florida",
-      "relativePath": "NPCs/Neutral/South Florida"
+      "name": "Metaplanes",
+      "relativePath": "Locations/FRFZ/Metaplanes"
     },
     {
       "name": "Aegis",
@@ -643,6 +551,50 @@
     {
       "name": "Spiritech",
       "relativePath": "output/A Corps/Spiritech"
+    },
+    {
+      "name": "Athens",
+      "relativePath": "NPCs/Friendly/Athens"
+    },
+    {
+      "name": "Denver",
+      "relativePath": "NPCs/Friendly/Denver"
+    },
+    {
+      "name": "France",
+      "relativePath": "NPCs/Friendly/France"
+    },
+    {
+      "name": "Germany",
+      "relativePath": "NPCs/Friendly/Germany"
+    },
+    {
+      "name": "Las Vegas",
+      "relativePath": "NPCs/Friendly/Las Vegas"
+    },
+    {
+      "name": "London",
+      "relativePath": "NPCs/Friendly/London"
+    },
+    {
+      "name": "New Orleans",
+      "relativePath": "NPCs/Friendly/New Orleans"
+    },
+    {
+      "name": "Matrix",
+      "relativePath": "NPCs/Friendly/Matrix"
+    },
+    {
+      "name": "Morocco",
+      "relativePath": "NPCs/Friendly/Morocco"
+    },
+    {
+      "name": "Seattle",
+      "relativePath": "NPCs/Friendly/Seattle"
+    },
+    {
+      "name": "South Florida",
+      "relativePath": "NPCs/Friendly/South Florida"
     },
     {
       "name": "Atlantean Foundation",
@@ -717,6 +669,54 @@
       "relativePath": "output/AAA Corps/Wuxing"
     },
     {
+      "name": "Athens",
+      "relativePath": "NPCs/Neutral/Athens"
+    },
+    {
+      "name": "Avalon",
+      "relativePath": "NPCs/Neutral/Avalon"
+    },
+    {
+      "name": "Denver",
+      "relativePath": "NPCs/Neutral/Denver"
+    },
+    {
+      "name": "Germany",
+      "relativePath": "NPCs/Neutral/Germany"
+    },
+    {
+      "name": "Horizon",
+      "relativePath": "NPCs/Neutral/Horizon"
+    },
+    {
+      "name": "Morocco",
+      "relativePath": "NPCs/Neutral/Morocco"
+    },
+    {
+      "name": "New Orleans",
+      "relativePath": "NPCs/Neutral/New Orleans"
+    },
+    {
+      "name": "Organizations",
+      "relativePath": "NPCs/Neutral/Organizations"
+    },
+    {
+      "name": "Seattle",
+      "relativePath": "NPCs/Neutral/Seattle"
+    },
+    {
+      "name": "Slip's runners",
+      "relativePath": "NPCs/Neutral/Slip's runners"
+    },
+    {
+      "name": "South Florida",
+      "relativePath": "NPCs/Neutral/South Florida"
+    },
+    {
+      "name": "South Florida",
+      "relativePath": "NPCs/Unfriendly/South Florida"
+    },
+    {
       "name": "Litehouse Construction",
       "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Construction"
     },
@@ -733,12 +733,12 @@
       "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites"
     },
     {
-      "name": "Twilight Medical Services",
-      "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services"
-    },
-    {
       "name": "Manufacturing",
       "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing"
+    },
+    {
+      "name": "Twilight Medical Services",
+      "relativePath": "AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services"
     },
     {
       "name": "synopsise made up",
@@ -757,16 +757,20 @@
       "relativePath": "GM Info/Miami/rpgmanager/Characters"
     },
     {
-      "name": "Clues",
-      "relativePath": "GM Info/Miami/rpgmanager/Clues"
-    },
-    {
       "name": "Events",
       "relativePath": "GM Info/Miami/rpgmanager/Events"
     },
     {
+      "name": "Clues",
+      "relativePath": "GM Info/Miami/rpgmanager/Clues"
+    },
+    {
       "name": "Factions",
       "relativePath": "GM Info/Miami/rpgmanager/Factions"
+    },
+    {
+      "name": "NonPlayerCharacters",
+      "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters"
     },
     {
       "name": "Locations",
@@ -777,28 +781,52 @@
       "relativePath": "GM Info/Miami/rpgmanager/Scenes"
     },
     {
-      "name": "NonPlayerCharacters",
-      "relativePath": "GM Info/Miami/rpgmanager/NonPlayerCharacters"
-    },
-    {
       "name": "Sessions",
       "relativePath": "GM Info/Miami/rpgmanager/Sessions"
-    },
-    {
-      "name": "Subplots",
-      "relativePath": "GM Info/Miami/rpgmanager/Subplots"
     },
     {
       "name": "Necromancer",
       "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer"
     },
     {
-      "name": "Aurora Warrens",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens"
+      "name": "Subplots",
+      "relativePath": "GM Info/Miami/rpgmanager/Subplots"
+    },
+    {
+      "name": "1UP!",
+      "relativePath": "output/AA Corps/Litehouse Industries/1UP!"
+    },
+    {
+      "name": "Cheyenne Mountain",
+      "relativePath": "output/AA Corps/Litehouse Industries/Cheyenne Mountain"
+    },
+    {
+      "name": "Genesis Medical",
+      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical"
+    },
+    {
+      "name": "Incubus Club",
+      "relativePath": "output/AA Corps/Litehouse Industries/Incubus Club"
+    },
+    {
+      "name": "Litehouse Brand",
+      "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand"
+    },
+    {
+      "name": "The Apollo Group",
+      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group"
+    },
+    {
+      "name": "Mercea Conglomerate",
+      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate"
     },
     {
       "name": "Arvada",
       "relativePath": "output/Corps (Local)/FRFZ/Arvada"
+    },
+    {
+      "name": "Aurora Warrens",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens"
     },
     {
       "name": "Boulder",
@@ -821,16 +849,20 @@
       "relativePath": "output/Corps (Local)/FRFZ/Centennial"
     },
     {
-      "name": "Commerce City",
-      "relativePath": "output/Corps (Local)/FRFZ/Commerce City"
-    },
-    {
       "name": "Colorado Springs",
       "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs"
     },
     {
+      "name": "Commerce City",
+      "relativePath": "output/Corps (Local)/FRFZ/Commerce City"
+    },
+    {
       "name": "Elbert",
       "relativePath": "output/Corps (Local)/FRFZ/Elbert"
+    },
+    {
+      "name": "Englewood",
+      "relativePath": "output/Corps (Local)/FRFZ/Englewood"
     },
     {
       "name": "Front Range",
@@ -841,24 +873,20 @@
       "relativePath": "output/Corps (Local)/FRFZ/Lakewood"
     },
     {
-      "name": "Englewood",
-      "relativePath": "output/Corps (Local)/FRFZ/Englewood"
-    },
-    {
       "name": "Lowry",
       "relativePath": "output/Corps (Local)/FRFZ/Lowry"
     },
     {
-      "name": "The Hub",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub"
+      "name": "Stapleton",
+      "relativePath": "output/Corps (Local)/FRFZ/Stapleton"
     },
     {
       "name": "The Gap",
       "relativePath": "output/Corps (Local)/FRFZ/The Gap"
     },
     {
-      "name": "Stapleton",
-      "relativePath": "output/Corps (Local)/FRFZ/Stapleton"
+      "name": "The Hub",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub"
     },
     {
       "name": "Thornton",
@@ -869,34 +897,6 @@
       "relativePath": "output/Corps (Local)/FRFZ/Westminster"
     },
     {
-      "name": "1UP!",
-      "relativePath": "output/AA Corps/Litehouse Industries/1UP!"
-    },
-    {
-      "name": "Genesis Medical",
-      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical"
-    },
-    {
-      "name": "Cheyenne Mountain",
-      "relativePath": "output/AA Corps/Litehouse Industries/Cheyenne Mountain"
-    },
-    {
-      "name": "Incubus Club",
-      "relativePath": "output/AA Corps/Litehouse Industries/Incubus Club"
-    },
-    {
-      "name": "Litehouse Brand",
-      "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand"
-    },
-    {
-      "name": "Mercea Conglomerate",
-      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate"
-    },
-    {
-      "name": "The Apollo Group",
-      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group"
-    },
-    {
       "name": "Special Interests Department",
       "relativePath": "AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department"
     },
@@ -905,24 +905,20 @@
       "relativePath": "GM Info/Miami/rpgmanager/Scenes/Veil Shatterer"
     },
     {
-      "name": "Veil Shatterer",
-      "relativePath": "GM Info/Miami/rpgmanager/Sessions/Veil Shatterer"
+      "name": "2nd Circle",
+      "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer/2nd Circle"
     },
     {
       "name": "1st Circle",
       "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer/1st Circle"
     },
     {
-      "name": "2nd Circle",
-      "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer/2nd Circle"
+      "name": "4th Circle",
+      "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer/4th Circle"
     },
     {
       "name": "3rd Circle",
       "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer/3rd Circle"
-    },
-    {
-      "name": "4th Circle",
-      "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer/4th Circle"
     },
     {
       "name": "5th Circle",
@@ -933,12 +929,16 @@
       "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer/6th Circle"
     },
     {
+      "name": "8th Circle",
+      "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer/8th Circle"
+    },
+    {
       "name": "7th Circle",
       "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer/7th Circle"
     },
     {
-      "name": "8th Circle",
-      "relativePath": "House Rules and Clarifications/Magic/4th world Spells/Necromancer/8th Circle"
+      "name": "Veil Shatterer",
+      "relativePath": "GM Info/Miami/rpgmanager/Sessions/Veil Shatterer"
     },
     {
       "name": "Litehouse Production",
@@ -978,14 +978,14 @@
       "relativePath": "canvas.json"
     },
     {
-      "name": "generate_corp_pages.py",
-      "basename": "generate_corp_pages",
-      "relativePath": "generate_corp_pages.py"
-    },
-    {
       "name": "favicon.ico",
       "basename": "favicon",
       "relativePath": "favicon.ico"
+    },
+    {
+      "name": "generate_corp_pages.py",
+      "basename": "generate_corp_pages",
+      "relativePath": "generate_corp_pages.py"
     },
     {
       "name": "logo.svg",
@@ -1033,6 +1033,11 @@
       "relativePath": "Images/Encontombra.png"
     },
     {
+      "name": "Liby for life building.png",
+      "basename": "Liby for life building",
+      "relativePath": "Images/Liby for life building.png"
+    },
+    {
       "name": "Julien White.png",
       "basename": "Julien White",
       "relativePath": "Images/Julien White.png"
@@ -1043,9 +1048,9 @@
       "relativePath": "Images/luminous_wanderer_by_cashile_d6420xo-fullview.jpg"
     },
     {
-      "name": "Liby for life building.png",
-      "basename": "Liby for life building",
-      "relativePath": "Images/Liby for life building.png"
+      "name": "mako.jpeg",
+      "basename": "mako",
+      "relativePath": "Images/mako.jpeg"
     },
     {
       "name": "Mark Davison.png",
@@ -1053,19 +1058,14 @@
       "relativePath": "Images/Mark Davison.png"
     },
     {
-      "name": "mako.jpeg",
-      "basename": "mako",
-      "relativePath": "Images/mako.jpeg"
+      "name": "Max.jpg",
+      "basename": "Max",
+      "relativePath": "Images/Max.jpg"
     },
     {
       "name": "mayor_candidette.jpg",
       "basename": "mayor_candidette",
       "relativePath": "Images/mayor_candidette.jpg"
-    },
-    {
-      "name": "Max.jpg",
-      "basename": "Max",
-      "relativePath": "Images/Max.jpg"
     },
     {
       "name": "Milton Hershey.png",
@@ -1093,19 +1093,14 @@
       "relativePath": "Images/Pasted image 20240309135808.png"
     },
     {
-      "name": "Pasted image 20240406142358.png",
-      "basename": "Pasted image 20240406142358",
-      "relativePath": "Images/Pasted image 20240406142358.png"
-    },
-    {
       "name": "Pasted image 20240309141607.png",
       "basename": "Pasted image 20240309141607",
       "relativePath": "Images/Pasted image 20240309141607.png"
     },
     {
-      "name": "Pasted image 20240406142415.png",
-      "basename": "Pasted image 20240406142415",
-      "relativePath": "Images/Pasted image 20240406142415.png"
+      "name": "Pasted image 20240406142358.png",
+      "basename": "Pasted image 20240406142358",
+      "relativePath": "Images/Pasted image 20240406142358.png"
     },
     {
       "name": "Pasted image 20240504133709.png",
@@ -1113,19 +1108,24 @@
       "relativePath": "Images/Pasted image 20240504133709.png"
     },
     {
+      "name": "Pasted image 20240406142415.png",
+      "basename": "Pasted image 20240406142415",
+      "relativePath": "Images/Pasted image 20240406142415.png"
+    },
+    {
       "name": "Pasted image 20240504134002.png",
       "basename": "Pasted image 20240504134002",
       "relativePath": "Images/Pasted image 20240504134002.png"
     },
     {
-      "name": "Pasted image 20240504164340.png",
-      "basename": "Pasted image 20240504164340",
-      "relativePath": "Images/Pasted image 20240504164340.png"
-    },
-    {
       "name": "Pasted image 20240504163420.png",
       "basename": "Pasted image 20240504163420",
       "relativePath": "Images/Pasted image 20240504163420.png"
+    },
+    {
+      "name": "Pasted image 20240504164340.png",
+      "basename": "Pasted image 20240504164340",
+      "relativePath": "Images/Pasted image 20240504164340.png"
     },
     {
       "name": "Pasted image 20240504164404.png",
@@ -1188,14 +1188,14 @@
       "relativePath": "GM Info/Miami/NPCs table.xlsx"
     },
     {
-      "name": "catrone3_Amulet_of_Athena_4f2d220d-d7ca-4d2c-bca8-9d5f73522b38.png",
-      "basename": "catrone3_Amulet_of_Athena_4f2d220d-d7ca-4d2c-bca8-9d5f73522b38",
-      "relativePath": "Images/attachments/catrone3_Amulet_of_Athena_4f2d220d-d7ca-4d2c-bca8-9d5f73522b38.png"
-    },
-    {
       "name": "catrone3_Council_of_Attica_logo_with_no_words_2da43de6-734a-4cb5-9bbe-52b9795b9b54.png",
       "basename": "catrone3_Council_of_Attica_logo_with_no_words_2da43de6-734a-4cb5-9bbe-52b9795b9b54",
       "relativePath": "Images/attachments/catrone3_Council_of_Attica_logo_with_no_words_2da43de6-734a-4cb5-9bbe-52b9795b9b54.png"
+    },
+    {
+      "name": "catrone3_Amulet_of_Athena_4f2d220d-d7ca-4d2c-bca8-9d5f73522b38.png",
+      "basename": "catrone3_Amulet_of_Athena_4f2d220d-d7ca-4d2c-bca8-9d5f73522b38",
+      "relativePath": "Images/attachments/catrone3_Amulet_of_Athena_4f2d220d-d7ca-4d2c-bca8-9d5f73522b38.png"
     },
     {
       "name": "catrone3_Council_of_Attica_logo_with_no_words_37bce929-518c-49cf-bfeb-aac3ed456540.png",
@@ -1203,9 +1203,19 @@
       "relativePath": "Images/attachments/catrone3_Council_of_Attica_logo_with_no_words_37bce929-518c-49cf-bfeb-aac3ed456540.png"
     },
     {
+      "name": "catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f 1.png",
+      "basename": "catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f 1",
+      "relativePath": "Images/attachments/catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f 1.png"
+    },
+    {
       "name": "catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f.png",
       "basename": "catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f",
       "relativePath": "Images/attachments/catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f.png"
+    },
+    {
+      "name": "litehouse logo.png",
+      "basename": "litehouse logo",
+      "relativePath": "Images/attachments/litehouse logo.png"
     },
     {
       "name": "Everglades.png",
@@ -1213,14 +1223,9 @@
       "relativePath": "Images/attachments/Everglades.png"
     },
     {
-      "name": "catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f 1.png",
-      "basename": "catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f 1",
-      "relativePath": "Images/attachments/catrone3_Theater_mask_with_grape_vines_coming_through_it_85690bb0-0534-4eeb-ab8e-8151e33a4a4f 1.png"
-    },
-    {
-      "name": "litehouse logo.png",
-      "basename": "litehouse logo",
-      "relativePath": "Images/attachments/litehouse logo.png"
+      "name": "Pasted image 20221103125806.png",
+      "basename": "Pasted image 20221103125806",
+      "relativePath": "Images/attachments/Pasted image 20221103125806.png"
     },
     {
       "name": "Pasted image 20221103125937.png",
@@ -1231,11 +1236,6 @@
       "name": "Pasted image 20221103125922.png",
       "basename": "Pasted image 20221103125922",
       "relativePath": "Images/attachments/Pasted image 20221103125922.png"
-    },
-    {
-      "name": "Pasted image 20221103125806.png",
-      "basename": "Pasted image 20221103125806",
-      "relativePath": "Images/attachments/Pasted image 20221103125806.png"
     },
     {
       "name": "Pasted image 20221103130021.png",
@@ -1258,19 +1258,9 @@
       "relativePath": "Images/attachments/Pasted image 20230211135728.png"
     },
     {
-      "name": "Pasted image 20230408140717.png",
-      "basename": "Pasted image 20230408140717",
-      "relativePath": "Images/attachments/Pasted image 20230408140717.png"
-    },
-    {
       "name": "Pasted image 20230421135730.png",
       "basename": "Pasted image 20230421135730",
       "relativePath": "Images/attachments/Pasted image 20230421135730.png"
-    },
-    {
-      "name": "Pasted image 20230421140050.png",
-      "basename": "Pasted image 20230421140050",
-      "relativePath": "Images/attachments/Pasted image 20230421140050.png"
     },
     {
       "name": "Pasted image 20230421135939.png",
@@ -1278,19 +1268,29 @@
       "relativePath": "Images/attachments/Pasted image 20230421135939.png"
     },
     {
+      "name": "Pasted image 20230408140717.png",
+      "basename": "Pasted image 20230408140717",
+      "relativePath": "Images/attachments/Pasted image 20230408140717.png"
+    },
+    {
+      "name": "Pasted image 20230421140050.png",
+      "basename": "Pasted image 20230421140050",
+      "relativePath": "Images/attachments/Pasted image 20230421140050.png"
+    },
+    {
       "name": "Pasted image 20230715141439.png",
       "basename": "Pasted image 20230715141439",
       "relativePath": "Images/attachments/Pasted image 20230715141439.png"
     },
     {
-      "name": "Pasted image 20230715141552.png",
-      "basename": "Pasted image 20230715141552",
-      "relativePath": "Images/attachments/Pasted image 20230715141552.png"
-    },
-    {
       "name": "Stirrup Interface.png",
       "basename": "Stirrup Interface",
       "relativePath": "Images/attachments/Stirrup Interface.png"
+    },
+    {
+      "name": "Pasted image 20230715141552.png",
+      "basename": "Pasted image 20230715141552",
+      "relativePath": "Images/attachments/Pasted image 20230715141552.png"
     },
     {
       "name": "Tiger Syndikat.png",
@@ -1313,11 +1313,6 @@
       "relativePath": "Images/floor plans and buildings/Johnson city.png"
     },
     {
-      "name": "London Manufacturing.png",
-      "basename": "London Manufacturing",
-      "relativePath": "Images/floor plans and buildings/London Manufacturing.png"
-    },
-    {
       "name": "office building 1.jpg",
       "basename": "office building 1",
       "relativePath": "Images/floor plans and buildings/office building 1.jpg"
@@ -1328,19 +1323,14 @@
       "relativePath": "Images/floor plans and buildings/office building 2.jpg"
     },
     {
+      "name": "London Manufacturing.png",
+      "basename": "London Manufacturing",
+      "relativePath": "Images/floor plans and buildings/London Manufacturing.png"
+    },
+    {
       "name": "Seattle Site.png",
       "basename": "Seattle Site",
       "relativePath": "Images/floor plans and buildings/Seattle Site.png"
-    },
-    {
-      "name": "Slip Warehouse.png",
-      "basename": "Slip Warehouse",
-      "relativePath": "Images/floor plans and buildings/Slip Warehouse.png"
-    },
-    {
-      "name": "The Elegance Tower.png",
-      "basename": "The Elegance Tower",
-      "relativePath": "Images/floor plans and buildings/The Elegance Tower.png"
     },
     {
       "name": "Adonis.png",
@@ -1348,9 +1338,14 @@
       "relativePath": "Images/shadowrun characters/Adonis.png"
     },
     {
-      "name": "catrone3_female_elf_with_flowing_sulver_hair_equisite_jewelry_a_a2f7cec3-fb3a-410e-8adf-42bcb212ee60.png",
-      "basename": "catrone3_female_elf_with_flowing_sulver_hair_equisite_jewelry_a_a2f7cec3-fb3a-410e-8adf-42bcb212ee60",
-      "relativePath": "Images/unused images/catrone3_female_elf_with_flowing_sulver_hair_equisite_jewelry_a_a2f7cec3-fb3a-410e-8adf-42bcb212ee60.png"
+      "name": "The Elegance Tower.png",
+      "basename": "The Elegance Tower",
+      "relativePath": "Images/floor plans and buildings/The Elegance Tower.png"
+    },
+    {
+      "name": "Slip Warehouse.png",
+      "basename": "Slip Warehouse",
+      "relativePath": "Images/floor plans and buildings/Slip Warehouse.png"
     },
     {
       "name": "Allen Helmut.jpg",
@@ -1363,19 +1358,24 @@
       "relativePath": "Images/shadowrun characters/Aléxios Callas.png"
     },
     {
-      "name": "Aztechnology Merc.png",
-      "basename": "Aztechnology Merc",
-      "relativePath": "Images/shadowrun characters/Aztechnology Merc.png"
-    },
-    {
       "name": "Angelica_Quinn.jpg",
       "basename": "Angelica_Quinn",
       "relativePath": "Images/shadowrun characters/Angelica_Quinn.jpg"
     },
     {
+      "name": "Aztechnology Merc.png",
+      "basename": "Aztechnology Merc",
+      "relativePath": "Images/shadowrun characters/Aztechnology Merc.png"
+    },
+    {
       "name": "begger.jpg",
       "basename": "begger",
       "relativePath": "Images/shadowrun characters/begger.jpg"
+    },
+    {
+      "name": "big_mac.jpg",
+      "basename": "big_mac",
+      "relativePath": "Images/shadowrun characters/big_mac.jpg"
     },
     {
       "name": "Big Lou.png",
@@ -1388,11 +1388,6 @@
       "relativePath": "Images/shadowrun characters/big_sky.jpg"
     },
     {
-      "name": "big_mac.jpg",
-      "basename": "big_mac",
-      "relativePath": "Images/shadowrun characters/big_mac.jpg"
-    },
-    {
       "name": "blade.jpg",
       "basename": "blade",
       "relativePath": "Images/shadowrun characters/blade.jpg"
@@ -1403,9 +1398,9 @@
       "relativePath": "Images/shadowrun characters/Blaze.png"
     },
     {
-      "name": "bluefeather.png",
-      "basename": "bluefeather",
-      "relativePath": "Images/shadowrun characters/bluefeather.png"
+      "name": "Blitz.jpg",
+      "basename": "Blitz",
+      "relativePath": "Images/shadowrun characters/Blitz.jpg"
     },
     {
       "name": "Blood Butterfly.jpg",
@@ -1413,14 +1408,9 @@
       "relativePath": "Images/shadowrun characters/Blood Butterfly.jpg"
     },
     {
-      "name": "Blitz.jpg",
-      "basename": "Blitz",
-      "relativePath": "Images/shadowrun characters/Blitz.jpg"
-    },
-    {
-      "name": "catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e.png",
-      "basename": "catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e",
-      "relativePath": "Images/shadowrun characters/catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e.png"
+      "name": "bluefeather.png",
+      "basename": "bluefeather",
+      "relativePath": "Images/shadowrun characters/bluefeather.png"
     },
     {
       "name": "cat1.png",
@@ -1428,9 +1418,9 @@
       "relativePath": "Images/shadowrun characters/cat1.png"
     },
     {
-      "name": "Cho Drake.png",
-      "basename": "Cho Drake",
-      "relativePath": "Images/shadowrun characters/Cho Drake.png"
+      "name": "catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e.png",
+      "basename": "catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e",
+      "relativePath": "Images/shadowrun characters/catrone3_Takeshi_Nakamura_7cbfb62b-180f-4ebb-aaf3-3ab17145ea5e.png"
     },
     {
       "name": "Chip Lantray.png",
@@ -1438,14 +1428,19 @@
       "relativePath": "Images/shadowrun characters/Chip Lantray.png"
     },
     {
-      "name": "Chuck Finley.png",
-      "basename": "Chuck Finley",
-      "relativePath": "Images/shadowrun characters/Chuck Finley.png"
+      "name": "Cho Drake.png",
+      "basename": "Cho Drake",
+      "relativePath": "Images/shadowrun characters/Cho Drake.png"
     },
     {
       "name": "ClicClac.png",
       "basename": "ClicClac",
       "relativePath": "Images/shadowrun characters/ClicClac.png"
+    },
+    {
+      "name": "Chuck Finley.png",
+      "basename": "Chuck Finley",
+      "relativePath": "Images/shadowrun characters/Chuck Finley.png"
     },
     {
       "name": "Coco.png",
@@ -1458,14 +1453,14 @@
       "relativePath": "Images/shadowrun characters/Colonel Bennet.png"
     },
     {
-      "name": "Cyrille Boutin.png",
-      "basename": "Cyrille Boutin",
-      "relativePath": "Images/shadowrun characters/Cyrille Boutin.png"
-    },
-    {
       "name": "creed.jpg",
       "basename": "creed",
       "relativePath": "Images/shadowrun characters/creed.jpg"
+    },
+    {
+      "name": "Cyrille Boutin.png",
+      "basename": "Cyrille Boutin",
+      "relativePath": "Images/shadowrun characters/Cyrille Boutin.png"
     },
     {
       "name": "David Johnson.jpg",
@@ -1498,19 +1493,14 @@
       "relativePath": "Images/shadowrun characters/Dr Thorne.png"
     },
     {
-      "name": "Eddie Boussard.png",
-      "basename": "Eddie Boussard",
-      "relativePath": "Images/shadowrun characters/Eddie Boussard.png"
-    },
-    {
       "name": "Evangelia Kaufmann.webp",
       "basename": "Evangelia Kaufmann",
       "relativePath": "Images/shadowrun characters/Evangelia Kaufmann.webp"
     },
     {
-      "name": "Fox spirit.png",
-      "basename": "Fox spirit",
-      "relativePath": "Images/shadowrun characters/Fox spirit.png"
+      "name": "Eddie Boussard.png",
+      "basename": "Eddie Boussard",
+      "relativePath": "Images/shadowrun characters/Eddie Boussard.png"
     },
     {
       "name": "female 1.jpg",
@@ -1521,6 +1511,11 @@
       "name": "Galaxy jack.png",
       "basename": "Galaxy jack",
       "relativePath": "Images/shadowrun characters/Galaxy jack.png"
+    },
+    {
+      "name": "Fox spirit.png",
+      "basename": "Fox spirit",
+      "relativePath": "Images/shadowrun characters/Fox spirit.png"
     },
     {
       "name": "gip.jpg",
@@ -1568,11 +1563,6 @@
       "relativePath": "Images/shadowrun characters/ivy.jpg"
     },
     {
-      "name": "Jenny Haniver.jpg",
-      "basename": "Jenny Haniver",
-      "relativePath": "Images/shadowrun characters/Jenny Haniver.jpg"
-    },
-    {
       "name": "Jardis Balise.png",
       "basename": "Jardis Balise",
       "relativePath": "Images/shadowrun characters/Jardis Balise.png"
@@ -1581,6 +1571,11 @@
       "name": "Jenny Haniver dragon.webp",
       "basename": "Jenny Haniver dragon",
       "relativePath": "Images/shadowrun characters/Jenny Haniver dragon.webp"
+    },
+    {
+      "name": "Jenny Haniver.jpg",
+      "basename": "Jenny Haniver",
+      "relativePath": "Images/shadowrun characters/Jenny Haniver.jpg"
     },
     {
       "name": "Jess.png",
@@ -1598,6 +1593,11 @@
       "relativePath": "Images/shadowrun characters/Jester.png"
     },
     {
+      "name": "Jonathan_Micheals_1.jpg",
+      "basename": "Jonathan_Micheals_1",
+      "relativePath": "Images/shadowrun characters/Jonathan_Micheals_1.jpg"
+    },
+    {
       "name": "John Pau Morrell.png",
       "basename": "John Pau Morrell",
       "relativePath": "Images/shadowrun characters/John Pau Morrell.png"
@@ -1606,11 +1606,6 @@
       "name": "June BUg Reavers.png",
       "basename": "June BUg Reavers",
       "relativePath": "Images/shadowrun characters/June BUg Reavers.png"
-    },
-    {
-      "name": "Jonathan_Micheals_1.jpg",
-      "basename": "Jonathan_Micheals_1",
-      "relativePath": "Images/shadowrun characters/Jonathan_Micheals_1.jpg"
     },
     {
       "name": "kai.jpg",
@@ -1623,14 +1618,14 @@
       "relativePath": "Images/shadowrun characters/Kaleidoscope.png"
     },
     {
-      "name": "Lady Isabella Nightshade.png",
-      "basename": "Lady Isabella Nightshade",
-      "relativePath": "Images/shadowrun characters/Lady Isabella Nightshade.png"
-    },
-    {
       "name": "Kalt.jpg",
       "basename": "Kalt",
       "relativePath": "Images/shadowrun characters/Kalt.jpg"
+    },
+    {
+      "name": "Lady Isabella Nightshade.png",
+      "basename": "Lady Isabella Nightshade",
+      "relativePath": "Images/shadowrun characters/Lady Isabella Nightshade.png"
     },
     {
       "name": "Lance_Barrymore_1.jpg",
@@ -1643,14 +1638,14 @@
       "relativePath": "Images/shadowrun characters/leah.jpg"
     },
     {
-      "name": "Lester.png",
-      "basename": "Lester",
-      "relativePath": "Images/shadowrun characters/Lester.png"
-    },
-    {
       "name": "Lisette.png",
       "basename": "Lisette",
       "relativePath": "Images/shadowrun characters/Lisette.png"
+    },
+    {
+      "name": "Lester.png",
+      "basename": "Lester",
+      "relativePath": "Images/shadowrun characters/Lester.png"
     },
     {
       "name": "m12.jpg",
@@ -1658,14 +1653,14 @@
       "relativePath": "Images/shadowrun characters/m12.jpg"
     },
     {
-      "name": "m13.jpg",
-      "basename": "m13",
-      "relativePath": "Images/shadowrun characters/m13.jpg"
-    },
-    {
       "name": "Macey Driver.png",
       "basename": "Macey Driver",
       "relativePath": "Images/shadowrun characters/Macey Driver.png"
+    },
+    {
+      "name": "m13.jpg",
+      "basename": "m13",
+      "relativePath": "Images/shadowrun characters/m13.jpg"
     },
     {
       "name": "magic 10 male.jpg",
@@ -1673,19 +1668,24 @@
       "relativePath": "Images/shadowrun characters/magic 10 male.jpg"
     },
     {
+      "name": "magic 9.jpg",
+      "basename": "magic 9",
+      "relativePath": "Images/shadowrun characters/magic 9.jpg"
+    },
+    {
       "name": "magic 10.jpg",
       "basename": "magic 10",
       "relativePath": "Images/shadowrun characters/magic 10.jpg"
     },
     {
+      "name": "Marcus Krieger.png",
+      "basename": "Marcus Krieger",
+      "relativePath": "Images/shadowrun characters/Marcus Krieger.png"
+    },
+    {
       "name": "Mama Mawu.png",
       "basename": "Mama Mawu",
       "relativePath": "Images/shadowrun characters/Mama Mawu.png"
-    },
-    {
-      "name": "magic 9.jpg",
-      "basename": "magic 9",
-      "relativePath": "Images/shadowrun characters/magic 9.jpg"
     },
     {
       "name": "man 1.png",
@@ -1696,11 +1696,6 @@
       "name": "man 2.jpg",
       "basename": "man 2",
       "relativePath": "Images/shadowrun characters/man 2.jpg"
-    },
-    {
-      "name": "Marcus Krieger.png",
-      "basename": "Marcus Krieger",
-      "relativePath": "Images/shadowrun characters/Marcus Krieger.png"
     },
     {
       "name": "mau.jpg",
@@ -1718,14 +1713,14 @@
       "relativePath": "Images/shadowrun characters/meia.jpg"
     },
     {
-      "name": "moniqie_Lang.jpg",
-      "basename": "moniqie_Lang",
-      "relativePath": "Images/shadowrun characters/moniqie_Lang.jpg"
-    },
-    {
       "name": "Mi Kwan.jpg",
       "basename": "Mi Kwan",
       "relativePath": "Images/shadowrun characters/Mi Kwan.jpg"
+    },
+    {
+      "name": "moniqie_Lang.jpg",
+      "basename": "moniqie_Lang",
+      "relativePath": "Images/shadowrun characters/moniqie_Lang.jpg"
     },
     {
       "name": "mysad.jpg",
@@ -1733,19 +1728,14 @@
       "relativePath": "Images/shadowrun characters/mysad.jpg"
     },
     {
-      "name": "Nash_Brand_1.jpg",
-      "basename": "Nash_Brand_1",
-      "relativePath": "Images/shadowrun characters/Nash_Brand_1.jpg"
-    },
-    {
       "name": "Nadja Davier.png",
       "basename": "Nadja Davier",
       "relativePath": "Images/shadowrun characters/Nadja Davier.png"
     },
     {
-      "name": "old guy in incubus.jpg",
-      "basename": "old guy in incubus",
-      "relativePath": "Images/shadowrun characters/old guy in incubus.jpg"
+      "name": "Nash_Brand_1.jpg",
+      "basename": "Nash_Brand_1",
+      "relativePath": "Images/shadowrun characters/Nash_Brand_1.jpg"
     },
     {
       "name": "OIP_2.jpg",
@@ -1753,19 +1743,24 @@
       "relativePath": "Images/shadowrun characters/OIP_2.jpg"
     },
     {
+      "name": "old guy in incubus.jpg",
+      "basename": "old guy in incubus",
+      "relativePath": "Images/shadowrun characters/old guy in incubus.jpg"
+    },
+    {
       "name": "OIP_6.jpg",
       "basename": "OIP_6",
       "relativePath": "Images/shadowrun characters/OIP_6.jpg"
     },
     {
-      "name": "Pascal Fleming.png",
-      "basename": "Pascal Fleming",
-      "relativePath": "Images/shadowrun characters/Pascal Fleming.png"
-    },
-    {
       "name": "Old Man Bones.png",
       "basename": "Old Man Bones",
       "relativePath": "Images/shadowrun characters/Old Man Bones.png"
+    },
+    {
+      "name": "Pascal Fleming.png",
+      "basename": "Pascal Fleming",
+      "relativePath": "Images/shadowrun characters/Pascal Fleming.png"
     },
     {
       "name": "Pasted image 20220130180417.png",
@@ -1778,24 +1773,19 @@
       "relativePath": "Images/shadowrun characters/Pasted image 20220130180427.png"
     },
     {
-      "name": "Pasted image 20220130180436.png",
-      "basename": "Pasted image 20220130180436",
-      "relativePath": "Images/shadowrun characters/Pasted image 20220130180436.png"
-    },
-    {
       "name": "Pasted image 20220130181950.png",
       "basename": "Pasted image 20220130181950",
       "relativePath": "Images/shadowrun characters/Pasted image 20220130181950.png"
     },
     {
+      "name": "Pasted image 20220130180436.png",
+      "basename": "Pasted image 20220130180436",
+      "relativePath": "Images/shadowrun characters/Pasted image 20220130180436.png"
+    },
+    {
       "name": "Pasted image 20220130182532.png",
       "basename": "Pasted image 20220130182532",
       "relativePath": "Images/shadowrun characters/Pasted image 20220130182532.png"
-    },
-    {
-      "name": "Pasted image 20220418172155.png",
-      "basename": "Pasted image 20220418172155",
-      "relativePath": "Images/shadowrun characters/Pasted image 20220418172155.png"
     },
     {
       "name": "Pasted image 20220418172138.png",
@@ -1806,6 +1796,11 @@
       "name": "Pasted image 20220418172208.png",
       "basename": "Pasted image 20220418172208",
       "relativePath": "Images/shadowrun characters/Pasted image 20220418172208.png"
+    },
+    {
+      "name": "Pasted image 20220418172155.png",
+      "basename": "Pasted image 20220418172155",
+      "relativePath": "Images/shadowrun characters/Pasted image 20220418172155.png"
     },
     {
       "name": "Pasted image 20230225142651.png",
@@ -1828,14 +1823,14 @@
       "relativePath": "Images/shadowrun characters/Pasted image 20230325150404.png"
     },
     {
-      "name": "Pasted image 20230325150422.png",
-      "basename": "Pasted image 20230325150422",
-      "relativePath": "Images/shadowrun characters/Pasted image 20230325150422.png"
-    },
-    {
       "name": "Pasted image 20230325161639.png",
       "basename": "Pasted image 20230325161639",
       "relativePath": "Images/shadowrun characters/Pasted image 20230325161639.png"
+    },
+    {
+      "name": "Pasted image 20230325150422.png",
+      "basename": "Pasted image 20230325150422",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230325150422.png"
     },
     {
       "name": "Pasted image 20230520135324.png",
@@ -1888,14 +1883,14 @@
       "relativePath": "Images/shadowrun characters/Pasted image 20230701141836.png"
     },
     {
-      "name": "Pasted image 20230706151441.png",
-      "basename": "Pasted image 20230706151441",
-      "relativePath": "Images/shadowrun characters/Pasted image 20230706151441.png"
-    },
-    {
       "name": "Pasted image 20230701142209.png",
       "basename": "Pasted image 20230701142209",
       "relativePath": "Images/shadowrun characters/Pasted image 20230701142209.png"
+    },
+    {
+      "name": "Pasted image 20230706151441.png",
+      "basename": "Pasted image 20230706151441",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230706151441.png"
     },
     {
       "name": "Pasted image 20230706161427.png",
@@ -1928,6 +1923,16 @@
       "relativePath": "Images/shadowrun characters/Pasted image 20230706192420.png"
     },
     {
+      "name": "Pasted image 20230715141508.png",
+      "basename": "Pasted image 20230715141508",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230715141508.png"
+    },
+    {
+      "name": "Pasted image 20230715163822.png",
+      "basename": "Pasted image 20230715163822",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230715163822.png"
+    },
+    {
       "name": "Pasted image 20230715140311.png",
       "basename": "Pasted image 20230715140311",
       "relativePath": "Images/shadowrun characters/Pasted image 20230715140311.png"
@@ -1936,16 +1941,6 @@
       "name": "Pasted image 20230715171746.png",
       "basename": "Pasted image 20230715171746",
       "relativePath": "Images/shadowrun characters/Pasted image 20230715171746.png"
-    },
-    {
-      "name": "Pasted image 20230715163822.png",
-      "basename": "Pasted image 20230715163822",
-      "relativePath": "Images/shadowrun characters/Pasted image 20230715163822.png"
-    },
-    {
-      "name": "Pasted image 20230715141508.png",
-      "basename": "Pasted image 20230715141508",
-      "relativePath": "Images/shadowrun characters/Pasted image 20230715141508.png"
     },
     {
       "name": "Pasted image 20230715171808.png",
@@ -1958,11 +1953,6 @@
       "relativePath": "Images/shadowrun characters/Pasted image 20230715183808.png"
     },
     {
-      "name": "Pasted image 20230729142107.png",
-      "basename": "Pasted image 20230729142107",
-      "relativePath": "Images/shadowrun characters/Pasted image 20230729142107.png"
-    },
-    {
       "name": "Pasted image 20230729135559.png",
       "basename": "Pasted image 20230729135559",
       "relativePath": "Images/shadowrun characters/Pasted image 20230729135559.png"
@@ -1973,14 +1963,14 @@
       "relativePath": "Images/shadowrun characters/Pasted image 20230729141105.png"
     },
     {
+      "name": "Pasted image 20230729142107.png",
+      "basename": "Pasted image 20230729142107",
+      "relativePath": "Images/shadowrun characters/Pasted image 20230729142107.png"
+    },
+    {
       "name": "Pasted image 20230729142528.png",
       "basename": "Pasted image 20230729142528",
       "relativePath": "Images/shadowrun characters/Pasted image 20230729142528.png"
-    },
-    {
-      "name": "Prue_Kress.jpg",
-      "basename": "Prue_Kress",
-      "relativePath": "Images/shadowrun characters/Prue_Kress.jpg"
     },
     {
       "name": "pricess.jpg",
@@ -1991,6 +1981,11 @@
       "name": "pudding.jpg",
       "basename": "pudding",
       "relativePath": "Images/shadowrun characters/pudding.jpg"
+    },
+    {
+      "name": "Prue_Kress.jpg",
+      "basename": "Prue_Kress",
+      "relativePath": "Images/shadowrun characters/Prue_Kress.jpg"
     },
     {
       "name": "Páris Marinos.png",
@@ -2018,14 +2013,14 @@
       "relativePath": "Images/shadowrun characters/R_1.png"
     },
     {
-      "name": "sage_Quinn.jpg",
-      "basename": "sage_Quinn",
-      "relativePath": "Images/shadowrun characters/sage_Quinn.jpg"
-    },
-    {
       "name": "Salena Boisvert.jpg",
       "basename": "Salena Boisvert",
       "relativePath": "Images/shadowrun characters/Salena Boisvert.jpg"
+    },
+    {
+      "name": "sage_Quinn.jpg",
+      "basename": "sage_Quinn",
+      "relativePath": "Images/shadowrun characters/sage_Quinn.jpg"
     },
     {
       "name": "selena.jpg",
@@ -2058,14 +2053,14 @@
       "relativePath": "Images/shadowrun characters/slip.jpg"
     },
     {
-      "name": "Sojourner.png",
-      "basename": "Sojourner",
-      "relativePath": "Images/shadowrun characters/Sojourner.png"
-    },
-    {
       "name": "Sofoúla Manis.png",
       "basename": "Sofoúla Manis",
       "relativePath": "Images/shadowrun characters/Sofoúla Manis.png"
+    },
+    {
+      "name": "Sojourner.png",
+      "basename": "Sojourner",
+      "relativePath": "Images/shadowrun characters/Sojourner.png"
     },
     {
       "name": "sprung.jpg",
@@ -2073,14 +2068,14 @@
       "relativePath": "Images/shadowrun characters/sprung.jpg"
     },
     {
-      "name": "Steve.png",
-      "basename": "Steve",
-      "relativePath": "Images/shadowrun characters/Steve.png"
-    },
-    {
       "name": "stock-photo-female-doctor-or-nurse-working-at-her-job-in-the-hospital-1625881963-transformed.jpeg",
       "basename": "stock-photo-female-doctor-or-nurse-working-at-her-job-in-the-hospital-1625881963-transformed",
       "relativePath": "Images/shadowrun characters/stock-photo-female-doctor-or-nurse-working-at-her-job-in-the-hospital-1625881963-transformed.jpeg"
+    },
+    {
+      "name": "Steve.png",
+      "basename": "Steve",
+      "relativePath": "Images/shadowrun characters/Steve.png"
     },
     {
       "name": "sunny.jpg",
@@ -2103,14 +2098,14 @@
       "relativePath": "Images/shadowrun characters/teacher2.jpg"
     },
     {
-      "name": "Thalís Savas.png",
-      "basename": "Thalís Savas",
-      "relativePath": "Images/shadowrun characters/Thalís Savas.png"
-    },
-    {
       "name": "Tezca.png",
       "basename": "Tezca",
       "relativePath": "Images/shadowrun characters/Tezca.png"
+    },
+    {
+      "name": "Thalís Savas.png",
+      "basename": "Thalís Savas",
+      "relativePath": "Images/shadowrun characters/Thalís Savas.png"
     },
     {
       "name": "Thirteen.jpg",
@@ -2128,6 +2123,11 @@
       "relativePath": "Images/shadowrun characters/titania runner outfit.png"
     },
     {
+      "name": "Titania.png",
+      "basename": "Titania",
+      "relativePath": "Images/shadowrun characters/Titania.png"
+    },
+    {
       "name": "Toby Walker.png",
       "basename": "Toby Walker",
       "relativePath": "Images/shadowrun characters/Toby Walker.png"
@@ -2138,9 +2138,9 @@
       "relativePath": "Images/shadowrun characters/Troy.jpg"
     },
     {
-      "name": "Titania.png",
-      "basename": "Titania",
-      "relativePath": "Images/shadowrun characters/Titania.png"
+      "name": "ulli.jpg",
+      "basename": "ulli",
+      "relativePath": "Images/shadowrun characters/ulli.jpg"
     },
     {
       "name": "Ushi Bido (2).jpg",
@@ -2148,24 +2148,19 @@
       "relativePath": "Images/shadowrun characters/Ushi Bido (2).jpg"
     },
     {
-      "name": "ulli.jpg",
-      "basename": "ulli",
-      "relativePath": "Images/shadowrun characters/ulli.jpg"
-    },
-    {
       "name": "Valerian_Quinn.png",
       "basename": "Valerian_Quinn",
       "relativePath": "Images/shadowrun characters/Valerian_Quinn.png"
     },
     {
-      "name": "Weagona.png",
-      "basename": "Weagona",
-      "relativePath": "Images/shadowrun characters/Weagona.png"
-    },
-    {
       "name": "Veil Keepers.png",
       "basename": "Veil Keepers",
       "relativePath": "Images/shadowrun characters/Veil Keepers.png"
+    },
+    {
+      "name": "Weagona.png",
+      "basename": "Weagona",
+      "relativePath": "Images/shadowrun characters/Weagona.png"
     },
     {
       "name": "Wolf Spirit.png",
@@ -2178,6 +2173,11 @@
       "relativePath": "Images/shadowrun characters/Zoe.png"
     },
     {
+      "name": "catrone3_female_elf_with_flowing_sulver_hair_equisite_jewelry_a_a2f7cec3-fb3a-410e-8adf-42bcb212ee60.png",
+      "basename": "catrone3_female_elf_with_flowing_sulver_hair_equisite_jewelry_a_a2f7cec3-fb3a-410e-8adf-42bcb212ee60",
+      "relativePath": "Images/unused images/catrone3_female_elf_with_flowing_sulver_hair_equisite_jewelry_a_a2f7cec3-fb3a-410e-8adf-42bcb212ee60.png"
+    },
+    {
       "name": "Aegis.txt",
       "basename": "Aegis",
       "relativePath": "output/A Corps/Aegis.txt"
@@ -2188,14 +2188,14 @@
       "relativePath": "output/A Corps/Ardat-Lili Cyberware.txt"
     },
     {
-      "name": "Azimuth Corporation.txt",
-      "basename": "Azimuth Corporation",
-      "relativePath": "output/A Corps/Azimuth Corporation.txt"
-    },
-    {
       "name": "Blackwood Technologies.txt",
       "basename": "Blackwood Technologies",
       "relativePath": "output/A Corps/Blackwood Technologies.txt"
+    },
+    {
+      "name": "Azimuth Corporation.txt",
+      "basename": "Azimuth Corporation",
+      "relativePath": "output/A Corps/Azimuth Corporation.txt"
     },
     {
       "name": "GlobalTech Enterprises.txt",
@@ -2248,14 +2248,14 @@
       "relativePath": "output/A Corps/WardSecure Magical Security Systems.txt"
     },
     {
-      "name": "Blue Steel Industries.txt",
-      "basename": "Blue Steel Industries",
-      "relativePath": "output/AA Corps/Blue Steel Industries.txt"
-    },
-    {
       "name": "Atlantean Foundation.txt",
       "basename": "Atlantean Foundation",
       "relativePath": "output/AA Corps/Atlantean Foundation.txt"
+    },
+    {
+      "name": "Blue Steel Industries.txt",
+      "basename": "Blue Steel Industries",
+      "relativePath": "output/AA Corps/Blue Steel Industries.txt"
     },
     {
       "name": "DocWagon.txt",
@@ -2358,19 +2358,14 @@
       "relativePath": "output/A Corps/Mesametric/Mesametric Factory.txt"
     },
     {
-      "name": "OmniTech Solutions.txt",
-      "basename": "OmniTech Solutions",
-      "relativePath": "output/A Corps/Omni Corp/OmniTech Solutions.txt"
-    },
-    {
       "name": "OmniCorp Security Solutions.txt",
       "basename": "OmniCorp Security Solutions",
       "relativePath": "output/A Corps/Omni Corp/OmniCorp Security Solutions.txt"
     },
     {
-      "name": "SpiriTech Headquarters.txt",
-      "basename": "SpiriTech Headquarters",
-      "relativePath": "output/A Corps/Spiritech/SpiriTech Headquarters.txt"
+      "name": "OmniTech Solutions.txt",
+      "basename": "OmniTech Solutions",
+      "relativePath": "output/A Corps/Omni Corp/OmniTech Solutions.txt"
     },
     {
       "name": "Vitals Health and Welfare Clinic.txt",
@@ -2381,6 +2376,11 @@
       "name": "Vitals Hospital.txt",
       "basename": "Vitals Hospital",
       "relativePath": "output/A Corps/Safe Life Defense/Vitals Hospital.txt"
+    },
+    {
+      "name": "SpiriTech Headquarters.txt",
+      "basename": "SpiriTech Headquarters",
+      "relativePath": "output/A Corps/Spiritech/SpiriTech Headquarters.txt"
     },
     {
       "name": "Atlantean Foundation Offices.txt",
@@ -2403,14 +2403,59 @@
       "relativePath": "output/AA Corps/DocWagon/DocWagon Medical Supplies.txt"
     },
     {
+      "name": "Palmer Park Hospital.txt",
+      "basename": "Palmer Park Hospital",
+      "relativePath": "output/AA Corps/DocWagon/Palmer Park Hospital.txt"
+    },
+    {
       "name": "Nightingale Hospital.txt",
       "basename": "Nightingale Hospital",
       "relativePath": "output/AA Corps/DocWagon/Nightingale Hospital.txt"
     },
     {
-      "name": "Palmer Park Hospital.txt",
-      "basename": "Palmer Park Hospital",
-      "relativePath": "output/AA Corps/DocWagon/Palmer Park Hospital.txt"
+      "name": "1UP!.txt",
+      "basename": "1UP!",
+      "relativePath": "output/AA Corps/Litehouse Industries/1UP!.txt"
+    },
+    {
+      "name": "Denver School for Advanced Learning.txt",
+      "basename": "Denver School for Advanced Learning",
+      "relativePath": "output/AA Corps/Litehouse Industries/Denver School for Advanced Learning.txt"
+    },
+    {
+      "name": "Genesis Medical.txt",
+      "basename": "Genesis Medical",
+      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical.txt"
+    },
+    {
+      "name": "Incubus Club.txt",
+      "basename": "Incubus Club",
+      "relativePath": "output/AA Corps/Litehouse Industries/Incubus Club.txt"
+    },
+    {
+      "name": "Litehouse Brand.txt",
+      "basename": "Litehouse Brand",
+      "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand.txt"
+    },
+    {
+      "name": "Rainbow Corp.txt",
+      "basename": "Rainbow Corp",
+      "relativePath": "output/AA Corps/Litehouse Industries/Rainbow Corp.txt"
+    },
+    {
+      "name": "Mercea Conglomerate.txt",
+      "basename": "Mercea Conglomerate",
+      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate.txt"
+    },
+    {
+      "name": "The Apollo Group.txt",
+      "basename": "The Apollo Group",
+      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group.txt"
+    },
+    {
+      "name": "Denver West Marriott.txt",
+      "basename": "Denver West Marriott",
+      "relativePath": "output/AA Corps/Marriott International/Denver West Marriott.txt"
     },
     {
       "name": "Holiday Inn Denver Sport Center.txt",
@@ -2423,14 +2468,14 @@
       "relativePath": "output/Corps (Local)/New Orleans/Bayou Drawf.txt"
     },
     {
-      "name": "Blue Dog Tunes.txt",
-      "basename": "Blue Dog Tunes",
-      "relativePath": "output/Corps (Local)/New Orleans/Blue Dog Tunes.txt"
-    },
-    {
       "name": "Beautiful Dreams.txt",
       "basename": "Beautiful Dreams",
       "relativePath": "output/Corps (Local)/New Orleans/Beautiful Dreams.txt"
+    },
+    {
+      "name": "Blue Dog Tunes.txt",
+      "basename": "Blue Dog Tunes",
+      "relativePath": "output/Corps (Local)/New Orleans/Blue Dog Tunes.txt"
     },
     {
       "name": "Carity Hospital.txt",
@@ -2443,11 +2488,6 @@
       "relativePath": "output/Corps (Local)/New Orleans/Club Vampre.txt"
     },
     {
-      "name": "Crescent Pharmaceuticals.txt",
-      "basename": "Crescent Pharmaceuticals",
-      "relativePath": "output/Corps (Local)/New Orleans/Crescent Pharmaceuticals.txt"
-    },
-    {
       "name": "Dragon's Lair.txt",
       "basename": "Dragon's Lair",
       "relativePath": "output/Corps (Local)/New Orleans/Dragon's Lair.txt"
@@ -2458,14 +2498,19 @@
       "relativePath": "output/Corps (Local)/New Orleans/Eddie's Emporium.txt"
     },
     {
-      "name": "Evelynn Jazzers.txt",
-      "basename": "Evelynn Jazzers",
-      "relativePath": "output/Corps (Local)/New Orleans/Evelynn Jazzers.txt"
-    },
-    {
       "name": "Entregy Tower.txt",
       "basename": "Entregy Tower",
       "relativePath": "output/Corps (Local)/New Orleans/Entregy Tower.txt"
+    },
+    {
+      "name": "Crescent Pharmaceuticals.txt",
+      "basename": "Crescent Pharmaceuticals",
+      "relativePath": "output/Corps (Local)/New Orleans/Crescent Pharmaceuticals.txt"
+    },
+    {
+      "name": "Evelynn Jazzers.txt",
+      "basename": "Evelynn Jazzers",
+      "relativePath": "output/Corps (Local)/New Orleans/Evelynn Jazzers.txt"
     },
     {
       "name": "Fang collectors.txt",
@@ -2483,19 +2528,24 @@
       "relativePath": "output/Corps (Local)/New Orleans/June Bug's Warehouse.txt"
     },
     {
-      "name": "Lafitte's.txt",
-      "basename": "Lafitte's",
-      "relativePath": "output/Corps (Local)/New Orleans/Lafitte's.txt"
-    },
-    {
       "name": "La Pavillion.txt",
       "basename": "La Pavillion",
       "relativePath": "output/Corps (Local)/New Orleans/La Pavillion.txt"
     },
     {
+      "name": "Lafitte's.txt",
+      "basename": "Lafitte's",
+      "relativePath": "output/Corps (Local)/New Orleans/Lafitte's.txt"
+    },
+    {
       "name": "Liberty Tattoo.txt",
       "basename": "Liberty Tattoo",
       "relativePath": "output/Corps (Local)/New Orleans/Liberty Tattoo.txt"
+    },
+    {
+      "name": "Midnight Flowers.txt",
+      "basename": "Midnight Flowers",
+      "relativePath": "output/Corps (Local)/New Orleans/Midnight Flowers.txt"
     },
     {
       "name": "Molly's.txt",
@@ -2506,11 +2556,6 @@
       "name": "Old Absinthe.txt",
       "basename": "Old Absinthe",
       "relativePath": "output/Corps (Local)/New Orleans/Old Absinthe.txt"
-    },
-    {
-      "name": "Midnight Flowers.txt",
-      "basename": "Midnight Flowers",
-      "relativePath": "output/Corps (Local)/New Orleans/Midnight Flowers.txt"
     },
     {
       "name": "Paradox.txt",
@@ -2528,19 +2573,14 @@
       "relativePath": "output/Corps (Local)/New Orleans/Ricks Caberie.txt"
     },
     {
-      "name": "Sally's Orkish Bar.txt",
-      "basename": "Sally's Orkish Bar",
-      "relativePath": "output/Corps (Local)/New Orleans/Sally's Orkish Bar.txt"
-    },
-    {
       "name": "Sweet Sweet Janes.txt",
       "basename": "Sweet Sweet Janes",
       "relativePath": "output/Corps (Local)/New Orleans/Sweet Sweet Janes.txt"
     },
     {
-      "name": "The Star Tower.txt",
-      "basename": "The Star Tower",
-      "relativePath": "output/Corps (Local)/New Orleans/The Star Tower.txt"
+      "name": "Sally's Orkish Bar.txt",
+      "basename": "Sally's Orkish Bar",
+      "relativePath": "output/Corps (Local)/New Orleans/Sally's Orkish Bar.txt"
     },
     {
       "name": "The Jazz Playhouse.txt",
@@ -2548,54 +2588,14 @@
       "relativePath": "output/Corps (Local)/New Orleans/The Jazz Playhouse.txt"
     },
     {
-      "name": "Winds.txt",
-      "basename": "Winds",
-      "relativePath": "output/Corps (Local)/New Orleans/Winds.txt"
+      "name": "Arcane Emporium.txt",
+      "basename": "Arcane Emporium",
+      "relativePath": "output/Corps (Local)/South Florida/Arcane Emporium.txt"
     },
     {
-      "name": "1UP!.txt",
-      "basename": "1UP!",
-      "relativePath": "output/AA Corps/Litehouse Industries/1UP!.txt"
-    },
-    {
-      "name": "Genesis Medical.txt",
-      "basename": "Genesis Medical",
-      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical.txt"
-    },
-    {
-      "name": "Denver School for Advanced Learning.txt",
-      "basename": "Denver School for Advanced Learning",
-      "relativePath": "output/AA Corps/Litehouse Industries/Denver School for Advanced Learning.txt"
-    },
-    {
-      "name": "Incubus Club.txt",
-      "basename": "Incubus Club",
-      "relativePath": "output/AA Corps/Litehouse Industries/Incubus Club.txt"
-    },
-    {
-      "name": "Litehouse Brand.txt",
-      "basename": "Litehouse Brand",
-      "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand.txt"
-    },
-    {
-      "name": "Mercea Conglomerate.txt",
-      "basename": "Mercea Conglomerate",
-      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate.txt"
-    },
-    {
-      "name": "Rainbow Corp.txt",
-      "basename": "Rainbow Corp",
-      "relativePath": "output/AA Corps/Litehouse Industries/Rainbow Corp.txt"
-    },
-    {
-      "name": "The Apollo Group.txt",
-      "basename": "The Apollo Group",
-      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group.txt"
-    },
-    {
-      "name": "Denver West Marriott.txt",
-      "basename": "Denver West Marriott",
-      "relativePath": "output/AA Corps/Marriott International/Denver West Marriott.txt"
+      "name": "The Star Tower.txt",
+      "basename": "The Star Tower",
+      "relativePath": "output/Corps (Local)/New Orleans/The Star Tower.txt"
     },
     {
       "name": "Armadillo Armory.txt",
@@ -2603,14 +2603,9 @@
       "relativePath": "output/Corps (Local)/South Florida/Armadillo Armory.txt"
     },
     {
-      "name": "Arcane Emporium.txt",
-      "basename": "Arcane Emporium",
-      "relativePath": "output/Corps (Local)/South Florida/Arcane Emporium.txt"
-    },
-    {
-      "name": "Blackfire Arms & Armory.txt",
-      "basename": "Blackfire Arms & Armory",
-      "relativePath": "output/Corps (Local)/South Florida/Blackfire Arms & Armory.txt"
+      "name": "Winds.txt",
+      "basename": "Winds",
+      "relativePath": "output/Corps (Local)/New Orleans/Winds.txt"
     },
     {
       "name": "Blackwood Gallery.txt",
@@ -2618,9 +2613,14 @@
       "relativePath": "output/Corps (Local)/South Florida/Blackwood Gallery.txt"
     },
     {
-      "name": "Club Pythia.txt",
-      "basename": "Club Pythia",
-      "relativePath": "output/Corps (Local)/South Florida/Club Pythia.txt"
+      "name": "Blackfire Arms & Armory.txt",
+      "basename": "Blackfire Arms & Armory",
+      "relativePath": "output/Corps (Local)/South Florida/Blackfire Arms & Armory.txt"
+    },
+    {
+      "name": "Clean Sweep Cleaning Services.txt",
+      "basename": "Clean Sweep Cleaning Services",
+      "relativePath": "output/Corps (Local)/South Florida/Clean Sweep Cleaning Services.txt"
     },
     {
       "name": "Carlito's Bar.txt",
@@ -2628,9 +2628,9 @@
       "relativePath": "output/Corps (Local)/South Florida/Carlito's Bar.txt"
     },
     {
-      "name": "Clean Sweep Cleaning Services.txt",
-      "basename": "Clean Sweep Cleaning Services",
-      "relativePath": "output/Corps (Local)/South Florida/Clean Sweep Cleaning Services.txt"
+      "name": "Club Pythia.txt",
+      "basename": "Club Pythia",
+      "relativePath": "output/Corps (Local)/South Florida/Club Pythia.txt"
     },
     {
       "name": "Crimson Ember.txt",
@@ -2643,11 +2643,6 @@
       "relativePath": "output/Corps (Local)/South Florida/Cyberscape Nexus.txt"
     },
     {
-      "name": "Elysium.txt",
-      "basename": "Elysium",
-      "relativePath": "output/Corps (Local)/South Florida/Elysium.txt"
-    },
-    {
       "name": "Family Tech & Wrecks.txt",
       "basename": "Family Tech & Wrecks",
       "relativePath": "output/Corps (Local)/South Florida/Family Tech & Wrecks.txt"
@@ -2656,6 +2651,11 @@
       "name": "Franco's Frackin' Fantastic PARTY.txt",
       "basename": "Franco's Frackin' Fantastic PARTY",
       "relativePath": "output/Corps (Local)/South Florida/Franco's Frackin' Fantastic PARTY.txt"
+    },
+    {
+      "name": "Elysium.txt",
+      "basename": "Elysium",
+      "relativePath": "output/Corps (Local)/South Florida/Elysium.txt"
     },
     {
       "name": "Gearhead Garage.txt",
@@ -2668,19 +2668,9 @@
       "relativePath": "output/Corps (Local)/South Florida/Henrietta's.txt"
     },
     {
-      "name": "Ironworks Arsenal.txt",
-      "basename": "Ironworks Arsenal",
-      "relativePath": "output/Corps (Local)/South Florida/Ironworks Arsenal.txt"
-    },
-    {
       "name": "James Bonds.txt",
       "basename": "James Bonds",
       "relativePath": "output/Corps (Local)/South Florida/James Bonds.txt"
-    },
-    {
-      "name": "Miami Central Library.txt",
-      "basename": "Miami Central Library",
-      "relativePath": "output/Corps (Local)/South Florida/Miami Central Library.txt"
     },
     {
       "name": "Manny's Trideo Repair.txt",
@@ -2688,19 +2678,19 @@
       "relativePath": "output/Corps (Local)/South Florida/Manny's Trideo Repair.txt"
     },
     {
-      "name": "Mercy General Hospital.txt",
-      "basename": "Mercy General Hospital",
-      "relativePath": "output/Corps (Local)/South Florida/Mercy General Hospital.txt"
+      "name": "Ironworks Arsenal.txt",
+      "basename": "Ironworks Arsenal",
+      "relativePath": "output/Corps (Local)/South Florida/Ironworks Arsenal.txt"
+    },
+    {
+      "name": "Miami Central Library.txt",
+      "basename": "Miami Central Library",
+      "relativePath": "output/Corps (Local)/South Florida/Miami Central Library.txt"
     },
     {
       "name": "Miami City Morgue.txt",
       "basename": "Miami City Morgue",
       "relativePath": "output/Corps (Local)/South Florida/Miami City Morgue.txt"
-    },
-    {
-      "name": "Miami Dockyards.txt",
-      "basename": "Miami Dockyards",
-      "relativePath": "output/Corps (Local)/South Florida/Miami Dockyards.txt"
     },
     {
       "name": "Miami Daily.txt",
@@ -2713,6 +2703,16 @@
       "relativePath": "output/Corps (Local)/South Florida/Miami Sports Network.txt"
     },
     {
+      "name": "Mercy General Hospital.txt",
+      "basename": "Mercy General Hospital",
+      "relativePath": "output/Corps (Local)/South Florida/Mercy General Hospital.txt"
+    },
+    {
+      "name": "Miami Dockyards.txt",
+      "basename": "Miami Dockyards",
+      "relativePath": "output/Corps (Local)/South Florida/Miami Dockyards.txt"
+    },
+    {
       "name": "Midnight Exchange.txt",
       "basename": "Midnight Exchange",
       "relativePath": "output/Corps (Local)/South Florida/Midnight Exchange.txt"
@@ -2723,24 +2723,19 @@
       "relativePath": "output/Corps (Local)/South Florida/Mindscape Therapy Center.txt"
     },
     {
-      "name": "Mystique Emporium.txt",
-      "basename": "Mystique Emporium",
-      "relativePath": "output/Corps (Local)/South Florida/Mystique Emporium.txt"
-    },
-    {
       "name": "Mitchell's Emporium.txt",
       "basename": "Mitchell's Emporium",
       "relativePath": "output/Corps (Local)/South Florida/Mitchell's Emporium.txt"
     },
     {
+      "name": "Mystique Emporium.txt",
+      "basename": "Mystique Emporium",
+      "relativePath": "output/Corps (Local)/South Florida/Mystique Emporium.txt"
+    },
+    {
       "name": "Nutrilunch.txt",
       "basename": "Nutrilunch",
       "relativePath": "output/Corps (Local)/South Florida/Nutrilunch.txt"
-    },
-    {
-      "name": "River Cove Marina.txt",
-      "basename": "River Cove Marina",
-      "relativePath": "output/Corps (Local)/South Florida/River Cove Marina.txt"
     },
     {
       "name": "Ramirez Auto Repair Shop.txt",
@@ -2751,6 +2746,11 @@
       "name": "Rigger's Paradise.txt",
       "basename": "Rigger's Paradise",
       "relativePath": "output/Corps (Local)/South Florida/Rigger's Paradise.txt"
+    },
+    {
+      "name": "River Cove Marina.txt",
+      "basename": "River Cove Marina",
+      "relativePath": "output/Corps (Local)/South Florida/River Cove Marina.txt"
     },
     {
       "name": "Saint Michael's Church.txt",
@@ -2768,11 +2768,6 @@
       "relativePath": "output/Corps (Local)/South Florida/Santos Mortuary Services.txt"
     },
     {
-      "name": "Santos' Culinary Haven.txt",
-      "basename": "Santos' Culinary Haven",
-      "relativePath": "output/Corps (Local)/South Florida/Santos' Culinary Haven.txt"
-    },
-    {
       "name": "Secure Solutions Corporation.txt",
       "basename": "Secure Solutions Corporation",
       "relativePath": "output/Corps (Local)/South Florida/Secure Solutions Corporation.txt"
@@ -2783,9 +2778,9 @@
       "relativePath": "output/Corps (Local)/South Florida/Serenity Spa & Massage.txt"
     },
     {
-      "name": "Swift Delivery Services.txt",
-      "basename": "Swift Delivery Services",
-      "relativePath": "output/Corps (Local)/South Florida/Swift Delivery Services.txt"
+      "name": "Santos' Culinary Haven.txt",
+      "basename": "Santos' Culinary Haven",
+      "relativePath": "output/Corps (Local)/South Florida/Santos' Culinary Haven.txt"
     },
     {
       "name": "Silverstone Investments.txt",
@@ -2793,14 +2788,9 @@
       "relativePath": "output/Corps (Local)/South Florida/Silverstone Investments.txt"
     },
     {
-      "name": "The Fixer's Den.txt",
-      "basename": "The Fixer's Den",
-      "relativePath": "output/Corps (Local)/South Florida/The Fixer's Den.txt"
-    },
-    {
-      "name": "The Neon Lounge.txt",
-      "basename": "The Neon Lounge",
-      "relativePath": "output/Corps (Local)/South Florida/The Neon Lounge.txt"
+      "name": "Swift Delivery Services.txt",
+      "basename": "Swift Delivery Services",
+      "relativePath": "output/Corps (Local)/South Florida/Swift Delivery Services.txt"
     },
     {
       "name": "The Inferno Club.txt",
@@ -2813,19 +2803,29 @@
       "relativePath": "output/Corps (Local)/South Florida/The Mystic Emporium.txt"
     },
     {
+      "name": "The Fixer's Den.txt",
+      "basename": "The Fixer's Den",
+      "relativePath": "output/Corps (Local)/South Florida/The Fixer's Den.txt"
+    },
+    {
+      "name": "The Neon Lounge.txt",
+      "basename": "The Neon Lounge",
+      "relativePath": "output/Corps (Local)/South Florida/The Neon Lounge.txt"
+    },
+    {
       "name": "The Nightshade Club.txt",
       "basename": "The Nightshade Club",
       "relativePath": "output/Corps (Local)/South Florida/The Nightshade Club.txt"
     },
     {
-      "name": "The Shadow's Stash.txt",
-      "basename": "The Shadow's Stash",
-      "relativePath": "output/Corps (Local)/South Florida/The Shadow's Stash.txt"
-    },
-    {
       "name": "The Royal Palm Hotel.txt",
       "basename": "The Royal Palm Hotel",
       "relativePath": "output/Corps (Local)/South Florida/The Royal Palm Hotel.txt"
+    },
+    {
+      "name": "The Shadow's Stash.txt",
+      "basename": "The Shadow's Stash",
+      "relativePath": "output/Corps (Local)/South Florida/The Shadow's Stash.txt"
     },
     {
       "name": "Thompson Investigations.txt",
@@ -2838,6 +2838,11 @@
       "relativePath": "output/Corps (Local)/South Florida/Turner & Mitchell Law Firm.txt"
     },
     {
+      "name": "Turner Couture.txt",
+      "basename": "Turner Couture",
+      "relativePath": "output/Corps (Local)/South Florida/Turner Couture.txt"
+    },
+    {
       "name": "Turner Realty.txt",
       "basename": "Turner Realty",
       "relativePath": "output/Corps (Local)/South Florida/Turner Realty.txt"
@@ -2846,11 +2851,6 @@
       "name": "Urban Development Solutions.txt",
       "basename": "Urban Development Solutions",
       "relativePath": "output/Corps (Local)/South Florida/Urban Development Solutions.txt"
-    },
-    {
-      "name": "Turner Couture.txt",
-      "basename": "Turner Couture",
-      "relativePath": "output/Corps (Local)/South Florida/Turner Couture.txt"
     },
     {
       "name": "Versailles Restaurant.txt",
@@ -2868,6 +2868,11 @@
       "relativePath": "output/AAA Corps/Ares/Ares Arms Factory.txt"
     },
     {
+      "name": "Ares Tower.txt",
+      "basename": "Ares Tower",
+      "relativePath": "output/AAA Corps/Ares/Ares Tower.txt"
+    },
+    {
       "name": "Ares Spire.txt",
       "basename": "Ares Spire",
       "relativePath": "output/AAA Corps/Ares/Ares Spire.txt"
@@ -2876,11 +2881,6 @@
       "name": "Ares-McAuliffe International School.txt",
       "basename": "Ares-McAuliffe International School",
       "relativePath": "output/AAA Corps/Ares/Ares-McAuliffe International School.txt"
-    },
-    {
-      "name": "Ares Tower.txt",
-      "basename": "Ares Tower",
-      "relativePath": "output/AAA Corps/Ares/Ares Tower.txt"
     },
     {
       "name": "Cerebrotech Factory.txt",
@@ -2923,14 +2923,14 @@
       "relativePath": "output/AAA Corps/Evo/Feed Trough.txt"
     },
     {
-      "name": "Pensodyne BioTech Resort.txt",
-      "basename": "Pensodyne BioTech Resort",
-      "relativePath": "output/AAA Corps/Evo/Pensodyne BioTech Resort.txt"
-    },
-    {
       "name": "Genosys.txt",
       "basename": "Genosys",
       "relativePath": "output/AAA Corps/Evo/Genosys.txt"
+    },
+    {
+      "name": "Pensodyne BioTech Resort.txt",
+      "basename": "Pensodyne BioTech Resort",
+      "relativePath": "output/AAA Corps/Evo/Pensodyne BioTech Resort.txt"
     },
     {
       "name": "Tsuruga International Warehouse.txt",
@@ -2968,49 +2968,24 @@
       "relativePath": "output/AAA Corps/Horizon/Singularity Dataplex.txt"
     },
     {
-      "name": "Truman Tech Tower.txt",
-      "basename": "Truman Tech Tower",
-      "relativePath": "output/AAA Corps/Horizon/Truman Tech Tower.txt"
-    },
-    {
       "name": "Truman Distribution Networks Office.txt",
       "basename": "Truman Distribution Networks Office",
       "relativePath": "output/AAA Corps/Horizon/Truman Distribution Networks Office.txt"
     },
     {
-      "name": "Brainwave, Inc. Office.txt",
-      "basename": "Brainwave, Inc. Office",
-      "relativePath": "output/AAA Corps/MCT/Brainwave, Inc. Office.txt"
-    },
-    {
-      "name": "CodeBlue Biotech Office.txt",
-      "basename": "CodeBlue Biotech Office",
-      "relativePath": "output/AAA Corps/MCT/CodeBlue Biotech Office.txt"
-    },
-    {
-      "name": "Mitsuhama Tower.txt",
-      "basename": "Mitsuhama Tower",
-      "relativePath": "output/AAA Corps/MCT/Mitsuhama Tower.txt"
-    },
-    {
-      "name": "Mitsuhama Electronics Center.txt",
-      "basename": "Mitsuhama Electronics Center",
-      "relativePath": "output/AAA Corps/MCT/Mitsuhama Electronics Center.txt"
-    },
-    {
-      "name": "MCT-Athens.txt",
-      "basename": "MCT-Athens",
-      "relativePath": "output/AAA Corps/MCT/MCT-Athens.txt"
-    },
-    {
-      "name": "VOR Robotics Office.txt",
-      "basename": "VOR Robotics Office",
-      "relativePath": "output/AAA Corps/MCT/VOR Robotics Office.txt"
+      "name": "Truman Tech Tower.txt",
+      "basename": "Truman Tech Tower",
+      "relativePath": "output/AAA Corps/Horizon/Truman Tech Tower.txt"
     },
     {
       "name": "Architectural Dynamics Office.txt",
       "basename": "Architectural Dynamics Office",
       "relativePath": "output/AAA Corps/Renraku/Architectural Dynamics Office.txt"
+    },
+    {
+      "name": "Iris Firmware Office.txt",
+      "basename": "Iris Firmware Office",
+      "relativePath": "output/AAA Corps/Renraku/Iris Firmware Office.txt"
     },
     {
       "name": "HyperSense Headquarters.txt",
@@ -3023,9 +2998,9 @@
       "relativePath": "output/AAA Corps/Renraku/Karakuchi.txt"
     },
     {
-      "name": "Iris Firmware Office.txt",
-      "basename": "Iris Firmware Office",
-      "relativePath": "output/AAA Corps/Renraku/Iris Firmware Office.txt"
+      "name": "Renraku Innovation Hub.txt",
+      "basename": "Renraku Innovation Hub",
+      "relativePath": "output/AAA Corps/Renraku/Renraku Innovation Hub.txt"
     },
     {
       "name": "Renraku-Athens.txt",
@@ -3033,39 +3008,49 @@
       "relativePath": "output/AAA Corps/Renraku/Renraku-Athens.txt"
     },
     {
-      "name": "Renraku Innovation Hub.txt",
-      "basename": "Renraku Innovation Hub",
-      "relativePath": "output/AAA Corps/Renraku/Renraku Innovation Hub.txt"
-    },
-    {
-      "name": "Awakened World Research Office.txt",
-      "basename": "Awakened World Research Office",
-      "relativePath": "output/AAA Corps/Saeder-Krupp/Awakened World Research Office.txt"
-    },
-    {
       "name": "Terracotta Arms Factory.txt",
       "basename": "Terracotta Arms Factory",
       "relativePath": "output/AAA Corps/Renraku/Terracotta Arms Factory.txt"
     },
     {
-      "name": "BaryTech Heavy Industries Plant.txt",
-      "basename": "BaryTech Heavy Industries Plant",
-      "relativePath": "output/AAA Corps/Saeder-Krupp/BaryTech Heavy Industries Plant.txt"
+      "name": "CodeBlue Biotech Office.txt",
+      "basename": "CodeBlue Biotech Office",
+      "relativePath": "output/AAA Corps/MCT/CodeBlue Biotech Office.txt"
     },
     {
-      "name": "SK-Athens.txt",
-      "basename": "SK-Athens",
-      "relativePath": "output/AAA Corps/Saeder-Krupp/SK-Athens.txt"
+      "name": "Brainwave, Inc. Office.txt",
+      "basename": "Brainwave, Inc. Office",
+      "relativePath": "output/AAA Corps/MCT/Brainwave, Inc. Office.txt"
     },
     {
-      "name": "Fuchi Electronics.txt",
-      "basename": "Fuchi Electronics",
-      "relativePath": "output/AAA Corps/Shiawase/Fuchi Electronics.txt"
+      "name": "MCT-Athens.txt",
+      "basename": "MCT-Athens",
+      "relativePath": "output/AAA Corps/MCT/MCT-Athens.txt"
+    },
+    {
+      "name": "Mitsuhama Electronics Center.txt",
+      "basename": "Mitsuhama Electronics Center",
+      "relativePath": "output/AAA Corps/MCT/Mitsuhama Electronics Center.txt"
+    },
+    {
+      "name": "Mitsuhama Tower.txt",
+      "basename": "Mitsuhama Tower",
+      "relativePath": "output/AAA Corps/MCT/Mitsuhama Tower.txt"
+    },
+    {
+      "name": "VOR Robotics Office.txt",
+      "basename": "VOR Robotics Office",
+      "relativePath": "output/AAA Corps/MCT/VOR Robotics Office.txt"
     },
     {
       "name": "Castle Rock Fusion Plant.txt",
       "basename": "Castle Rock Fusion Plant",
       "relativePath": "output/AAA Corps/Shiawase/Castle Rock Fusion Plant.txt"
+    },
+    {
+      "name": "Fuchi Electronics.txt",
+      "basename": "Fuchi Electronics",
+      "relativePath": "output/AAA Corps/Shiawase/Fuchi Electronics.txt"
     },
     {
       "name": "Inari Jinja.txt",
@@ -3078,19 +3063,24 @@
       "relativePath": "output/AAA Corps/Shiawase/Shiawase Plaza.txt"
     },
     {
-      "name": "FTL Technologies Headquarters.txt",
-      "basename": "FTL Technologies Headquarters",
-      "relativePath": "output/AAA Corps/Spinrad Global/FTL Technologies Headquarters.txt"
-    },
-    {
       "name": "Shiawase Tower.txt",
       "basename": "Shiawase Tower",
       "relativePath": "output/AAA Corps/Shiawase/Shiawase Tower.txt"
     },
     {
-      "name": "Novatech Matrix Services Office.txt",
-      "basename": "Novatech Matrix Services Office",
-      "relativePath": "output/AAA Corps/Spinrad Global/Novatech Matrix Services Office.txt"
+      "name": "Awakened World Research Office.txt",
+      "basename": "Awakened World Research Office",
+      "relativePath": "output/AAA Corps/Saeder-Krupp/Awakened World Research Office.txt"
+    },
+    {
+      "name": "BaryTech Heavy Industries Plant.txt",
+      "basename": "BaryTech Heavy Industries Plant",
+      "relativePath": "output/AAA Corps/Saeder-Krupp/BaryTech Heavy Industries Plant.txt"
+    },
+    {
+      "name": "SK-Athens.txt",
+      "basename": "SK-Athens",
+      "relativePath": "output/AAA Corps/Saeder-Krupp/SK-Athens.txt"
     },
     {
       "name": "Ming Solutions Office.txt",
@@ -3098,9 +3088,119 @@
       "relativePath": "output/AAA Corps/Wuxing/Ming Solutions Office.txt"
     },
     {
+      "name": "FTL Technologies Headquarters.txt",
+      "basename": "FTL Technologies Headquarters",
+      "relativePath": "output/AAA Corps/Spinrad Global/FTL Technologies Headquarters.txt"
+    },
+    {
+      "name": "Novatech Matrix Services Office.txt",
+      "basename": "Novatech Matrix Services Office",
+      "relativePath": "output/AAA Corps/Spinrad Global/Novatech Matrix Services Office.txt"
+    },
+    {
       "name": "Wuxing Cherry Park.txt",
       "basename": "Wuxing Cherry Park",
       "relativePath": "output/AAA Corps/Wuxing/Wuxing Cherry Park.txt"
+    },
+    {
+      "name": "C-260.txt",
+      "basename": "C-260",
+      "relativePath": "output/AA Corps/Litehouse Industries/Cheyenne Mountain/C-260.txt"
+    },
+    {
+      "name": "Lear-Cessna Platinum.txt",
+      "basename": "Lear-Cessna Platinum",
+      "relativePath": "output/AA Corps/Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.txt"
+    },
+    {
+      "name": "SKA-008.txt",
+      "basename": "SKA-008",
+      "relativePath": "output/AA Corps/Litehouse Industries/Cheyenne Mountain/SKA-008.txt"
+    },
+    {
+      "name": "SU-41 'Fixer'.txt",
+      "basename": "SU-41 'Fixer'",
+      "relativePath": "output/AA Corps/Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'.txt"
+    },
+    {
+      "name": "Toyota Gopher.txt",
+      "basename": "Toyota Gopher",
+      "relativePath": "output/AA Corps/Litehouse Industries/Cheyenne Mountain/Toyota Gopher.txt"
+    },
+    {
+      "name": "1UP! Colfax.txt",
+      "basename": "1UP! Colfax",
+      "relativePath": "output/AA Corps/Litehouse Industries/1UP!/1UP! Colfax.txt"
+    },
+    {
+      "name": "1UP! Lo-Bo.txt",
+      "basename": "1UP! Lo-Bo",
+      "relativePath": "output/AA Corps/Litehouse Industries/1UP!/1UP! Lo-Bo.txt"
+    },
+    {
+      "name": "One-up Bar and Arcade.txt",
+      "basename": "One-up Bar and Arcade",
+      "relativePath": "output/AA Corps/Litehouse Industries/1UP!/One-up Bar and Arcade.txt"
+    },
+    {
+      "name": "The 1up - LoBo.txt",
+      "basename": "The 1up - LoBo",
+      "relativePath": "output/AA Corps/Litehouse Industries/1UP!/The 1up - LoBo.txt"
+    },
+    {
+      "name": "Incubus Club Teams.txt",
+      "basename": "Incubus Club Teams",
+      "relativePath": "output/AA Corps/Litehouse Industries/Incubus Club/Incubus Club Teams.txt"
+    },
+    {
+      "name": "Genesis Avista Hospital.txt",
+      "basename": "Genesis Avista Hospital",
+      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical/Genesis Avista Hospital.txt"
+    },
+    {
+      "name": "Genesis Medical Clinic Aurora.txt",
+      "basename": "Genesis Medical Clinic Aurora",
+      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical/Genesis Medical Clinic Aurora.txt"
+    },
+    {
+      "name": "Genesis Medical Hospital.txt",
+      "basename": "Genesis Medical Hospital",
+      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical/Genesis Medical Hospital.txt"
+    },
+    {
+      "name": "Genesis Summit Medical Clinic.txt",
+      "basename": "Genesis Summit Medical Clinic",
+      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical/Genesis Summit Medical Clinic.txt"
+    },
+    {
+      "name": "Platte River Medical Clinic.txt",
+      "basename": "Platte River Medical Clinic",
+      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical/Platte River Medical Clinic.txt"
+    },
+    {
+      "name": "Sperm Banks.txt",
+      "basename": "Sperm Banks",
+      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical/Sperm Banks.txt"
+    },
+    {
+      "name": "Litehouse Aerospace.txt",
+      "basename": "Litehouse Aerospace",
+      "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Aerospace.txt"
+    },
+    {
+      "name": "Litehouse Construction.txt",
+      "basename": "Litehouse Construction",
+      "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Construction.txt"
+    },
+    {
+      "name": "Litehouse Manufacturing.txt",
+      "basename": "Litehouse Manufacturing",
+      "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.txt"
+    },
+    {
+      "name": "Litehouse Production.txt",
+      "basename": "Litehouse Production",
+      "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production.txt"
     },
     {
       "name": "Adirondack.txt",
@@ -3108,19 +3208,24 @@
       "relativePath": "output/Corps (Local)/FRFZ/Arvada/Adirondack.txt"
     },
     {
-      "name": "Arvada FRTA Station.txt",
-      "basename": "Arvada FRTA Station",
-      "relativePath": "output/Corps (Local)/FRFZ/Arvada/Arvada FRTA Station.txt"
-    },
-    {
       "name": "Bobbi Vodka's.txt",
       "basename": "Bobbi Vodka's",
       "relativePath": "output/Corps (Local)/FRFZ/Arvada/Bobbi Vodka's.txt"
     },
     {
+      "name": "Arvada FRTA Station.txt",
+      "basename": "Arvada FRTA Station",
+      "relativePath": "output/Corps (Local)/FRFZ/Arvada/Arvada FRTA Station.txt"
+    },
+    {
       "name": "Casa Bonita.txt",
       "basename": "Casa Bonita",
       "relativePath": "output/Corps (Local)/FRFZ/Arvada/Casa Bonita.txt"
+    },
+    {
+      "name": "KMAG Headquarters.txt",
+      "basename": "KMAG Headquarters",
+      "relativePath": "output/Corps (Local)/FRFZ/Arvada/KMAG Headquarters.txt"
     },
     {
       "name": "Denim.txt",
@@ -3131,11 +3236,6 @@
       "name": "Lakeside Amusement Park and Casino.txt",
       "basename": "Lakeside Amusement Park and Casino",
       "relativePath": "output/Corps (Local)/FRFZ/Arvada/Lakeside Amusement Park and Casino.txt"
-    },
-    {
-      "name": "KMAG Headquarters.txt",
-      "basename": "KMAG Headquarters",
-      "relativePath": "output/Corps (Local)/FRFZ/Arvada/KMAG Headquarters.txt"
     },
     {
       "name": "Olde Towne Station Apartments.txt",
@@ -3158,14 +3258,164 @@
       "relativePath": "output/Corps (Local)/FRFZ/Arvada/The Rack.txt"
     },
     {
+      "name": "Host Upgrades.txt",
+      "basename": "Host Upgrades",
+      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group/Host Upgrades.txt"
+    },
+    {
       "name": "Vitals Wellness Clinic, Wheat Ridge.txt",
       "basename": "Vitals Wellness Clinic, Wheat Ridge",
       "relativePath": "output/Corps (Local)/FRFZ/Arvada/Vitals Wellness Clinic, Wheat Ridge.txt"
     },
     {
+      "name": "IC Designs.txt",
+      "basename": "IC Designs",
+      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group/IC Designs.txt"
+    },
+    {
+      "name": "Office 1.txt",
+      "basename": "Office 1",
+      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group/Office 1.txt"
+    },
+    {
+      "name": "Original Office.txt",
+      "basename": "Original Office",
+      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group/Original Office.txt"
+    },
+    {
+      "name": "Office 2.txt",
+      "basename": "Office 2",
+      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group/Office 2.txt"
+    },
+    {
+      "name": "Security Programs.txt",
+      "basename": "Security Programs",
+      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group/Security Programs.txt"
+    },
+    {
+      "name": "M.H. Institue of Neuroscience.txt",
+      "basename": "M.H. Institue of Neuroscience",
+      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.txt"
+    },
+    {
+      "name": "Manufacturing.txt",
+      "basename": "Manufacturing",
+      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing.txt"
+    },
+    {
+      "name": "Twilight Medical Services.txt",
+      "basename": "Twilight Medical Services",
+      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services.txt"
+    },
+    {
+      "name": "Allie Cats XXX.txt",
+      "basename": "Allie Cats XXX",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Allie Cats XXX.txt"
+    },
+    {
+      "name": "Dartguns 2 Smartguns.txt",
+      "basename": "Dartguns 2 Smartguns",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Dartguns 2 Smartguns.txt"
+    },
+    {
+      "name": "Aurora Village Medical Center.txt",
+      "basename": "Aurora Village Medical Center",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Aurora Village Medical Center.txt"
+    },
+    {
+      "name": "Dracula's Coffin.txt",
+      "basename": "Dracula's Coffin",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Dracula's Coffin.txt"
+    },
+    {
+      "name": "Hippocrates.txt",
+      "basename": "Hippocrates",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Hippocrates.txt"
+    },
+    {
+      "name": "Grunt’s Orkish Delights.txt",
+      "basename": "Grunt’s Orkish Delights",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Grunt’s Orkish Delights.txt"
+    },
+    {
+      "name": "Hole in the Wall.txt",
+      "basename": "Hole in the Wall",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Hole in the Wall.txt"
+    },
+    {
+      "name": "Iron Horse Shooting Range.txt",
+      "basename": "Iron Horse Shooting Range",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Iron Horse Shooting Range.txt"
+    },
+    {
+      "name": "Meat Market.txt",
+      "basename": "Meat Market",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Meat Market.txt"
+    },
+    {
+      "name": "Ok Food and Stuff.txt",
+      "basename": "Ok Food and Stuff",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Ok Food and Stuff.txt"
+    },
+    {
+      "name": "Paradise Lane.txt",
+      "basename": "Paradise Lane",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Paradise Lane.txt"
+    },
+    {
+      "name": "Quincy Reservoir.txt",
+      "basename": "Quincy Reservoir",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Quincy Reservoir.txt"
+    },
+    {
+      "name": "Sam’s Gadgets.txt",
+      "basename": "Sam’s Gadgets",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Sam’s Gadgets.txt"
+    },
+    {
+      "name": "Smoky Hill Marketplace.txt",
+      "basename": "Smoky Hill Marketplace",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Smoky Hill Marketplace.txt"
+    },
+    {
+      "name": "Stone Cliff Apartments.txt",
+      "basename": "Stone Cliff Apartments",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Stone Cliff Apartments.txt"
+    },
+    {
+      "name": "The Good.txt",
+      "basename": "The Good",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/The Good.txt"
+    },
+    {
+      "name": "Southside.txt",
+      "basename": "Southside",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Southside.txt"
+    },
+    {
+      "name": "The Digs.txt",
+      "basename": "The Digs",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/The Digs.txt"
+    },
+    {
       "name": "Bear Creek Condos.txt",
       "basename": "Bear Creek Condos",
       "relativePath": "output/Corps (Local)/FRFZ/Boulder/Bear Creek Condos.txt"
+    },
+    {
+      "name": "Tír’Rae.txt",
+      "basename": "Tír’Rae",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Tír’Rae.txt"
+    },
+    {
+      "name": "Trinket's.txt",
+      "basename": "Trinket's",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Trinket's.txt"
+    },
+    {
+      "name": "Warzone.txt",
+      "basename": "Warzone",
+      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Warzone.txt"
     },
     {
       "name": "Boulder Maglev Station.txt",
@@ -3203,9 +3453,9 @@
       "relativePath": "output/Corps (Local)/FRFZ/Boulder/Niwot Airport.txt"
     },
     {
-      "name": "University of Colorado Boulder.txt",
-      "basename": "University of Colorado Boulder",
-      "relativePath": "output/Corps (Local)/FRFZ/Boulder/University of Colorado Boulder.txt"
+      "name": "Boot Lake Community.txt",
+      "basename": "Boot Lake Community",
+      "relativePath": "output/Corps (Local)/FRFZ/Brighton/Boot Lake Community.txt"
     },
     {
       "name": "ZDF Station Boulder.txt",
@@ -3213,139 +3463,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/Boulder/ZDF Station Boulder.txt"
     },
     {
-      "name": "Aurora Village Medical Center.txt",
-      "basename": "Aurora Village Medical Center",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Aurora Village Medical Center.txt"
-    },
-    {
-      "name": "Allie Cats XXX.txt",
-      "basename": "Allie Cats XXX",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Allie Cats XXX.txt"
-    },
-    {
-      "name": "Dartguns 2 Smartguns.txt",
-      "basename": "Dartguns 2 Smartguns",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Dartguns 2 Smartguns.txt"
-    },
-    {
-      "name": "Dracula's Coffin.txt",
-      "basename": "Dracula's Coffin",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Dracula's Coffin.txt"
-    },
-    {
-      "name": "Grunt’s Orkish Delights.txt",
-      "basename": "Grunt’s Orkish Delights",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Grunt’s Orkish Delights.txt"
-    },
-    {
-      "name": "Hole in the Wall.txt",
-      "basename": "Hole in the Wall",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Hole in the Wall.txt"
-    },
-    {
-      "name": "Hippocrates.txt",
-      "basename": "Hippocrates",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Hippocrates.txt"
-    },
-    {
-      "name": "Iron Horse Shooting Range.txt",
-      "basename": "Iron Horse Shooting Range",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Iron Horse Shooting Range.txt"
-    },
-    {
-      "name": "Ok Food and Stuff.txt",
-      "basename": "Ok Food and Stuff",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Ok Food and Stuff.txt"
-    },
-    {
-      "name": "Meat Market.txt",
-      "basename": "Meat Market",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Meat Market.txt"
-    },
-    {
-      "name": "Paradise Lane.txt",
-      "basename": "Paradise Lane",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Paradise Lane.txt"
-    },
-    {
-      "name": "Quincy Reservoir.txt",
-      "basename": "Quincy Reservoir",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Quincy Reservoir.txt"
-    },
-    {
-      "name": "Sam’s Gadgets.txt",
-      "basename": "Sam’s Gadgets",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Sam’s Gadgets.txt"
-    },
-    {
-      "name": "Southside.txt",
-      "basename": "Southside",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Southside.txt"
-    },
-    {
-      "name": "Smoky Hill Marketplace.txt",
-      "basename": "Smoky Hill Marketplace",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Smoky Hill Marketplace.txt"
-    },
-    {
-      "name": "Stone Cliff Apartments.txt",
-      "basename": "Stone Cliff Apartments",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Stone Cliff Apartments.txt"
-    },
-    {
-      "name": "Trinket's.txt",
-      "basename": "Trinket's",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Trinket's.txt"
-    },
-    {
-      "name": "The Digs.txt",
-      "basename": "The Digs",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/The Digs.txt"
-    },
-    {
-      "name": "The Good.txt",
-      "basename": "The Good",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/The Good.txt"
-    },
-    {
-      "name": "Tír’Rae.txt",
-      "basename": "Tír’Rae",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Tír’Rae.txt"
-    },
-    {
-      "name": "Warzone.txt",
-      "basename": "Warzone",
-      "relativePath": "output/Corps (Local)/FRFZ/Aurora Warrens/Warzone.txt"
-    },
-    {
-      "name": "Town Center Mall.txt",
-      "basename": "Town Center Mall",
-      "relativePath": "output/Corps (Local)/FRFZ/Broomfield/Town Center Mall.txt"
-    },
-    {
-      "name": "Newlife Medical.txt",
-      "basename": "Newlife Medical",
-      "relativePath": "output/Corps (Local)/FRFZ/Broomfield/Newlife Medical.txt"
-    },
-    {
-      "name": "Erie Airport.txt",
-      "basename": "Erie Airport",
-      "relativePath": "output/Corps (Local)/FRFZ/Broomfield/Erie Airport.txt"
-    },
-    {
-      "name": "ZDF Station Broomfield.txt",
-      "basename": "ZDF Station Broomfield",
-      "relativePath": "output/Corps (Local)/FRFZ/Broomfield/ZDF Station Broomfield.txt"
-    },
-    {
-      "name": "Boot Lake Community.txt",
-      "basename": "Boot Lake Community",
-      "relativePath": "output/Corps (Local)/FRFZ/Brighton/Boot Lake Community.txt"
-    },
-    {
       "name": "Cat's House.txt",
       "basename": "Cat's House",
       "relativePath": "output/Corps (Local)/FRFZ/Brighton/Cat's House.txt"
+    },
+    {
+      "name": "University of Colorado Boulder.txt",
+      "basename": "University of Colorado Boulder",
+      "relativePath": "output/Corps (Local)/FRFZ/Boulder/University of Colorado Boulder.txt"
     },
     {
       "name": "Change the Range Solar Farm.txt",
@@ -3363,6 +3488,11 @@
       "relativePath": "output/Corps (Local)/FRFZ/Brighton/Pearson Park.txt"
     },
     {
+      "name": "ZDF Station Brighton.txt",
+      "basename": "ZDF Station Brighton",
+      "relativePath": "output/Corps (Local)/FRFZ/Brighton/ZDF Station Brighton.txt"
+    },
+    {
       "name": "Safiya’s Critter Care.txt",
       "basename": "Safiya’s Critter Care",
       "relativePath": "output/Corps (Local)/FRFZ/Brighton/Safiya’s Critter Care.txt"
@@ -3373,9 +3503,44 @@
       "relativePath": "output/Corps (Local)/FRFZ/Brighton/Sitting Bull Shooting Range.txt"
     },
     {
-      "name": "ZDF Station Brighton.txt",
-      "basename": "ZDF Station Brighton",
-      "relativePath": "output/Corps (Local)/FRFZ/Brighton/ZDF Station Brighton.txt"
+      "name": "Erie Airport.txt",
+      "basename": "Erie Airport",
+      "relativePath": "output/Corps (Local)/FRFZ/Broomfield/Erie Airport.txt"
+    },
+    {
+      "name": "Newlife Medical.txt",
+      "basename": "Newlife Medical",
+      "relativePath": "output/Corps (Local)/FRFZ/Broomfield/Newlife Medical.txt"
+    },
+    {
+      "name": "Blitz Mansion.txt",
+      "basename": "Blitz Mansion",
+      "relativePath": "output/Corps (Local)/FRFZ/Castle Rock/Blitz Mansion.txt"
+    },
+    {
+      "name": "ZDF Station Broomfield.txt",
+      "basename": "ZDF Station Broomfield",
+      "relativePath": "output/Corps (Local)/FRFZ/Broomfield/ZDF Station Broomfield.txt"
+    },
+    {
+      "name": "Town Center Mall.txt",
+      "basename": "Town Center Mall",
+      "relativePath": "output/Corps (Local)/FRFZ/Broomfield/Town Center Mall.txt"
+    },
+    {
+      "name": "Castle Rock Maglev Station.txt",
+      "basename": "Castle Rock Maglev Station",
+      "relativePath": "output/Corps (Local)/FRFZ/Castle Rock/Castle Rock Maglev Station.txt"
+    },
+    {
+      "name": "Meridian Townhomes.txt",
+      "basename": "Meridian Townhomes",
+      "relativePath": "output/Corps (Local)/FRFZ/Castle Rock/Meridian Townhomes.txt"
+    },
+    {
+      "name": "Pradera Resort.txt",
+      "basename": "Pradera Resort",
+      "relativePath": "output/Corps (Local)/FRFZ/Castle Rock/Pradera Resort.txt"
     },
     {
       "name": "Centennial Airport.txt",
@@ -3383,14 +3548,24 @@
       "relativePath": "output/Corps (Local)/FRFZ/Centennial/Centennial Airport.txt"
     },
     {
+      "name": "Sedalia Airport.txt",
+      "basename": "Sedalia Airport",
+      "relativePath": "output/Corps (Local)/FRFZ/Castle Rock/Sedalia Airport.txt"
+    },
+    {
+      "name": "Stonegate Judicial Complex.txt",
+      "basename": "Stonegate Judicial Complex",
+      "relativePath": "output/Corps (Local)/FRFZ/Castle Rock/Stonegate Judicial Complex.txt"
+    },
+    {
+      "name": "ZDF Station Castle Rock.txt",
+      "basename": "ZDF Station Castle Rock",
+      "relativePath": "output/Corps (Local)/FRFZ/Castle Rock/ZDF Station Castle Rock.txt"
+    },
+    {
       "name": "Chamberlain Airport.txt",
       "basename": "Chamberlain Airport",
       "relativePath": "output/Corps (Local)/FRFZ/Centennial/Chamberlain Airport.txt"
-    },
-    {
-      "name": "Cherry Creek Country Club.txt",
-      "basename": "Cherry Creek Country Club",
-      "relativePath": "output/Corps (Local)/FRFZ/Centennial/Cherry Creek Country Club.txt"
     },
     {
       "name": "Drones, Drones, Drones!.txt",
@@ -3403,6 +3578,11 @@
       "relativePath": "output/Corps (Local)/FRFZ/Centennial/Free Zone Voice Offices.txt"
     },
     {
+      "name": "Cherry Creek Country Club.txt",
+      "basename": "Cherry Creek Country Club",
+      "relativePath": "output/Corps (Local)/FRFZ/Centennial/Cherry Creek Country Club.txt"
+    },
+    {
       "name": "Holm Elementry.txt",
       "basename": "Holm Elementry",
       "relativePath": "output/Corps (Local)/FRFZ/Centennial/Holm Elementry.txt"
@@ -3413,14 +3593,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/Centennial/Klavikov Karaoke.txt"
     },
     {
-      "name": "Mystic Curiosities.txt",
-      "basename": "Mystic Curiosities",
-      "relativePath": "output/Corps (Local)/FRFZ/Centennial/Mystic Curiosities.txt"
-    },
-    {
       "name": "Penrose Library.txt",
       "basename": "Penrose Library",
       "relativePath": "output/Corps (Local)/FRFZ/Centennial/Penrose Library.txt"
+    },
+    {
+      "name": "Mystic Curiosities.txt",
+      "basename": "Mystic Curiosities",
+      "relativePath": "output/Corps (Local)/FRFZ/Centennial/Mystic Curiosities.txt"
     },
     {
       "name": "PT's Centerfold.txt",
@@ -3468,74 +3648,9 @@
       "relativePath": "output/Corps (Local)/FRFZ/Centennial/Westmore Condo.txt"
     },
     {
-      "name": "Blitz Mansion.txt",
-      "basename": "Blitz Mansion",
-      "relativePath": "output/Corps (Local)/FRFZ/Castle Rock/Blitz Mansion.txt"
-    },
-    {
-      "name": "Castle Rock Maglev Station.txt",
-      "basename": "Castle Rock Maglev Station",
-      "relativePath": "output/Corps (Local)/FRFZ/Castle Rock/Castle Rock Maglev Station.txt"
-    },
-    {
-      "name": "Meridian Townhomes.txt",
-      "basename": "Meridian Townhomes",
-      "relativePath": "output/Corps (Local)/FRFZ/Castle Rock/Meridian Townhomes.txt"
-    },
-    {
-      "name": "Sedalia Airport.txt",
-      "basename": "Sedalia Airport",
-      "relativePath": "output/Corps (Local)/FRFZ/Castle Rock/Sedalia Airport.txt"
-    },
-    {
-      "name": "Pradera Resort.txt",
-      "basename": "Pradera Resort",
-      "relativePath": "output/Corps (Local)/FRFZ/Castle Rock/Pradera Resort.txt"
-    },
-    {
-      "name": "ZDF Station Castle Rock.txt",
-      "basename": "ZDF Station Castle Rock",
-      "relativePath": "output/Corps (Local)/FRFZ/Castle Rock/ZDF Station Castle Rock.txt"
-    },
-    {
-      "name": "Stonegate Judicial Complex.txt",
-      "basename": "Stonegate Judicial Complex",
-      "relativePath": "output/Corps (Local)/FRFZ/Castle Rock/Stonegate Judicial Complex.txt"
-    },
-    {
-      "name": "Apex Plasmids.txt",
-      "basename": "Apex Plasmids",
-      "relativePath": "output/Corps (Local)/FRFZ/Commerce City/Apex Plasmids.txt"
-    },
-    {
-      "name": "Broncomania Stadium and Denver Sports Complex.txt",
-      "basename": "Broncomania Stadium and Denver Sports Complex",
-      "relativePath": "output/Corps (Local)/FRFZ/Commerce City/Broncomania Stadium and Denver Sports Complex.txt"
-    },
-    {
-      "name": "Krupp Chemicals Refinery.txt",
-      "basename": "Krupp Chemicals Refinery",
-      "relativePath": "output/Corps (Local)/FRFZ/Commerce City/Krupp Chemicals Refinery.txt"
-    },
-    {
-      "name": "Hardpan.txt",
-      "basename": "Hardpan",
-      "relativePath": "output/Corps (Local)/FRFZ/Commerce City/Hardpan.txt"
-    },
-    {
-      "name": "The Solution.txt",
-      "basename": "The Solution",
-      "relativePath": "output/Corps (Local)/FRFZ/Commerce City/The Solution.txt"
-    },
-    {
-      "name": "Timber Lodge.txt",
-      "basename": "Timber Lodge",
-      "relativePath": "output/Corps (Local)/FRFZ/Commerce City/Timber Lodge.txt"
-    },
-    {
-      "name": "Warpdrive Systems Headquarter.txt",
-      "basename": "Warpdrive Systems Headquarter",
-      "relativePath": "output/Corps (Local)/FRFZ/Commerce City/Warpdrive Systems Headquarter.txt"
+      "name": "Cave of the Winds Mountain Park.txt",
+      "basename": "Cave of the Winds Mountain Park",
+      "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Cave of the Winds Mountain Park.txt"
     },
     {
       "name": "Broadmoor.txt",
@@ -3546,11 +3661,6 @@
       "name": "Cheyenne Park.txt",
       "basename": "Cheyenne Park",
       "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Cheyenne Park.txt"
-    },
-    {
-      "name": "Cave of the Winds Mountain Park.txt",
-      "basename": "Cave of the Winds Mountain Park",
-      "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Cave of the Winds Mountain Park.txt"
     },
     {
       "name": "Church of the Holy Word.txt",
@@ -3568,9 +3678,9 @@
       "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Colorado Springs Maglev Station.txt"
     },
     {
-      "name": "Fort Carson.txt",
-      "basename": "Fort Carson",
-      "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Fort Carson.txt"
+      "name": "Denver Data Haven Ruins.txt",
+      "basename": "Denver Data Haven Ruins",
+      "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Denver Data Haven Ruins.txt"
     },
     {
       "name": "Foxdale Apartments.txt",
@@ -3578,9 +3688,9 @@
       "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Foxdale Apartments.txt"
     },
     {
-      "name": "Denver Data Haven Ruins.txt",
-      "basename": "Denver Data Haven Ruins",
-      "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Denver Data Haven Ruins.txt"
+      "name": "Fort Carson.txt",
+      "basename": "Fort Carson",
+      "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Fort Carson.txt"
     },
     {
       "name": "Garden of the Gods.txt",
@@ -3593,14 +3703,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Peak View Housing.txt"
     },
     {
-      "name": "Peterson Airport.txt",
-      "basename": "Peterson Airport",
-      "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Peterson Airport.txt"
-    },
-    {
       "name": "Hospital General Colorado Springs.txt",
       "basename": "Hospital General Colorado Springs",
       "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Hospital General Colorado Springs.txt"
+    },
+    {
+      "name": "Peterson Airport.txt",
+      "basename": "Peterson Airport",
+      "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Peterson Airport.txt"
     },
     {
       "name": "Quail Hill Lodge.txt",
@@ -3608,24 +3718,24 @@
       "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Quail Hill Lodge.txt"
     },
     {
-      "name": "Tesla Experimental Station.txt",
-      "basename": "Tesla Experimental Station",
-      "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Tesla Experimental Station.txt"
-    },
-    {
       "name": "Rockrimmon Hills Apartments.txt",
       "basename": "Rockrimmon Hills Apartments",
       "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Rockrimmon Hills Apartments.txt"
     },
     {
-      "name": "The Bad.txt",
-      "basename": "The Bad",
-      "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/The Bad.txt"
-    },
-    {
       "name": "Shrine of the Sun.txt",
       "basename": "Shrine of the Sun",
       "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Shrine of the Sun.txt"
+    },
+    {
+      "name": "Tesla Experimental Station.txt",
+      "basename": "Tesla Experimental Station",
+      "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/Tesla Experimental Station.txt"
+    },
+    {
+      "name": "The Bad.txt",
+      "basename": "The Bad",
+      "relativePath": "output/Corps (Local)/FRFZ/Colorado Springs/The Bad.txt"
     },
     {
       "name": "ZDF Station Colorado Springs.txt",
@@ -3643,14 +3753,59 @@
       "relativePath": "output/Corps (Local)/FRFZ/Elbert/Grassy Knoll Ranch.txt"
     },
     {
+      "name": "ZDF Station Elbert.txt",
+      "basename": "ZDF Station Elbert",
+      "relativePath": "output/Corps (Local)/FRFZ/Elbert/ZDF Station Elbert.txt"
+    },
+    {
       "name": "Little Wolf Nursery.txt",
       "basename": "Little Wolf Nursery",
       "relativePath": "output/Corps (Local)/FRFZ/Elbert/Little Wolf Nursery.txt"
     },
     {
-      "name": "ZDF Station Elbert.txt",
-      "basename": "ZDF Station Elbert",
-      "relativePath": "output/Corps (Local)/FRFZ/Elbert/ZDF Station Elbert.txt"
+      "name": "Apex Plasmids.txt",
+      "basename": "Apex Plasmids",
+      "relativePath": "output/Corps (Local)/FRFZ/Commerce City/Apex Plasmids.txt"
+    },
+    {
+      "name": "Broncomania Stadium and Denver Sports Complex.txt",
+      "basename": "Broncomania Stadium and Denver Sports Complex",
+      "relativePath": "output/Corps (Local)/FRFZ/Commerce City/Broncomania Stadium and Denver Sports Complex.txt"
+    },
+    {
+      "name": "Hardpan.txt",
+      "basename": "Hardpan",
+      "relativePath": "output/Corps (Local)/FRFZ/Commerce City/Hardpan.txt"
+    },
+    {
+      "name": "Krupp Chemicals Refinery.txt",
+      "basename": "Krupp Chemicals Refinery",
+      "relativePath": "output/Corps (Local)/FRFZ/Commerce City/Krupp Chemicals Refinery.txt"
+    },
+    {
+      "name": "The Solution.txt",
+      "basename": "The Solution",
+      "relativePath": "output/Corps (Local)/FRFZ/Commerce City/The Solution.txt"
+    },
+    {
+      "name": "Timber Lodge.txt",
+      "basename": "Timber Lodge",
+      "relativePath": "output/Corps (Local)/FRFZ/Commerce City/Timber Lodge.txt"
+    },
+    {
+      "name": "Ketring Park.txt",
+      "basename": "Ketring Park",
+      "relativePath": "output/Corps (Local)/FRFZ/Englewood/Ketring Park.txt"
+    },
+    {
+      "name": "Warpdrive Systems Headquarter.txt",
+      "basename": "Warpdrive Systems Headquarter",
+      "relativePath": "output/Corps (Local)/FRFZ/Commerce City/Warpdrive Systems Headquarter.txt"
+    },
+    {
+      "name": "Knight Errant Training Facility.txt",
+      "basename": "Knight Errant Training Facility",
+      "relativePath": "output/Corps (Local)/FRFZ/Englewood/Knight Errant Training Facility.txt"
     },
     {
       "name": "Blackhawk Resort and Casino.txt",
@@ -3668,29 +3823,9 @@
       "relativePath": "output/Corps (Local)/FRFZ/Front Range/Glacier Brewery.txt"
     },
     {
-      "name": "ZDF Station Front Range.txt",
-      "basename": "ZDF Station Front Range",
-      "relativePath": "output/Corps (Local)/FRFZ/Front Range/ZDF Station Front Range.txt"
-    },
-    {
       "name": "Red Rocks Amphitheater.txt",
       "basename": "Red Rocks Amphitheater",
       "relativePath": "output/Corps (Local)/FRFZ/Front Range/Red Rocks Amphitheater.txt"
-    },
-    {
-      "name": "Ketring Park.txt",
-      "basename": "Ketring Park",
-      "relativePath": "output/Corps (Local)/FRFZ/Englewood/Ketring Park.txt"
-    },
-    {
-      "name": "Knight Errant Training Facility.txt",
-      "basename": "Knight Errant Training Facility",
-      "relativePath": "output/Corps (Local)/FRFZ/Englewood/Knight Errant Training Facility.txt"
-    },
-    {
-      "name": "Columbine Knolls.txt",
-      "basename": "Columbine Knolls",
-      "relativePath": "output/Corps (Local)/FRFZ/Lakewood/Columbine Knolls.txt"
     },
     {
       "name": "All the World’s a Stage.txt",
@@ -3698,9 +3833,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/Lakewood/All the World’s a Stage.txt"
     },
     {
-      "name": "Compri Hotel.txt",
-      "basename": "Compri Hotel",
-      "relativePath": "output/Corps (Local)/FRFZ/Lakewood/Compri Hotel.txt"
+      "name": "ZDF Station Front Range.txt",
+      "basename": "ZDF Station Front Range",
+      "relativePath": "output/Corps (Local)/FRFZ/Front Range/ZDF Station Front Range.txt"
+    },
+    {
+      "name": "Columbine Knolls.txt",
+      "basename": "Columbine Knolls",
+      "relativePath": "output/Corps (Local)/FRFZ/Lakewood/Columbine Knolls.txt"
     },
     {
       "name": "Fort Logan Medical Center.txt",
@@ -3708,14 +3848,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/Lakewood/Fort Logan Medical Center.txt"
     },
     {
+      "name": "Compri Hotel.txt",
+      "basename": "Compri Hotel",
+      "relativePath": "output/Corps (Local)/FRFZ/Lakewood/Compri Hotel.txt"
+    },
+    {
       "name": "Golden Days Inn.txt",
       "basename": "Golden Days Inn",
       "relativePath": "output/Corps (Local)/FRFZ/Lakewood/Golden Days Inn.txt"
-    },
-    {
-      "name": "Joe’s Drop Off.txt",
-      "basename": "Joe’s Drop Off",
-      "relativePath": "output/Corps (Local)/FRFZ/Lakewood/Joe’s Drop Off.txt"
     },
     {
       "name": "Hard Target.txt",
@@ -3723,9 +3863,19 @@
       "relativePath": "output/Corps (Local)/FRFZ/Lakewood/Hard Target.txt"
     },
     {
+      "name": "Joe’s Drop Off.txt",
+      "basename": "Joe’s Drop Off",
+      "relativePath": "output/Corps (Local)/FRFZ/Lakewood/Joe’s Drop Off.txt"
+    },
+    {
       "name": "Lakewood Correctional Institute.txt",
       "basename": "Lakewood Correctional Institute",
       "relativePath": "output/Corps (Local)/FRFZ/Lakewood/Lakewood Correctional Institute.txt"
+    },
+    {
+      "name": "Lakewood Tower.txt",
+      "basename": "Lakewood Tower",
+      "relativePath": "output/Corps (Local)/FRFZ/Lakewood/Lakewood Tower.txt"
     },
     {
       "name": "Lakewood FRTA Station.txt",
@@ -3733,19 +3883,19 @@
       "relativePath": "output/Corps (Local)/FRFZ/Lakewood/Lakewood FRTA Station.txt"
     },
     {
-      "name": "The Raintree Inn.txt",
-      "basename": "The Raintree Inn",
-      "relativePath": "output/Corps (Local)/FRFZ/Lakewood/The Raintree Inn.txt"
-    },
-    {
       "name": "Tablelands Restaurant.txt",
       "basename": "Tablelands Restaurant",
       "relativePath": "output/Corps (Local)/FRFZ/Lakewood/Tablelands Restaurant.txt"
     },
     {
-      "name": "Lakewood Tower.txt",
-      "basename": "Lakewood Tower",
-      "relativePath": "output/Corps (Local)/FRFZ/Lakewood/Lakewood Tower.txt"
+      "name": "Ascending Star.txt",
+      "basename": "Ascending Star",
+      "relativePath": "output/Corps (Local)/FRFZ/Lowry/Ascending Star.txt"
+    },
+    {
+      "name": "The Raintree Inn.txt",
+      "basename": "The Raintree Inn",
+      "relativePath": "output/Corps (Local)/FRFZ/Lakewood/The Raintree Inn.txt"
     },
     {
       "name": "The Rattlesnake Grill.txt",
@@ -3758,9 +3908,9 @@
       "relativePath": "output/Corps (Local)/FRFZ/Lakewood/ZDF Station Lakewood.txt"
     },
     {
-      "name": "Ascending Star.txt",
-      "basename": "Ascending Star",
-      "relativePath": "output/Corps (Local)/FRFZ/Lowry/Ascending Star.txt"
+      "name": "Happy Canyon Mall.txt",
+      "basename": "Happy Canyon Mall",
+      "relativePath": "output/Corps (Local)/FRFZ/Lowry/Happy Canyon Mall.txt"
     },
     {
       "name": "Denver Shaolin Academy.txt",
@@ -3768,9 +3918,9 @@
       "relativePath": "output/Corps (Local)/FRFZ/Lowry/Denver Shaolin Academy.txt"
     },
     {
-      "name": "Happy Canyon Mall.txt",
-      "basename": "Happy Canyon Mall",
-      "relativePath": "output/Corps (Local)/FRFZ/Lowry/Happy Canyon Mall.txt"
+      "name": "Klub Karma.txt",
+      "basename": "Klub Karma",
+      "relativePath": "output/Corps (Local)/FRFZ/Lowry/Klub Karma.txt"
     },
     {
       "name": "Happy Flower Apartments.txt",
@@ -3778,14 +3928,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/Lowry/Happy Flower Apartments.txt"
     },
     {
+      "name": "Lowry International Airport.txt",
+      "basename": "Lowry International Airport",
+      "relativePath": "output/Corps (Local)/FRFZ/Lowry/Lowry International Airport.txt"
+    },
+    {
       "name": "Lowry FRTA Station.txt",
       "basename": "Lowry FRTA Station",
       "relativePath": "output/Corps (Local)/FRFZ/Lowry/Lowry FRTA Station.txt"
-    },
-    {
-      "name": "Klub Karma.txt",
-      "basename": "Klub Karma",
-      "relativePath": "output/Corps (Local)/FRFZ/Lowry/Klub Karma.txt"
     },
     {
       "name": "Mystic Curiosities.txt",
@@ -3793,24 +3943,19 @@
       "relativePath": "output/Corps (Local)/FRFZ/Lowry/Mystic Curiosities.txt"
     },
     {
-      "name": "Lowry International Airport.txt",
-      "basename": "Lowry International Airport",
-      "relativePath": "output/Corps (Local)/FRFZ/Lowry/Lowry International Airport.txt"
-    },
-    {
       "name": "Nu Shen Massage.txt",
       "basename": "Nu Shen Massage",
       "relativePath": "output/Corps (Local)/FRFZ/Lowry/Nu Shen Massage.txt"
     },
     {
-      "name": "Park Village.txt",
-      "basename": "Park Village",
-      "relativePath": "output/Corps (Local)/FRFZ/Lowry/Park Village.txt"
-    },
-    {
       "name": "Rusty’s Garage.txt",
       "basename": "Rusty’s Garage",
       "relativePath": "output/Corps (Local)/FRFZ/Lowry/Rusty’s Garage.txt"
+    },
+    {
+      "name": "Park Village.txt",
+      "basename": "Park Village",
+      "relativePath": "output/Corps (Local)/FRFZ/Lowry/Park Village.txt"
     },
     {
       "name": "Three Delights.txt",
@@ -3828,19 +3973,154 @@
       "relativePath": "output/Corps (Local)/FRFZ/Lowry/ZDF Station Lowry.txt"
     },
     {
+      "name": "Ares Global Commsat Office.txt",
+      "basename": "Ares Global Commsat Office",
+      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Ares Global Commsat Office.txt"
+    },
+    {
       "name": "ZDF Substation Chinatown.txt",
       "basename": "ZDF Substation Chinatown",
       "relativePath": "output/Corps (Local)/FRFZ/Lowry/ZDF Substation Chinatown.txt"
     },
     {
-      "name": "13th Street Doc Wagon Clinic.txt",
-      "basename": "13th Street Doc Wagon Clinic",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/13th Street Doc Wagon Clinic.txt"
+      "name": "Buckley Air Force Base.txt",
+      "basename": "Buckley Air Force Base",
+      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Buckley Air Force Base.txt"
+    },
+    {
+      "name": "Children of the Dragon Headquarters.txt",
+      "basename": "Children of the Dragon Headquarters",
+      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Children of the Dragon Headquarters.txt"
+    },
+    {
+      "name": "Casquilho Imports.txt",
+      "basename": "Casquilho Imports",
+      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Casquilho Imports.txt"
+    },
+    {
+      "name": "Denver International Airport.txt",
+      "basename": "Denver International Airport",
+      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Denver International Airport.txt"
+    },
+    {
+      "name": "Front Range Space Port.txt",
+      "basename": "Front Range Space Port",
+      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Front Range Space Port.txt"
+    },
+    {
+      "name": "Northwind Farmstead.txt",
+      "basename": "Northwind Farmstead",
+      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Northwind Farmstead.txt"
+    },
+    {
+      "name": "Marcel’s.txt",
+      "basename": "Marcel’s",
+      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Marcel’s.txt"
+    },
+    {
+      "name": "Old Mammoth Stadium.txt",
+      "basename": "Old Mammoth Stadium",
+      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Old Mammoth Stadium.txt"
+    },
+    {
+      "name": "Robinwood Condominiums.txt",
+      "basename": "Robinwood Condominiums",
+      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Robinwood Condominiums.txt"
+    },
+    {
+      "name": "Rocky Mountain Arsenal Park.txt",
+      "basename": "Rocky Mountain Arsenal Park",
+      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Rocky Mountain Arsenal Park.txt"
+    },
+    {
+      "name": "ZDF Station Stapleton.txt",
+      "basename": "ZDF Station Stapleton",
+      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/ZDF Station Stapleton.txt"
+    },
+    {
+      "name": "Stapleton Airport.txt",
+      "basename": "Stapleton Airport",
+      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Stapleton Airport.txt"
+    },
+    {
+      "name": "MCT Zero Zone.txt",
+      "basename": "MCT Zero Zone",
+      "relativePath": "output/Corps (Local)/FRFZ/The Gap/MCT Zero Zone.txt"
+    },
+    {
+      "name": "Apex Plasmids Complex.txt",
+      "basename": "Apex Plasmids Complex",
+      "relativePath": "output/Corps (Local)/FRFZ/Thornton/Apex Plasmids Complex.txt"
+    },
+    {
+      "name": "Brighton Rose.txt",
+      "basename": "Brighton Rose",
+      "relativePath": "output/Corps (Local)/FRFZ/Thornton/Brighton Rose.txt"
+    },
+    {
+      "name": "Carnimore.txt",
+      "basename": "Carnimore",
+      "relativePath": "output/Corps (Local)/FRFZ/Thornton/Carnimore.txt"
+    },
+    {
+      "name": "Fairview Heights.txt",
+      "basename": "Fairview Heights",
+      "relativePath": "output/Corps (Local)/FRFZ/Thornton/Fairview Heights.txt"
+    },
+    {
+      "name": "Hardpan.txt",
+      "basename": "Hardpan",
+      "relativePath": "output/Corps (Local)/FRFZ/Thornton/Hardpan.txt"
+    },
+    {
+      "name": "Northglenn Apartments.txt",
+      "basename": "Northglenn Apartments",
+      "relativePath": "output/Corps (Local)/FRFZ/Thornton/Northglenn Apartments.txt"
+    },
+    {
+      "name": "Estancia.txt",
+      "basename": "Estancia",
+      "relativePath": "output/Corps (Local)/FRFZ/Westminster/Estancia.txt"
+    },
+    {
+      "name": "Mountain Meadows Apartments.txt",
+      "basename": "Mountain Meadows Apartments",
+      "relativePath": "output/Corps (Local)/FRFZ/Westminster/Mountain Meadows Apartments.txt"
+    },
+    {
+      "name": "The Buckhom.txt",
+      "basename": "The Buckhom",
+      "relativePath": "output/Corps (Local)/FRFZ/Thornton/The Buckhom.txt"
+    },
+    {
+      "name": "Native American Broadcast Service (NABS).txt",
+      "basename": "Native American Broadcast Service (NABS)",
+      "relativePath": "output/Corps (Local)/FRFZ/Westminster/Native American Broadcast Service (NABS).txt"
+    },
+    {
+      "name": "Northern Lights Enchanting.txt",
+      "basename": "Northern Lights Enchanting",
+      "relativePath": "output/Corps (Local)/FRFZ/Westminster/Northern Lights Enchanting.txt"
+    },
+    {
+      "name": "Rattlesnake Grill.txt",
+      "basename": "Rattlesnake Grill",
+      "relativePath": "output/Corps (Local)/FRFZ/Westminster/Rattlesnake Grill.txt"
+    },
+    {
+      "name": "The Ugly.txt",
+      "basename": "The Ugly",
+      "relativePath": "output/Corps (Local)/FRFZ/Westminster/The Ugly.txt"
     },
     {
       "name": "16th Street Mall.txt",
       "basename": "16th Street Mall",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/16th Street Mall.txt"
+    },
+    {
+      "name": "13th Street Doc Wagon Clinic.txt",
+      "basename": "13th Street Doc Wagon Clinic",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/13th Street Doc Wagon Clinic.txt"
     },
     {
       "name": "20th Street Doc Wagon Clinic.txt",
@@ -3863,14 +4143,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Annaco Building.txt"
     },
     {
-      "name": "Augusta.txt",
-      "basename": "Augusta",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Augusta.txt"
-    },
-    {
       "name": "Arko Tower.txt",
       "basename": "Arko Tower",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Arko Tower.txt"
+    },
+    {
+      "name": "Augusta.txt",
+      "basename": "Augusta",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Augusta.txt"
     },
     {
       "name": "Bank Urnst Building.txt",
@@ -3878,14 +4158,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Bank Urnst Building.txt"
     },
     {
-      "name": "Blackbird Park.txt",
-      "basename": "Blackbird Park",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Blackbird Park.txt"
-    },
-    {
       "name": "Bank Winsafe Tower.txt",
       "basename": "Bank Winsafe Tower",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Bank Winsafe Tower.txt"
+    },
+    {
+      "name": "Blackbird Park.txt",
+      "basename": "Blackbird Park",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Blackbird Park.txt"
     },
     {
       "name": "Blake Street Balcony.txt",
@@ -3898,19 +4178,24 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Boa Tower.txt"
     },
     {
-      "name": "Burnsley Building.txt",
-      "basename": "Burnsley Building",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Burnsley Building.txt"
-    },
-    {
       "name": "Brown Palace Hotel.txt",
       "basename": "Brown Palace Hotel",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Brown Palace Hotel.txt"
     },
     {
+      "name": "Burnsley Building.txt",
+      "basename": "Burnsley Building",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Burnsley Building.txt"
+    },
+    {
       "name": "Cafe Giovanni.txt",
       "basename": "Cafe Giovanni",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Cafe Giovanni.txt"
+    },
+    {
+      "name": "Chessman Park Conservatory.txt",
+      "basename": "Chessman Park Conservatory",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Chessman Park Conservatory.txt"
     },
     {
       "name": "Cambridge.txt",
@@ -3923,16 +4208,6 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Church of the Dragon Reborn Headquarters.txt"
     },
     {
-      "name": "Chessman Park Conservatory.txt",
-      "basename": "Chessman Park Conservatory",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Chessman Park Conservatory.txt"
-    },
-    {
-      "name": "Civic Center.txt",
-      "basename": "Civic Center",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Civic Center.txt"
-    },
-    {
       "name": "Columbine Building.txt",
       "basename": "Columbine Building",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Columbine Building.txt"
@@ -3941,6 +4216,11 @@
       "name": "Columbine Place.txt",
       "basename": "Columbine Place",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Columbine Place.txt"
+    },
+    {
+      "name": "Civic Center.txt",
+      "basename": "Civic Center",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Civic Center.txt"
     },
     {
       "name": "Comfort Inn.txt",
@@ -3958,11 +4238,6 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Coors Field.txt"
     },
     {
-      "name": "Currigan Convention Hall.txt",
-      "basename": "Currigan Convention Hall",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Currigan Convention Hall.txt"
-    },
-    {
       "name": "Council Hall.txt",
       "basename": "Council Hall",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Council Hall.txt"
@@ -3973,14 +4248,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Daniels & Fisher Clock Tower.txt"
     },
     {
+      "name": "Currigan Convention Hall.txt",
+      "basename": "Currigan Convention Hall",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Currigan Convention Hall.txt"
+    },
+    {
       "name": "Days Inn Capitol Hill.txt",
       "basename": "Days Inn Capitol Hill",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Days Inn Capitol Hill.txt"
-    },
-    {
-      "name": "Denver Club Building.txt",
-      "basename": "Denver Club Building",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Denver Club Building.txt"
     },
     {
       "name": "Denver Center for the Performing Arts.txt",
@@ -3993,19 +4268,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Denver Administration Building.txt"
     },
     {
+      "name": "Denver Club Building.txt",
+      "basename": "Denver Club Building",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Denver Club Building.txt"
+    },
+    {
       "name": "Denver Zoo.txt",
       "basename": "Denver Zoo",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Denver Zoo.txt"
-    },
-    {
-      "name": "Fast Flesh Theater.txt",
-      "basename": "Fast Flesh Theater",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Fast Flesh Theater.txt"
-    },
-    {
-      "name": "Draco Foundation Office.txt",
-      "basename": "Draco Foundation Office",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Draco Foundation Office.txt"
     },
     {
       "name": "Docwagon Medical.txt",
@@ -4013,9 +4283,19 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Docwagon Medical.txt"
     },
     {
+      "name": "Draco Foundation Office.txt",
+      "basename": "Draco Foundation Office",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Draco Foundation Office.txt"
+    },
+    {
       "name": "Fillmore Auditorium.txt",
       "basename": "Fillmore Auditorium",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Fillmore Auditorium.txt"
+    },
+    {
+      "name": "Fast Flesh Theater.txt",
+      "basename": "Fast Flesh Theater",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Fast Flesh Theater.txt"
     },
     {
       "name": "Five by Five.txt",
@@ -4023,14 +4303,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Five by Five.txt"
     },
     {
-      "name": "Free Zone Water Dept..txt",
-      "basename": "Free Zone Water Dept.",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Free Zone Water Dept..txt"
-    },
-    {
       "name": "Focused Consulting and Brokerage Headquarters.txt",
       "basename": "Focused Consulting and Brokerage Headquarters",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Focused Consulting and Brokerage Headquarters.txt"
+    },
+    {
+      "name": "Free Zone Water Dept..txt",
+      "basename": "Free Zone Water Dept.",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Free Zone Water Dept..txt"
     },
     {
       "name": "FRFZ Convention Center.txt",
@@ -4038,9 +4318,9 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/FRFZ Convention Center.txt"
     },
     {
-      "name": "Front Range History Museum.txt",
-      "basename": "Front Range History Museum",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Front Range History Museum.txt"
+      "name": "FTL Pyramid.txt",
+      "basename": "FTL Pyramid",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/FTL Pyramid.txt"
     },
     {
       "name": "Gadgeteer’s Electronics.txt",
@@ -4048,9 +4328,9 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Gadgeteer’s Electronics.txt"
     },
     {
-      "name": "FTL Pyramid.txt",
-      "basename": "FTL Pyramid",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/FTL Pyramid.txt"
+      "name": "Front Range History Museum.txt",
+      "basename": "Front Range History Museum",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Front Range History Museum.txt"
     },
     {
       "name": "Gaia Museum.txt",
@@ -4058,14 +4338,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Gaia Museum.txt"
     },
     {
-      "name": "Goodfriends.txt",
-      "basename": "Goodfriends",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Goodfriends.txt"
-    },
-    {
       "name": "Ghostwalker’s Liaison Office.txt",
       "basename": "Ghostwalker’s Liaison Office",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Ghostwalker’s Liaison Office.txt"
+    },
+    {
+      "name": "Goodfriends.txt",
+      "basename": "Goodfriends",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Goodfriends.txt"
     },
     {
       "name": "Grassroots.txt",
@@ -4113,14 +4393,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Kenshi Electronics Square.txt"
     },
     {
-      "name": "Larimer Square.txt",
-      "basename": "Larimer Square",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Larimer Square.txt"
-    },
-    {
       "name": "Lunar Noctum.txt",
       "basename": "Lunar Noctum",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Lunar Noctum.txt"
+    },
+    {
+      "name": "Larimer Square.txt",
+      "basename": "Larimer Square",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Larimer Square.txt"
     },
     {
       "name": "Makah Court.txt",
@@ -4133,14 +4413,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Luxe.txt"
     },
     {
-      "name": "Managed Waste Corp..txt",
-      "basename": "Managed Waste Corp.",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Managed Waste Corp..txt"
-    },
-    {
       "name": "Maverick Body Designs Tower.txt",
       "basename": "Maverick Body Designs Tower",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Maverick Body Designs Tower.txt"
+    },
+    {
+      "name": "Managed Waste Corp..txt",
+      "basename": "Managed Waste Corp.",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Managed Waste Corp..txt"
     },
     {
       "name": "McAffrey Towers.txt",
@@ -4153,14 +4433,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/McLarnin's Gym.txt"
     },
     {
-      "name": "Mile High Limo and Taxi Service.txt",
-      "basename": "Mile High Limo and Taxi Service",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Mile High Limo and Taxi Service.txt"
-    },
-    {
       "name": "Melbourne Hotel.txt",
       "basename": "Melbourne Hotel",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Melbourne Hotel.txt"
+    },
+    {
+      "name": "Mile High Limo and Taxi Service.txt",
+      "basename": "Mile High Limo and Taxi Service",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Mile High Limo and Taxi Service.txt"
     },
     {
       "name": "Mile High University East.txt",
@@ -4203,14 +4483,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Park Central.txt"
     },
     {
-      "name": "Pikes Place.txt",
-      "basename": "Pikes Place",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Pikes Place.txt"
-    },
-    {
       "name": "Patterson Mansion.txt",
       "basename": "Patterson Mansion",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Patterson Mansion.txt"
+    },
+    {
+      "name": "Pikes Place.txt",
+      "basename": "Pikes Place",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Pikes Place.txt"
     },
     {
       "name": "Radisson Hotel.txt",
@@ -4218,14 +4498,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Radisson Hotel.txt"
     },
     {
-      "name": "Robert E. Lee Public Library.txt",
-      "basename": "Robert E. Lee Public Library",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Robert E. Lee Public Library.txt"
-    },
-    {
       "name": "Ramsay Building.txt",
       "basename": "Ramsay Building",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Ramsay Building.txt"
+    },
+    {
+      "name": "Robert E. Lee Public Library.txt",
+      "basename": "Robert E. Lee Public Library",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Robert E. Lee Public Library.txt"
     },
     {
       "name": "Rock Solid.txt",
@@ -4238,14 +4518,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Rocky Mountain Post Headquarters.txt"
     },
     {
-      "name": "RTD 16th Street Station.txt",
-      "basename": "RTD 16th Street Station",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/RTD 16th Street Station.txt"
-    },
-    {
       "name": "RTD Civic Center Station.txt",
       "basename": "RTD Civic Center Station",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/RTD Civic Center Station.txt"
+    },
+    {
+      "name": "RTD 16th Street Station.txt",
+      "basename": "RTD 16th Street Station",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/RTD 16th Street Station.txt"
     },
     {
       "name": "Sakura Square.txt",
@@ -4263,19 +4543,19 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Soycaf Club.txt"
     },
     {
-      "name": "Spellweaver Consortium Office.txt",
-      "basename": "Spellweaver Consortium Office",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Spellweaver Consortium Office.txt"
-    },
-    {
       "name": "Science & Technology Museum.txt",
       "basename": "Science & Technology Museum",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Science & Technology Museum.txt"
     },
     {
-      "name": "Splatter Bar.txt",
-      "basename": "Splatter Bar",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Splatter Bar.txt"
+      "name": "Spellweaver Consortium Office.txt",
+      "basename": "Spellweaver Consortium Office",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Spellweaver Consortium Office.txt"
+    },
+    {
+      "name": "St. Jude Cathedral.txt",
+      "basename": "St. Jude Cathedral",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/St. Jude Cathedral.txt"
     },
     {
       "name": "State Capitol Building.txt",
@@ -4283,9 +4563,9 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/State Capitol Building.txt"
     },
     {
-      "name": "St. Jude Cathedral.txt",
-      "basename": "St. Jude Cathedral",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/St. Jude Cathedral.txt"
+      "name": "Splatter Bar.txt",
+      "basename": "Splatter Bar",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Splatter Bar.txt"
     },
     {
       "name": "Stouffer Concourse Hotel.txt",
@@ -4298,6 +4578,11 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/The Casey.txt"
     },
     {
+      "name": "The Church.txt",
+      "basename": "The Church",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/The Church.txt"
+    },
+    {
       "name": "The Front Range.txt",
       "basename": "The Front Range",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/The Front Range.txt"
@@ -4308,14 +4593,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/The Grind.txt"
     },
     {
-      "name": "The Church.txt",
-      "basename": "The Church",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/The Church.txt"
-    },
-    {
       "name": "The New Paramount Theater.txt",
       "basename": "The New Paramount Theater",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/The New Paramount Theater.txt"
+    },
+    {
+      "name": "Tower of Babel.txt",
+      "basename": "Tower of Babel",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Tower of Babel.txt"
     },
     {
       "name": "Tribal Meadows.txt",
@@ -4326,11 +4611,6 @@
       "name": "Union Station.txt",
       "basename": "Union Station",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Union Station.txt"
-    },
-    {
-      "name": "Tower of Babel.txt",
-      "basename": "Tower of Babel",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/Tower of Babel.txt"
     },
     {
       "name": "Virtual Reality Center.txt",
@@ -4348,294 +4628,14 @@
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Weekday Eclipse Memorial.txt"
     },
     {
-      "name": "ZDF Headquarters.txt",
-      "basename": "ZDF Headquarters",
-      "relativePath": "output/Corps (Local)/FRFZ/The Hub/ZDF Headquarters.txt"
-    },
-    {
       "name": "Writers Row.txt",
       "basename": "Writers Row",
       "relativePath": "output/Corps (Local)/FRFZ/The Hub/Writers Row.txt"
     },
     {
-      "name": "MCT Zero Zone.txt",
-      "basename": "MCT Zero Zone",
-      "relativePath": "output/Corps (Local)/FRFZ/The Gap/MCT Zero Zone.txt"
-    },
-    {
-      "name": "Buckley Air Force Base.txt",
-      "basename": "Buckley Air Force Base",
-      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Buckley Air Force Base.txt"
-    },
-    {
-      "name": "Ares Global Commsat Office.txt",
-      "basename": "Ares Global Commsat Office",
-      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Ares Global Commsat Office.txt"
-    },
-    {
-      "name": "Casquilho Imports.txt",
-      "basename": "Casquilho Imports",
-      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Casquilho Imports.txt"
-    },
-    {
-      "name": "Children of the Dragon Headquarters.txt",
-      "basename": "Children of the Dragon Headquarters",
-      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Children of the Dragon Headquarters.txt"
-    },
-    {
-      "name": "Denver International Airport.txt",
-      "basename": "Denver International Airport",
-      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Denver International Airport.txt"
-    },
-    {
-      "name": "Front Range Space Port.txt",
-      "basename": "Front Range Space Port",
-      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Front Range Space Port.txt"
-    },
-    {
-      "name": "Northwind Farmstead.txt",
-      "basename": "Northwind Farmstead",
-      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Northwind Farmstead.txt"
-    },
-    {
-      "name": "Marcel’s.txt",
-      "basename": "Marcel’s",
-      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Marcel’s.txt"
-    },
-    {
-      "name": "Old Mammoth Stadium.txt",
-      "basename": "Old Mammoth Stadium",
-      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Old Mammoth Stadium.txt"
-    },
-    {
-      "name": "Robinwood Condominiums.txt",
-      "basename": "Robinwood Condominiums",
-      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Robinwood Condominiums.txt"
-    },
-    {
-      "name": "Rocky Mountain Arsenal Park.txt",
-      "basename": "Rocky Mountain Arsenal Park",
-      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Rocky Mountain Arsenal Park.txt"
-    },
-    {
-      "name": "Stapleton Airport.txt",
-      "basename": "Stapleton Airport",
-      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/Stapleton Airport.txt"
-    },
-    {
-      "name": "ZDF Station Stapleton.txt",
-      "basename": "ZDF Station Stapleton",
-      "relativePath": "output/Corps (Local)/FRFZ/Stapleton/ZDF Station Stapleton.txt"
-    },
-    {
-      "name": "Apex Plasmids Complex.txt",
-      "basename": "Apex Plasmids Complex",
-      "relativePath": "output/Corps (Local)/FRFZ/Thornton/Apex Plasmids Complex.txt"
-    },
-    {
-      "name": "Brighton Rose.txt",
-      "basename": "Brighton Rose",
-      "relativePath": "output/Corps (Local)/FRFZ/Thornton/Brighton Rose.txt"
-    },
-    {
-      "name": "Carnimore.txt",
-      "basename": "Carnimore",
-      "relativePath": "output/Corps (Local)/FRFZ/Thornton/Carnimore.txt"
-    },
-    {
-      "name": "Northglenn Apartments.txt",
-      "basename": "Northglenn Apartments",
-      "relativePath": "output/Corps (Local)/FRFZ/Thornton/Northglenn Apartments.txt"
-    },
-    {
-      "name": "Fairview Heights.txt",
-      "basename": "Fairview Heights",
-      "relativePath": "output/Corps (Local)/FRFZ/Thornton/Fairview Heights.txt"
-    },
-    {
-      "name": "Hardpan.txt",
-      "basename": "Hardpan",
-      "relativePath": "output/Corps (Local)/FRFZ/Thornton/Hardpan.txt"
-    },
-    {
-      "name": "The Buckhom.txt",
-      "basename": "The Buckhom",
-      "relativePath": "output/Corps (Local)/FRFZ/Thornton/The Buckhom.txt"
-    },
-    {
-      "name": "Estancia.txt",
-      "basename": "Estancia",
-      "relativePath": "output/Corps (Local)/FRFZ/Westminster/Estancia.txt"
-    },
-    {
-      "name": "Mountain Meadows Apartments.txt",
-      "basename": "Mountain Meadows Apartments",
-      "relativePath": "output/Corps (Local)/FRFZ/Westminster/Mountain Meadows Apartments.txt"
-    },
-    {
-      "name": "Native American Broadcast Service (NABS).txt",
-      "basename": "Native American Broadcast Service (NABS)",
-      "relativePath": "output/Corps (Local)/FRFZ/Westminster/Native American Broadcast Service (NABS).txt"
-    },
-    {
-      "name": "Northern Lights Enchanting.txt",
-      "basename": "Northern Lights Enchanting",
-      "relativePath": "output/Corps (Local)/FRFZ/Westminster/Northern Lights Enchanting.txt"
-    },
-    {
-      "name": "The Ugly.txt",
-      "basename": "The Ugly",
-      "relativePath": "output/Corps (Local)/FRFZ/Westminster/The Ugly.txt"
-    },
-    {
-      "name": "Rattlesnake Grill.txt",
-      "basename": "Rattlesnake Grill",
-      "relativePath": "output/Corps (Local)/FRFZ/Westminster/Rattlesnake Grill.txt"
-    },
-    {
-      "name": "1UP! Colfax.txt",
-      "basename": "1UP! Colfax",
-      "relativePath": "output/AA Corps/Litehouse Industries/1UP!/1UP! Colfax.txt"
-    },
-    {
-      "name": "1UP! Lo-Bo.txt",
-      "basename": "1UP! Lo-Bo",
-      "relativePath": "output/AA Corps/Litehouse Industries/1UP!/1UP! Lo-Bo.txt"
-    },
-    {
-      "name": "One-up Bar and Arcade.txt",
-      "basename": "One-up Bar and Arcade",
-      "relativePath": "output/AA Corps/Litehouse Industries/1UP!/One-up Bar and Arcade.txt"
-    },
-    {
-      "name": "The 1up - LoBo.txt",
-      "basename": "The 1up - LoBo",
-      "relativePath": "output/AA Corps/Litehouse Industries/1UP!/The 1up - LoBo.txt"
-    },
-    {
-      "name": "Genesis Avista Hospital.txt",
-      "basename": "Genesis Avista Hospital",
-      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical/Genesis Avista Hospital.txt"
-    },
-    {
-      "name": "Genesis Medical Clinic Aurora.txt",
-      "basename": "Genesis Medical Clinic Aurora",
-      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical/Genesis Medical Clinic Aurora.txt"
-    },
-    {
-      "name": "Genesis Medical Hospital.txt",
-      "basename": "Genesis Medical Hospital",
-      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical/Genesis Medical Hospital.txt"
-    },
-    {
-      "name": "Genesis Summit Medical Clinic.txt",
-      "basename": "Genesis Summit Medical Clinic",
-      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical/Genesis Summit Medical Clinic.txt"
-    },
-    {
-      "name": "Platte River Medical Clinic.txt",
-      "basename": "Platte River Medical Clinic",
-      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical/Platte River Medical Clinic.txt"
-    },
-    {
-      "name": "Sperm Banks.txt",
-      "basename": "Sperm Banks",
-      "relativePath": "output/AA Corps/Litehouse Industries/Genesis Medical/Sperm Banks.txt"
-    },
-    {
-      "name": "C-260.txt",
-      "basename": "C-260",
-      "relativePath": "output/AA Corps/Litehouse Industries/Cheyenne Mountain/C-260.txt"
-    },
-    {
-      "name": "Lear-Cessna Platinum.txt",
-      "basename": "Lear-Cessna Platinum",
-      "relativePath": "output/AA Corps/Litehouse Industries/Cheyenne Mountain/Lear-Cessna Platinum.txt"
-    },
-    {
-      "name": "SKA-008.txt",
-      "basename": "SKA-008",
-      "relativePath": "output/AA Corps/Litehouse Industries/Cheyenne Mountain/SKA-008.txt"
-    },
-    {
-      "name": "Toyota Gopher.txt",
-      "basename": "Toyota Gopher",
-      "relativePath": "output/AA Corps/Litehouse Industries/Cheyenne Mountain/Toyota Gopher.txt"
-    },
-    {
-      "name": "SU-41 'Fixer'.txt",
-      "basename": "SU-41 'Fixer'",
-      "relativePath": "output/AA Corps/Litehouse Industries/Cheyenne Mountain/SU-41 'Fixer'.txt"
-    },
-    {
-      "name": "Incubus Club Teams.txt",
-      "basename": "Incubus Club Teams",
-      "relativePath": "output/AA Corps/Litehouse Industries/Incubus Club/Incubus Club Teams.txt"
-    },
-    {
-      "name": "Litehouse Aerospace.txt",
-      "basename": "Litehouse Aerospace",
-      "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Aerospace.txt"
-    },
-    {
-      "name": "Litehouse Construction.txt",
-      "basename": "Litehouse Construction",
-      "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Construction.txt"
-    },
-    {
-      "name": "Litehouse Manufacturing.txt",
-      "basename": "Litehouse Manufacturing",
-      "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Manufacturing.txt"
-    },
-    {
-      "name": "Litehouse Production.txt",
-      "basename": "Litehouse Production",
-      "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production.txt"
-    },
-    {
-      "name": "M.H. Institue of Neuroscience.txt",
-      "basename": "M.H. Institue of Neuroscience",
-      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience.txt"
-    },
-    {
-      "name": "Manufacturing.txt",
-      "basename": "Manufacturing",
-      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing.txt"
-    },
-    {
-      "name": "Twilight Medical Services.txt",
-      "basename": "Twilight Medical Services",
-      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services.txt"
-    },
-    {
-      "name": "Host Upgrades.txt",
-      "basename": "Host Upgrades",
-      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group/Host Upgrades.txt"
-    },
-    {
-      "name": "IC Designs.txt",
-      "basename": "IC Designs",
-      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group/IC Designs.txt"
-    },
-    {
-      "name": "Office 1.txt",
-      "basename": "Office 1",
-      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group/Office 1.txt"
-    },
-    {
-      "name": "Office 2.txt",
-      "basename": "Office 2",
-      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group/Office 2.txt"
-    },
-    {
-      "name": "Original Office.txt",
-      "basename": "Original Office",
-      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group/Original Office.txt"
-    },
-    {
-      "name": "Security Programs.txt",
-      "basename": "Security Programs",
-      "relativePath": "output/AA Corps/Litehouse Industries/The Apollo Group/Security Programs.txt"
+      "name": "ZDF Headquarters.txt",
+      "basename": "ZDF Headquarters",
+      "relativePath": "output/Corps (Local)/FRFZ/The Hub/ZDF Headquarters.txt"
     },
     {
       "name": "Blood and Chrome.txt",
@@ -4648,11 +4648,6 @@
       "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Litehouse news.txt"
     },
     {
-      "name": "Atlanta Factory.txt",
-      "basename": "Atlanta Factory",
-      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Atlanta Factory.txt"
-    },
-    {
       "name": "Special Interests Department.txt",
       "basename": "Special Interests Department",
       "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department.txt"
@@ -4663,19 +4658,19 @@
       "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/The Guanxi Gambit.txt"
     },
     {
+      "name": "Project Ideas.txt",
+      "basename": "Project Ideas",
+      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing/Project Ideas.txt"
+    },
+    {
       "name": "Seattle Site.txt",
       "basename": "Seattle Site",
       "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Seattle Site.txt"
     },
     {
-      "name": "The Vabel.txt",
-      "basename": "The Vabel",
-      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.txt"
-    },
-    {
-      "name": "Project Ideas.txt",
-      "basename": "Project Ideas",
-      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing/Project Ideas.txt"
+      "name": "Atlanta Factory.txt",
+      "basename": "Atlanta Factory",
+      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate/M.H. Institue of Neuroscience Sites/Atlanta Factory.txt"
     },
     {
       "name": "The Elegance Tower.txt",
@@ -4688,19 +4683,24 @@
       "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate/Manufacturing/Unnamed Manufacturing Site.txt"
     },
     {
+      "name": "The Vabel.txt",
+      "basename": "The Vabel",
+      "relativePath": "output/AA Corps/Litehouse Industries/Mercea Conglomerate/Twilight Medical Services/The Vabel.txt"
+    },
+    {
       "name": "Denver Specials.txt",
       "basename": "Denver Specials",
       "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Denver Specials.txt"
     },
     {
-      "name": "Front Range Consulting.txt",
-      "basename": "Front Range Consulting",
-      "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.txt"
-    },
-    {
       "name": "Morocco Team.txt",
       "basename": "Morocco Team",
       "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Morocco Team.txt"
+    },
+    {
+      "name": "Front Range Consulting.txt",
+      "basename": "Front Range Consulting",
+      "relativePath": "output/AA Corps/Litehouse Industries/Litehouse Brand/Litehouse Production/Special Interests Department/Front Range Consulting.txt"
     }
   ]
 }
